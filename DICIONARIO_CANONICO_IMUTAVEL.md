@@ -393,28 +393,138 @@ Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorat
 
 # 🏛️ SOCIEDADE E GOVERNO
 
-## Mesa dos Vinculadores
+## A Suprema Câmara de Sanctrum
 
-O conselho governante de Nova Aetherion, onde cada membro representa um elemento e uma função específica.
+A estrutura de poder de Nova Aetherion opera em três níveis hierárquicos distintos, cada um com funções específicas e áreas de influência.
 
-| Título | Elemento | Função |
-|--------|----------|--------|
-| **Chama Vinculadora** | Fogo | Guerra e Defesa |
-| **Maré Vinculadora** | Água | Comércio e Navegação |
-| **Terra Vinculadora** | Terra | Agricultura e Recursos |
-| **Vento Vinculadora** | Ar | Comunicação e Transporte |
-| **Tempestade Vinculadora** | Raio | Tecnologia e Energia |
-| **Sombra Vinculadora** | Gelo/Sombra | Inteligência e Segurança |
+---
+
+### O Círculo de Cristal (Alto Conselho dos Anciãos)
+
+O corpo mais elevado da governança, composto por **3 a 5 Primordiais (Estágio VII)** que possuem poder de veto absoluto sobre o Guardião Mestre. Seus membros são escolhidos por mérito espiritual e longevidade de serviço.
+
+| Função | Descrição | Status Atual |
+|--------|-----------|--------------|
+| **Ancião da Luz** | Representa os interesses de Ilyos; vigia a pureza da Ordem | Ocupado |
+| **Ancião das Sombras** | Representa o equilíbrio; vigia as fronteiras de Umbra | Ocupado |
+| **Ancião da Memória** | Guardião dos registros históricos e arquivos secretos | Ocupado |
+| **Ancião do equilíbrio** | Mediador entre facções; evita concentração de poder | Opcional |
+| **Ancião da Profecia** | Interpreta sinais cósmicos e convergências | Opcional |
+
+**Poderes Especiais:**
+- Veto sobre decisões do GM que ameacem a estabilidade
+- Convocação de emergência do Conselho dos 10
+- Acesso irrestrito a todos os arquivos e locais sagrados
+- Julgamento final em casos de traição à Ordem
+
+---
+
+### Mesa dos Vinculadores (Conselho Regional)
+
+Representação dos Sete Reinos, agora com **2 representantes por reino** (Líder Soberano + Vice/Sucessor), totalizando 14 membros.
+
+| Reino | Líder Soberano | Vice/Sucessor |
+|-------|----------------|---------------|
+| **Fulmora** | Chama Vinculadora | Tempestade-Menor |
+| **Pyralis** | Chama Vinculadora | Forja-Mor |
+| **Terraxis** | Terra Vinculadora | Ministro de Cristal |
+| **Thalassia** | **Maré Vinculadora** | Almirante-Prime |
+| **Serravento** | Vento Vinculadora | Mestre dos Ventos |
+| **Umbra** | Sombra Vinculadora | Sentinela do Norte |
+| **Aetherion Prime** | Representante do GM | Chanceler Central |
+
+**Nota:** A atual Maré Vinculadora de Thalassia assumiu o cargo após o afastamento de Ayla da Equipe Aurora.
+
+---
+
+### Conselho dos 10 (Conselho Funcional)
+
+Órgão executivo responsável pelas funções ministeriais de Nova Aetherion.
+
+| Assento | Função | Ocupante Atual | Observações |
+|---------|--------|----------------|-------------|
+| **Mestra da Informação** | Inteligência e redes de informação | **Selina Thalassa** | Nó central da Vanguarda |
+| **Mestre de Ciência** | Pesquisa e desenvolvimento | *Burocrático* | Futuro assento de **Noah** |
+| **Marechal de Ferro** | Comando estratégico militar | *A definir* | Novo assento |
+| **A Sentinela** | Vigilância global de fronteiras | *A definir* | Novo assento |
+| **Chama Vinculadora** | Guerra e Defesa | *A definir* | — |
+| **Maré Vinculadora** | Comércio e Navegação | **Thalassia** | — |
+| **Terra Vinculadora** | Agricultura e Recursos | *A definir* | — |
+| **Vento Vinculadora** | Comunicação e Transporte | *A definir* | — |
+| **Tempestade Vinculadora** | Tecnologia e Energia | *A definir* | — |
+| **Sombra Vinculadora** | Inteligência e Segurança | *A definir* | — |
+
+#### Sínodo da Fé
+Dois assentos adicionais representando os aspectos espirituais:
+
+| Assento | Representação | Função |
+|---------|---------------|--------|
+| **Sumo Sacerdote de Ilyos** | Luz e Construção | Bênçãos, rituais de purificação |
+| **Sumo Sacerdotisa de Nyxalor** | Sombras e Equilíbrio | Rituais de passagem, julgamentos kármicos |
+
+---
+
+## Agências e Organizações
+
+### O Olho de Aurion
+
+Agência oficial de inteligência de Sanctrum, subordinada diretamente a **Selina Thalassa** (Mestra da Informação).
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Sede** | Sanctrum, Aetherion Prime |
+| **Função** | Coleta de informações, contra-inteligência, vigilância de ameaças Nihilaryth |
+| **Estrutura** | Células operacionais em todos os reinos |
+| **Relação com Vanguarda** | Fonte de inteligência para operações secretas |
+
+---
+
+### O Sindicato do Gelo Negro
+
+Guilda de mercenários e caçadores de recompensa baseada em **Umbralis, Umbra**. Opera fora da lei dos reinos, aceitando contratos de qualquer origem.
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Sede** | Umbralis, Umbra |
+| **Líder** | *Desconhecido (código: "O Corretor")* |
+| **Especialidade** | Sequestros, assassinatos, recuperação de artefatos |
+| **Relação com Umbra** | Tolerada; usada para operações negáveis |
+| **Preço médio** | Varia por dificuldade; alvos de alto valor exigem pagamento em cristais Aetheris |
+
+---
+
+### Caçador Independente (Antagonista Emergente)
+
+Um caçador de recompensas que opera nas **"Terras de Ninguém"** entre Terraxis e Umbra.
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Título** | O Caçador do Vazio |
+| **Afinidade** | **Sons do Vácuo** (manipulação de ondas sonoras em frequências letais) ou **Obsidiana** (cristais negros cortantes) |
+| **Contratante** | Umbra (captura da Herdeira) |
+| **Motivação** | Pagamento em cristais Aetheris; possível conexão com Nihilaryth |
+| **Território** | Terras de Ninguém (fronteira Terraxis/Umbra) |
+
+---
 
 ## Vanguardas
 
 Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a justiça dos Mestres falha. Cada um adota o codinome de uma criatura nativa de Nova Aetherion.
 
-| Codinome | Criatura Base | Identidade Secreta | Características do Heroísmo |
-|----------|---------------|-------------------|----------------------------|
-| **O Urrak** | Urrak (predador de Terraxis) | *Desconhecida* | Feroz, leal ao bando, caça nas sombras |
-| **A Nyctara** | Nyctara (ave noturna de Umbra) | **Lyris** | Visão no escuro, silêncio absoluto, sabedoria, especialista em infiltração |
-| **O Velatrix** | Velatrix (ave de rapina de Serravento) | *Desconhecida* | Velocidade extrema, precisão mortal |
+### Estrutura da Vanguarda
+
+| Função | Descrição |
+|--------|-----------|
+| **Líder da Vanguarda** | *Identidade oculta*; opera sob comando estratégico de alguém com laços profundos com a antiga **Equipe Aurora** |
+| **Destinatário Final** | Recebe relatórios e coordena operações de alto nível |
+
+### Membros Conhecidos
+
+| Codinome | Criatura Base | Identidade Secreta | Características |
+|----------|---------------|-------------------|-----------------|
+| **O Urrak** | Predador de Terraxis | *Desconhecida* | Feroz, leal ao bando, caça nas sombras |
+| **A Nyctara** | Ave noturna de Umbra | **Lyris** | Visão no escuro, silêncio absoluto, sabedoria |
+| **O Velatrix** | Ave de rapina de Serravento | *Desconhecida* | Velocidade extrema, precisão mortal |
 
 **⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
 
@@ -574,9 +684,60 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - Representa as profundezas abissais, o frio oceânico, e mistérios inexplorados
 - Possível conexão com o poder Cryonys de Grazielly
 
+## O Selo de Marethyus
+
+Uma restrição pessoal imposta sobre Marethyus que contém seu poder **Água Sombra** em Cristalnor.
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Origem** | Imposto após uma missão catastrófica há 30 anos |
+| **Natureza** | Restrição voluntária ou forçada pela Ordem |
+| **Motivo** | Água Sombra vista como poder perigoso/anômalo |
+| **Local** | Cristalnor, montanhas entre Terraxis e Umbra |
+| **Efeito** | Limita o uso pleno de suas habilidades; quebrar o selo pode ter consequências imprevisíveis |
+
+**Nota:** O incidente de 30 anos atrás permanece classificado. A Ordem mantém vigilância discreta sobre Cristalnor.
+
 ## Status
 - Vivo
 - Sente "perturbação" - algo relacionado a Grazielly está despertando
+
+---
+
+# 🌊 THALASSIA E O TORNEIO DOS ESCOLHIDOS
+
+## O Torneio dos Escolhidos
+
+Rito de duelo tradicional de Thalassia para determinar o futuro líder do reino.
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Natureza** | Competição de combate e habilidade elemental |
+| **Participantes** | Candidatos aprovados pelo Conselho Thalassiano |
+| **Frequência** | Quando a liderança é questionada ou vacante |
+| **Prêmio** | Título de Maré Vinculadora e comando do reino |
+
+### A Ascensão da Atual Maré Vinculadora
+
+| Evento | Detalhe |
+|--------|---------|
+| **Contexto** | Ayla (Equipe Aurora) afastou-se de Thalassia |
+| **Resultado** | A atual Maré Vinculadora assumiu após vencer o Torneio |
+| **Legitimidade** | Reconhecida pelo Conselho e pelo povo |
+| **Relação com Ayla** | Possível conhecimento sobre sua linhagem |
+
+---
+
+## Conexão com a Linhagem Marethyu
+
+Thalassia guarda segredos sobre a linhagem de Ayla:
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Registros** | Arquivos antigos sobre os "Filhos do Mar Profundo" |
+| **Selina Thalassa** | Possui conhecimento sobre a linhagem Marethyu |
+| **Festival das Águas** | Onde Lyris obteve informações sobre o avô de Grazielly |
+| **Thalyra** | Cidade costeira; ponto de encontro com a Vanguarda |
 
 ---
 
@@ -721,25 +882,35 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 7.0.0 - SINCRONIZAÇÃO CANÔNICA COMPLETA
+**Versão do Dicionário:** 8.0.0 - EXPANSÃO DA GOVERNANÇA
 **Data de Atualização:** 30/03/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
+### Atualizações da Versão 8.0.0:
+
+#### 1. Expansão da Governança
+- ✅ **O Círculo de Cristal** — Alto Conselho dos Anciãos (3-5 Primordiais Estágio VII) com poder de veto sobre o GM
+- ✅ **Mesa dos Vinculadores** — Atualizada para 2 representantes por reino (14 membros total)
+- ✅ **Conselho dos 10 Refinado** — Adicionados Marechal de Ferro, A Sentinela, Sínodo da Fé
+- ✅ **Futuro assento de Noah** — Mestre de Ciência reservado para explosão tecnológica
+
+#### 2. Agências e Economia das Sombras
+- ✅ **O Olho de Aurion** — Agência de inteligência subordinada a Selina Thalassa
+- ✅ **O Sindicato do Gelo Negro** — Guilda de mercenários em Umbralis
+- ✅ **Caçador Independente** — Antagonista emergente (Caçador do Vazio)
+
+#### 3. Segredo Marethyu e Thalassia
+- ✅ **O Selo de Marethyus** — Restrição após missão catastrófica há 30 anos
+- ✅ **Torneio dos Escolhidos** — Rito de duelo de Thalassia
+- ✅ **Ascensão da Maré Vinculadora** — Contexto do afastamento de Ayla
+- ✅ **Líder da Vanguarda** — Identidade oculta com laços na Equipe Aurora
+
 ### Atualizações da Versão 7.0.0:
 - ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada em todos os documentos
-- ✅ **Flores-Mespiria** — Terminologia derivada atualizada (anteriormente "Flores-colheita")
-- ✅ **Localização do Orfanato** — Padronizado como "colinas de Ventania" (Capítulo VII)
+- ✅ **Flores-Mespiria** — Terminologia derivada atualizada
+- ✅ **Localização do Orfanato** — Padronizado como "colinas de Ventania"
 - ✅ **Cronologia Validada** — Grazielly parte aos 4 anos, treinamento aos 5 anos
-
-### Atualizações da Versão 6.0.0:
-- ✅ **Mestra Selina Thalassa (Agente "S.")** — Identidade revelada; integrante do Conselho dos 10; Mestra da Informação; nó central de inteligência da Vanguarda
-- ✅ **Marethyus (O Bruxo)** — Nome e título do avô de Grazielly; patriarca da linhagem Marethyu (Filhos do Mar Profundo)
-- ✅ **Água Sombra** — Afinidade anômala de Marethyus; distinta da água comum; possível conexão com Cryonys
-- ✅ **Ameaça de Umbralis** — Estratégia de sequestro de talentos elementais; Mimetismo de Frequência como técnica de infiltração
-- ✅ **Thalyra** — Atualizada como ponto de contato da Vanguarda
-- ✅ **Orfanato das Asas** — Status atualizado para "Alvo Estratégico de Umbra"
-- ✅ **mapa_definitivo.md** — Criado como "Bíblia da Criação" consolidando toda a arquitetura do universo
 
 ### Atualizações da Versão 5.0.0:
 - ✅ **Lyris integrada como Thermaris (Vapor)** — fusão rara de Água + Fogo

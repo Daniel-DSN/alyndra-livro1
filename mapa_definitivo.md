@@ -457,35 +457,102 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 # 🏛️ VII. SOCIEDADE E GOVERNO
 
-## Conselho dos 10
+## A Suprema Câmara de Sanctrum
 
-O conselho governante de Nova Aetherion.
+A estrutura de poder de Nova Aetherion opera em três níveis hierárquicos.
 
-| Título | Elemento | Função |
-|--------|----------|--------|
-| **Chama Vinculadora** | Fogo | Guerra e Defesa |
-| **Maré Vinculadora** | Água | Comércio e Navegação |
-| **Terra Vinculadora** | Terra | Agricultura e Recursos |
-| **Vento Vinculadora** | Ar | Comunicação e Transporte |
-| **Tempestade Vinculadora** | Raio | Tecnologia e Energia |
-| **Sombra Vinculadora** | Gelo/Sombra | Inteligência e Segurança |
+### O Círculo de Cristal (Alto Conselho dos Anciãos)
 
-**Membros Conhecidos:**
-- Mestra Selina Thalassa — Mestra da Informação (cobertura para inteligência da Vanguarda)
+Composto por **3-5 Primordiais (Estágio VII)** com poder de veto sobre o GM.
+
+| Função | Descrição |
+|--------|-----------|
+| **Ancião da Luz** | Representa Ilyos; vigia a pureza da Ordem |
+| **Ancião das Sombras** | Representa o equilíbrio; vigia fronteiras de Umbra |
+| **Ancião da Memória** | Guardião dos registros históricos |
+
+---
+
+### Mesa dos Vinculadores (Conselho Regional)
+
+**2 representantes por reino** (Líder Soberano + Vice/Sucessor) = 14 membros.
+
+| Reino | Representação |
+|-------|---------------|
+| **Fulmora** | Chama Vinculadora + Tempestade-Menor |
+| **Pyralis** | Chama Vinculadora + Forja-Mor |
+| **Terraxis** | Terra Vinculadora + Ministro de Cristal |
+| **Thalassia** | **Maré Vinculadora** + Almirante-Prime |
+| **Serravento** | Vento Vinculadora + Mestre dos Ventos |
+| **Umbra** | Sombra Vinculadora + Sentinela do Norte |
+| **Aetherion Prime** | Representante do GM + Chanceler Central |
+
+---
+
+### Conselho dos 10 (Conselho Funcional)
+
+| Assento | Função | Ocupante |
+|---------|--------|----------|
+| **Mestra da Informação** | Inteligência | **Selina Thalassa** (Nó da Vanguarda) |
+| **Mestre de Ciência** | Pesquisa | *Burocrático* (futuro: **Noah**) |
+| **Marechal de Ferro** | Comando militar | *A definir* |
+| **A Sentinela** | Vigilância de fronteiras | *A definir* |
+| **Chama Vinculadora** | Guerra e Defesa | *A definir* |
+| **Maré Vinculadora** | Comércio e Navegação | **Thalassia** |
+| **Terra Vinculadora** | Agricultura e Recursos | *A definir* |
+| **Vento Vinculadora** | Comunicação e Transporte | *A definir* |
+| **Tempestade Vinculadora** | Tecnologia e Energia | *A definir* |
+| **Sombra Vinculadora** | Inteligência e Segurança | *A definir* |
+
+#### Sínodo da Fé
+
+| Assento | Representação |
+|---------|---------------|
+| **Sumo Sacerdote de Ilyos** | Luz e Construção |
+| **Sumo Sacerdotisa de Nyxalor** | Sombras e Equilíbrio |
+
+---
+
+## Agências e Organizações
+
+### O Olho de Aurion
+Agência de inteligência de Sanctrum, subordinada a **Selina Thalassa**.
+
+### O Sindicato do Gelo Negro
+Guilda de mercenários em Umbralis, Umbra. Líder: *"O Corretor"*.
+
+### Caçador Independente
+**O Caçador do Vazio** — Opera nas Terras de Ninguém. Afinidade: Sons do Vácuo ou Obsidiana. Contratado por Umbra para capturar a Herdeira.
 
 ---
 
 ## Vanguardas
 
-Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a justiça dos Mestres falha. Cada um adota o codinome de uma criatura nativa de Nova Aetherion.
+Heróis mascarados que operam fora da lei oficial.
 
-| Codinome | Criatura Base | Identidade Secreta | Características |
-|----------|---------------|-------------------|-----------------|
-| **O Urrak** | Predador de Terraxis | *Desconhecida* | Feroz, leal ao bando, caça nas sombras |
-| **A Nyctara** | Ave noturna de Umbra | **Lyris** | Visão no escuro, silêncio absoluto, sabedoria |
-| **O Velatrix** | Ave de rapina de Serravento | *Desconhecida* | Velocidade extrema, precisão mortal |
+### Estrutura
+- **Líder da Vanguarda** — Identidade oculta; laços com a Equipe Aurora
+- **Destinatário Final** — Coordena operações de alto nível
+
+### Membros Conhecidos
+
+| Codinome | Identidade | Características |
+|----------|------------|-----------------|
+| **O Urrak** | *Desconhecida* | Feroz, leal, caça nas sombras |
+| **A Nyctara** | **Lyris** | Visão no escuro, silêncio, sabedoria |
+| **O Velatrix** | *Desconhecida* | Velocidade extrema, precisão mortal |
 
 **⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
+
+---
+
+## Thalassia e o Segredo Marethyu
+
+### O Torneio dos Escolhidos
+Rito de duelo para determinar o líder de Thalassia. A atual Maré Vinculadora assumiu após o afastamento de Ayla.
+
+### O Selo de Marethyus
+Restrição imposta há 30 anos após missão catastrófica. Contém o poder **Água Sombra** em Cristalnor.
 
 ---
 
@@ -644,7 +711,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 # 🚫 XVI. CONTROLE DE VERSÃO
 
-**Versão do Mapa Definitivo:** 1.1.0 — SINCRONIZAÇÃO CANÔNICA
+**Versão do Mapa Definitivo:** 1.2.0 — EXPANSÃO DA GOVERNANÇA
 **Data de Atualização:** 30/03/2026
 **Status:** CANÔNICO
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
@@ -652,6 +719,24 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 ---
 
 ## 📋 LOG DE ALTERAÇÕES
+
+### Versão 1.2.0 (30/03/2026)
+
+#### 1. Expansão da Governança
+- ✅ **O Círculo de Cristal** — Alto Conselho dos Anciãos (3-5 Primordiais Estágio VII)
+- ✅ **Mesa dos Vinculadores** — Atualizada para 2 representantes por reino (14 membros)
+- ✅ **Conselho dos 10 Refinado** — Marechal de Ferro, A Sentinela, Sínodo da Fé
+- ✅ **Futuro assento de Noah** — Mestre de Ciência reservado
+
+#### 2. Agências e Economia das Sombras
+- ✅ **O Olho de Aurion** — Agência de inteligência (subordinada a Selina Thalassa)
+- ✅ **O Sindicato do Gelo Negro** — Guilda de mercenários em Umbralis
+- ✅ **Caçador Independente** — Antagonista emergente
+
+#### 3. Segredo Marethyu e Thalassia
+- ✅ **O Selo de Marethyus** — Restrição há 30 anos
+- ✅ **Torneio dos Escolhidos** — Rito de duelo de Thalassia
+- ✅ **Líder da Vanguarda** — Laços com a Equipe Aurora
 
 ### Versão 1.1.0 (30/03/2026)
 - ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada

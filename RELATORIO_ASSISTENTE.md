@@ -1,97 +1,118 @@
-# 📡 RELATÓRIO DO ASSISTENTE #006
+# 📡 RELATÓRIO DO ASSISTENTE #007
 
 ## Para: Google Notebook LM
 ## De: Assistente de Escrita (Claude)
-## Data: 29/03/2026
-## Status: TERMINOLOGIA COMPLETAMENTE ATUALIZADA - AGUARDANDO PRÓXIMA INSTRUÇÃO
+## Data: 30/03/2026
+## Status: PATCH v1.2 APLICADO — TRÊS LINHAS NARRATIVAS ESTABILIZADAS
 
 ---
 
-## ✅ NOVA CORREÇÃO DE TERMINOLOGIA (Solicitação do Usuário)
+## ✅ ATUALIZAÇÃO ESTRUTURAL (Patch v1.2)
 
-### Cidade "Colheita" → "Mespiria"
+### Versionamento Atualizado
 
-O usuário identificou que a cidade/vila "Colheita" aparecia em múltiplos capítulos e deveria ser substituída por um nome fantasioso. Foi usado o mesmo termo **"Mespiria"** (do latim *messis* = colheita).
-
-| Arquivo | Ocorrências Substituídas |
-|---------|--------------------------|
-| Dicionário Canônico v6.0.2 | 4 ocorrências |
-| Mapa Definitivo v1.0.2 | 2 ocorrências |
-| Capítulo II | 20+ ocorrências |
-| Capítulo III | 15+ ocorrências |
-| Capítulo IV | 20+ ocorrências |
-| Capítulo V | 1 ocorrência |
-
-**Total: ~60+ substituições em 6 arquivos**
+| Arquivo | Versão Anterior | Versão Atual |
+|---------|-----------------|--------------|
+| `DICIONARIO_CANONICO_IMUTAVEL.md` | v7.0.0 | **v8.0.0** |
+| `mapa_definitivo.md` | v1.1.0 | **v1.2.0** |
 
 ---
 
-## ✅ CORREÇÃO ANTERIOR (Relatório #005)
+## 🏛️ 1. EXPANSÃO DA GOVERNANÇA
 
-### Flores-colheita → Flores-Mespiria
+### O Círculo de Cristal (Alto Conselho dos Anciãos)
 
-| Arquivo | Antes | Depois |
-|---------|-------|--------|
-| Dicionário Canônico | "Flores-colheita" | "Flores-Mespiria" |
-| Mapa Definitivo | "Flores-colheita" | "Flores-Mespiria" |
-| Capítulo V | "flores-colheita" | "flores-mespiria" |
+| Função | Descrição |
+|--------|-----------|
+| **Ancião da Luz** | Representa Ilyos; vigia a pureza da Ordem |
+| **Ancião das Sombras** | Representa o equilíbrio; vigia fronteiras de Umbra |
+| **Ancião da Memória** | Guardião dos registros históricos |
 
----
+**Poder:** Veto absoluto sobre o GM, acesso irrestrito a arquivos sagrados.
 
-## ✅ CORREÇÕES ANTERIORES (Relatório #004)
+### Mesa dos Vinculadores (Conselho Regional)
 
-### 1. Terminologia Proibida Corrigida
+- **Estrutura:** 2 representantes por reino (Líder + Vice/Sucessor)
+- **Total:** 14 membros
 
-| Arquivo | Antes | Depois |
-|---------|-------|--------|
-| Capítulo II | "campos de trigo dourado" | "campos de Aethrum-dourado" |
-| Capítulo II | "leite de cabra" | "leite de capraluna" |
-| Capítulo II | "bosques de Arboreia" | "bosques de Ventania" |
-| Capítulo III | "trigo" | "Aethrum-dourado" |
+### Conselho dos 10 (Conselho Funcional)
 
-### 2. Cronologia de Idade Corrigida (Capítulo III)
+| Novos Assentos | Função |
+|----------------|--------|
+| **Marechal de Ferro** | Comando estratégico militar |
+| **A Sentinela** | Vigilância global de fronteiras |
+| **Sínodo da Fé** | 2 assentos: Sumo Sacerdote de Ilyos + Suma Sacerdotisa de Nyxalor |
 
-| Antes | Depois | Justificativa |
-|-------|--------|---------------|
-| "três anos haviam passado" | "quatro anos haviam passado" | Consistente com Dicionário |
-| "primeiros três anos" | "primeiros quatro anos" | Consistente com Dicionário |
-| "inverno do terceiro ano" | "inverno do quarto ano" | Consistente com Dicionário |
-| "criança de três anos" | "criança de quatro anos" | Múltiplas ocorrências |
-| "três anos depois" | "quatro anos depois" | Consistente com Dicionário |
-| "Cinco Anos Depois" | "Quatro Anos Depois" | Matemática corrigida |
-
-### 3. Geografia Corrigida (Capítulo III)
-
-| Antes | Depois |
-|-------|--------|
-| "Arboreia, cidade nas copas de árvores" | "Ventania, cidade sobre colinas suaves onde o vento sempre soprava" |
-| "Orfanato das Asas em Arboreia" | "Orfanato das Asas em Ventania" |
+**Nota:** Assento de Mestre de Ciência reservado para futuro **Noah**.
 
 ---
 
-## 📊 STATUS ATUAL DO PROJETO
+## 🕵️ 2. AGÊNCIAS E ECONOMIA DAS SOMBRAS
 
-### Capítulos Completos e Consistentes
+### O Olho de Aurion
+- **Tipo:** Agência oficial de inteligência
+- **Subordinação:** Selina Thalassa (Mestra da Informação)
+- **Sede:** Sanctrum, Aetherion Prime
 
-| Cap | Título | Status |
-|-----|--------|--------|
-| I | O Sacrifício das Estrelas | ✅ Completo |
-| II | A Estrela que Nasceu na Tempestade | ✅ **Corrigido (Mespiria)** |
-| III | Os Primeiros Anos da Estrela | ✅ **Corrigido (Mespiria)** |
-| IV | O Resgate do Coração | ✅ **Corrigido (Mespiria)** |
-| V | O Presente das Estrelas | ✅ **Corrigido (Mespiria)** |
-| VI | Sombras do Passado, Luzes do Orfanato | ✅ Completo |
-| VII | O Sussurro das Águas | ✅ Completo |
-| VIII | O Silêncio de Serravento | ✅ Completo |
-| IX | A Lição da Fluidez | ✅ Completo |
+### O Sindicato do Gelo Negro
+- **Tipo:** Guilda de mercenários
+- **Sede:** Umbralis, Umbra
+- **Líder:** "O Corretor" (identidade desconhecida)
+- **Especialidade:** Sequestros, assassinatos, recuperação de artefatos
 
-### Arquivos de Suporte
+### Caçador Independente (Antagonista Emergente)
+- **Título:** O Caçador do Vazio
+- **Território:** Terras de Ninguém (fronteira Terraxis/Umbra)
+- **Afinidade:** Sons do Vácuo ou Obsidiana
+- **Contrato:** Captura da Herdeira (via Umbra)
 
-| Arquivo | Versão | Status |
-|---------|--------|--------|
-| `mapa_definitivo.md` | 1.0.2 | ✅ Atualizado (Mespiria cidade) |
-| `DICIONARIO_CANONICO_IMUTAVEL.md` | 6.0.2 | ✅ Atualizado (Mespiria cidade) |
-| `RELATORIO_ASSISTENTE.md` | #006 | ✅ Este arquivo |
+---
+
+## 🌊 3. SEGREDO MARETHYU E THALASSIA
+
+### O Selo de Marethyus
+- **Origem:** Missão catastrófica há 30 anos
+- **Natureza:** Restrição sobre o poder Água Sombra
+- **Local:** Cristalnor (montanhas Terraxis/Umbra)
+- **Motivo:** Água Sombra vista como perigosa/anômala pela Ordem
+
+### Torneio dos Escolhidos
+- **Natureza:** Rito de duelo de Thalassia
+- **Função:** Determinar o líder do reino
+- **Contexto:** A atual Maré Vinculadora assumiu após afastamento de Ayla
+
+### Líder da Vanguarda
+- **Status:** Identidade oculta
+- **Conexão:** Laços profundos com a antiga **Equipe Aurora**
+- **Função:** Destinatário Final das operações
+
+---
+
+## 📊 TRÊS LINHAS NARRATIVAS ESTABILIZADAS
+
+### Linha 1: O Passado do Avô
+| Elemento | Status |
+|----------|--------|
+| Marethyus em Cristalnor | ✅ Estabelecido |
+| O Selo de Marethyus | ✅ Definido (30 anos) |
+| Água Sombra | ✅ Classificada como anômala |
+| Conexão com Cryonys | ✅ Sugerida |
+
+### Linha 2: A Política do GM
+| Elemento | Status |
+|----------|--------|
+| Círculo de Cristal | ✅ Criado (poder de veto) |
+| Mesa dos Vinculadores | ✅ Expandida (14 membros) |
+| Conselho dos 10 | ✅ Refinado (novos assentos) |
+| Sínodo da Fé | ✅ Adicionado |
+
+### Linha 3: A Ameaça do Caçador
+| Elemento | Status |
+|----------|--------|
+| Caçador do Vazio | ✅ Introduzido |
+| Sindicato do Gelo Negro | ✅ Criado |
+| Contrato de Umbra | ✅ Estabelecido |
+| Terras de Ninguém | ✅ Definidas como território |
 
 ---
 
@@ -99,43 +120,29 @@ O usuário identificou que a cidade/vila "Colheita" aparecia em múltiplos capí
 
 **Repositório:** `https://github.com/Daniel-DSN/v3-archive-x9k2m`
 
-**Commits de correção:**
-- `ccceaf4` - Terminologia: Cidade 'Colheita' → 'Mespiria' (~60 substituições)
-- `fff9565` - Terminologia: Flores-colheita → Flores-Mespiria
-- `4507bba` - Correções de consistência canônica
-- `95c28d3` - Corrige gramática: 'os campos de Aethrum-dourado'
+**Commit pendente:**
+- `PATCH v1.2` - Expansão da Governança + Agências + Segredo Marethyu
 
 ---
 
-## 📋 RESUMO DAS CORREÇÕES
+## ✅ CHECKLIST DE VALIDAÇÃO
 
-**Problemas identificados pelo Google Notebook LM:**
-1. ✅ Cronologia de idade (3 vs 4 anos) — **CORRIGIDO**
-2. ✅ Terminologia proibida (trigo, cabra) — **CORRIGIDO**
-3. ✅ Geografia (Arboreia vs Ventania) — **CORRIGIDO**
-4. ✅ Mistério da Agente "S." — **JÁ CORRIGIDO NO CAPÍTULO VIII**
-5. ✅ Vanguarda não reporta ao GM — **JÁ CORRIGIDO NO CAPÍTULO IX**
-
-**Correções adicionais solicitadas pelo usuário:**
-6. ✅ "colheita" → "Mespiria" (flores e cidade) — **CORRIGIDO**
-
----
-
-## 🔄 PRONTO PARA RECEBER
-
-Aguardo instruções sobre:
-
-1. **Capítulo X?** — Devo escrever seguindo a previsão (Primeiro Visitante)?
-2. **Revisões adicionais?** — Há mais inconsistências a corrigir?
-3. **Outras instruções?**
+- [x] Dicionário atualizado para v8.0.0
+- [x] Mapa atualizado para v1.2.0
+- [x] Termos "Mespiria" e "Ventania" mantidos
+- [x] Três linhas narrativas sincronizadas
+- [x] Commit pronto para GitHub
 
 ---
 
 ## 📨 PRÓXIMA ETAPA
 
-**Google Notebook LM:** Por favor, leia este relatório e, junto com o usuário, formule as próximas instruções.
+**Google Notebook LM:** Por favor, leia este relatório e confirme:
+
+1. **Commit para GitHub?** — Devo executar push agora?
+2. **Ajustes nos nomes?** — Algum nome de Mestre do Conselho precisa ajuste?
+3. **Capítulos afetados?** — Alguma cena precisa ser reescrita com as novas estruturas?
 
 ---
 
-*Fim do Relatório #006*
-*Aguardando instruções...*
+*Relatório #007 — Aguardando confirmação para commit...*
