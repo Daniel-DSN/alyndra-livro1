@@ -272,7 +272,7 @@ E tinha algo dentro de si — algo que pulsava sob sua pele, que criava cristais
 
 *Eu vou descobrir,* Grazielly pensou, determinação endurecendo seus olhos jovens. *Eu vou descobrir quem eu sou. O que eu sou. E por que todos acham que precisam me proteger de mim mesma.*
 
-A manhã continuou ao seu redor — sons de outras crianças acordando, cheiros de café da manhã vindos da cozinha, a vida do orfanato seguindo seu ritmo normal. Mas algo havia mudado na menina de cinco anos que observava tudo com olhos que viam mais do que deveriam.
+A manhã continuou ao seu redor — sons de outras crianças acordando, cheiros da refeição da alvorada vindos da cozinha, a vida do orfanato seguindo seu ritmo normal. Mas algo havia mudado na menina de cinco anos que observava tudo com olhos que viam mais do que deveriam.
 
 O despertar havia começado. E nem mesmo Lyris, com toda sua experiência e poder, podia prever para onde levaria.
 

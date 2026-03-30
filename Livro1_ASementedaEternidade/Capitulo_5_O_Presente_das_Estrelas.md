@@ -72,7 +72,7 @@ O ventorro chiou baixinho, como se entendesse, e se aninhou mais próximo a ela.
 
 O som de crianças acordando e se preparando para o dia encheu o dormitório. Grazielly se levantou, vestiu-se com a roupa que havia separado na noite anterior — um vestido simples de tecido azul claro que Lyris lhe havia dado, o mais bonito que possuía — e desceu para o refeitório, Nyx a seguindo como uma sombra prateada.
 
-O café da manhã foi como qualquer outro — pão fresco, frutas da estação, leite de capraluna aquecido, das criaturas de pelagem prateada que pastavam nas colinas de Ventania — mas havia uma energia diferente no ar. Crianças olhavam para Grazielly com sorrisos de cumplicidade, adultos trocavam olhares significativos, e até Madre Elara parecia mais suave que o habitual quando passou por ela no corredor.
+A refeição da alvorada foi como qualquer outra — pão fresco, frutas da estação, leite de capraluna aquecido, das criaturas de pelagem prateada que pastavam nas colinas de Ventania — mas havia uma energia diferente no ar. Crianças olhavam para Grazielly com sorrisos de cumplicidade, adultos trocavam olhares significativos, e até Madre Elara parecia mais suave que o habitual quando passou por ela no corredor.
 
 — Feliz aniversário, criança — disse a diretora, sua voz grave mas carregada de algo que parecia afeto genuíno. — Cinco anos. Uma idade importante.
 

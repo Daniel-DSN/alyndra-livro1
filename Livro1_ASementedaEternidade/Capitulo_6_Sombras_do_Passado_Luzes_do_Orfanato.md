@@ -124,7 +124,7 @@ Ela deu um passo para o lado, contornando-o, mas antes de continuar seu caminho 
 
 Ela partiu, deixando Dorian parado no corredor, seus punhos cerrados de raiva e confusão. Ele não entendia como ela fazia aquilo — como ela conseguia desarmar suas armas sem nem mesmo lutar. Como ela conseguia ver coisas que ele passara anos escondendo de todos, incluindo de si mesmo.
 
-Não, ele pensou, observando-a desaparecer na multidão de crianças que se dirigia para o café da manhã. Eu não vou deixar ela me alcançar. Eu não vou deixar ninguém me alcançar.
+Não, ele pensou, observando-a desaparecer na multidão de crianças que se dirigia para a refeição da alvorada. Eu não vou deixar ela me alcançar. Eu não vou deixar ninguém me alcançar.
 
 Mas no fundo de seu coração, em um lugar que ele mantinha trancado há anos, uma pequena voz sussurrou que talvez — apenas talvez — Grazielly fosse a primeira pessoa em muito tempo que já havia se aproximado de ver quem ele realmente era.
 
