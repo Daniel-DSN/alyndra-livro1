@@ -42,7 +42,7 @@ Ela não completou a frase. Não precisava. Ambas sabiam o que teria acontecido 
 
 Tomas apareceu na porta do dormitório, sua expressão uma mistura complicada de admiração e preocupação.
 
-— O café da manhã está servido — ele disse, evitando olhar diretamente para a janela e para a fonte congelada. — Madre Elara quer que todos desçam. Ela... ela quer falar com a gente. Com os três.
+— A refeição da alvorada está servida — ele disse, evitando olhar diretamente para a janela e para a fonte congelada. — Madre Elara quer que todos desçam. Ela... ela quer falar com a gente. Com os três.
 
 Grazielly fechou os olhos por um momento, reunindo forças. Quando os abriu novamente, havia algo novo em sua expressão — uma determinação que não estava lá antes, uma aceitação parcial do que ela era.
 
