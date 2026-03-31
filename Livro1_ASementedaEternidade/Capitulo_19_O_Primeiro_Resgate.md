@@ -330,11 +330,11 @@ Cada hora que passava era uma hora a mais que Korgath tinha para colocar distân
 
 Foi então que ela viu.
 
-Uma figura alada surgiu no céu acima dela — asas de luz capturando os últimos raios do sol de Aurion, criando um espetáculo que parecia sobrenatural. A figura desceu em uma espiral controlada, pousando em uma formação rochosa à frente com uma graça que sugeria origem nobre.
+Uma figura surgiu no céu acima dela — seu corpo envolto por correntes de ar que pulsavam com Aethra, sustentando-o nas alturas com uma facilidade que parecia sobrenatural. A figura desceu em uma espiral controlada, pousando em uma formação rochosa à frente com uma graça que sugeria origem nobre.
 
 **O Velatrix** — o membro da Vanguarda que patrulhava os céus de Serravento.
 
-— Nyctara — ele saudou quando Lyris se aproximou. Sua voz era melodiosa, carregada de uma autoridade natural que combinava com sua aparência angelical. — Selina me informou sobre a situação. Eu observei o terreno à frente.
+— Nyctara — ele saudou quando Lyris se aproximou. Sua voz era melodiosa, carregada de uma autoridade natural. — Selina me informou sobre a situação. Eu observei o terreno à frente.
 
 — E? — Lyris perguntou, sentindo uma mistura de esperança e preocupação.
 
@@ -344,13 +344,13 @@ Lyris praguejou internamente.
 
 — Você consegue identificar a rota correta?
 
-— Não com certeza. — O Velatrix balançou a cabeça, suas asas dobrando-se contra suas costas. — Mas posso cobrir mais terreno que você. Enquanto você segue o instinto do ventorro, eu posso investigar as rotas falsas e eliminar as opções.
+— Não com certeza. — O Velatrix balançou a cabeça, as correntes de ar ao seu redor se acalmando. — Mas posso cobrir mais terreno que você. Enquanto você segue o instinto do ventorro, eu posso investigar as rotas falsas e eliminar as opções.
 
 — Isso vai atrasar você.
 
 — Vai atrasar menos do que seguir uma rota errada. — O Velatrix sorriu, uma expressão que parecia estranhamente serena dadas as circunstâncias. — Não se preocupe comigo, Lyris. Você tem sua missão. Eu tenho a minha.
 
-Ele decolou novamente, suas asas de luz criando um rastro luminoso no céu crepuscular. Em segundos, ele havia desaparecido no horizonte, deixando Lyris e Nyx sozinhos novamente.
+Ele decolou novamente, seu corpo erguendo-se nas correntes de Aethra que ele manipulava com maestria, criando um rastro de ar perturbado no céu crepuscular. Em segundos, ele havia desaparecido no horizonte, deixando Lyris e Nyx sozinhos novamente.
 
 Lyris olhou para o ventorro, que chiou suavemente como se perguntando o que ela estava esperando.
 

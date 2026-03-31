@@ -168,7 +168,7 @@ A transmissão terminou.
 
 Em algum lugar de Terraxis, uma figura mascarada emergiu das sombras de uma floresta antiga, seus olhos brilhando com uma determinação predatória.
 
-Em algum lugar de Serravento, um homem alado decolou de um pico montanhoso, suas asas capturando o vento como se fossem feitas de luz solidificada.
+Em algum lugar de Serravento, uma figura ergueu-se de um pico montanhoso, seu corpo envolto por correntes de ar que o sustentavam com a graça de quem nasceu para os céus.
 
 E em Ventania, Lyris recebeu a confirmação de que não estava mais sozinha.
 
