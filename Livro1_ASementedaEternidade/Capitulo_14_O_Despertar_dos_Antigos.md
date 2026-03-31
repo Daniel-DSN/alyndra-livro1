@@ -286,7 +286,9 @@ Marethyus, o Bruxo das Águas Sombrias, estava de pé diante da caverna que havi
 
 E agora, pela primeira vez em três décadas, ele estava rachando.
 
-A **Água Sombra** — aquela manipulação anômala que Marethyus herdara de uma linhagem que precedia a própria Nova Aetherion — pulsava sob sua pele como uma besta acorrentada lutando para se libertar. Era um poder que não pertencia a este mundo, ou talvez pertencesse a um mundo que já não existia — as profundezas primordiais que existiam antes da primeira estrela acender.
+A **Água Sombra** — aquela manipulação anômala que Marethyus herdara de uma linhagem que precedia a própria Nova Aetherion — pulsava sob sua pele como uma besta acorrentada lutando para se libertar. Era um poder que não pertencia a este mundo, ou talvez pertencesse a um mundo que já não existia — as **Profundezas Primordiais** que existiam antes da primeira estrela acender.
+
+A Água Sombra não era simplesmente água corrompida — era o reflexo invertido do oceano, aquilo que a água esqueceu quando aprendeu a fluir. Era memória cristalizada, dor condensada, a capacidade de não apenas manipular líquidos, mas de acessar tudo o que a água havia testemunhado desde o início dos tempos. Os **Marethyu** haviam sido os guardiões deste poder, e agora ele era o último de sua linhagem — até Grazielly.
 
 *Trinta anos,* Marethyus pensou, seus olhos — azuis como gelo oceânico — fixos na fenda que se abria no gelo diante dele. *Trinta anos me escondendo. Me punindo por algo que não foi inteiramente minha culpa. Deixando minha neta crescer sem conhecer seu sangue.*
 
@@ -364,7 +366,9 @@ E em todo o mundo, a água tremeru.
 
 Quando a noite caiu sobre Ventania, o Orfanato das Asas parecia um lugar à beira de algo irreversível.
 
-A fonte permanecia congelada — não mais azul, mas agora de um preto profundo, como se as profundezas houvessem sido capturadas no gelo. A mudança ocorrera no momento exato em que o pulso espiritual atravessara o mundo, e Lyris, com seus anos de experiência, reconhecera o sinal: era a marca da **Água Sombra**, a herança de Marethyus manifestando-se à distância. O avô havia feito algo — e as consequências estavam se espalhando. Ninguém se aproximava da fonte. Ninguém ousava.
+A fonte permanecia congelada — não mais azul, mas agora de um preto profundo, como se as profundezas houvessem sido capturadas no gelo. A mudança ocorrera no momento exato em que o pulso espiritual atravessara o mundo, e Lyris, com seus anos de experiência, reconhecera o sinal: era a marca da **Água Sombra**, a herança de Marethyus manifestando-se à distância.
+
+O **Gelo Negro** era um fenômeno que os estudiosos de Sanctrum haviam documentado apenas uma vez — durante a Primeira Guerra, quando os Seraphyens haviam enfrentado os primeiros Nihilaryth. Era o resultado do Cryonys Primordial entrando em contato com a corrupção das Profundezas, uma fusão que criava algo mais denso que gelo comum, algo que não derretia sob calor normal e que carregava fragmentos de consciência antiga. A fonte havia se tornado um portal — não para outro lugar, mas para outro estado de existência. O avô havia feito algo — e as consequências estavam se espalhando. Ninguém se aproximava da fonte. Ninguém ousava.
 
 Grazielly estava em seu quarto, Nyx a seus pés, seus olhos fixos na janela que dava para o sul. Ela não sabia o que havia sentido antes — aquele sussurro distante, aquele chamado que parecia vir de muito longe e de muito fundo. Mas sabia que algo havia mudado.
 
