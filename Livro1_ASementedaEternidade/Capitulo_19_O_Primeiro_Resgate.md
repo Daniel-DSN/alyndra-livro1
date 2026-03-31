@@ -170,7 +170,7 @@ Ela mudou de frequência, contatando outra unidade.
 
 — Entendido.
 
-Selina recostou-se em sua cadeira por um breve momento, seus olhos percorrendo os múltiplos feeds de informação que fluíam diante dela. A Vanguarda estava em campo. As tropas de Sanctrum estavam mobilizadas. A rede estava se fechando.
+Selina recostou-se em sua cadeira por um breve momento, seus olhos percorrendo os múltiplos fluxos de dados que fluíam diante dela. A Vanguarda estava em campo. As tropas de Sanctrum estavam mobilizadas. A rede estava se fechando.
 
 *Não é suficiente,* ela pensou, sentindo o peso da responsabilidade. *Korgath é bom demais. Ele vai encontrar brechas.*
 
