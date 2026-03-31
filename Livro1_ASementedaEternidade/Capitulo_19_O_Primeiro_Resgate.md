@@ -106,7 +106,7 @@ Lyris ergueu-se, sua expressão endurecendo.
 
 Os dois membros da Vanguarda se entreolharam, processando as implicações do dilema tático.
 
-— Nós não temos recursos para seguir as duas rotas — Lyris disse, sua voz carregada de frustração. — Você, eu, Nyx. Selina coordenando de Sanctrum. Não há mais ninguém disponível.
+— Nós não temos recursos da Vanguarda para seguir as duas rotas — Lyris disse, sua voz carregada de frustração. — Você, eu, Nyx. Selina pode mobilizar as tropas de Sanctrum para contenção, mas eles não têm capacidade de perseguição direta contra Korgath.
 
 — O Velatrix está nos céus — O Urrak lembrou. — Mas ele não pode estar em dois lugares ao mesmo tempo.
 
@@ -142,6 +142,44 @@ Lyris olhou para Nyx, que finalmente parecia ter recuperado sua orientação. Su
 
 ---
 
+## A Rede de Sanctrum
+
+Enquanto Lyris e o Urrak seguiam suas trilhas separadas, **Selina Thalassa** não permanecia inerte.
+
+No coração do **Olho de Aurion**, a Mestra da Informação coordenava uma operação que a maioria dos agentes nem sabia existir. Seus dedos dançavam sobre múltiplos terminais de cristal, enviando pulsos codificados para unidades espalhadas por toda Nova Aetherion.
+
+— Atenção, Esquadrão Gélido — ela transmitiu, sua voz ecoando nos comunicadores de cristal de quinze agentes de elite. — O alvo Korgath está em movimento nas Terras de Ninguém. Não tentem interceptar — vocês não têm capacidade para isso. Seu objetivo é contenção.
+
+O líder do esquadrão, um Cryomancer veterano de operações em Umbralis, respondeu quase instantaneamente.
+
+— Entendido, Mestra. Qual nossa posição?
+
+— Rotas de fuga norte e leste. — Selina traçou linhas em um mapa holográfico. — Korgath vai tentar despistar. Quero que vocês fechem as passagens de montanha entre Fulmora e Cristalnor. Se ele tentar cruzar por ali, atrasem-no. Não preciso que vençam — preciso que o segurem até que Lyris o alcance.
+
+— E se ele não passar por lá?
+
+— Ele não vai — Selina respondeu com confiança. — Minha análise indica que ele vai tentar uma rota alternativa. Mas se eu estiver errada... vocês são meu seguro.
+
+Ela mudou de frequência, contatando outra unidade.
+
+— Esquadrão Etérico. Relatório.
+
+— Aqui, Mestra. Estamos prontos para mobilização.
+
+— Quero vocês investigando qualquer anomalia de Aethra nas Terras de Ninguém. Korgath pode ter deixado armadilhas. Sementes Etéricas corrompidas. Qualquer coisa que possa atrasar perseguidores. Encontrem e neutralizem.
+
+— Entendido.
+
+Selina recostou-se em sua cadeira por um breve momento, seus olhos percorrendo os múltiplos feeds de informação que fluíam diante dela. A Vanguarda estava em campo. As tropas de Sanctrum estavam mobilizadas. A rede estava se fechando.
+
+*Não é suficiente,* ela pensou, sentindo o peso da responsabilidade. *Korgath é bom demais. Ele vai encontrar brechas.*
+
+*Mas cada obstáculo que colocamos no caminho dele é um passo a menos que ele dá em direção a Umbralis.*
+
+*E cada passo a menos é uma chance maior de trazê-la de volta.*
+
+---
+
 ## A Primeira Criança
 
 O grupo de diversionamento movia-se mais lentamente do que Korgath havia planejado.
@@ -152,9 +190,9 @@ Mira era a que estava em melhor estado.
 
 Não completamente consciente — o drenamento havia a enfraquecido consideravelmente — mas presente o suficiente para sentir o movimento da carroça, para ouvir os passos dos mortos-vivos que a arrastavam, para perceber que algo havia mudado. Ela não sabia onde Grazielly estava. Não sabia onde Tomas estava. Só sabia que estava sozinha, assustada, e que seu corpo não respondia como deveria.
 
-*Mãe,* ela pensou, sentindo lágrimas que não conseguia derramar. *Pai. Eu queria que vocês estivessem aqui.*
+*Madre Elara,* ela pensou, sentindo lágrimas que não conseguia derramar. *Grazielly. Eu queria que vocês estivessem aqui.*
 
-Mas seus pais estavam em Serravento, provavelmente ainda não sabendo que ela havia sido levada. E ela estava aqui, nas Terras de Ninguém, sendo arrastada por monstros para um destino que ela não conseguia imaginar.
+Mas Madre Elara estava em Serravento, provavelmente ainda não sabendo que ela havia sido levada. E Grazielly... Grazielly estava em algum lugar lá fora, separada dela, talvez sofrendo o mesmo destino. E Mira estava aqui, nas Terras de Ninguém, sendo arrastada por monstros para um destino que ela não conseguia imaginar.
 
 O Sombra-andante que guardava a carroça era uma criatura de pesadelo. Não completamente material — sua forma oscilava entre física e etérea, como se não conseguisse decidir em qual realidade existia. Seus olhos eram pontos de escuridão absoluta, e ele não falava, não se movia desnecessariamente, não parecia ter qualquer pensamento próprio. Era apenas uma sentinela. Um cão de guarda sem alma.
 
@@ -446,7 +484,7 @@ O Urrak assentiu novamente e desapareceu nas ruas de Serravento, carregando sua 
 
 Quando o Urrak finalmente deixou as crianças aos cuidados dos curadores do Templo de Sancrux, ele permitiu-se um momento de exaustão.
 
-Ele havia lutado contra um Sombra-andante. Carregado quatro crianças por léguas através de terreno hostil. Gasto mais Aethra do que deveria em um único dia. Mas as crianças estavam vivas. Estavam seguras. E suas famílias seriam notificadas.
+Ele havia lutado contra um Sombra-andante. Carregado quatro crianças por léguas através de terreno hostil. Gasto mais Aethra do que deveria em um único dia. Mas as crianças estavam vivas. Estavam seguras. E Madre Elara seria informada.
 
 *Quatro recuperadas,* ele pensou, sentando-se em um banco de pedra fora do templo. *Três ainda lá fora. Grazielly e duas outras.*
 
