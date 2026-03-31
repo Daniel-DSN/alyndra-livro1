@@ -28,7 +28,7 @@ Lyris observava o monitor de cristal em sua torre de vigia — um dispositivo an
 
 Mas algo a incomodava — uma sensação subcutânea que ela não conseguia nomear. Era como uma coceira em um lugar que ela não conseguia coçar, uma nota dissonante em uma melodia que parecia perfeita.
 
-Suas **Sementes Etéricas** haviam recebido uma atualização de calibração três dias antes — um código enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: os códigos de autenticação estavam corretos, os selos digitais correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
+Suas **Sementes Etéricas** haviam recebido uma calibração remota três dias antes — um código enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: os códigos de autenticação estavam corretos, os selos etéricos correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
 
 *Deveria ter verificado pessoalmente,* Lyris pensou, uma sombra de dúvida finalmente cruzando sua mente. *Deveria ter confirmado com ela diretamente.*
 
@@ -36,13 +36,13 @@ Ela se levantou, movendo-se para a janela. Lá fora, o jardim do orfanato pareci
 
 Mas foi então que ela percebeu.
 
-As Pratafolhas não estavam balançando com o vento. Elas estavam balançando em um padrão — o mesmo padrão, repetindo-se em loop, como uma gravação que alguém havia esquecido de interromper.
+As Pratafolhas não estavam balançando com o vento. Elas estavam balançando em um padrão — o mesmo padrão, repetindo-se em ciclo ininterrupto, como uma gravação que alguém havia esquecido de encerrar.
 
 *Asthra...*
 
 Lyris correu para o monitor, seus dedos dançando sobre os controles de cristal enquanto ela tentava acessar os dados brutos das Sementes. O que ela encontrou a fez gelar.
 
-Não havia dados brutos. Não havia leituras em tempo real. O que ela estava vendo era uma frequência pré-gravada — um loop de "paz total" que havia sido inserido em sua rede há três dias, ocultando qualquer coisa que realmente cruzasse o perímetro.
+Não havia dados brutos. Não havia leituras em tempo real. O que ela estava vendo era uma frequência pré-gravada — um ciclo falso de "paz total" que havia sido inserido em sua rede há três dias, ocultando qualquer coisa que realmente cruzasse o perímetro.
 
 *Eles estão aqui,* ela percebeu, o horror se espalhando por seu corpo como água gelada. *Eles já estão aqui. E eu não vi. Eu não senti.*
 

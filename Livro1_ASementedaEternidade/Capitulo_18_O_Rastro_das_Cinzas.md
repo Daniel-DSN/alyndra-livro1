@@ -20,7 +20,7 @@ Seu corpo estava envolto no **Velo de Cinzas Escaldantes**, a névoa superaqueci
 
 Era um rastro claro. Quente demais para ser natural. Vibrante demais para ser antigo. Algo havia passado por ali recentemente, deixando uma trilha de calor que seus sensores podiam seguir.
 
-*Korgath,* ela pensou, sentindo a determinação queimando em seu peito. *O Caçador do Vazio. Ele anula frequências sonoras, mas não pode anular completamente o calor. Ninguém pode se mover sem deixar rastros térmicos.*
+*Korgath,* ela pensou, sentindo a determinação queimando em seu peito. *O Caçador do Vazio. Ele anula frequências sonoras e espirituais com seu vácuo, mas calor é vibração molecular, não frequência Aethra. Talvez... talvez eu consiga encontrar algo que ele não possa esconder.*
 
 Ela seguiu a assinatura por léguas, atravessando ravinas e escalando formações rochosas que teriam impedido qualquer perseguidor convencional. Mas Lyris não era convencional. Seu Thermaris lhe permitia sentir o calor residual no ar, na terra, nas pedras — uma rede invisível de informações que a guiava como um farol na escuridão.
 

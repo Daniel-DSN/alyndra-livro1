@@ -100,9 +100,11 @@ Podia proteger Grazielly.
 
 A determinação era fria como o gelo que Grazielly um dia aprenderia a controlar. E com ela veio uma segunda decisão, igualmente importante.
 
+*Cristalnor vai ter que esperar. Marethyus pode esperar. Mas Grazielly não pode.*
+
 *Agentes de Umbra me seguiram de Thalyra. Isso significa que eles sabem — ou suspeitam — que eu sei algo. E isso significa que o Orfanato das Asas... já não é mais seguro.*
 
-*Então vou torná-lo seguro novamente.*
+*Então vou torná-lo seguro novamente. Depois, então sim, irei ao norte.*
 
 ---
 

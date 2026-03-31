@@ -364,7 +364,7 @@ E em todo o mundo, a água tremeru.
 
 Quando a noite caiu sobre Ventania, o Orfanato das Asas parecia um lugar à beira de algo irreversível.
 
-A fonte permanecia congelada — não mais azul, mas agora de um preto profundo, como se as profundezas houvessem sido capturadas no gelo. Ninguém se aproximava dela. Ninguém ousava.
+A fonte permanecia congelada — não mais azul, mas agora de um preto profundo, como se as profundezas houvessem sido capturadas no gelo. A mudança ocorrera no momento exato em que o pulso espiritual atravessara o mundo, e Lyris, com seus anos de experiência, reconhecera o sinal: era a marca da **Água Sombra**, a herança de Marethyus manifestando-se à distância. O avô havia feito algo — e as consequências estavam se espalhando. Ninguém se aproximava da fonte. Ninguém ousava.
 
 Grazielly estava em seu quarto, Nyx a seus pés, seus olhos fixos na janela que dava para o sul. Ela não sabia o que havia sentido antes — aquele sussurro distante, aquele chamado que parecia vir de muito longe e de muito fundo. Mas sabia que algo havia mudado.
 
