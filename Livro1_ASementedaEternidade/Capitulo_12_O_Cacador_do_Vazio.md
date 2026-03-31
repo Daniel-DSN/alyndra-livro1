@@ -28,7 +28,7 @@ Grazielly apertou o pingente de asa em seu peito, sentindo o frio do **Cryonys**
 
 — E eu vou cumprir — Kira prometeu, sua voz firme apesar das lágrimas que ela recusava deixar cair. — Quando você tiver seis anos, eu voltarei da Academia nas férias de verão, e nós vamos fazer as maiores tochas que Ventania já viu. Combinado?
 
-Grazielly assentiu, mas seu coração doía. Ela olhou para **Varek**, o Tutor Itinerante que permanecia a poucos passos de distância com um sorriso benevolente e um caderno de anotações aberto. Foi Varek quem acelerou a papelada para a transferência de Kira, alegando em seu relatório para Sanctrum que o potencial da menina era um "risco de segurança" para as crianças menores se não fosse devidamente canalizado.
+Grazielly assentiu, mas seu coração doía. Ela olhou para **Varek**, o Tutor Itinerante que permanecia a poucos passos de distância com um sorriso benevolente e um caderno de anotações aberto. Foi Varek quem acelerou a papelada para a transferência de Kira, alegando em seu relatório para Sanctrum que o potencial da menina era um "risco de segurança" para as crianças menores se não fosse devidamente canalizado. Era uma manobra tática calculada: Kira, com sua afinidade Fogo, havia sido a principal proteção física de Grazielly além de Lyris. Sua transferência para a Academia Elemental em **Pyralis** removeria não apenas uma defensora, mas também uma âncora emocional para a Herdeira. O isolamento era o primeiro passo para a vulnerabilidade.
 
 — A afinidade com Fogo em desenvolvimento acelerado pode ser perigosa em ambientes sem supervisão adequada — Varek havia escrito, sua caligrafia perfeita transmitindo competência e preocupação genuína. — Recomendo transferência imediata para a Academia Elemental.
 
@@ -71,6 +71,8 @@ Em suas mãos, ele carregava um bastão de **Obsidiana Negra** que pulsava com u
 Mas a verdadeira arma de Korgath não era física.
 
 Sua afinidade — **Sons do Vácuo** — era uma aberração entre as manipulações elementais conhecidas. Não era fogo, água, terra, ar ou relâmpago. Era algo mais fundamental, mais primitivo: a capacidade de criar e manipular frequências sonoras em faixas que a maioria dos seres vivos não conseguia perceber, mas que afetavam profundamente seus corpos e mentes.
+
+Era uma herança das **Profundezas** — aquele lugar entre lugares onde a entidade que Marethyus havia invocado dormia. Os Nihilaryth não haviam criado esta habilidade; eles a haviam corrompido, transformando-a em uma arma que não produzia som, mas o consumia. Korgath não era um elemental tradicional — era um vazio ambulante, uma ausência que andava.
 
 Ele podia gerar silêncio absoluto — não a ausência de som, mas a anulação ativa de todas as vibrações em uma área. Podia criar frequências que destroíam órgãos internos sem deixar marcas externas. Podia, como fazia agora, mover-se em uma bolha de quietude que tornava impossível detectá-lo por qualquer sentido convencional.
 
