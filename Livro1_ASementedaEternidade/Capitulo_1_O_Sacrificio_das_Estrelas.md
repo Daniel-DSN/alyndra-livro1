@@ -26,6 +26,8 @@ Mas a promessa foi quebrada. Não por ódio — por necessidade. Não por traiç
 
 Nyxalor havia sido envenenado pelos sussurros dos Nihilaryth — aquelas entidades rejeitadas tanto pelo Vazio Primordial quanto pela existência, nascidas dos fragmentos de realidade que Yggorath descartou ao criar todos os mundos. Eles eram o que sobrou do caos anterior à criação, ódio puro vestido com forma, inveja absoluta contra tudo o que existia.
 
+Sua queda não foi maldade pura — foi uma falha no equilíbrio da reciclagem da entropia. Nyxalor, como Filho Legítimo das Sombras, era responsável por processar a decomposição natural de todas as coisas, transformando o que findava em sementes para novos começos. Mas os sussurros dos Nihilaryth corromperam esse propósito sagrado, fazendo-o acreditar que a destruição era um fim em si mesma, não um ciclo de renovação.
+
 Por eras inimagináveis, eles sussurraram no ouvido de Nyxalor. Envenenaram seus sonhos com visões de um universo onde ele reinaria supremo. Fizeram-no acreditar que sua irmã o desprezava, que os Seraphyens o temiam, que Yggorath o havia criado apenas para ser servo da luz. Pouco a pouco, gota a gota, a corrupção se espalhou por sua essência como tinta negra em água cristalina.
 
 Ilyos assistiu, impotente, enquanto o irmão que amava mais que todas as estrelas se transformava em algo irreconhecível — ainda Nyxalor na forma, mas habitado por uma escuridão que não pertencia a este universo, que não podia pertencer a nenhum universo.
@@ -76,7 +78,9 @@ E **Tempest**, sua irmã gêmea, a Seraphyen de Vento Sombra, senhora dos furac�
 
 Dez Seraphyens. Dez poderes primordiais. Dez filhos de Yggorath destinados a proteger a criação desde a Primeira Aurora até a Última Aurora que ainda estava por vir.
 
-Eles não eram iguais a Ilyos e Nyxalor. Os dois Filhos Legítimos haviam nascido diretamente do Fruto da Existência que Yggoraty cultivara com sua própria essência — eram herdeiros do próprio criador, portadores de poder que transcendia até mesmo o divino. Os Seraphyens, em contraste, haviam surgido do Aethra que emanava de Yggorath, a árvore secundária nascida do sacrifício de Yggoraty. Eram manifestações elementais, encarnações de forças primordiais — poderosos além da compreensão mortal, mas ainda assim subordinados aos Filhos Legítimos na grande hierarquia da existência.
+Eles não eram iguais a Ilyos e Nyxalor. A hierarquia da existência era clara e imutável: no ápice, a **Vontade Pura** — a força senciente que, ao escolher abdicar de sua forma consciente, tornou-se a própria estrutura da causalidade, o arcabouço invisível que permitia que causa e efeito fluíssem através de todos os mundos. Abaixo dela, **Yggoraty**, o Primeiro Ser, que emergiu da Vontade e cultivou o Fruto da Existência. E desse fruto nasceram os dois Filhos Legítimos — Ilyos e Nyxalor, herdeiros do próprio criador, portadores de poder que transcendia até mesmo o divino.
+
+Os Seraphyens, em contraste, haviam surgido do Aethra que emanava de Yggorath, a árvore secundária nascida do sacrifício de Yggoraty. Eram manifestações elementais, encarnações de forças primordiais — poderosos além da compreensão mortal, mas ainda assim subordinados aos Filhos Legítimos na grande hierarquia da existência. Dez Seraphyens, cada um representando uma faceta do poder elemental, serviam como pontes entre o divino e o mortal, guardiões cujo sangue carregava fragmentos da essência primordial.
 
 Ilyos, contudo, jamais tratara os Seraphyens como inferiores. Desde a Primeira Aurora, ela ensinara a verdade que Yggoraty gravara em cada folha da Árvore da Existência: que todo ser, do mais poderoso ao mais humilde, era igual perante a vida. Ela amava os Seraphyens como família, e eles a reverenciavam não como senhora, mas como irmã mais velha, guia e protetora. Quando Nyxalor ainda caminhava ao seu lado, ele compartilhava dessa visão — e os Seraphyens o amavam com a mesma devoção.
 
@@ -381,6 +385,8 @@ E então a escuridão o consumiu novamente, e o Nyxalor que ela conhecera se foi
 O selamento era forte — forjado na luz de Ilyos, fortalecido pelo sacrifício de Elarys, entrelaçado pelos ventos de Ventus. Era inquebrável. Eterno. Absoluto. E quando a última fenda se fechou, tudo o que restou foi um vazio onde antes existia o Filho das Sombras, uma ausência que marcaria todos os mundos para sempre.
 
 Elarys permaneceu no limiar — viva, mas inacessível. Presente, mas intocável. Ela se tornara a guardiã eterna do selamento, vigiando o irmão corrompido de Ilyos através de eras incontáveis, protegendo todos os mundos com sua própria existência.
+
+E enquanto seu ser se cristalizava no limiar entre a existência e o vazio, algo extraordinário aconteceu. A essência de Fogo Sombra que Elarys personificava, combinada com a luz resplandecente do selamento de Ilyos, condensou-se em uma forma física — um cristal de beleza sobrenatural, cujas facetas capturavam luz que não pertencia a nenhum espectro conhecido. O **Cristal de Mytha** nascia assim, não como mera joia, mas como uma prisão dimensional em miniatura — um relicário que abrigava a essência fragmentada de Elarys, aguardando o momento em que um ser digno pudesse despertá-la.
 
 Ventus foi o último a vê-la antes que ela se fundisse completamente ao selo, antes que ela se tornasse parte do próprio selamento.
 
