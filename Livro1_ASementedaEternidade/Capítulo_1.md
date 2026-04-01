@@ -292,9 +292,7 @@ Ayla colocou a mão sobre a barriga, sentindo a criança se mover.
 
 *Logo,* ela pensou. *Logo você estará aqui. Logo começará sua jornada.*
 
-*E eu estarei aqui para te receber, minha pequena estrela. Minha Grazielly.*
-
-O nome veio a ela como um presente — um nome que ela havia escolhido meses antes, guardado como um segredo para o momento certo. Grazielly. Não sabia de onde viera, não sabia por que parecia certo. Apenas sabia que era o nome da criança. O nome que o destino havia escolhido.
+*E eu estarei aqui para te receber, minha pequena estrela.*
 
 E nas colinas douradas de Serravento, o vento soprou mais forte, carregando consigo o sussurro de histórias que ainda estavam por ser contadas.
 
@@ -312,9 +310,9 @@ E nas colinas douradas de Serravento, o vento soprou mais forte, carregando cons
 
 Este capítulo funciona como uma introdução atmosférica ao universo de Alyndra. Através dos olhos de Ayla, conhecemos Serravento, o Reino dos Ventos Livres, e estabelecemos os mistérios que permeiam a história: quem é Ayla? Por que ela está escondida? Quem é o pai da criança? O que torna essa criança tão especial?
 
-Os flashes sensoriais no início são fragmentos de memórias que serão reveladas mais tarde — vislumbres da Convergência Tripla que está por vir, do nascimento de Grazielly, do sacrifício de Ayla. Eles funcionam como uma promessa ao leitor de que algo grande está prestes a acontecer.
+Os flashes sensoriais no início são fragmentos de memórias que serão reveladas mais tarde — vislumbres da Convergência Tripla que está por vir, do nascimento da criança, do sacrifício de Ayla. Eles funcionam como uma promessa ao leitor de que algo grande está prestes a acontecer.
 
-O nome "Grazielly" é revelado aqui como uma escolha que Ayla faz em segredo, antecipando a revelação que virá no próximo capítulo. Easter eggs são plantados: a Convergência Tripla, a natureza especial da criança, o amor proibido entre Ayla e Aurelius.
+Easter eggs são plantados: a Convergência Tripla, a natureza especial da criança, o amor proibido entre Ayla e Aurelius.
 
 Serravento é apresentado como um refúgio — não apenas para Ayla, mas para todos que buscam liberdade. Isso estabelece uma conexão temática que será importante ao longo de toda a história: a busca por um lar, por pertencimento, por paz em meio às tempestades da vida.
 
@@ -344,10 +342,9 @@ Serravento é apresentado como um refúgio — não apenas para Ayla, mas para t
 
 | Nome | Função | Mistério |
 |------|--------|----------|
-| **Ayla** | Protagonista do capítulo | Guerreira escondida; mãe de Grazielly |
+| **Ayla** | Protagonista do capítulo | Guerreira escondida; carrega uma criança no ventre |
 | **Melessa** | Parteira de Mespiria | Acolheu Ayla; prepara-se para o parto |
-| **Aurelius (mencionado)** | Pai da criança | Guardião Mestre; não sabe sobre Grazielly |
-| **Grazielly (no ventre)** | A criança por nascer | Destino especial; nascimento sob Convergência |
+| **Aurelius (mencionado)** | Pai da criança | Guardião Mestre; não sabe sobre a criança |
 
 ---
 
