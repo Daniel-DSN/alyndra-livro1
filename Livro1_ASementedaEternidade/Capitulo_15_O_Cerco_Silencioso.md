@@ -22,13 +22,13 @@ Ou pelo menos era isso que ela acreditava.
 
 A manhã havia começado com uma calma perturbadora. O sol de Aurion ergueu-se sobre Ventania como em qualquer outro dia, pintando as colinas de dourado e fazendo as **Pratafolhas** brilharem como moedas cunhadas recentemente. O céu estava limpo, o ar estava calmo, e o perímetro... o perímetro mostrava paz absoluta.
 
-Lyris observava o monitor de cristal em sua torre de vigia — um dispositivo antigo que ela havia adaptado para traduzir as pulsações das Sementes Etéricas em padrões visuais. As luzes verdes piscavam em sequências tranquilas, indicando que nada havia cruzado a barreira durante a noite. Nenhuma anomalia. Nenhuma intrusão. Nenhuma ameaça.
+Lyris observava o **espelho de ressonância** em sua torre de vigia — um dispositivo antigo que ela havia adaptado para traduzir as pulsações das Sementes Etéricas em padrões visuais. As luzes verdes piscavam em sequências tranquilas, indicando que nada havia cruzado a barreira durante a noite. Nenhuma anomalia. Nenhuma intrusão. Nenhuma ameaça.
 
 *Tudo normal,* ela pensou, seus olhos percorrendo os padrões familiares. *Tudo calmo.*
 
 Mas algo a incomodava — uma sensação subcutânea que ela não conseguia nomear. Era como uma coceira em um lugar que ela não conseguia coçar, uma nota dissonante em uma melodia que parecia perfeita.
 
-Suas **Sementes Etéricas** haviam recebido uma calibração remota três dias antes — um pulso de Aethra enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: as assinaturas espirituais estavam corretas, os selos etéricos correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
+Suas **Sementes Etéricas** haviam recebido uma **sintonia etérica** remota três dias antes — um pulso de Aethra enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: as assinaturas espirituais estavam corretas, os selos etéricos correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
 
 *Deveria ter verificado pessoalmente,* Lyris pensou, uma sombra de dúvida finalmente cruzando sua mente. *Deveria ter confirmado com ela diretamente.*
 
@@ -86,7 +86,7 @@ Os funcionários ao redor murmuraram em concordância. Lyris viu seus rostos —
 
 Ele ergueu um documento — um pergaminho selado com a cera oficial de Sanctrum, carimbado com símbolos que Lyris reconheceu imediatamente como autênticos.
 
-— Este relatório recomenda a suspensão temporária dos direitos de custódia da Srta. Lyris sobre a criança Grazielly, até que uma avaliação psicológica completa seja realizada. Pela segurança de todos.
+— Este relatório recomenda a suspensão temporária dos direitos de custódia da Srta. Lyris sobre a criança Grazielly, até que um **exame de vibração anímica** completo seja realizado. Pela segurança de todos.
 
 Madre Elara olhou para Lyris, e em seus olhos havia algo que cortou mais fundo que qualquer lâmina: dúvida.
 

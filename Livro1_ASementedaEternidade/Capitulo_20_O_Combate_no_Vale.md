@@ -110,7 +110,7 @@ Lyris ergueu-se com força de vontade, seu corpo protestando cada movimento.
 
 Enquanto Lyris enfrentava o Flagelador de Elite, outro confronto se desenrolava muito longe dali.
 
-Em **Thalyra**, a cidade costeira de Thalassia onde Lyris havia encontrado "S." meses antes, uma figura encapuzada caminhava pelas ruas de canais sob a luz prateada das três luas. Seus passos eram silenciosos, seu rosto oculto, mas sua postura carregava a autoridade de alguém que não precisava se anunciar.
+Em **Thalyra**, a cidade costeira de Thalassia onde Lyris havia encontrado Vaelora meses antes, uma figura encapuzada caminhava pelas ruas de canais sob a luz prateada das três luas. Seus passos eram silenciosos, seu rosto oculto, mas sua postura carregava a autoridade de alguém que não precisava se anunciar.
 
 A figura parou em frente a uma casa modesta no distrito dos pescadores — uma construção antiga, com paredes de coral fossilizado e um telhado de algas secas que havia sido substituído tantas vezes que nada restava do original.
 
@@ -124,13 +124,13 @@ Momentos depois, a porta abriu-se apenas uma fresta, e olhos anciões examinaram
 
 Hesitação. Depois, a porta abriu-se completamente.
 
-A mulher que Lyris conhecia apenas como "S." — a informativa que havia fornecido informações sobre Marethyus — estava mais velha do que na última vez que a Vanguarda a havia visto. Seus cabelos, antes grisalhos, agora eram brancos como neve. Suas mãos tremiam ligeiramente. Mas seus olhos mantinham aquela perspicácia que os anos não haviam diminuído.
+A mulher que Lyris conhecia como **Vaelora** — a Sentinela, a informante que havia fornecido informações sobre Marethyus — estava mais velha do que na última vez que a Vanguarda a havia visto. Seus cabelos, antes grisalhos, agora eram brancos como neve. Suas mãos tremiam ligeiramente. Mas seus olhos mantinham aquela perspicácia que os anos não haviam diminuído.
 
 — Eu ouvi sobre o sequestro — ela disse, guiando seu visitante para uma sala modesta com móveis de madeira flutuante. — A filha do GM. As crianças do orfanato.
 
 — Então você sabe por que estou aqui.
 
-— Eu sei que a Vanguarda está se movendo — S. respondeu, sua voz carregada de algo que poderia ser medo. — Eu sei que Selina Thalassa está coordenando a operação. E eu sei que, se eu falar o que sei, tudo pode desmoronar.
+— Eu sei que a Vanguarda está se movendo — Vaelora respondeu, sua voz carregada de algo que poderia ser medo. — Eu sei que Selina Thalassa está coordenando a operação. E eu sei que, se eu falar o que sei, tudo pode desmoronar.
 
 A figura encapuzada removeu seu capuz, revelando um rosto marcado pelo tempo mas ainda nobre — um rosto que carregava o peso de décadas de serviço a uma causa maior que ele mesmo.
 
@@ -138,11 +138,11 @@ A figura encapuzada removeu seu capuz, revelando um rosto marcado pelo tempo mas
 
 — O Círculo de Cristal está convocando uma reunião de emergência — ele disse. — Aurelius será questionado. E se as informações certas chegarem aos ouvidos errados...
 
-— A Vanguarda será exposta — S. completou. — E Selina... Selina será a primeira a cair.
+— A Vanguarda será exposta — Vaelora completou. — E Selina... Selina será a primeira a cair.
 
 — Por que ela nunca me contou? — Kaelen perguntou, algo em sua voz sugerindo uma dor pessoal. — Nós fomos... próximos. Décadas de confiança. E ela nunca mencionou que liderava uma organização secreta dentro da Ordem.
 
-S. olhou para o mestre de segurança, vendo algo em seus olhos que ela reconhecia.
+Vaelora olhou para o mestre de segurança, vendo algo em seus olhos que ela reconhecia.
 
 — Você a ama — ela disse, não como pergunta.
 
@@ -154,43 +154,43 @@ Kaelen não respondeu imediatamente. Quando falou, sua voz era mais suave.
 
 — Exato.
 
-S. levantou-se, caminhando até uma janela que dava para os canais de Thalyra. A luz das três luas criava padrões hipnóticos na água.
+Vaelora levantou-se, caminhando até uma janela que dava para os canais de Thalyra. A luz das três luas criava padrões hipnóticos na água.
 
-— Eu conhecia a mãe de Selina — ela disse finalmente. — Antes de ela morrer. Antes de Selina se tornar a Mestra da Informação. A família Thalassa é antiga — uma das mais antigas de Thalassia. Eles têm segredos que remontam às eras anteriores à fundação da Ordem.
+— Eu conhecia a mãe de Selina — Vaelora disse finalmente. — Antes de ela morrer. Antes de Selina se tornar a Mestra da Informação. A família Thalassa é antiga — uma das mais antigas de Thalassia. Eles têm segredos que remontam às eras anteriores à fundação da Ordem.
 
 — Que tipo de segredos?
 
-— Segredos sobre o que a água pode lembrar. — S. virou-se para Kaelen. — A linhagem Thalassa tem uma afinidade com informações que nenhuma outra família possui. Eles podem... extrair memórias da própria água. Memórias de eventos que ocorreram perto de rios, lagos, oceanos. Memórias que a água guarda como se fossem suas.
+— Segredos sobre o que a água pode lembrar. — Vaelora virou-se para Kaelen. — A linhagem Thalassa tem uma afinidade com informações que nenhuma outra família possui. Eles podem... extrair memórias da própria água. Memórias de eventos que ocorreram perto de rios, lagos, oceanos. Memórias que a água guarda como se fossem suas.
 
 Kaelen sentiu um arrepio percorrer sua espinha.
 
 — Então Selina pode...
 
-— Selina pode acessar informações que ninguém deveria ter. Informações sobre conspirações, traições, segredos de Estado. — S. fez uma pausa. — É por isso que ela é tão eficaz como Mestra da Informação. E é por isso que ela é tão perigosa para aqueles que têm algo a esconder.
+— Selina pode acessar informações que ninguém deveria ter. Informações sobre conspirações, traições, segredos de Estado. — Vaelora fez uma pausa. — É por isso que ela é tão eficaz como Mestra da Informação. E é por isso que ela é tão perigosa para aqueles que têm algo a esconder.
 
 — Existem muitos no Círculo que têm algo a esconder.
 
-— Sim. E se eles descobrirem a verdade sobre Selina... sobre a Vanguarda... sobre o que ela pode fazer... — S. balançou a cabeça. — Eles não vão apenas expô-la. Eles vão caçá-la. Caçar todos vocês.
+— Sim. E se eles descobrirem a verdade sobre Selina... sobre a Vanguarda... sobre o que ela pode fazer... — Vaelora balançou a cabeça. — Eles não vão apenas expô-la. Eles vão caçá-la. Caçar todos vocês.
 
 Kaelen permaneceu em silêncio por longos momentos, processando as implicações.
 
-— O que você quer que eu faça? — S. perguntou finalmente.
+— O que você quer que eu faça? — Vaelora perguntou finalmente.
 
 — Eu preciso saber quem mais sabe. Quem mais pode expor a Vanguarda. — Kaelen respondeu. — E eu preciso que você me diga se há algo... qualquer coisa... que possa ser usado para proteger Selina se isso vier à tona.
 
-S. sorriu — um sorriso triste, de alguém que havia carregado segredos por tempo demais.
+Vaelora sorriu — um sorriso triste, de alguém que havia carregado segredos por tempo demais.
 
 — Eu conheço segredos sobre todos no Círculo de Cristal — ela disse. — Incluindo aqueles que mais querem Aurelius deposto. Se a máscara de Selina cair... eu posso garantir que ela não caia sozinha.
 
 — Isso é suficiente?
 
-— É o que eu posso oferecer. — S. respondeu. — O resto... o resto depende de quão rápido vocês encontram a criança. Porque se Grazielly não for recuperada... nada mais vai importar.
+— É o que eu posso oferecer. — Vaelora respondeu. — O resto... o resto depende de quão rápido vocês encontram a criança. Porque se Grazielly não for recuperada... nada mais vai importar.
 
 Kaelen assentiu, preparando-se para partir.
 
 — Obrigada — ele disse. — Por sua lealdade.
 
-— Minha lealdade é para com a verdade — S. respondeu. — Sempre foi. Mesmo quando a verdade é perigosa.
+— Minha lealdade é para com a verdade — Vaelora respondeu. — Sempre foi. Mesmo quando a verdade é perigosa.
 
 Ela acompanhou Kaelen até a porta, suas velhas mãos tremendo ligeiramente enquanto fechava a madeira antiga.
 
@@ -634,7 +634,7 @@ Este capítulo marca um ponto de virada na saga:
 |------|--------|--------|
 | **Mestra Corinna** | Círculo de Cristal (Umbralis) | Hostil a Aurelius e Selina |
 | **Mestre Kaelen** | Chefe de Segurança (Olho de Aurion) | Sabe sobre a Vanguarda; ligação com Selina |
-| **"S."** | Informativa de Thalassia | Possui informações perigosas |
+| **"Vaelora"** | A Sentinela, informante de Thalyra | Possui informações perigosas |
 | **Eco** | Manifestação misteriosa | Mensageiro de Marethyus |
 
 ---

@@ -377,7 +377,8 @@ Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorat
 ### Thalassia
 - **Thalyra** — Cidade costeira, Festival das Águas
   - **Ponto de contato da Vanguarda** — local de encontro para operações secretas
-  - Onde Lyris encontrou "S." (Mestra Selina Thalassa)
+  - Onde Lyris encontrou **Vaelora (A Sentinela)**, informante da Vanguarda
+- **Selina Thalassa ("S.")** opera em Sanctrum, não em Thalyra
 
 ### Terraxis/Umbra
 - **Cristalnor** — Montanhas geladas, lar do avô de Grazielly (Marethyus)
@@ -659,6 +660,35 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - Origem: Pai mercenário morto em briga, mãe abandonou
 - Problemas de raiva e controle emocional
 - Fascinado/irritado por Grazielly
+
+---
+
+# 👤 MESTRA VAELORA (A SENTINELA)
+
+## Identidade
+- **Nome:** Vaelora
+- **Codinome:** "A Sentinela"
+- **Título:** Mestra da Vigia
+
+## Posição Oficial
+- Integrante do **Conselho dos 10** — assento "A Sentinela"
+- Origem: Thalassia (linha Marethyu secundária)
+
+## Função Secreta
+- **Informante da Vanguarda em Thalyra**
+- Ponto de contato local para operações em Thalassia
+- Conectada à rede de inteligência de Selina Thalassa
+
+## Na Narrativa
+- Encontrou Lyris no Capítulo VII (Thalyra, Festival das Águas)
+- Forneceu informações sobre Marethyus e o Selo
+- Visitada por Kaelen no Capítulo XX
+- Conhece segredos sobre todos no Círculo de Cristal
+
+## Características Físicas
+- Cabelos grisalhos/brancos (envelhecendo)
+- Olhos afiados, perspicazes
+- Cicatriz fina na bochecha esquerda
 
 ---
 

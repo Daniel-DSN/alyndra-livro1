@@ -349,7 +349,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | **Nascimento** | Sob a quinta Convergência Tripla |
 | **Relacionamento** | Pai secreto de Grazielly |
 | **Local** | Sanctrum, Aetherion Prime |
-| **Não sabe** | Sobre a existência do avô Marethyus |
+| **Não sabe** | Sobre o parentesco de Marethyus com Grazielly (conhece o Selo e a ameaça política, mas ignora que é seu avô) |
 
 ---
 
@@ -396,7 +396,23 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | **Origem** | Descendente de linhagem nobre de Thalassia |
 | **Função Secreta** | **Nó central de inteligência da Vanguarda** |
 | **Contato** | Forneceu informações a Lyris sobre o avô de Grazielly |
-| **Local de encontro** | Thalyra, durante o Festival das Águas |
+| **Local de encontro** | Sanctrum (não Thalyra) |
+
+---
+
+## Mestra Vaelora (A Sentinela)
+
+| Atributo | Valor |
+|----------|-------|
+| **Nome Completo** | Vaelora |
+| **Codinome** | "A Sentinela" |
+| **Título** | Mestra da Vigia |
+| **Posição** | Integrante do **Conselho dos 10** — assento "A Sentinela" |
+| **Origem** | Thalassia (linha Marethyu secundária) |
+| **Função Secreta** | **Informante da Vanguarda em Thalyra** |
+| **Características** | Cabelos grisalhos/brancos, olhos afiados, cicatriz na bochecha esquerda |
+| **Contato** | Encontra-se com Lyris no Capítulo VII em Thalyra |
+| **Conexão** | Colega de Conselho de Selina Thalassa; aliada na Vanguarda |
 
 ---
 
@@ -541,6 +557,12 @@ Heróis mascarados que operam fora da lei oficial.
 | **O Urrak** | *Desconhecida* | Feroz, leal, caça nas sombras |
 | **A Nyctara** | **Lyris** | Visão no escuro, silêncio, sabedoria |
 | **O Velatrix** | *Desconhecida* | Velocidade extrema, precisão mortal |
+
+### Traidor Identificado
+
+| Codinome | Status | Descrição |
+|----------|--------|-----------|
+| **O Zephyros** | **TRAIDOR** | Ex-membro da Vanguarda que se voltou contra a organização. Trabalha para forças Nihilaryth. Identificado por Selina Thalassa como o "Membro 10" que comprometeu o Olho de Aurion. |
 
 **⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
 
