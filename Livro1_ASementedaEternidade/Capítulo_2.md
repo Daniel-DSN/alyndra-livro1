@@ -98,7 +98,7 @@ A primeira Convergência, segundo os registros mais antigos das Cavernas Ancestr
 
 A segunda Convergência marcara a fundação de Sanctrum, quando os sete reinos finalmente se uniram sob um governo central após séculos de guerras civis que ameaçaram destruir tudo que os Seraphyens haviam construído. Naquela noite, os líderes dos reinos haviam assinado o Grande Pacto sob a luz das três luas, jurando paz eterna que, embora nunca perfeita, havia permitido que a civilização florescesse.
 
-A terceira Convergência registrada coincidira com o nascimento de Yggoraty, a mística que havia fundado a Ordem dos Mestres mil anos antes, cujo poder de visão havia permitido que os reinos se preparassem para ameaças que ainda não haviam se materializado. Dizia-se que ela nascera com os olhos abertos, observando as três luas como se as reconhecesse.
+A terceira Convergência registrada coincidira com a fundação da Ordem dos Mestres, quando os primeiros guardiões se reuniram para proteger o conhecimento e a paz dos reinos. Naquela noite, os Sete Fundadores juraram seu compromisso sob a luz das três luas, estabelecendo a estrutura que perduraria por milênios.
 
 A quarta marcara a descoberta dos cristais Aetheris nas profundezas de Terraxis, minas que haviam revolucionado a tecnologia de Nova Aetherion e permitido que a civilização alcançasse alturas que antes eram impossíveis. Com os cristais, cidades flutuaram, curas foram descobertas, comunicação se tornou instantânea.
 
