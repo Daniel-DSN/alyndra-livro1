@@ -206,7 +206,18 @@ Grazielly, em pé ao lado da cova, começou a cantar.
 
 Não era uma canção que ninguém reconhecia — não um hino tradicional de Serravento, não uma canção de ninar que Melessa lhe havia ensinado, não algo que qualquer criança de sua idade deveria conhecer. Era uma melodia antiga, profunda, que parecia vir de algum lugar muito distante, de uma época anterior às eras que a memória registrava.
 
-As palavras eram em uma língua que ninguém presente compreendia, mas cujo significado parecia claro de alguma forma que transcendeu a razão. Era uma canção de despedida. Uma canção de gratidão. Uma canção de amor que atravessava a própria morte.
+As palavras eram em uma língua que ninguém presente compreendia, sons que pareciam carregar o peso de milênios em cada sílaba:
+
+*"Zi-me an-ki, ud-sar nam-mu..."*
+*"Sopro do destino, céu-terra, dia-jardim, destino-eterno..."*
+
+*"Me-lugal dingir-gal, ki-agar nam-tar..."*
+*"Poder-do-rei, deus-grande, terra-amada, destino-tecer..."*
+
+*"A-ma-ru, gi-na du-ru, zi-ga im-ma..."*
+*"Árvore-mãe, retornar-caminho, vento-da-vida, erguer..."*
+
+Os aldeãos mais velhos reconheceram fragmentos — palavras que haviam sobrevivido em rituais esquecidos, em cantos de curandeiros que as pronunciavam sem compreender seu significado original. Era a Língua Antiga, a fala dos primeiros povos que haviam caminhado sob a luz dos Seraphyens. E embora ninguém presente pudesse traduzir completamente, o significado parecia claro de alguma forma que transcendia a razão. Era uma canção de despedida. Uma canção de gratidão. Uma canção de amor que atravessava a própria morte.
 
 E enquanto Grazielly cantava, um brilho suave começou a emanar de sua pele — não o brilho fraco e momentâneo que Melessa havia visto ocasionalmente ao longo dos anos, mas um fulgor verdadeiro, pulsante, que parecia responder à canção que ela entoava. Os aldeãos que testemunharam aquela cena jamais a esqueceriam — uma criança de quatro anos, de pé ao lado de uma sepultura aberta, brilhando como uma estrela enquanto cantava sua avó adotiva para o descanso final.
 

@@ -910,12 +910,117 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 ---
 
+# 📜 A LÍNGUA ANTIGA (EME-GAL)
+
+A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Seraphyens. Sobrevive em rituais, cantos ancestrais e fragmentos incorporados às línguas modernas. Alguns nascidos sob Convergências podem "lembrar" palavras sem nunca ter aprendido.
+
+## Termos Fundamentais
+
+| Termo Original | Transliteração | Significado | Uso |
+|----------------|----------------|-------------|-----|
+| **𒂍** | Dingir | Divindade, Seraphyen | Em rituais e textos sagrados |
+| **𒈬** | Mu | Ciclo completo, ano | Medida de tempo ancestral |
+| **𒌓** | Ud | Dia, ciclo de Aurion | Tempo diário |
+| **𒁉** | Ki | Terra, lugar | Toponomia |
+| **𒀭** | An | Céu, acima | Cosmologia |
+| **𒍑** | Zi | Vida, sopro | Bênçãos, curas |
+| **𒈾** | Nam | Destino | Profecias |
+| **𒈨** | Me | Poder divino, decreto | Textos sagrados |
+
+## Compostos Comuns
+
+| Composto | Significado | Uso Narrativo |
+|----------|-------------|---------------|
+| **An-ki** | Céu-terra, universo | Canções rituais |
+| **Zi-me** | Sopro do destino | Despedidas sagradas |
+| **Dingir-gal** | Grande deus | Referência aos Seraphyens |
+| **Ud-sar** | Dia-jardim (era de prosperidade) | Narrativas históricas |
+| **Nam-tar** | Tecer destino | Profecias, rituais |
+| **Im-ma** | Vento | Serravento |
+| **A-ma-ru** | Árvore-mãe | Referência à Árvore da Existência |
+
+## Flora em Língua Antiga
+
+| Nome Antigo | Nome Comum | Significado Literal |
+|-------------|------------|---------------------|
+| **Gish-sar** | Pratafolha | Árvore do jardim |
+| **A-edin** | Aethrum-dourado | Água da planície |
+| **Nig-ug** | Flores-lua | Coisa preciosa |
+| **Gish-im** | Trepadeiras-de-vento | Árvore do vento |
+
+## Fauna em Língua Antiga
+
+| Nome Antigo | Nome Comum | Significado Literal |
+|-------------|------------|---------------------|
+| **Im-amar** | Ventorro | Cria do vento |
+| **An-tir** | Asas-de-veludo | Pássaro celestial |
+| **Gud-nigin** | Capraluna | Criatura que circunda |
+| **Tir-kur** | Nyctara | Pássaro da montanha |
+| **Urrak** | Urrak | (Onomatopeia - uivo) |
+| **Vel-gish** | Velatrix | Veloz da floresta |
+
+## Tempo em Língua Antiga
+
+| Termo | Equivalência | Uso |
+|-------|--------------|-----|
+| **Ud** | Ciclo de Aurion (dia) | Sábios e rituais |
+| **Itu** | Ciclo lunar (mês) | Astrólogos |
+| **Mu** | Ciclo completo (ano) | Documentos formais |
+| **Ges** | Era, período longo | História |
+| **Pul** | Pulsação (pulso) | Medida técnica |
+
+## Frases Cerimoniais
+
+### Canção de Despedida (Cap. III)
+```
+"Zi-me an-ki, ud-sar nam-mu..."
+"Sopro do destino, céu-terra, dia-jardim, destino-eterno..."
+
+"Me-lugal dingir-gal, ki-agar nam-tar..."
+"Poder-do-rei, deus-grande, terra-amada, destino-tecer..."
+
+"A-ma-ru, gi-na du-ru, zi-ga im-ma..."
+"Árvore-mãe, retornar-caminho, vento-da-vida, erguer..."
+```
+
+### Bênção Antiga
+```
+"Zi-ga an-ki, dingir-me, nam-lugal"
+"Vida-erguer céu-terra, deus-poder, destino-rei"
+(Que a vida se erga entre céu e terra, pelo poder divino e destino real)
+```
+
+## Notas para Escrita
+
+1. **Grazielly** pode "lembrar" palavras da Língua Antiga sem aprender - conexão com linhagem Seraphyen
+2. **Mestres e sábios** usam termos antigos em contextos formais
+3. **Rituais** sempre incluem fragmentos em Eme-gal
+4. **Nomes de lugares** podem ter origem em compostos antigos (ex: Ventania = Im-tir-ki)
+
+---
+
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 8.0.0 - EXPANSÃO DA GOVERNANÇA
-**Data de Atualização:** 30/03/2026
+**Versão do Dicionário:** 9.0.0 - A LÍNGUA ANTIGA
+**Data de Atualização:** 03/04/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
+
+### Atualizações da Versão 9.0.0:
+
+#### 1. A Língua Antiga (Eme-gal)
+- ✅ **Seção completa** — Língua primordial baseada em sumério adaptado
+- ✅ **Termos fundamentais** — Dingir, Mu, Ud, Ki, An, Zi, Nam, Me
+- ✅ **Compostos comuns** — An-ki, Zi-me, Dingir-gal, Ud-sar, Nam-tar
+- ✅ **Flora e Fauna** — Nomes antigos para criaturas e plantas
+- ✅ **Sistema de tempo** — Ud, Itu, Mu, Ges, Pul
+- ✅ **Frases cerimoniais** — Canção de Despedida, Bênção Antiga
+
+#### 2. Ajustes de Consistência
+- ✅ **Nyx removido do Cap. III** — Ventorro aparece apenas no Cap. IV
+- ✅ **Convergências reestruturadas** — 6 em ~4000 anos, Kaelthor = 3º Guardião Antigo
+- ✅ **GMs numerados** — Aurelius = 33º GM, Théssaly = 32º GM
+- ✅ **Guardiões Antigos** — Era pré-Sanctrum, guardiões do Selo de Mytra
 
 ### Atualizações da Versão 8.0.0:
 
