@@ -80,7 +80,7 @@ A terceira Convergência registrada coincidira com a fundação da Ordem dos Mes
 
 A quarta marcara a descoberta dos cristais Aetheris nas profundezas de Terraxis, minas que haviam revolucionado a tecnologia de Nova Aetherion e permitido que a civilização alcançasse alturas que antes eram impossíveis. Com os cristais, cidades flutuaram, curas foram descobertas, comunicação se tornou instantânea.
 
-A quinta Convergência ocorrera no nascimento de Aurelius, o atual Guardião Mestre — um detalhe que poucos conheciam e que ele próprio raramente considerava, mas que os astrólogos mais experientes haviam notado com interesse. A criança nascida sob tal alinhamento, eles sussurravam, estava destinada a grandes coisas, para o bem ou para o mal.
+A quinta Convergência marcara a assinatura do Tratado das Águas, quando Thalassia e os reinos continentais finalmente resolveram disputas milenares sobre rotas marítimas e direitos de pesca. Um acordo de paz que permitira que o comércio florescesse sem impedimentos por gerações, trazendo prosperidade a todos os Sete Reinos.
 
 A sexta marcara a queda do GM anterior a Aurelius, Théssaly, que havia sido corrompido pelos Nihilaryth e deposto em um conflito que quase destruiu a Ordem. Uma Convergência de morte e transformação, os astrólogos a haviam chamado, um lembrete de que o destino podia virar tanto para a luz quanto para a escuridão.
 
