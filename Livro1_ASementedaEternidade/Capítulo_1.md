@@ -12,7 +12,7 @@
 
 A voz da Senhora Mirella era um sussurro que abria portas para o passado.
 
-Na biblioteca do Orfanato das Asas, onde velas de cristal Aetheris tremiam com luz dourada e o vento noturno fazia as janelas estremecerem, as crianças haviam se reunido em roda ao redor da grande poltrona de madeira entalhada. Grazielly, com seus cinco anos, ocupava seu lugar habitual no canto mais próximo da janela, Nyx enrolado ao seu lado como um cobertor prateado. A narradora segurava um livro antigo de capa desgastada pelo tempo, suas páginas amareladas contendo palavras que haviam sido lidas por gerações antes deles.
+Na biblioteca do Orfanato das Asas, onde velas de cristal Aetheris tremiam com luz dourada e o vento noturno fazia as janelas estremecerem, as crianças haviam se reunido em roda ao redor da grande poltrona de madeira entalhada. A narradora segurava um livro antigo de capa desgastada pelo tempo, suas páginas amareladas contendo palavras que haviam sido lidas por gerações antes deles.
 
 — Esta noite — Mirella disse, seus dedos traçando os símbolos gravados na capa — vou contar uma história que começou antes do primeiro suspiro. Uma história de amor, sacrifício e segredos guardados pelo vento. A história de uma mulher chamada Ayla, e da criança que mudaria o destino de todos nós.
 
@@ -312,17 +312,15 @@ E nas colinas douradas de Serravento, o vento soprou mais forte, carregando cons
 
 Mirella fez uma pausa, fechando suavemente o livro.
 
-As crianças permaneciam em silêncio, absorvidas pela história. Grazielly, no entanto, sentiu algo estranho — uma pontada no peito, como se as palavras que ouvira fossem mais do que apenas uma história. Como se fossem memórias de uma vida que ela não lembrava de ter vivido.
+As crianças permaneciam em silêncio, absorvidas pela história.
 
 — E o que aconteceu depois? — uma das crianças perguntou, ansiosa.
 
-A narradora sorriu, seus olhos encontrando os de Grazielly por um momento.
+A narradora sorriu misteriosamente.
 
 — Isso é história para outra noite, pequenos. Agora é hora de dormir.
 
-Mas enquanto as crianças se levantavam para ir aos dormitórios, Grazielly permaneceu sentada por mais um instante, Nyx ainda enrolado ao seu lado. Ela não sabia por que, mas aquela história de uma mulher chamada Ayla... aquela história de uma criança que viria ao mundo sob a luz de três luas...
-
-Ela sentiu como se fosse sobre ela.
+Enquanto as crianças se levantavam para ir aos dormitórios, o vento lá fora soprou mais forte por um momento, como se o próprio universo estivesse prenunciando algo extraordinário.
 
 ---
 
