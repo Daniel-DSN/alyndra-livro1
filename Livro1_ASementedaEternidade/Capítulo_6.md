@@ -16,7 +16,7 @@ Há datas que marcam a vida de uma pessoa mais do que outras — datas que, quan
 
 O quinto aniversário de Grazielly foi uma dessas datas.
 
-Não porque aniversários de cinco anos sejam particularmente memoráveis na vida de uma criança — embora, para Grazielly, que nunca havia celebrado seu nascimento com mais do que um bolo simples e os braços de Melessa, qualquer celebração já seria significativa. Foi memorável porque, naquele dia, algo mudou. Algo que nem ela nem Lyris compreenderiam completamente naquele momento, mas que plantaria sementes cujos frutos só colheriam anos mais tarde.
+Não porque aniversários de cinco anos sejam particularmente memoráveis na vida de uma criança — embora, para Grazielly, que nunca havia celebrado seu nascimento com mais do que um doce-de-aethrum simples e os braços de Melessa, qualquer celebração já seria significativa. Foi memorável porque, naquele dia, algo mudou. Algo que nem ela nem Lyris compreenderiam completamente naquele momento, mas que plantaria sementes cujos frutos só colheriam anos mais tarde.
 
 ---
 
@@ -34,11 +34,11 @@ Mira, que agora estava no orfanato há cinco anos, havia se tornado a melhor ami
 
 Grazielly considerou a pergunta com aquela seriedade que às vezes surpreendia quem não a conhecia bem.
 
-— Eu acho que sim — disse ela. — Eu nunca tive uma festa de verdade. Vó Melessa sempre fazia um bolo e me dava um abraço, mas... nunca teve outras crianças. Nunca teve presentes. Nunca teve música e dança.
+— Eu acho que sim — disse ela. — Eu nunca tive uma festa de verdade. Vó Melessa sempre fazia um doce-de-aethrum e me dava um abraço, mas... nunca teve outras crianças. Nunca teve presentes. Nunca teve música e dança.
 
 Mira sorriu, aquele sorriso largo que fazia suas bochechas arredondadas parecerem ainda mais infantis.
 
-— Então você vai amar. Madre Elara faz aniversários especiais. Sempre tem bolo — do bom, com frutas-cristalizadas e cobertura de mel. Tem música — Thom, aquele menino de Terraxis, toca flauta muito bem. E tem jogos no pátio. É muito divertido.
+— Então você vai amar. Madre Elara faz aniversários especiais. Sempre tem doce-de-aethrum — do bom, com frutas-cristalizadas e cobertura de mel. Tem música — Thom, aquele menino de Terraxis, toca flauta muito bem. E tem jogos no pátio. É muito divertido.
 
 Grazielly sorriu também, embora seu sorriso carregasse uma sombra que Mira aprendera a reconhecer — a sombra de alguém que havia perdido demais cedo demais, que carregava memórias de amor que já não existia.
 
@@ -184,9 +184,9 @@ Grazielly apertou o pingente contra o peito, sentindo o metal frio contra sua pe
 
 ## A Festa de Aniversário
 
-A tarde trouxe a festa que Mira e as outras crianças haviam preparado com tanto carinho. O pátio dos fundos estava decorado com flores-mespiria, plantas de pétalas douradas que floresciam no início da primavera, e fitas coloridas que tremulavam ao vento como serpentes de arco-íris. Uma mesa havia sido montada com todos os tipos de doces que a cozinha do orfanato conseguira preparar — bolos, tortas, frutas-cristalizadas, balas de mel que derretiam na boca.
+A tarde trouxe a festa que Mira e as outras crianças haviam preparado com tanto carinho. O pátio dos fundos estava decorado com flores-mespiria, plantas de pétalas douradas que floresciam no início da primavera, e fitas coloridas que tremulavam ao vento como serpentes de arco-íris. Uma mesa havia sido montada com todos os tipos de doces que a cozinha do orfanato conseguira preparar — doces-de-aethrum, tortas, frutas-cristalizadas, balas de mel que derretiam na boca.
 
-Mas o centro de tudo era o bolo. Um bolo de três camadas, coberto com um creme branco como neve e decorado com cristais de açúcar que brilhavam como gelo. No topo, cinco velas queimavam com chamas coloridas — uma tradição de Serravento onde cada vela representava um ano de vida, e a cor de cada chama representava um desejo para o futuro.
+Mas o centro de tudo era o doce-de-aethrum. Um doce de três camadas, coberto com um creme branco como neve e decorado com cristais de açúcar que brilhavam como gelo. No topo, cinco velas queimavam com chamas coloridas — uma tradição de Serravento onde cada vela representava um ano de vida, e a cor de cada chama representava um desejo para o futuro.
 
 — Azul para sabedoria — disse Mira, apontando para a primeira vela. — Prata para coragem. Rosa para amor. Dourada para prosperidade. E branca... branca é para o desejo secreto. Aquele que você faz para si mesma, que não conta para ninguém.
 
@@ -202,7 +202,7 @@ Ela soprou as velas.
 
 As chamas se extinguiram — exceto uma. A vela branca, a do desejo secreto, continuou a queimar por mais alguns segundos, sua chama brilhando mais intensamente antes de finalmente desaparecer. As crianças ao redor murmuraram em surpresa — era um sinal, diziam as velhas tradições de Serravento. Um sinal de que o desejo secreto era poderoso. Que o universo havia ouvido.
 
-— Agora o bolo! — alguém gritou, e o momento místico foi substituído por risadas e empurrões enquanto crianças se amontoavam para receber suas fatias.
+— Agora o doce! — alguém gritou, e o momento místico foi substituído por risadas e empurrões enquanto crianças se amontoavam para receber suas fatias.
 
 A festa continuou até o entardecer. Houve jogos — corridas no pátio, competição de adivinhações, uma caça ao tesouro que Mira havia organizado com pistas escondidas por todo o orfanato. Houve música — Thom tocou sua flauta enquanto as crianças dançavam em círculos, seus passos criando uma coreografia espontânea que fazia roupas esvoaçarem ao vento. Houve histórias — a velha Senhora Mirella contou contos de Seraphyens e deuses antigos, de mundos que existiam além das estrelas, de poderes que dormiam no sangue de linhagens esquecidas.
 

@@ -354,7 +354,7 @@ Lyris assentiu, a promessa já gravada em seu coração muito antes da diretora 
 
 Naquela noite, enquanto as crianças do orfanato se reuniam para o jantar no grande refeitório, Grazielly sentou-se entre Mira e Lyris, observando tudo com aqueles olhos castanhos grandes e expressivos que pareciam absorver mais do que deveriam ser capazes.
 
-A comida era simples mas farta — ensopado de tubérculos-da-terra, raízes nutritivas colhidas do solo com sabor que aquecia por dentro, com pedaços de carne, pão fresco saído do forno, frutas-cristalizadas, doces da estação que o sol havia transformado em concentração de mel, para sobremesa. As crianças conversavam animadamente sobre seus dias, sobre jogos que haviam jogado, sobre lições que haviam aprendido, sobre sonhos que haviam tido. Havia uma energia naquele lugar que Grazielly reconhecia como algo bom — a energia de uma família formada não por sangue, mas por necessidade e escolha.
+A comida era simples mas farta — ensopado de tubérculos-da-terra e proteínas-de-criadouros, raízes nutritivas colhidas do solo com sabor que aquecia por dentro, pão fresco saído do forno, frutas-cristalizadas, doces da estação que o sol havia transformado em concentração de mel, para sobremesa. As crianças conversavam animadamente sobre seus dias, sobre jogos que haviam jogado, sobre lições que haviam aprendido, sobre sonhos que haviam tido. Havia uma energia naquele lugar que Grazielly reconhecia como algo bom — a energia de uma família formada não por sangue, mas por necessidade e escolha.
 
 — Você está gostando daqui? — Mira perguntou, sua boca meio cheia de pão.
 
