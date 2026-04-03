@@ -34,7 +34,7 @@ No coração de Aetherion Prime, dentro dos muros impenetráveis de Sanctrum, a 
 
 — O ponto não é economia — retrucou o Mestre de Justiça, um homem de expressão severa que havia passado sua vida interpretando leis antigas. — O ponto é legalidade. Se permitirmos que Pyralis tome território por força, estabelecemos um precedente perigoso. Outros reinos começarão a fazer reivindicações similares. A ordem que mantemos desde a fundação dos Sete Reinos desmoronará.
 
-As vozes se sobreponham, argumentos colidindo como espadas em um campo de batalha verbal, cada conselheiro defendendo sua perspectiva com a paixão de alguém que acreditava estar certo. E sobre todos, presidi **Aurelius**, o Guardião Mestre.
+As vozes se sobrepunham, argumentos colidindo como espadas em um campo de batalha verbal, cada conselheiro defendendo sua perspectiva com a paixão de alguém que acreditava estar certo. E sobre todos, presidi **Aurelius**, o Guardião Mestre.
 
 Seu porte imponente e olhar penetrante comandavam respeito até mesmo dos conselheiros mais experientes. Ele havia ascendido ao posto máximo da Ordem anos antes, após uma vida de serviço que incluía incursões que poucos conheciam e sacrifícios que ainda menos compreendiam. Seu rosto era uma máscara de estoicismo — linhas de expressão que marcavam décadas de decisões difíceis, olhos que haviam visto demais para se surpreenderem facilmente, uma barba bem aparada que acrescentava à sua aura de autoridade incontestável.
 
@@ -142,7 +142,7 @@ Fora da casa, a tempestade crescia em intensidade. Os poucos aldeões que ainda 
 
 — Eu consigo ver a cabeça — anunciou Melessa, sua voz ganhando um fio de esperança. — Mais um empurrão, Ayla. Só mais um. Você consegue.
 
-Ayla reuniu cada fragmento de força que ainda restava em seu corpo exausto. Pensou nas guerras que ela havia lutado, nos amigos que ela havia perdido, na paz que ela havia encontrado neste lugar tranquilo onde ninguém conhecia seu passado. Pensou no pai da criança — em Aurelius, em seus olhos que carregavam o mesmo peso que ela carregava, em suas mãos que haviam segurado as dela em momentos onde as palavras não bastavam, em seu sorriso raro que iluminava seu rosto estoico como sol surgindo entre nuvens.
+Ayla reuniu cada fragmento de força que ainda restava em seu corpo exausto. Pensou nas guerras que ela havia lutado, nos amigos que ela havia perdido, na paz que ela havia encontrado neste lugar tranquilo onde ninguém conhecia seu passado. Pensou no pai da criança — em Aurelius, em seus olhos que carregavam o mesmo peso que ela carregava, em suas mãos que haviam segurado as dela em momentos onde as palavras não bastavam, em seu sorriso raro que iluminava seu rosto estoico como Aurion surgindo entre nuvens.
 
 Pensou no amor que tinha que permanecer escondido, mas que ainda assim ardia com uma chama que ela sabia que nunca se apagaria — não enquanto ela vivesse, e talvez nem mesmo depois.
 
@@ -168,7 +168,7 @@ Melessa, com décadas de experiência, foi a primeira a se recuperar. Ela envolv
 
 Ayla estava pálida. Muito pálida. Suor frio cobria sua testa, e seus olhos, que haviam brilhado com determinação durante todo o parto, agora começavam a perder o foco.
 
-— Ayla? — Melessa tocou o pulso da mulher, e o que sentiu fez seu coração afundar como pedra em águas profundas. Fraco. Irregular. Escapando. — Thalia, traga os bandagens de pressão, depressa! E os cristais de cura!
+— Ayla? — Melessa tocou o pulso da mulher, e o que sentiu fez seu coração afundar como pedra em águas profundas. Fraco. Irregular. Escapando. — Thalia, traga as bandagens de pressão, depressa! E os cristais de cura!
 
 A curandeira mais jovem correu para buscar os suprimentos, seus passos ecoando pela casa, mas Ayla sabia. Em seus anos como guerreira, ela havia visto aquele olhar muitas vezes — o olhar de alguém que sabia que a morte estava chegando, o olhar de alguém que havia aceitado seu destino com a calma de quem já havia enfrentado o pior e sobrevivido.
 
@@ -202,7 +202,7 @@ Uma lágrima escorreu pela bochecha de Ayla, brilhando como um diamante na luz d
 
 — Viva, minha filha — sua voz era agora um sussurro, fraco como uma brisa morrendo ao entardecer. — Viva uma vida... de paz. Longe das batalhas... longe do sangue... longe de tudo o que eu fui. Você merece... céus azuis... e risadas... e amor... tanto amor...
 
-Thalia voltou com os bandagens e cristais de cura, mas parou ao ver a cena — a mãe pálida segurando a criança brilhante, a parteira idosa chorando silenciosamente enquanto trabalhava, o momento se estendendo como uma eternidade comprimida em segundos.
+Thalia voltou com as bandagens e cristais de cura, mas parou ao ver a cena — a mãe pálida segurando a criança brilhante, a parteira idosa chorando silenciosamente enquanto trabalhava, o momento se estendendo como uma eternidade comprimida em segundos.
 
 Ayla olhou para Melessa uma última vez, e havia algo em seus olhos — gratidão por meses de amizade, amor pela criança que deixava para trás, despedida de uma vida que havia sido mais do que ela jamais esperou.
 
@@ -242,7 +242,7 @@ Mas o enterro de Ayla seria diferente.
 
 Não porque ela havia pedido — Ayla havia vivido em Mespiria como uma entre muitos, sem jamais reivindicar tratamento especial, sem jamais mencionar seu passado, sem jamais pedir nada além de paz. Mas porque o universo, ao que parecia, havia decidido que sua partida merecia ser marcada de uma forma que ninguém jamais esqueceria.
 
-As três luas ainda estavam visíveis no céu da manhã — Lyria, Nyx e Elara, raras em sua Convergência Tripla, brilhando juntas em um céu que não sabia se era noite ou dia. E quando o corpo de Ayla foi baixado à terra por seis homens da vila que a haviam conhecida como vizinha gentil, algo aconteceu que fez todos os presentes paralisarem em espanto coletivo.
+As três luas ainda estavam visíveis no céu da manhã — Lyria, Nyx e Elara, raras em sua Convergência Tripla, brilhando juntas em um céu que não sabia se era noite ou dia. E quando o corpo de Ayla foi baixado à terra por seis homens da vila que a haviam conhecido como vizinha gentil, algo aconteceu que fez todos os presentes paralisarem em espanto coletivo.
 
 A luz de Elara, a lua rosa do sacrifício, intensificou-se momentaneamente. Um raio de luz cor-de-rosa desceu do céu como uma lanterna celestial guiada por mãos invisíveis, tocando o túmulo de Ayla por um único instante antes de desaparecer nas profundezas da terra. Quando se foi, as flores silvestres ao redor do túmulo haviam florescido — pétalas rosa e brancas que se abriram como se saudassem uma alma que partia, como se a própria natureza estivesse prestando homenagem a uma guerreira que havia encontrado sua paz final.
 
@@ -288,7 +288,7 @@ Ele estava diante da janela, observando as três luas ainda visíveis no céu an
 
 Mas ele não sabia que aquele fenômeno marcava algo que mudaria sua vida para sempre.
 
-*Ayla,* ele pensou novamente, o nome vindo à sua mente sem convite, sem perincursão. *Por que estou pensando em você agora? Por que sinto como se... como se eu a tivesse perdido?*
+*Ayla,* ele pensou novamente, o nome vindo à sua mente sem convite, sem resistência. *Por que estou pensando em você agora? Por que sinto como se... como se eu a tivesse perdido?*
 
 Ele não completou o pensamento. Não ousava. Não tinha coragem de dar forma às palavras que temia.
 
@@ -388,7 +388,7 @@ Em Sanctrum, Aurelius começou a fazer arranjos discretos que ninguém questiona
 
 Ele não podia revelar sua conexão com ela. Não podia assumir publicamente a paternidade sem colocar ambos em perigo — inimigos da Ordem eram numerosos, e um filho secreto do Guardião Mestre seria um alvo valioso para aqueles que buscavam enfraquecer sua posição. Mas podia garantir que ela tivesse oportunidades, que fosse protegida de longe, que recebesse o treinamento necessário para sobreviver em um mundo que poderia não ser gentil com alguém de seu nascimento.
 
-E no silêncio de suas noites insone, ele olhava para o sudoeste, para o céu onde três luas haviam se alinhado no dia do nascimento de sua filha, e fazia uma promessa silenciosa para a mulher que havia amado e perdido, para a guerreira que havia dado sua vida para que a criança pudesse viver.
+E no silêncio de suas noites insônias, ele olhava para o sudoeste, para o céu onde três luas haviam se alinhado no dia do nascimento de sua filha, e fazia uma promessa silenciosa para a mulher que havia amado e perdido, para a guerreira que havia dado sua vida para que a criança pudesse viver.
 
 *Cuide dela, Ayla. De onde você estiver. E eu cuidarei dela aqui, no mundo que você deixou. Juntos, mesmo separados pela própria morte, garantiremos que nossa filha tenha a vida que você sonhou para ela. A vida de paz. A vida de amor. A vida que eu não pude lhe dar enquanto você viva.*
 
@@ -421,7 +421,7 @@ Neste segundo capítulo, a história salta milênios para nos apresentar o mundo
 
 Conhecemos Aurelius, o Guardião Mestre, cuja posição de poder esconde um coração dividido entre dever e amor. Sua conexão com Ayla — a guerreira que um dia lutou ao seu lado no Esquadrão Aurora — é o segredo que define sua existência, a ferida que nunca cicatriza, a promessa que ele não pode cumprir abertamente.
 
-E testemunhamos o nascimento de Grazielly sob a Convergência Tripla — três luas se alinhando como já fizeram apenas seis vezes antes, cada vez marcando eventos que mudaram o curso da história. Ayla morre para que sua filha possa viver, e Melessa promete cuidar da criança brilhante que chega ao mundo carregando mistérios em sua alma.
+E testemunhamos o nascimento de Grazielly sob a Convergência Tripla — três luas se alinhando como já fizeram apenas cinco vezes antes, cada vez marcando eventos que mudaram o curso da história. Ayla morre para que sua filha possa viver, e Melessa promete cuidar da criança brilhante que chega ao mundo carregando mistérios em sua alma.
 
 Este capítulo é sobre sacrifício — o sacrifício de uma mãe que dá sua vida, o sacrifício de um pai que ama em segredo, o sacrifício de uma comunidade que abraça uma estranha e sua criança. É sobre como o amor persiste mesmo quando não pode ser declarado, mesmo quando a morte separa, mesmo quando o destino impõe distâncias intransponíveis.
 
