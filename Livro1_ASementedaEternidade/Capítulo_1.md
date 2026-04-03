@@ -102,7 +102,7 @@ Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A c
 
 A criança respondeu com outro chute, mais forte desta vez, e Ayla sorriu — um sorriso genuíno, daqueles que só surgiam quando ela pensava na vida que estava prestes a trazer ao mundo.
 
-— Você é forte, não é? — ela continuou, sua voz baixa mas cheia de carinho. — Sinto isso. Sento seu espírito. Você vai ser alguém especial, minha criança. Alguém que vai marcar este mundo de uma forma que nem eu consigo imaginar.
+— Você é forte, não é? — ela continuou, sua voz baixa mas cheia de carinho. — Sinto isso. Sinto seu espírito. Você vai ser alguém especial, minha criança. Alguém que vai marcar este mundo de uma forma que nem eu consigo imaginar.
 
 O vento soprou mais forte por um momento, como se respondesse às palavras dela, e Ayla parou para observar o céu. As três luas não eram visíveis durante o dia, mas ela sabia que estavam lá — Lyria, Nyx e Elara, esperando, observando, preparando-se para uma Convergência que astrólogos de todos os reinos haviam predito para as próximas semanas.
 

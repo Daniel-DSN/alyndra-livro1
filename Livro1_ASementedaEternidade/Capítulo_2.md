@@ -76,11 +76,11 @@ A primeira Convergência, segundo os registros mais antigos das Cavernas Ancestr
 
 A segunda Convergência marcara a descoberta dos cristais Aetheris nas profundezas de Terraxis, minas que haviam revolucionado a tecnologia de Nova Aetherion e permitido que a civilização alcançasse alturas que antes eram impossíveis. Com os cristais, cidades flutuaram, curas foram descobertas, comunicação se tornou instantânea. Foi uma era de ouro que prometia prosperidade eterna.
 
-Mas foi a terceira Convergência que marcou o evento mais sangrento da história — a queda do Tirano Kaelthor. Na era antes de Sanctrum, antes da Ordem como conhecemos, os Seraphyens haviam deixado um legado de proteção: os Guardiões Antigos, escolhidos entre os mais poderosos de cada reino para proteger o Selo de Mytra e manter a paz entre os povos. Kaelthor era o terceiro desses Guardiões Antigos, nascido sob um céu tempestuoso, um prodígio como o mundo jamais vira: sua afinidade com fogo e relâmpago se fundia em uma habilidade única de gerar explosões devastadoras. Por sessenta ciclos de Aurion, ele foi benevolente e justo, amado por todos os reinos. Mas o medo da morte o consumiu quando sentiu os primeiros fios prateados em sua barba, e em sua loucura, buscou nos ritos proibidos dos Nihilaryth uma forma de transcender a mortalidade. O que encontrou não foi a vida eterna, mas a corrupção absoluta — e o herói se transformou em um demônio que queimou cidades inteiras e matou milhões. A Guerra das Cinzas, como ficou conhecida, estendeu-se por mais cinquenta e sete ciclos, devastando Nova Aetherion quase além de qualquer esperança de recuperação.
+Mas foi a terceira Convergência que marcou o evento mais sangrento da história — a queda do Tirano Kaelthor. Na era antes de Sanctrum, antes da Ordem como conhecemos, os Seraphyens haviam deixado um legado de proteção: os Guardiões Antigos, escolhidos entre os mais poderosos de cada reino para proteger o Selo de Myrtha e manter a paz entre os povos. Kaelthor era o terceiro desses Guardiões Antigos, nascido sob um céu tempestuoso, um prodígio como o mundo jamais vira: sua afinidade com fogo e relâmpago se fundia em uma habilidade única de gerar explosões devastadoras. Por sessenta ciclos de Aurion, ele foi benevolente e justo, amado por todos os reinos. Mas o medo da morte o consumiu quando sentiu os primeiros fios prateados em sua barba, e em sua loucura, buscou nos ritos proibidos dos Nihilaryth uma forma de transcender a mortalidade. O que encontrou não foi a vida eterna, mas a corrupção absoluta — e o herói se transformou em um demônio que queimou cidades inteiras e matou milhões. A Guerra das Cinzas, como ficou conhecida, estendeu-se por mais cinquenta e sete ciclos, devastando Nova Aetherion quase além de qualquer esperança de recuperação.
 
 Três heróis se levantaram contra o tirano: **Valerius**, o Vulcão de Pyralis, cujo domínio sobre fogo rivalizava com o do próprio Kaelthor; **Myrella**, a Maré de Thalassia, cujo controle sobre água conseguia apagar até as explosões mais devastadoras; e **Theron**, o Pilar de Terraxis, cujo domínio sobre terra ergueu muralhas que nem as bombas do tirano conseguiam romper. Juntos, os Três Vingadores travaram uma batalha que durou sete dias e sete noites, e na noite em que as três luas se alinharam, finalmente derrotaram Kaelthor ao custo de grande parte de seus próprios poderes.
 
-A quarta Convergência — a penúltima antes desta noite — marcara o renascimento de Nova Aetherion das cinzas da tirania. Sanctrum foi fundada como capital de um reino unificado, onde todos os Sete Reinos viveriam em paz sob a proteção de uma nova Ordem. O Selo de Mytra, até então guardado por gerações de Guardiões Antigos, foi confiado a uma estrutura permanente: a Ordem dos Mestres, com Valerius como seu primeiro Guardião Mestre. Trinta e três Guardiões Mestres haviam servido desde Valerius até Aurelius, cada um carregando o peso de proteger os reinos e o Selo sagrado. Foi o início da Era da Luz, um tempo de paz e reconstrução que duraria gerações.
+A quarta Convergência — a penúltima antes desta noite — marcara o renascimento de Nova Aetherion das cinzas da tirania. Sanctrum foi fundada como capital de um reino unificado, onde todos os Sete Reinos viveriam em paz sob a proteção de uma nova Ordem. O Selo de Myrtha, até então guardado por gerações de Guardiões Antigos, foi confiado a uma estrutura permanente: a Ordem dos Mestres, com Valerius como seu primeiro Guardião Mestre. Trinta e três Guardiões Mestres haviam servido desde Valerius até Aurelius, cada um carregando o peso de proteger os reinos e o Selo sagrado. Foi o início da Era da Luz, um tempo de paz e reconstrução que duraria gerações.
 
 Mas a história tem ciclos, e a corrupção jamais dorme verdadeiramente. A quinta Convergência — apenas algumas décadas atrás — marcara a queda de Théssaly, o trigésimo segundo Guardião Mestre, que havia sido corrompido pelos Nihilaryth assim como Kaelthor eras antes. Diferentemente do Tirano, porém, Théssaly foi deposto antes que pudesse causar destruição em escala comparável. Ainda assim, a Ordem vacilou, e Aurelius ascendeu ao cargo de trigésimo terceiro Guardião Mestre em tempos de incerteza e desconfiança.
 
@@ -114,7 +114,7 @@ Melessa trocou um olhar com a curandeira mais jovem ao seu lado, uma mulher de c
 
 — Quem é o pai? — Thalia perguntou baixinho, a curiosidade de sua juventude vencendo a cautela.
 
-Melessa a silenciou com um olhar severo. Não era momento para perguntas. Havia vidas em jogo — duas vidas, mãe e filho, e o peso de trazer ambas a salvo para o mundo.
+Melessa a silenciou com um olhar severo. Não era momento para perguntas. Havia vidas em jogo — duas vidas, mãe e filha, e o peso de trazer ambas a salvo para o mundo.
 
 Ayla fechou os olhos por um momento, e em sua mente, rostos de batalhas passadas desfilaram como fantasmas de uma vida que ela havia deixado para trás. Ela havia lutado nas Guerras de Fronteira entre Pyralis e Terraxis, havia defendido aldeias de invasores de Umbra que buscavam escravos e recursos, havia carregado feridos através de campos de batalha enquanto flechas e magia voavam ao seu redor como ventos de destruição, havia matado quando necessário e salvado quando possível.
 
@@ -154,7 +154,7 @@ E empurrou uma última vez com tudo o que tinha.
 
 Quando a criança finalmente emergiu, o mundo pareceu parar.
 
-A tempestade lá fora cessou instantaneamente — as nuvens se dissolveram como fumaça ao vento, revelando um céu noturno repleto de estrelas que brilhavam com uma intensidade que ninguém em Mespiria jamais havia visto, como se o próprio universo estivesse celebrando algo extraordinário. As três luas — Lyria, a prateada, governando os ciclos de cura e renovação; Nyx, a azulada, senhora dos mistérios e da intuição; e Elara, a rosa do sacrifício, que brilha apenas nas noites mais significativas — apareceram no céu juntas, um fenômeno raro que os astrólogos chamavam de Convergência Tripla, algo que só ocorrera seis vezes em toda a história registrada e que sempre anunciava eventos que mudavam o curso da história.
+A tempestade lá fora cessou instantaneamente — as nuvens se dissolveram como fumaça ao vento, revelando um céu noturno repleto de estrelas que brilhavam com uma intensidade que ninguém em Mespiria jamais havia visto, como se o próprio universo estivesse celebrando algo extraordinário. As três luas — Lyria, a prateada, governando os ciclos de cura e renovação; Nyx, a azulada, senhora dos mistérios e da intuição; e Elara, a rosa do sacrifício, que brilha apenas nas noites mais significativas — apareceram no céu juntas, um fenômeno raro que os astrólogos chamavam de Convergência Tripla, algo que só ocorrera cinco vezes em toda a história registrada e que sempre anunciava eventos que mudavam o curso da história.
 
 Mas não foi o céu que fez Melessa e as outras curandeiras ficarem sem fôlego.
 
@@ -497,8 +497,8 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 
 | Termo | Definição |
 |-------|-----------|
-| **Selo de Mytra** | Artefato sagrado; guardado primeiro pelos Guardiões Antigos, depois pela Ordem |
-| **Guardiões Antigos** | Protetores da era pré-Sanctrum; escolhidos para guardar o Selo de Mytra |
+| **Selo de Myrtha** | Artefato sagrado; guardado primeiro pelos Guardiões Antigos, depois pela Ordem |
+| **Guardiões Antigos** | Protetores da era pré-Sanctrum; escolhidos para guardar o Selo de Myrtha |
 | **Guerra das Cinzas** | Conflito de 57 ciclos contra Kaelthor |
 
 ### Lugares Visitados:
