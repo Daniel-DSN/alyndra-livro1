@@ -180,13 +180,11 @@ Perguntas para as quais não haveria respostas fáceis. Mas uma coisa todos sabi
 
 ---
 
-## VII. A Criança da Luz
+## VII. A Promessa no Escuro
 
 Após o enterro, Melessa levou Grazielly para a casa que havia sido de sua mãe.
 
-A bebê precisava ser alimentada, cuidada, e Melessa, apesar de sua idade avançada, estava determinada a honrar a promessa que havia feito.
-
-Foi quando a luz retornou.
+A bebê precisava ser alimentada, cuidada, e Melessa, apesar de sua idade avançada, estava determinada a honrar a promessa que havia feito. Mas quando a noite caiu e ela se preparava para dormir com a criança ao peito, a luz retornou.
 
 Melessa estava trocando os panos de Grazielly quando percebeu um brilho suave emanando da pele da criança. Era diferente do brilho do nascimento — mais suave, mais controlado, como se a criança estivesse aprendendo a conter algo que emanava naturalmente de seu ser.
 
@@ -194,63 +192,61 @@ Melessa estava trocando os panos de Grazielly quando percebeu um brilho suave em
 
 Grazielly a observou com aqueles olhos castanhos serenos, e então, pela primeira vez desde seu nascimento, ela sorriu. Um sorriso pequeno, sem dentes, mas cheio de uma alegria que parecia transcender sua idade.
 
-Nesse momento, Melessa entendeu.
+Melessa não sorriu de volta. Seu coração, que momentos antes derretia diante daquele sorriso, agora se contraiu com uma certeza gelada.
 
-Esta criança não era comum. Esta criança carregava algo em sua alma — algo antigo, algo poderoso. Ayla havia dito que Grazielly merecia uma vida de paz. Mas olhando para aquela luz que pulsava sob a pele da bebê, Melessa se perguntou se o destino permitiria tal coisa.
+Ela conhecia os rumores. Conhecia as histórias que os curandeiros mais velhos contavam ao redor das fogueiras — histórias sobre crianças nascidas sob a Convergência Tripla, crianças que carregavam dons que os homens de Sanctrum cobiçavam, crianças que desapareciam das vilas sem que ninguém soubesse para onde haviam ido. Se a Ordem dos Mestres descobrisse o que havia nascido naquela noite, naquela casa de pedra, naquela vila esquecida no sudoeste de Serravento...
 
-— Eu prometi à sua mãe — disse Melessa, pegando a criança com cuidado renovado. — Eu prometi que cuidaria de você. E eu vou. Não importa o que você seja. Não importa o que o destino reserva. Você terá amor. Você terá uma família. Você terá um lar. E você saberá que sua mãe a amou mais do que palavras podem expressar.
+Ninguém viria por compaixão. Viriam por interesse. Viriam pelo poder.
+
+— Não — ela sussurrou, segurando Grazielly contra o peito com uma força que surpreendeu seus próprios braços velhos. — Ninguém vai te levar. Ninguém vai saber. Enquanto eu viver, você estará escondida.
+
+Melessa levantou-se, caminhando até a janela. As três luas ainda brilhavam no céu, mais fracas agora, começando a se separar após a Convergência. Ela olhou para a estrada que levava a Ventania, e além dela, para os territórios de Sanctrum, tão distantes e tão perigosos.
+
+Thalia precisava ser orientada. Os vizinhos precisavam ser alertados — não sobre o brilho, nunca sobre o brilho — mas sobre a necessidade de discrição. A criança era uma órfã comum. Filha de mãe desconhecida, sem pai identificado. Mais uma vida que o mundo havia descartado. Nada mais.
+
+— Eu prometi à sua mãe — Melessa disse, olhando para Grazielly, cujos olhos castanhos já começavam a se fechar em sono. — Eu prometi que você teria amor, família, um lar. E eu cumpro promessas. Mas para te dar isso, preciso primeiro te proteger. E te protegerei até o meu último suspiro.
 
 Grazielly agarrou o dedo de Melessa com sua mão minúscula, e por um instante, a velha parteira sentiu uma pulsação de energia — quente, gentil, profundamente viva — viajar da criança para ela.
 
 Uma energia que parecia dizer "obrigada".
 
-Uma energia que parecia prometer algo que o futuro guardava.
+Uma energia que, se caísse em mãos erradas, poderia ser a ruína de todas elas.
+
+Melessa deitou-se com a criança ao peito, uma mão protetora sobre o pequeno corpo, os olhos fixos na escuridão como se esperasse que ela própria viesse buscar o que havia nascido naquela noite.
+
+*Ninguém vai saber,* ela repetiu silenciosamente, como um mantra. *Ninguém, além de mim.*
 
 ---
 
-## VIII. O Guardião Distante
+## VIII. O Eco nas Trevas
 
-Em Sanctrum, a centenas de quilômetros de distância, Aurelius acordou com um sobressalto.
+Em Sanctrum, do outro lado do continente, Aurelius acordou com um sobressalto.
 
-Não havia sido um pesadelo — não exatamente. Foi mais como uma sensação, um aperto no peito que veio de algum lugar além do sono, além da vigília, além de tudo o que ele conhecia.
+Não havia sido um pesadelo — não exatamente. Foi mais como uma sensação, um aperto no peito que veio de algum lugar além do sono, além da vigília, além de tudo o que ele conhecia. Como se algo tivesse sido arrancado do mundo durante a noite — algo que ele não conseguia nomear, mas cuja ausência sentia como se fosse parte de si mesmo.
 
-Ele foi até a janela e observou as três luas ainda visíveis no céu antes do amanhecer. A Convergência Tripla estava acontecendo — um fenômeno que marcava eventos de importância cósmica.
+Ele foi até a janela e observou as três luas ainda visíveis no céu antes do amanhecer. A Convergência Tripla — um fenômeno que a memória registrava como ocorrendo apenas uma vez a cada milênio. Sete Convergências em toda a história conhecida. E agora, a oitava.
 
-*Ayla,* ele pensou, o nome vindo à sua mente sem convite. *Por que estou pensando em você agora? Por que sinto como se...*
+*A Convergência.* O pensamento ecoou em sua mente com uma ressonância que ele não conseguia explicar. Eventos de importância cósmica. Crianças nascidas sob suas luas ganhavam dons extraordinários. Pelo menos era o que os registros antigos diziam — registros que ele, como Guardião Mestre, tinha acesso exclusivo.
 
-Ele não completou o pensamento. Não ousava.
+Mas não foi isso que o fez apertar a borda da janela até seus nós ficarem brancos.
 
-O toque à porta veio como uma interrupção que ele esperava e temia ao mesmo tempo.
+Foi algo mais pessoal. Mais irracional. Um nome que se formou em seus lábios antes que ele pudesse impedi-lo.
 
-— Entre — disse Aurelius, virando-se com uma expressão cuidadosamente controlada.
+— Ayla...
 
-Um mensageiro jovem entrou, seu rosto mostrando urgência e cansaço de uma viagem longa através da noite.
+O nome saiu como um sussurro carregado de anos — anos de silêncio, de memórias enterradas sob dever e responsabilidade, de noites em que ele olhava para o céu e se perguntava onde ela estaria, se estaria bem, se alguma vez pensava nele.
 
-— Guardião Mestre — o mensageiro se curvou. — Uma mensagem urgente de Serravento. De uma vila chamada Mespiria.
+Ayla havia partido há meses. Dissera que precisava de espaço, de tempo, que carregava um fardo que não podia compartilhar. Ele a deixara ir — não porque quisesse, mas porque a amava o suficiente para respeitar sua escolha. E desde então, nada. Silêncio absoluto. Como se ela tivesse se evaporado do mundo.
 
-Aurelius sentiu seu coração acelerar.
+E agora, na noite da Convergência Tripla, ele acordava com a sensação de que algo havia se quebrado. Como se uma corda invisível que os conectava tivesse sido cortada.
 
-— Fale.
+*Estou sendo tolo,* ele pensou, afastando-se da janela. *São apenas as luas. A Convergência afeta até os mais fortes.*
 
-— Uma mulher chamada Ayla morreu dando à luz. Uma criança foi deixada órfã. A parteira local pede que a Ordem seja informada. Ela disse... a mãe pediu para avisar "ele".
+Mas quando fechou os olhos, uma lágrima solitária escorreu por sua bochecha — a primeira em muitos anos. E no escuro de seu gabinete, o Guardião Mestre de Nova Aetherion, o homem que carregava o peso do mundo sobre seus ombros, permitiu-se um momento de fraqueza que ninguém jamais saberia que existiu.
 
-O silêncio que se seguiu pesou como montanhas, como eras, como o próprio peso do universo comprimido em um único momento.
+Ele não sabia sobre a criança. Não sabia que Ayla havia dado à luz uma menina naquela mesma noite. Não sabia que em uma pequena vila chamada Mespiria, uma parteira idosa segurava um bebê que brilhava com uma luz que desafiava a compreensão. Não sabia que a mulher que amava havia partido deixando para trás a única coisa que poderia ter dado sentido a uma vida de sacrifícios.
 
-Aurelius permaneceu imóvel. Processando as palavras. Recusando-se a aceitá-las.
-
-*Ayla está morta.*
-
-O pensamento veio como uma faca rasgando seu peito. Ele não gritou. Não chorou. Não fez nada que pudesse ser visto por outros. Apenas permaneceu ali, imóvel, enquanto algo dentro dele se partia.
-
-— Obrigado — ele disse finalmente, sua voz firme como aço. — Você pode ir.
-
-O mensageiro hesitou, como se esperasse mais, mas eventualmente se curvou e partiu.
-
-Aurelius ficou sozinho. Apenas ele e o silêncio. Apenas ele e as três luas que brilhavam no céu matinal. Apenas ele e o peso de algo que não sabia como carregar.
-
-Ele não sabia sobre a criança. Não sabia que Ayla havia deixado algo para trás — alguém que carregava seu sangue, seu sangue, o sangue dos Seraphyens. Alguém que mudaria o destino de todos.
-
-Ele apenas sabia que a mulher que amava havia partido. E que algo no mundo havia se quebrado de uma forma que talvez nunca pudesse ser consertado.
+Tudo o que sabia era que algo havia mudado naquela noite. E que o mundo, de alguma forma que ele não conseguia articular, nunca mais seria o mesmo.
 
 ---
 
@@ -260,7 +256,7 @@ Nas colinas douradas de Serravento, o vento soprou mais forte — carregando con
 
 E em algum lugar distante, em montanhas geladas entre Terraxis e Umbra, um velho de olhos tristes ergueu a cabeça, como se tivesse ouvido algo que esperava há muito tempo.
 
-O destino começara a se mover.
+O destino começara a se mover — silencioso, paciente, inabalável.
 
 ---
 
@@ -268,7 +264,7 @@ O destino começara a se mover.
 
 ---
 
-*No próximo capítulo: Quatro anos se passam. Grazielly cresce sob os cuidados de Melessa, mas algo nela está despertando. E quando a morte visitar novamente a pequena vila de Mespiria, uma estranha chamada Lyris aparecerá para cumprir uma promessa feita em segredo.*
+*No próximo capítulo: Quatro anos se passam na sombra. Melessa esconde Grazielly do mundo, mas o tempo não pode ser detido. Quando a velha parteira envia uma mensagem desesperada a Sanctrum, uma lenda das sombras é despertada — e uma jornada de semanas através dos Sete Reinos começará, mudando o destino de uma criança para sempre.*
 
 ---
 
@@ -287,11 +283,11 @@ O destino começara a se mover.
 
 | Nome | Função | Status |
 |------|--------|--------|
-| **Grazielly** | Protagonista | Recém-nascida |
+| **Grazielly** | Protagonista | Recém-nascida (escondida em Mespiria) |
 | **Ayla** | Mãe de Grazielly | Falecida |
-| **Melessa** | Parteira, guardiã de Grazielly | Viva |
+| **Melessa** | Parteira, guardiã de Grazielly | Viva (escondendo a criança) |
 | **Thalia** | Curandeira jovem | Viva |
-| **Aurelius** | Guardião Mestre, pai de Grazielly | Vivo (Sanctrum) |
+| **Aurelius** | Guardião Mestre, pai de Grazielly | Vivo (Sanctrum — ignora a existência da filha) |
 
 ### Locais Introduzidos:
 
