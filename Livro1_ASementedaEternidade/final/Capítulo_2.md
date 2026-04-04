@@ -148,7 +148,7 @@ Com dificuldade, Ayla puxou a corrente por cima da cabeça. No extremo, um peque
 
 Melessa segurou o pingente que Ayla depositara em sua mão aberta. Era leve e frio, mas parecia carregar um peso desproporcional ao seu tamanho — o peso de um segredo que atravessava reinos.
 
-— Este selo — Ayla continuou, sua voz falhando e retornando como as chamas de uma vela ao vento. — É a marca dos emissários de Sanctrum. Mensageiros que percorrem todos os Sete Reinos... servindo a Ordem. Se você escrever uma carta... selá-la com a impressão deste pingente... e deixá-la no ponto de coleta de Ventania... eles levarão diretamente a ele. Nenhuma outra mão tocará aquela mensagem. Ele saberá... que vem de mim. Mesmo depois... mesmo depois que eu...
+— Este selo — Ayla continuou, sua voz falhando e retornando como as chamas de uma vela ao vento. — É a marca dos emissários de Sanctrum. Mensageiros que percorrem todos os Sete Reinos... servindo a Ordem. Se você escrever uma carta... selá-la com a impressão deste pingente... e deixá-la no ponto de coleta de Velantis... eles levarão diretamente a ele. Nenhuma outra mão tocará aquela mensagem. Ele saberá... que vem de mim. Mesmo depois... mesmo depois que eu...
 
 A voz dela se quebrou. Uma lágrima escorreu pelo canto de seu olho, e Melessa apertou sua mão com força, sentindo os dedos gelados da jovem mãe entre os seus.
 
@@ -224,7 +224,7 @@ Thalia precisava ser orientada. Os vizinhos precisavam ser alertados — não so
 
 — Não — ela sussurrou, segurando Grazielly contra o peito com uma força que surpreendeu seus próprios braços velhos. — Ninguém vai te levar. Ninguém vai saber. Enquanto eu viver, você estará escondida.
 
-Melessa levantou-se, caminhando até a janela com Grazielly aconchegada em seu peito. As três luas ainda brilhavam no céu, mais fracas agora, começando a se separar após a Convergência. Ela olhou para a estrada que levava a Ventania, e além dela, para os territórios de Sanctrum, tão distantes e tão perigosos.
+Melessa levantou-se, caminhando até a janela com Grazielly aconchegada em seu peito. As três luas ainda brilhavam no céu, mais fracas agora, começando a se separar após a Convergência. Ela olhou para a estrada que levava a Velantis, e além dela, para os territórios de Sanctrum, tão distantes e tão perigosos.
 
 O pingente sobre a mesa parecia pulsar na escuridão, como se aguardasse ser usado.
 
@@ -330,7 +330,7 @@ O destino começara a se mover — silencioso, paciente, inabalável. E em Mespi
 | **Bênção de Elara** | Luz rosa que desceu do céu sobre o túmulo de Ayla |
 | **Selo dos Emissários** | Pingente negro com marca de Sanctrum; permite enviar mensagens diretamente ao Guardião Mestre |
 | **Emissários de Sanctrum** | Mensageiros que percorrem os Sete Reinos a serviço da Ordem dos Mestres |
-| **Ponto de Coleta de Ventania** | Local onde mensagens seladas são deixadas para os emissários recolherem |
+| **Ponto de Coleta de Velantis** | Local onde mensagens seladas são deixadas para os emissários recolherem |
 
 ### Personagens Introduzidos:
 
@@ -347,7 +347,7 @@ O destino começara a se mover — silencioso, paciente, inabalável. E em Mespi
 | Local | Descrição |
 |-------|-----------|
 | **Cemitério de Mespiria** | Onde Ayla foi enterrada; abençoado por Elara |
-| **Ventania** | Cidade nearest com ponto de coleta dos emissários de Sanctrum |
+| **Velantis** | Cidade com ponto de coleta dos emissários de Sanctrum |
 
 ---
 
