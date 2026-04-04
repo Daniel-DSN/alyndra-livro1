@@ -184,7 +184,7 @@ Aurelius permaneceu em silêncio por longos instantes. Quando finalmente abriu o
 
 O assistente hesitou — Lyris havia se aposentado anos atrás e vivia uma vida tranquila nos arredores de Sanctrum — mas não questionou a ordem do En Me.
 
-Lyris chegou ao gabinete pouco depois. Seus cabelos grisalhos estavam cortados curtos como sempre, e seus olhos verdes conservavam aquela agudeza que fazia dela a melhor agente que a Ordem já havia produzido. Ela usava roupas simples — de uma aposentada que havia trocado as sombras pela quietude — mas sua postura, ereta e econômica em seus movimentos, revelava a lentia que nunca desaparecia por completo.
+Lyris chegou ao gabinete pouco depois. Seus cabelos grisalhos estavam cortados curtos como sempre, e seus olhos verdes conservavam aquela agudeza que fazia dela a melhor agente que a Ordem já havia produzido. Ela usava roupas simples — de uma aposentada que havia trocado as sombras pela quietude — mas sua postura, ereta e econômica em seus movimentos, revelava a agilidade que nunca desaparecia por completo.
 
 — Senhor — ela disse, fazendo uma reverência formal.
 
@@ -290,7 +290,7 @@ Lyris apertou o passo, e o vento de Serravento pareceu soprar mais forte, como s
 
 ---
 
-## VI. O Lorde dos Ventos e o Quadro
+## VI. O Senhor dos Ventos e o Quadro
 
 O Palácio das Correntes de Ar era uma maravilha arquitetônica que parecia desafiar cada lei que a física conhecia — torres esguias que se curvavam como se dançassem com o vento, jardins que flutuavam entre pavilhões de mármore branco, pontes de cristal que conectavam estruturas que não deveriam poder se sustentar. Era um testemunho do poder dos Seraphyens que haviam fundado aquele reino, e da habilidade dos arquitetos que haviam continuado sua obra através dos milênios.
 
@@ -346,7 +346,7 @@ Lyris retirou o envelope de seu manto e o estendeu para um assistente que se apr
 
 Valerion levantou os olhos do documento, fixando Lyris com um olhar que parecia pesar sua alma.
 
-— Serravento não é um estado vassalo de Sanctrum, agente. Permitir que agentes estrangeiros operem em nosso território é uma cortesia, não uma obrigação. Mas concordo — Aurlius sempre foi um homem de modos cuidadosos. — Ele entregou o documento a um assistente. — A autorização está em ordem. Você terá livre trânsito em Serravento.
+— Serravento não é um estado vassalo de Sanctrum, agente. Permitir que agentes estrangeiros operem em nosso território é uma cortesia, não uma obrigação. Mas concordo — Aurelius sempre foi um homem de modos cuidadosos. — Ele entregou o documento a um assistente. — A autorização está em ordem. Você terá livre trânsito em Serravento.
 
 Lyris fez outra reverência.
 
@@ -378,7 +378,7 @@ Valerion havia descido os degraus de seu trono e caminhava em sua direção com 
 
 Os Sete Ventos trocaram olhares curiosos, mas obedeceram sem questionar. Um a um, retiraram-se, seguidos pelos assistentes e guardas, até que apenas Lyris e o Senhor dos Ventos permanecessem no vasto salão. As portas se fecharam com um baque suave. O vento continuava a entrar pelas janelas, as cortinas brancas dançando como fantasmas ao redor deles.
 
-Valerion parou a um metro dela, seus olhos azuis agora carregando algo diferente da diplomacia formal — reconhecimento, conhecimento, e um brilho que Lyris não gostou nem um pouco.
+Valerion parou a um Passo dela, seus olhos azuis agora carregando algo diferente da diplomacia formal — reconhecimento, conhecimento, e um brilho que Lyris não gostou nem um pouco.
 
 — Eu não a vejo há muito tempo — ele disse, sua voz mais baixa, íntima de uma forma que fez os instintos de Lyris gritarem em alerta. — Quinze anos, não é? Desde aquela operação em Umbra. A cordilheira norte. A noite em que três sentinelas desapareceram sem que ninguém ouvisse um único som.
 

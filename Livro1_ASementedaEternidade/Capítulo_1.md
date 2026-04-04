@@ -136,7 +136,7 @@ Era exatamente o que Ayla procurava.
 
 Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Serranos, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena mas aconchegante nos arredores da vila.
 
-— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam ao sol da tarde. — Comecei a me preocupar. A caminhada de Zephyria não é curta, especialmente em seu estado.
+— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam à luz de Aurion da tarde. — Comecei a me preocupar. A caminhada de Zephyria não é curta, especialmente em seu estado.
 
 — Estou bem, Melessa — Ayla respondeu, subindo os degraus com cuidado. — E consegui as raízes-doces que você pediu.
 
@@ -182,7 +182,7 @@ A criança chutou, não era um chute comum desta vez. Era um movimento deliberad
 
 — Você é especial — Ayla sussurrou, sentindo lágrimas finalmente escaparem. — Eu sinto isso. Desde o primeiro momento em que soube que você existia, eu soube que você seria diferente. Não sei explicar como. Apenas... sinto. Como se você carregasse algo dentro de si que vai além do que eu posso compreender.
 
-Ela secou as lágrimas com a costureira da mão.
+Ela secou as lágrimas com a costura da mão.
 
 — Eu vou te proteger. Vou te dar uma vida boa. Vou te amar todos os dias, em cada respiração, em cada passo que você der. E quando as tempestades vierem — porque elas sempre vêm — eu vou estar lá para te ajudar a atravessá-las. Eu prometo.
 

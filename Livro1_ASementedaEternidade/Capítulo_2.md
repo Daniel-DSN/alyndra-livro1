@@ -168,13 +168,13 @@ Quando o primeiro raio de Aurion despontou no horizonte, a comunidade se reuniu 
 
 E quando o corpo de Ayla foi baixado à terra, algo aconteceu.
 
-A luz de Elara, a lua rosa do sacrifício, intensificou-se momentaneamente. Um raio de luz cor-de-rosa desceu do céu como uma lanterna celestial, tocando o túmulo por um único instante antes de desaparecer nas profundezas da terra. Quando se foi, as flores silvestres ao redor haviam florescido — pétalas rosa e brancas que se abriram como se saudassem uma alma que partia.
+A luz de Elara, a rosa do sacrifício, intensificou-se momentaneamente. Um raio de luz cor-de-rosa desceu do céu como uma lanterna celestial, tocando o túmulo por um único instante antes de desaparecer nas profundezas da terra. Quando se foi, as flores silvestres ao redor haviam florescido — pétalas rosa e brancas que se abriram como se saudassem uma alma que partia.
 
 Melessa ajoelhou-se ao lado da cova, lágrimas escorrendo por suas bochechas.
 
-— As luas... — sussurrou ela, sua voz carregada de reverência. — Elara a abençoou. A lua do sacrifício a reconheceu. Ela... ela era alguém especial. Alguém que o universo conhecia, mesmo que nós não conhecêssemos.
+— As luas... — sussurrou ela, sua voz carregada de reverência. — Elara a abençoou. A rosa do sacrifício a reconheceu. Ela... ela era alguém especial. Alguém que o universo conhecia, mesmo que nós não conhecêssemos.
 
-Os aldeões trocaram olhares confusos e maravilhados. Quem era Ayla, realmente? Que segredos ela havia carregado? Por que a lua do sacrifício a havia abençoado?
+Os aldeões trocaram olhares confusos e maravilhados. Quem era Ayla, realmente? Que segredos ela havia carregado? Por que Elara a havia abençoado?
 
 Perguntas para as quais não haveria respostas fáceis. Mas uma coisa todos sabiam — aquele enterro seria lembrado por gerações, contado aos netos como uma história de um tempo em que o universo tocou a terra.
 
