@@ -42,10 +42,10 @@ Para a criação de novos termos, seguem os prefixos e sufixos fundamentais esta
 
 | Nome Comum | Nome Ancestral | Tradução Literal | Função Ecológica | Uso Cultural |
 |------------|----------------|------------------|------------------|--------------|
-| **Aethrum-dourado** | **She Utu** | "Cereal de Aurion" | Alimento base de Nova Aetherion | Colheita em campos dourados; pão e farinha |
-| **Pratafolha** | **Gesh Nanna** | "Árvore da Lua" | Medicinal; folhas prateadas brilham à noite | Chás curativos; rituais de cura thalassianos |
+| **Aethrys** | **She Utu** | "Cereal de Aurion" | Alimento base de Nova Aetherion | Colheita em campos dourados; pão e farinha |
+| **Argentis** | **Gesh Nanna** | "Árvore da Lua" | Medicinal; folhas prateadas brilham à noite | Chás curativos; rituais de cura thalassianos |
 | **Flores-lua** | **Gir Mul** | "Flor das Estrelas" | Perfumosa; pétalas cintilantes | Perfumes de elite; rituais de bênção |
-| **Trepadeiras-de-vento** | **Gesh Lil** | "Planta do Ar" | Purificadora do ambiente | Decoração de templos; limpeza espiritual |
+| **Aeriva** | **Gesh Lil** | "Planta do Ar" | Purificadora do ambiente | Decoração de templos; limpeza espiritual |
 | **Hydra Vine** | **U A Ki** | "Fonte de Água e Terra" | Videira que armazena água | Sobrevivência em regiões áridas; fonte vital |
 | **Vagens-luminais** | **Gú Me** | "Legume de Éter" | Nutritivo; brilha levemente por dentro | Alimentação infantil; sopas reconfortantes |
 | **Folhas-de-cura** | **A Gish** | "Água da Planta" | Ervas aromáticas medicinais | Curas comuns; chás reconfortantes |
@@ -63,13 +63,13 @@ Para a criação de novos termos, seguem os prefixos e sufixos fundamentais esta
 
 | Nome Comum | Nome Ancestral | Tradução Literal | Natureza Espiritual | Comportamento |
 |------------|----------------|------------------|---------------------|---------------|
-| **Ventorro** | **Ur Lil** | "Besta do Vento" | Empático, leal, sensível | Forma laços vitalícios; orelhas captam sussurros |
+| **Liryth** | **Ur Lil** | "Besta do Vento" | Empático, leal, sensível | Forma laços vitalícios; orelhas captam sussurros |
 
 ### Criaturas de Pastoreio e Montaria
 
 | Nome Comum | Nome Ancestral | Tradução Literal | Natureza Espiritual | Comportamento |
 |------------|----------------|------------------|---------------------|---------------|
-| **Capraluna** | **Ur Nanna** | "Besta da Lua" | Gentil, noturna, rebanhadora | Pastoreio; reproduz ao luar |
+| **Nariel** | **Ur Nanna** | "Besta da Lua" | Gentil, noturna, rebanhadora | Pastoreio; reproduz ao luar |
 
 ### Criaturas de Vanguarda (Elite)
 
@@ -150,16 +150,16 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 - Invocações dos Seraphyens em batalha
 
 ### Capítulo II - A Estrela que Nasceu na Tempestade
-- Campos de **She Utu** (Aethrum-dourado) em Serravento
+- Campos de **She Utu** (Aethrys) em Sylvaris
 - Nascimento sob Convergência Tripla
 
 ### Capítulo III - O Legado da Parteira
 - **Gú Me** (Vagens-luminais) na cozinha de Melessa
 - **Mushen Gir** (Asas-de-veludo) no quintal
-- **Gesh Lil** (Trepadeiras-de-vento) no Orfanato das Asas
+- **Gesh Lil** (Aeriva) no Orfanato Luminis
 
 ### Capítulo IV - O Resgate do Coração
-- **Ur Lil** (Ventorro) - Nyx é resgatado
+- **Ur Lil** (Liryth) - Nyx é resgatado
 - **Ur Ensi** (Assombra-pelos) no Bosque dos Sussurros
 - Manifestação Cryonys de Grazielly
 
@@ -200,7 +200,7 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 | **Chama Vinculadora** | **Lugal Izi** | "Senhor do Fogo" | Pyralis |
 | **Maré Vinculadora** | **Lugal A** | "Senhor da Água" | Thalassia |
 | **Terra Vinculadora** | **Lugal Ki** | "Senhor da Terra" | Terraxis |
-| **Vento Vinculadora** | **Lugal Lil** | "Senhor do Vento" | Serravento |
+| **Vento Vinculadora** | **Lugal Lil** | "Senhor do Vento" | Sylvaris |
 | **Sombra Vinculadora** | **Lugal Gig** | "Senhor da Sombra" | Umbra |
 | **Tempestade Vinculadora** | **Lugal Uru** | "Senhor da Tempestade" | Fulmora |
 
@@ -211,7 +211,7 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 | **Forja-Mor** | **En Izi Gal** | "Senhor do Grande Fogo" | Pyralis |
 | **Almirante-Prime** | **Lugal A Mah** | "Grande Senhor da Água" | Thalassia |
 | **Ministro de Cristal** | **En Zat** | "Senhor do Cristal" | Terraxis |
-| **Mestre dos Ventos** | **En Lil** | "Senhor do Vento" | Serravento |
+| **Mestre dos Ventos** | **En Lil** | "Senhor do Vento" | Sylvaris |
 | **Sentinela do Norte** | **Dili Gig** | "Vigia Sombrio" | Umbra |
 | **Tempestade-Menor** | **Uru Tur** | "Pequena Tempestade" | Fulmora |
 
@@ -254,7 +254,7 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 | **Agente de Campo** | **Lu Dili** | "Pessoa Vigia" | Operações |
 | **Sentinela** | **Dili** | "Vigia" | Guarda e proteção |
 
-### Conselho de Correntes (Serravento)
+### Conselho de Correntes (Sylvaris)
 
 | Título | Nome Ancestral | Tradução Literal | Função |
 |--------|----------------|------------------|--------|
@@ -266,7 +266,7 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 | **Vento Baixo** | **Lil Ki** | "Vento da Terra" | Infraestrutura |
 | **Vento Calmo** | **Lil Silim** | "Vento Pacífico" | Justiça e leis |
 
-### Cavaleiros do Céu (Serravento)
+### Cavaleiros do Céu (Sylvaris)
 
 | Patente | Nome Ancestral | Tradução Literal | Comando |
 |---------|----------------|------------------|--------|
@@ -282,7 +282,7 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 
 | Nome Comum | Nome Ancestral | Tradução Literal | Elemento |
 |------------|----------------|------------------|----------|
-| **Serravento** | **Lil An** | "Vento do Céu" | Ar |
+| **Sylvaris** | **Lil An** | "Vento do Céu" | Ar |
 | **Fulmora** | **Uru** | "Tempestade" | Raio |
 | **Pyralis** | **Izi** | "Fogo" | Fogo |
 | **Terraxis** | **Ki Gal** | "Terra Grande" | Terra |
@@ -310,17 +310,17 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 
 ---
 
-### Serravento - Províncias
+### Sylvaris - Províncias
 
 | Província | Capital | Característica |
 |-----------|---------|----------------|
-| **Zephyria** | Zephyria | Capital; centro político |
-| **Ventania** | Ventania | Centro comercial; orfanatos |
+| **Zephyra** | Zephyra | Capital; centro político |
+| **Velantis** | Velantis | Centro comercial; orfanatos |
 | **Mespiria** | Mespiria | Agrícola; pacífica |
 | **Altomonte** | Fortaleza Alta | Militar; fronteira norte |
 | **Brisalva** | Portobrisa | Portuária; comércio exterior |
 
-### Festivais de Serravento
+### Festivais de Sylvaris
 
 | Festival | Significado |
 |----------|----------------|
