@@ -17,6 +17,8 @@
 - **NUNCA contradizer informações aqui contidas**
 - Atualizações apenas por autorização explícita do Criador
 
+> ⚠️ **NOTA DE SINCRONIZAÇÃO (06/04/2026):** Nomenclatura canônica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato), **Orfanato Luminis** (instituição), **Aethrys/Argentis/Aeriva/Lumiara/Giralis** (flora), **Liryth/Nariel/Umbri/Sylari/Ventis** (fauna). Termos anteriores ("Serravento", "Ventania", "Zephyria", "Orfanato das Asas", etc.) são OBSOLETOS fora de logs de versão.
+
 ---
 
 # 🌌 I. COSMOLOGIA PRIMORDIAL
