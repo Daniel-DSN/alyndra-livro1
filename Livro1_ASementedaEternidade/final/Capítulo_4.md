@@ -80,13 +80,13 @@ Depois do jantar, as crianças se reuniram na biblioteca para a hora das histór
 
 Grazielly sentou-se ao lado de Mira no mesmo lugar onde costumava se sentar nos capítulos futuros — um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Mirella cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
 
-— Esta noite — Mirella disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Aérya com seu último ato de amor pela criação.
+— Esta noite — Mirella disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Sylvaris com seu último ato de amor pela criação.
 
 Grazielly sentiu algo ao ouvir aquele nome. Não reconhecimento exato — ela nunca havia ouvido a história de Ventus, não da forma como seria contada ali —, mas algo mais profundo, mais instintivo. Como se o nome fosse uma música que ela já conhecesse mas não conseguisse lembrar de onde.
 
-Mirella começou a narrar, e sua voz ganhou aquela qualidade que era ao mesmo tempo canção de ninar e épica, suave o bastante para acalmar crianças e poderosa o bastante para transportá-las para além dos muros do orfanato. Falou de Ventus, o Seraphyen do Vento, o mais jovem dos dez guardiões primordiais que haviam protegido a criação desde o princípio dos tempos. Falou de como ele havia perdido seus irmãos e irmãs um a um na Primeira Guerra, cada queda um sacrifício necessário para manter o universo intacto. Falou de como ele havia se dissipado por completo ao final, transformando-se no próprio vento que soprava através de todos os mundos — o ar que respiravam, a brisa que carregava sementes, a tempestade que limpa o velho para abrir espaço para o novo. E falou de como, em seu último ato de amor, Ventus havia fundado Aérya — o Reino dos Ventos Livres —, um lugar onde aqueles que buscavam refúgio poderiam encontrar paz, onde o vento seria eternamente livre e eternamente protetor.
+Mirella começou a narrar, e sua voz ganhou aquela qualidade que era ao mesmo tempo canção de ninar e épica, suave o bastante para acalmar crianças e poderosa o bastante para transportá-las para além dos muros do orfanato. Falou de Ventus, o Seraphyen do Vento, o mais jovem dos dez guardiões primordiais que haviam protegido a criação desde o princípio dos tempos. Falou de como ele havia perdido seus irmãos e irmãs um a um na Primeira Guerra, cada queda um sacrifício necessário para manter o universo intacto. Falou de como ele havia se dissipado por completo ao final, transformando-se no próprio vento que soprava através de todos os mundos — o ar que respiravam, a brisa que carregava sementes, a tempestade que limpa o velho para abrir espaço para o novo. E falou de como, em seu último ato de amor, Ventus havia fundado Sylvaris — o Reino dos Ventos Livres —, um lugar onde aqueles que buscavam refúgio poderiam encontrar paz, onde o vento seria eternamente livre e eternamente protetor.
 
-E quando Mirella disse "e é por isso que o vento em Aérya é sagrado, porque o vento é Ventus", uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
+E quando Mirella disse "e é por isso que o vento em Sylvaris é sagrado, porque o vento é Ventus", uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
 
 *Ventus,* Grazielly pensou, e o pensamento não veio em palavras mas em sensações — vento no rosto, luz dourada, asas abertas, liberdade absoluta. *Você está aqui? No vento? No ar que eu respiro?*
 
@@ -162,9 +162,9 @@ A estátua ficava no jardim à esquerda dos portões, parcialmente escondida por
 
 Ventus.
 
-Grazielly sabia que era Ventus antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Ventus — O Último Voo — Fundador de Aérya". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história de Mirella que Ventus era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
+Grazielly sabia que era Ventus antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Ventus — O Último Voo — Fundador de Sylvaris". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história de Mirella que Ventus era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
 
-Ela se aproximou da estátua, seus passos deixando marcas na neve que se acumulava ao redor da base. De perto, a pedra revelava detalhes que não eram visíveis à distância — as penas das asas, esculpidas com uma delicadeza que sugeria reverência; as mãos da figura, abertas em um gesto de oferecimento; a fímbria do manto que flutuava atrás do corpo como se o vento o movesse mesmo sendo feito de pedra. Era uma obra-prima de algum escultor cujo nome havia se perdido no tempo, e carregava em cada linha e cada curva uma devoção que ia além da arte — era um monumento não apenas a um ser, mas a uma ideia, a um legado, a uma promessa que o vento carregava através de Aérya há eras.
+Ela se aproximou da estátua, seus passos deixando marcas na neve que se acumulava ao redor da base. De perto, a pedra revelava detalhes que não eram visíveis à distância — as penas das asas, esculpidas com uma delicadeza que sugeria reverência; as mãos da figura, abertas em um gesto de oferecimento; a fímbria do manto que flutuava atrás do corpo como se o vento o movesse mesmo sendo feito de pedra. Era uma obra-prima de algum escultor cujo nome havia se perdido no tempo, e carregava em cada linha e cada curva uma devoção que ia além da arte — era um monumento não apenas a um ser, mas a uma ideia, a um legado, a uma promessa que o vento carregava através de Sylvaris há eras.
 
 Uma Sylari pousou no ombro da estátua.
 
@@ -200,11 +200,11 @@ Mas estava carregando algo consigo — algo que não tinha peso nem forma, que n
 
 Era uma promessa. Era uma determinação. Era a certeza de que aquele era apenas o começo — o primeiro passo em um caminho que seria longo e difícil e cheio de partidas e de encontros, de perdas e de ganhos, de trevas e de luzes.
 
-O vento de Aérya soprou através dos portões do Orfanato Luminis, carregando consigo o sussurro de histórias que ainda estavam por ser contadas, de destinos que ainda estavam por ser cumpridos, de promessas que ainda estavam por ser cumpridas.
+O vento de Sylvaris soprou através dos portões do Orfanato Luminis, carregando consigo o sussurro de histórias que ainda estavam por ser contadas, de destinos que ainda estavam por ser cumpridos, de promessas que ainda estavam por ser cumpridas.
 
 E Grazielly — pequena, loira, de olhos castanhos, com o coração partido mas ainda batendo, com as mãos que ainda brilhavam sob a pele quando a emoção era demais forte, com uma canção antiga que dormia em sua garganta esperando o momento certo para ser cantada novamente — entrou no orfanato e fechou a porta atrás de si.
 
-O mundo lá fora continuava branco e frio e infinito. Mas dentro, havia calor. Havia luz. Havia o começo de algo que, embora Grazielly não pudesse saber naquela manhã, mudaria não apenas sua vida, mas a vida de todos aqueles que o vento de Aérya um dia alcançaria.
+O mundo lá fora continuava branco e frio e infinito. Mas dentro, havia calor. Havia luz. Havia o começo de algo que, embora Grazielly não pudesse saber naquela manhã, mudaria não apenas sua vida, mas a vida de todos aqueles que o vento de Sylvaris um dia alcançaria.
 
 *A jornada começou. E o vento, como sempre, estava soprando.*
 
@@ -245,13 +245,13 @@ Depois do jantar, as crianças se reuniram na biblioteca para a hora das histór
 
 Grazielly sentou-se ao lado de Mira no mesmo lugar onde costumava se sentar nos capítulos futuros — um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Mirella cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
 
-— Esta noite — Mirella disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Aérya com seu último ato de amor pela criação.
+— Esta noite — Mirella disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Sylvaris com seu último ato de amor pela criação.
 
 Grazielly sentiu algo ao ouvir aquele nome. Não reconhecimento exato — ela nunca havia ouvido a história de Ventus, não da forma como seria contada ali —, mas algo mais profundo, mais instintivo. Como se o nome fosse uma música que ela já conhecesse mas não conseguisse lembrar de onde.
 
-Mirella começou a narrar, e sua voz ganhou aquela qualidade que era ao mesmo tempo canção de ninar e épica, suave o bastante para acalmar crianças e poderosa o bastante para transportá-las para além dos muros do orfanato. Falou de Ventus, o Seraphyen do Vento, o mais jovem dos dez guardiões primordiais que haviam protegido a criação desde o princípio dos tempos. Falou de como ele havia perdido seus irmãos e irmãs um a um na Primeira Guerra, cada queda um sacrifício necessário para manter o universo intacto. Falou de como ele havia se dissipado por completo ao final, transformando-se no próprio vento que soprava através de todos os mundos — o ar que respiravam, a brisa que carregava sementes, a tempestade que limpa o velho para abrir espaço para o novo. E falou de como, em seu último ato de amor, Ventus havia fundado Aérya — o Reino dos Ventos Livres —, um lugar onde aqueles que buscavam refúgio poderiam encontrar paz, onde o vento seria eternamente livre e eternamente protetor.
+Mirella começou a narrar, e sua voz ganhou aquela qualidade que era ao mesmo tempo canção de ninar e épica, suave o bastante para acalmar crianças e poderosa o bastante para transportá-las para além dos muros do orfanato. Falou de Ventus, o Seraphyen do Vento, o mais jovem dos dez guardiões primordiais que haviam protegido a criação desde o princípio dos tempos. Falou de como ele havia perdido seus irmãos e irmãs um a um na Primeira Guerra, cada queda um sacrifício necessário para manter o universo intacto. Falou de como ele havia se dissipado por completo ao final, transformando-se no próprio vento que soprava através de todos os mundos — o ar que respiravam, a brisa que carregava sementes, a tempestade que limpa o velho para abrir espaço para o novo. E falou de como, em seu último ato de amor, Ventus havia fundado Sylvaris — o Reino dos Ventos Livres —, um lugar onde aqueles que buscavam refúgio poderiam encontrar paz, onde o vento seria eternamente livre e eternamente protetor.
 
-E quando Mirella disse "e é por isso que o vento em Aérya é sagrado, porque o vento é Ventus", uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
+E quando Mirella disse "e é por isso que o vento em Sylvaris é sagrado, porque o vento é Ventus", uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
 
 *Ventus,* Grazielly pensou, e o pensamento não veio em palavras mas em sensações — vento no rosto, luz dourada, asas abertas, liberdade absoluta. *Você está aqui? No vento? No ar que eu respiro?*
 
@@ -325,9 +325,9 @@ A estátua ficava no jardim à esquerda dos portões, parcialmente escondida por
 
 Ventus.
 
-Grazielly sabia que era Ventus antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Ventus — O Último Voo — Fundador de Aérya". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história de Mirella que Ventus era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
+Grazielly sabia que era Ventus antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Ventus — O Último Voo — Fundador de Sylvaris". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história de Mirella que Ventus era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
 
-Ela se aproximou da estátua, seus passos deixando marcas na neve que se acumulava ao redor da base. De perto, a pedra revelava detalhes que não eram visíveis à distância — as penas das asas, esculpidas com uma delicadeza que sugeria reverência; as mãos da figura, abertas em um gesto de oferecimento; a fímbria do manto que flutuava atrás do corpo como se o vento o movesse mesmo sendo feito de pedra. Era uma obra-prima de algum escultor cujo nome havia se perdido no tempo, e carregava em cada linha e cada curva uma devoção que ia além da arte — era um monumento não apenas a um ser, mas a uma ideia, a um legado, a uma promessa que o vento carregava através de Aérya há eras.
+Ela se aproximou da estátua, seus passos deixando marcas na neve que se acumulava ao redor da base. De perto, a pedra revelava detalhes que não eram visíveis à distância — as penas das asas, esculpidas com uma delicadeza que sugeria reverência; as mãos da figura, abertas em um gesto de oferecimento; a fímbria do manto que flutuava atrás do corpo como se o vento o movesse mesmo sendo feito de pedra. Era uma obra-prima de algum escultor cujo nome havia se perdido no tempo, e carregava em cada linha e cada curva uma devoção que ia além da arte — era um monumento não apenas a um ser, mas a uma ideia, a um legado, a uma promessa que o vento carregava através de Sylvaris há eras.
 
 Uma Sylari pousou no ombro da estátua.
 
@@ -363,11 +363,11 @@ Mas estava carregando algo consigo — algo que não tinha peso nem forma, que n
 
 Era uma promessa. Era uma determinação. Era a certeza de que aquele era apenas o começo — o primeiro passo em um caminho que seria longo e difícil e cheio de partidas e de encontros, de perdas e de ganhos, de trevas e de luzes.
 
-O vento de Aérya soprou através dos portões do Orfanato Luminis, carregando consigo o sussurro de histórias que ainda estavam por ser contadas, de destinos que ainda estavam por ser cumpridos, de promessas que ainda estavam por ser cumpridas.
+O vento de Sylvaris soprou através dos portões do Orfanato Luminis, carregando consigo o sussurro de histórias que ainda estavam por ser contadas, de destinos que ainda estavam por ser cumpridos, de promessas que ainda estavam por ser cumpridas.
 
 E Grazielly — pequena, loira, de olhos castanhos, com o coração partido mas ainda batendo, com as mãos que ainda brilhavam sob a pele quando a emoção era demais forte, com uma canção antiga que dormia em sua garganta esperando o momento certo para ser cantada novamente — entrou no orfanato e fechou a porta atrás de si.
 
-O mundo lá fora continuava branco e frio e infinito. Mas dentro, havia calor. Havia luz. Havia o começo de algo que, embora Grazielly não pudesse saber naquela manhã, mudaria não apenas sua vida, mas a vida de todos aqueles que o vento de Aérya um dia alcançaria.
+O mundo lá fora continuava branco e frio e infinito. Mas dentro, havia calor. Havia luz. Havia o começo de algo que, embora Grazielly não pudesse saber naquela manhã, mudaria não apenas sua vida, mas a vida de todos aqueles que o vento de Sylvaris um dia alcançaria.
 
 *A jornada começou. E o vento, como sempre, estava soprando.*
 
@@ -401,11 +401,11 @@ O mundo lá fora continuava branco e frio e infinito. Mas dentro, havia calor. H
 | Local | Descrição |
 |-------|-----------|
 | **Orfanato Luminis** | Refúgio para crianças em Velantis; novo lar de Grazielly |
-| **Velantis** | Cidade no sudoeste de Aérya |
+| **Velantis** | Cidade no sudoeste de Sylvaris |
 | **Mespiria** | Vila natal de Grazielly; Nyx ainda está lá |
 
 ---
 
-*No orfanato, uma menina que brilha começa a encontrar seu lugar no mundo. E o vento de Aérya, que testemunhou seu nascimento, agora observa seus primeiros passos em uma nova jornada.*
+*No orfanato, uma menina que brilha começa a encontrar seu lugar no mundo. E o vento de Sylvaris, que testemunhou seu nascimento, agora observa seus primeiros passos em uma nova jornada.*
 
 *— O Arquivista-Mestre de Aetherion*
