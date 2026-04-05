@@ -258,7 +258,7 @@ Representam as expressões de Luz e Sombra dos cinco elementos fundamentais. Dif
 ### Ventus
 - Último dos Seraphyens a morrer
 - Se dissipou nos ventos para se tornar o próprio ar que os povos respiravam
-- Fundador espiritual de Aérya
+- Fundador espiritual de Sylvaris
 
 ---
 
@@ -307,7 +307,7 @@ O processo de queda de uma alma:
 - Órfãos sem proteção familiar
 
 **Locais Vigilados:**
-- Orfanato Luminis (Aérya) — alta concentração de talentos
+- Orfanato Luminis (Sylvaris) — alta concentração de talentos
 - Academia Elemental — recrutamento e observação
 - Fronteiras de Thalassia — contrabando de crianças
 
@@ -357,7 +357,7 @@ A existência é sustentada por atos de amor supremo que geram ondas de transfor
 | **Thalassia** | Água | Aquarys Prime | Sul, ilhas flutuantes, cidades submersas | Aquarys |
 | **Umbra** | Gelo/Sombra | Umbralis | Extremo Norte, exilados | Umbralis (pejorativo distorcido) |
 | **Aetherion Prime** | Todos (centro) | Sanctrum | Centro político, Palácio do GM | — |
-| **Aérya** | Ar/Vento | Zephyra | Sudoeste, ventos livres, montanhas flutuantes | Aeros |
+| **Sylvaris** | Ar/Vento | Zephyra | Sudoeste, ventos livres, montanhas flutuantes | Aeros |
 
 ### Nota sobre Umbra
 Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorativo distorcido ao longo das eras, ignorando seu papel original.
@@ -366,7 +366,7 @@ Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorat
 
 ## Locais Importantes
 
-### Aérya (Reino principal da história inicial)
+### Sylvaris (Reino principal da história inicial)
 - **Zephyra** — Capital, cidade flutuante sobre pilares de cristal Aetheris
 - **Velantis** — Cidade do Orfanato Luminis
 - **Mespiria** — Vila agrícola onde Ayla morreu
@@ -430,7 +430,7 @@ Representação dos Sete Reinos, agora com **2 representantes por reino** (Líde
 | **Pyralis** | Chama Vinculadora | Forja-Mor |
 | **Terraxis** | Terra Vinculadora | Ministro de Cristal |
 | **Thalassia** | **Maré Vinculadora** | Almirante-Prime |
-| **Aérya** | Vento Vinculadora | Mestre dos Ventos |
+| **Sylvaris** | Vento Vinculadora | Mestre dos Ventos |
 | **Umbra** | Sombra Vinculadora | Sentinela do Norte |
 | **Aetherion Prime** | Representante do GM | Chanceler Central |
 
@@ -525,7 +525,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 |----------|---------------|-------------------|-----------------|
 | **O Urrak** | Predador de Terraxis | *Desconhecida* | Feroz, leal ao bando, caça nas sombras |
 | **A Nyctara** | Ave noturna de Umbra | **Lyris** | Visão no escuro, silêncio absoluto, sabedoria |
-| **O Velatrix** | Ave de rapina de Aérya | *Desconhecida* | Velocidade extrema, precisão mortal |
+| **O Velatrix** | Ave de rapina de Sylvaris | *Desconhecida* | Velocidade extrema, precisão mortal |
 
 **⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
 
@@ -775,7 +775,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 | Nome Comum | Nome Ancestral (Emê-Gir) | Descrição | Uso |
 |------|--------------------------|-----------|-----|
-| **Aethrys** | **She Utu** | Cereal dourado brilhante, ondula nos campos de Aérya | Alimento principal |
+| **Aethrys** | **She Utu** | Cereal dourado brilhante, ondula nos campos de Sylvaris | Alimento principal |
 | **Argentis** | **Gesh Nanna** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
 | **Giralis** | **Gir Mul** | Pétalas prateadas, abrem à noite | Perfume, cerimonial |
 | **Aeriva** | **Gesh Lil** | Trepadeiras que abraçam paredes, "respiram" com o vento | Purificam ar |
@@ -811,7 +811,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Thaluri** | **Mushen A** | Peixe alado de Thalassia | Escamas que refletem a luz de Nyx, saltam entre ondas |
 | **Terralux** | **Ur Kish** | Inseto subterrâneo | Vivem nas minas de Terraxis, bioluminescência verde-cristalina |
 | **Ventis** | — | Ave mensageira | Usadas para comunicação entre reinos, seguem correntes de ar |
-| **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Liryth mas selvagem, vive nas colinas de Aérya |
+| **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Liryth mas selvagem, vive nas colinas de Sylvaris |
 
 ## Criaturas Lendárias
 
@@ -825,7 +825,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 |------|--------------------------|---------|-----------------|-------------------|
 | **Urrak** | **Ur Sag** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias, uivos ecoam em noites sem lua, lealdade absoluta ao bando | "O Urrak" (herói mascarado) |
 | **Nyctara** | **Mushen Gig** ⚠️ | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total, caça por ecolocalização espiritual | **"A Nyctara" (Lyris)** |
-| **Velatrix** | **Mushen An** | Céus de Aérya | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
+| **Velatrix** | **Mushen An** | Céus de Sylvaris | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
 
 ⚠️ **EXCEÇÃO IMPORTANTE**: O nome "Nyctara" é mantido como exceção especial para a ave de Lyris, tanto como espécie quanto como codinome. Em contextos ancestrais/formais, pode ser referida como "Mushen Gig", mas na narrativa o nome "Nyctara" prevalece.
 
@@ -894,7 +894,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | segundo/metro/grama | Pulso/Passo/Semente |
 
 ## Nomes Consolidados
-- **Orfanato Luminis** (em Velantis, Aérya)
+- **Orfanato Luminis** (em Velantis, Sylvaris)
 - **Nyx** (o liryth de Grazielly)
 - **Cristalnor** (lar do avô)
 - **Melessa** (parteira, avó adotiva falecida)
@@ -951,7 +951,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Dingir-gal** | Grande deus | Referência aos Seraphyens |
 | **Ud-sar** | Dia-jardim (era de prosperidade) | Narrativas históricas |
 | **Nam-tar** | Tecer destino | Profecias, rituais |
-| **Im-ma** | Vento | Aérya |
+| **Im-ma** | Vento | Sylvaris |
 | **A-ma-ru** | Árvore-mãe | Referência à Árvore da Existência |
 
 ## Flora em Língua Antiga
@@ -1016,12 +1016,23 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 9.0.0 - A LÍNGUA ANTIGA
-**Data de Atualização:** 03/04/2026
+**Versão do Dicionário:** 10.0.0 - SINCRONIZAÇÃO ONTOLÓGICA
+**Data de Atualização:** 06/04/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
+
+#### 4. Sincronização Ontológica (Caps 01-04)
+
+- ✅ **Aérya → Sylvaris** — Renomeação do Reino do Vento (pronúncia mais elegante e única em PT-BR)
+- ✅ **Aéryan → Sylvaryn** — Gentílico ajustado
+- ✅ **Ventus** — "Fundador espiritual de Sylvaris" atualizado
+- ✅ **Orfanato Luminis** — Confirmado em Velantis, Sylvaris
+- ✅ **Lyris (A Nyctara)** — Ficha já consolidada: Thermaris (Vapor), Vanguarda
+- ✅ **Termos terrestres verificados** — Nenhum residual encontrado
+
 ### Atualizações da Versão 9.0.0:
+
 
 #### 1. A Língua Antiga (Eme-gal)
 - ✅ **Seção completa** — Língua primordial baseada em sumério adaptado
