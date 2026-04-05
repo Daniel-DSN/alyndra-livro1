@@ -15,7 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva — **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
+> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
 
 ---
 
