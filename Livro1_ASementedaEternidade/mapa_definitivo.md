@@ -166,7 +166,7 @@ Representam as expressões de Luz e Sombra dos cinco elementos fundamentais.
 | **Vento** | Veridion (Justiça) | Altheron (Verdade) | Conectar/Soprar vs. Dispersar/Dissipar |
 
 ### Ventus
-Último dos Seraphyens a morrer. Se dissipou nos ventos para se tornar o próprio ar que os povos respiravam. Fundador espiritual de Serravento.
+Último dos Seraphyens a morrer. Se dissipou nos ventos para se tornar o próprio ar que os povos respiravam. Fundador espiritual de Sylvaris.
 
 ---
 
@@ -274,7 +274,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | **Thalassia** | Água | Aquarys Prime | Sul, ilhas flutuantes, cidades submersas |
 | **Umbra** | Gelo/Sombra | Umbralis | Extremo Norte, exilados, recrutamento Nihilaryth |
 | **Aetherion Prime** | Todos (centro) | Sanctrum | Centro político, Palácio do GM |
-| **Serravento** | Ar/Vento | Zephyria | Sudoeste, ventos livres, montanhas flutuantes |
+| **Sylvaris** | Ar/Vento | Zephyra | Sudoeste, ventos livres, montanhas flutuantes |
 
 ---
 
@@ -287,8 +287,8 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 - **Sede do Festival das Águas** — celebração anual quando as três luas se alinham
 - **Ponto de contato da Vanguarda** — local de encontro para operações secretas
 
-### Orfanato das Asas (Serravento)
-- Localizado em Ventania, Serravento
+### Orfanato Luminis (Sylvaris)
+- Localizado em Velantis, Sylvaris
 - Construído sobre colinas suaves onde o vento sempre soprava
 - Abriga aproximadamente trinta crianças de idades variadas
 - **STATUS: Alvo Estratégico de Umbra** — alta concentração de linhagens elementais diversificadas
@@ -427,14 +427,14 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 ---
 
-## Colegas do Orfanato das Asas
+## Colegas do Orfanato Luminis
 
 ### Mira
 | Atributo | Valor |
 |----------|-------|
 | **Idade** | 10 anos |
 | **Função** | Melhor amiga de Grazielly |
-| **Origem** | Pyralis/Serravento (pais comerciantes de especiarias) |
+| **Origem** | Pyralis (pais comerciantes de especiarias) |
 | **Tragédia** | Pais mortos por ladrões em ataque à caravana |
 | **Afinidade** | Terra (fraca) - faz plantas crescerem |
 | **No orfanato** | Desde os 5 anos (há 5 anos) |
@@ -499,7 +499,7 @@ Composto por **3-5 Primordiais (Estágio VII)** com poder de veto sobre o GM.
 | **Pyralis** | Chama Vinculadora + Forja-Mor |
 | **Terraxis** | Terra Vinculadora + Ministro de Cristal |
 | **Thalassia** | **Maré Vinculadora** + Almirante-Prime |
-| **Serravento** | Vento Vinculadora + Mestre dos Ventos |
+| **Sylvaris** | Vento Vinculadora + Mestre dos Ventos |
 | **Umbra** | Sombra Vinculadora + Sentinela do Norte |
 | **Aetherion Prime** | Representante do GM + Chanceler Central |
 
@@ -613,12 +613,12 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 | Nome | Descrição | Uso |
 |------|-----------|-----|
-| **Aethrum-dourado** | Cereal dourado brilhante, ondula nos campos de Serravento | Alimento principal |
-| **Pratafolha** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
+| **Aethrys** | Cereal dourado brilhante, ondula nos campos de Sylvaris | Alimento principal |
+| **Argentis** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
 | **Flores-Mespiria** | Flores de âmbar/dourado | Cerimonial |
-| **Trepadeiras-de-vento** | Plantas que abraçam paredes | Purificam ar |
-| **Vagens-luminais** | Leguminosas bioluminescentes | Alimentação infantil |
-| **Flores-lua** | Pétalas prateadas, abrem à noite | Perfume |
+| **Aeriva** | Plantas que abraçam paredes | Purificam ar |
+| **Lumiara** | Leguminosas bioluminescentes | Alimentação infantil |
+| **Giralis** | Pétalas prateadas, abrem à noite | Perfume |
 | **Hydra Vine** | Plantas de Thalassia que absorvem e armazenam água | Fonte vital em emergências |
 
 **NUNCA USAR:** trigo, arroz, milho, ou outros cereais terrestres
@@ -631,19 +631,19 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 | Nome | Classificação | Características |
 |------|---------------|-----------------|
-| **Ventorro** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, empático, leal |
-| **Capraluna** | Mamífero médio | Pelagem prateada, produtora de leite |
-| **Assombra-pelos** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
-| **Asas-de-veludo** | Inseto alado | Asas iridescentes, polinizadora |
+| **Liryth** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, empático, leal |
+| **Nariel** | Mamífero médio | Pelagem prateada, produtora de leite |
+| **Umbri** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
+| **Sylari** | Inseto alado | Asas iridescentes, polinizadora |
 | **Kryll** | Artrópode pequeno | Translúcido, brilha no escuro, deixa rastros de Aethra residual |
 | **Lumis** | Inseto alado | Asas iridescentes, rastros brilhantes no ar |
-| **Lanchovozes** | Pássaros cantores | De Thalassia, adaptados aos ventos de Serravento |
+| **Ventis** | Pássaros cantores | De Thalassia, adaptados aos ventos de Sylvaris |
 
 ## Criaturas Lendárias
 
 | Nome | Status | Descrição |
 |------|--------|-----------|
-| **Aeros** | Extinto | Criaturas voadoras lendárias que deram nome ao Orfanato das Asas |
+| **Aeros** | Extinto | Criaturas voadoras lendárias que deram nome ao Orfanato Luminis |
 
 ## Criaturas para Codinomes de Vanguardas
 
@@ -651,7 +651,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 |------|---------|-----------------|
 | **Urrak** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias |
 | **Nyctara** | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total |
-| **Velatrix** | Céus de Serravento | Ave de rapina veloz, penas criam assobios em voo picado |
+| **Velatrix** | Céus de Sylvaris | Ave de rapina veloz, penas criam assobios em voo picado |
 
 **NUNCA USAR:** lobo, coruja, falcão, águia, ou outros animais terrestres
 
@@ -685,7 +685,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 6. **Elo de Elarys:** Essência fundida ao Cristal de Mytha
 7. **Elmo de Alyndra:** Em posse de Líder Possuído em planeta distante
 8. **Mestra Selina Thalassa:** Agente "S." e nó central de inteligência da Vanguarda
-9. **Orfanato das Asas:** Alvo estratégico de Umbra para sequestro de talentos
+9. **Orfanato Luminis:** Alvo estratégico de Umbra para sequestro de talentos
 
 ## Fios Abertos para Desenvolver
 
@@ -696,7 +696,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 - O destino de Kira na Academia
 - Revelação gradual sobre o Cristal de Mytha
 - Missão secreta para recuperar o Elmo de Alyndra
-- Infiltração de agentes de Umbra no Orfanato das Asas
+- Infiltração de agentes de Umbra no Orfanato Luminis
 - Mimetismo de Frequência como técnica de infiltração
 
 ---
@@ -722,8 +722,8 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 | Escala Kardashev | **Escala de Evolução Aetherion** |
 | Esfera Dyson | **Manto Solar** |
 | "Elainy" como mãe de Grazielly | **Ayla** (Elainy → Ecos Ancestrais / Linhagem de Elarys) |
-| trigo | Aethrum-dourado |
-| cabra | Capraluna |
+| trigo | Aethrys |
+| cabra | Nariel |
 | sol | Aurion |
 | lua (genérico) | Lyria/Nyx/Elara |
 | lobo/coruja/falcão | Urrak/Nyctara/Velatrix |
@@ -733,8 +733,8 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 # 🚫 XVI. CONTROLE DE VERSÃO
 
-**Versão do Mapa Definitivo:** 1.2.0 — EXPANSÃO DA GOVERNANÇA
-**Data de Atualização:** 30/03/2026
+**Versão do Mapa Definitivo:** 1.3.0 — SINCRONIZAÇÃO ONTOLÓGICA
+**Data de Atualização:** 06/04/2026
 **Status:** CANÔNICO
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
@@ -742,7 +742,22 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 ## 📋 LOG DE ALTERAÇÕES
 
+
+### Versão 1.3.0 (06/04/2026)
+
+#### 1. Sincronização Ontológica (Caps 01-04)
+- ✅ **Serravento → Sylvaris** — Renomeação do Reino do Vento
+- ✅ **Zephyria → Zephyra** — Capital corrigida
+- ✅ **Ventania → Velantis** — Cidade do orfanato corrigida
+- ✅ **Orfanato das Asas → Orfanato Luminis** — Instituição renomeada
+- ✅ **Flora atualizada** — Aethrum-dourado→Aethrys, Pratafolha→Argentis, Trepadeiras-de-vento→Aeriva, Vagens-luminais→Lumiara, Flores-lua→Giralis
+- ✅ **Fauna atualizada** — Ventorro→Liryth, Capraluna→Nariel, Assombra-pelos→Umbri, Asas-de-veludo→Sylari, Lanchovozes→Ventis
+- ✅ **Tabela de termos proibidos** — Ajustada para nomenclatura canônica
+- ✅ **Ventus** — "Fundador espiritual de Sylvaris" atualizado
+- ✅ **Log de alterações 1.1.0** — "Ventania" removido das referências históricas
+
 ### Versão 1.2.0 (30/03/2026)
+
 
 #### 1. Expansão da Governança
 - ✅ **O Círculo de Cristal** — Alto Conselho dos Anciãos (3-5 Primordiais Estágio VII)
@@ -763,7 +778,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 ### Versão 1.1.0 (30/03/2026)
 - ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada
 - ✅ **Flores-Mespiria** — Terminologia derivada atualizada
-- ✅ **Localização do Orfanato** — Padronizado como "colinas de Ventania"
+- ✅ **Localização do Orfanato** — Padronizado como "colinas de Velantis"
 - ✅ **Cronologia Validada** — Grazielly parte aos 4 anos, treinamento aos 5 anos
 
 ### Versão 1.0.0 (29/03/2026) - CRIAÇÃO CONSOLIDADA
@@ -786,7 +801,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 #### 4. Geopolítica e Cronologia
 - ✅ **Thalyra**: Adicionada como cidade estratégica, sede do Festival das Águas e ponto de contato da Vanguarda
-- ✅ **Orfanato das Asas**: Status atualizado para "Alvo Estratégico de Umbra" devido à concentração de linhagens elementais
+- ✅ **Orfanato Luminis**: Status atualizado para "Alvo Estratégico de Umbra" devido à concentração de linhagens elementais
 
 #### 5. Estrutura Cosmológica
 - ✅ Mantida estrutura básica (Vontade Pura, Árvore da Existência, Lei da Pureza)
