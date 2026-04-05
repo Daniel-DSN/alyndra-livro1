@@ -214,13 +214,6 @@ O mundo lá fora continuava branco e frio e infinito. Mas dentro, havia calor. H
 ---
 
 **[CONTINUA NO CAPÍTULO V...]**
-
----
-
-*No próximo capítulo: A primavera chega a Velantis, e com ela a promessa de Grazielly de voltar a Mespiria. Mas o destino tem seus próprios planos — e o Liryth azul-escuro que ela deixou para trás carrega dentro de si um segredo que nem mesmo Melessa conhecia. No orfanato, Lyris observa enquanto os dons de Grazielly começam a se manifestar de formas que ninguém poderia prever. E nas sombras, os olhos que a watcham se multiplicam.*
-
----
-
 ---
 
 ## II. O Jantar dos Desconhecidos
