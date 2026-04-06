@@ -1200,17 +1200,61 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 ## Frases Cerimoniais
 
-### Canção de Despedida (Cap. III)
-```
-"Zi-me an-ki, ud-sar nam-mu..."
-"Sopro do destino, céu-terra, dia-jardim, destino-eterno..."
+### Canto de She-zu — A Semente que Não Morre (Cap. III)
+*Hino fúnebre ancestral entoado por Grazielly (4 anos) no enterro de Melessa. Estrutura: invocação → verso → refrão → despedida → epílogo. Potencial hino de abertura/encerramento da obra.*
 
-"Me-lugal dingir-gal, ki-agar nam-tar..."
-"Poder-do-rei, deus-grande, terra-amada, destino-tecer..."
-
-"A-ma-ru, gi-na du-ru, zi-ga im-ma..."
-"Árvore-mãe, retornar-caminho, vento-da-vida, erguer..."
 ```
+[Invocação — sussurro]
+"An dingir, ki-zi..."
+"Céu de deuses, terra de vida..."
+
+"E nam-mu, she-zen..."
+"Morada do destino eterno, pequena semente..."
+
+[Verso — a voz se eleva]
+"A e-dingir, she-zu, ki-ag nam-tar..."
+"Na morada sagrada a semente eterna; o amor tece o destino..."
+
+"Zi-me, mul-an, im-ma zi-ga..."
+"Sopro de vida, estrela no céu, o vento se ergue vivo..."
+
+"She-dingir, bur-nam, e zi mul..."
+"Semente divina, raiz do destino, casa de vida e luz..."
+
+[Refrão — o coração do hino]
+"She-zu, an-ki, zi dingir-me..."
+"Semente eterna entre céu e terra, vida de poder divino..."
+
+"Ki-ag nam-tar, e mul-zi..."
+"O amor tece o destino, na luz das estrelas vivas..."
+
+"Im-ma ki-ag, zi gi-na..."
+"O vento é amor, e a vida sempre retorna..."
+
+[Despedida — sussurro final]
+"Gi-na e-dingir, a-ma-ru..."
+"Retorna à morada sagrada, ó árvore-mãe..."
+
+"Zi ki-ag, nam tar, zi-me an-gal..."
+"A vida é amor; o destino se cumpre; o sopro sobe aos altos céus..."
+
+[Epílogo — uma única nota]
+"She-zu."
+"A semente permanece."
+```
+
+**Novos compostos Eme-gal na canção:**
+
+| Composto | Significado | Nota |
+|----------|-------------|------|
+| **She-zu** | Semente-eterna | Título alternativo da canção; lema potencial da obra |
+| **Ki-ag** | Amor | Amor terreno, amor de raiz |
+| **E-dingir** | Morada sagrada | Casa divina |
+| **Bur-nam** | Raiz do destino | Fundamento do que virá |
+| **Mul-an** | Estrela do céu | Luz celestial |
+| **Mul-zi** | Luz das estrelas vivas | Brilho vital |
+| **She-dingir** | Semente divina | Referência à linhagem Seraphyen |
+| **An-gal** | Alto-céu, céu supremo | Morada final dos que partiram |
 
 ### Bênção Antiga
 ```
