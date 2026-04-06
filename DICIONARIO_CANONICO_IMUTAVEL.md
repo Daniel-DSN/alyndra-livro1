@@ -15,7 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
+> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
 
 ---
 
@@ -163,12 +163,31 @@ Estilos que combinam dois ou mais elementos em manifestações únicas:
 - **Significância Narrativa:** O poder distintivo da linhagem de Grazielly, representando pureza e resiliência sob pressão extrema.
 - **Raridade:** Extremamente rara
 
-## Silentis (Despertos)
+## Sylentis (Adormecidos)
 
-- **Definição Ontológica:** Indivíduos com Aethra massivo, mas completamente inacessível de forma consciente.
-- **Exemplo:** Noah
-- **Significância Narrativa:** Em Aetherion, eram conhecidos como Despertos (Círculo 5), honrados por sua genialidade técnica e artística superior. Na era atual, o termo tornou-se uma designação social clínica para a ausência de dons.
-- **Nota Oculta:** Muitos Silentis possuem Æ extraordinário, mas completamente inacessível.
+- **Definição Ontológica:** Indivíduos que não são desprovidos de Aethra, mas portam uma essência "adormecida" ou oculta. Diferente dos manifestantes elementais — que demonstram seus dons precocemente (ex: flores de gelo de Grazielly aos 5 anos) —, os Sylentis dependem de gatilhos emocionais extremos para romper a inércia etérica.
+- **Termo Histórico:** Na Era Aetherion, eram conhecidos como *Silentis* ou *Despertos* (Círculo 5), honrados por sua genialidade técnica e artística superior. Na era atual, o termo *Sylentis* consolidou-se como designação social para a ausência aparente de dons.
+- **Exemplo:** Noah (Sylentis confirmado)
+- **Nota Oculta:** Muitos Sylentis possuem Æ extraordinário, mas completamente inacessível de forma consciente. O potencial latente pode rivalizar com manifestantes ativos.
+
+### Classe Social dos Sylentis
+
+Por não possuírem utilidade imediata para as Academias Elementais ou para a guarda dos Aga Uru, os Sylentis formam a **base da sociedade civil** de Nova Aetherion: burgueses, artesãos, comerciantes e trabalhadores comuns.
+
+| Característica | Descrição |
+|---------------|------------|
+| **Papel Social** | Fundação econômica e cultural dos reinos — sem eles, o sistema entra em colapso |
+| **Geografia** | Sylvaris é o destino preferido por ser o "Reino da Liberdade" — pessoas não são julgadas por linhagem |
+| **Estigma** | Ter afinidade elemental é o "passaporte" para status social; a ausência de dons é vista como "fardo" |
+| **Abandono** | Famílias que não veem utilidade militar ou acadêmica nos filhos podem abandoná-los — prática comum |
+| **Academias** | Crianças sem manifestação aos 12-14 anos são consideradas "desistentes" e encaminhadas à vida civil |
+
+### O Fenômeno "Esconder o Brilho"
+
+Muitos órfãos, sabendo que a manifestação de poder significa serem levados para as Academias Elementais e **separados de seus amigos**, escolhem conscientemente **ocultar seu despertar**. Os Sinalizadores de Aethra nos portões do Orfanato Luminis servem não apenas para proteger, mas para **monitorar se algum Sylentis está ocultando um despertar de poder**.
+
+- **Implicação Narrativa:** Este medo da separação cria tensão emocional — crianças preferem permanecer juntas no orfanato a ganhar o "privilégio" de ir para uma Academia
+- **Controle:** O orfanato é dividido em alas por "afinidade elemental presumida", facilitando a vigilância
 
 ---
 
@@ -213,7 +232,7 @@ Substitui definitivamente a Escala Kardashev para medir manipulação energétic
 | 2 | CONSELHEIRO | "Aquele que Ilumina Caminhos" | — |
 | 3 | MESTRE | "Aquele que Transforma Outros" | — |
 | 4 | CIDADÃO | "Aquele que Contribui" | — |
-| 5 | DESPERTO | "Aquele que Serve sem Aethra" | Silentis |
+| 5 | DESPERTO | "Aquele que Serve sem Aethra" | Sylentis (antigo *Silentis*) |
 
 **Nota:** Os Círculos Concêntricos definiam posição pelo mérito espiritual e serviço, não por nascimento.
 
@@ -372,9 +391,45 @@ Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorat
 - **Zephyra** — Capital, cidade flutuante sobre pilares de cristal Aetheris
 - **Velantis** — Cidade do Orfanato Luminis
 - **Mespiria** — Vila agrícola onde Ayla morreu
+- **Maris-Aetheria** — Distrito portuário de Velantis, ponto de partida para viagens por Carruagens de Ressonância (Cap. 6+)
 - **Orfanato Luminis** — Local onde Grazielly cresce
   - **STATUS: Alvo Estratégico de Umbra** — alta concentração de linhagens elementais diversificadas
   - Alvo prioritário para sequestro de talentos pelos agentes Nihilaryth
+  - **Dinâmica Social:** Crianças divididas em alas por "afinidade elemental presumida"
+  - **Sinalizadores de Aethra** nos portões monitoram possíveis despertares ocultos entre Sylentis
+  - **Tensão interna:** Crianças que manifestam poder são levadas para Academias e separadas dos amigos
+
+### Orfanato Luminis — Estrutura e Dinâmica
+
+| Aspecto | Descrição |
+|---------|------------|
+| **Localização** | Cidadela Luminis, colinas nos arredores de Velantis, Sylvaris |
+| **Muralhas** | Pedra baixa coberta de Aeriva — protege crianças curiosas, não repeli invasores |
+| **Vigilância** | Aga Uru nas torres + Sinalizadores de Aethra nos portões |
+| **Organização Interna** | Alas divididas por "afinidade elemental presumida" |
+| **Gruta Natural** | Formada por raízes de Sylvaris milenar — almofadas, lanternas, livros (esconderijo) |
+| **Lago** | Lago congelado no inverno; na primavera, crianças alimentam Thaluris |
+| **População** | Mistura de manifestantes elementais (fracos e fortes) e Sylentis (adormecidos) |
+| **Tensão Central** | Manifestação = separação (Academia); Sylentis = rejeição social |
+
+#### Sinalizadores de Aethra
+Dispositivos de cristal pulsante instalados nos portões e pontos estratégicos da Cidadela Luminis. Cada pessoa que passa é envolvida por uma luz que detecta a assinatura etérica do indivíduo.
+
+| Função | Descrição |
+|--------|------------|
+| **Proteção** | Identificam ameaças e assinaturas espirituais anômalas |
+| **Vigilância** | Monitoram se algum Sylentis está ocultando um despertar de poder |
+| **Classificação** | Auxiliam na divisão das crianças por "afinidade elemental presumida" |
+
+#### Carruagens de Ressonância
+Tecnologia de transporte que depende de Aether para funcionar. Usadas para viagens entre cidades e reinos, especialmente em rotas comerciais como Velantis → Maris-Aetheria → Thalyra.
+
+| Característica | Descrição |
+|---------------|------------|
+| **Propulsão** | Utilizam cristais Aetheris sintonizados com a assinatura etérica do condutor |
+| **Capacidade** | Variável — de veículos individuais a carruagens para dezenas de passageiros |
+| **Restrição** | Sylentis não conseguem alimentar a propulsão — apenas consomem a tecnologia |
+| **Implicação Narrativa** | Durante o passeio a Maris-Aetheria (Cap. 6), Kira sente amargura por ser alguém que apenas "consome" a tecnologia sem poder alimentá-la |
 
 ### Thalassia
 - **Thalyra** — Cidade costeira, Festival das Águas
@@ -635,33 +690,40 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 # 👥 PERSONAGENS DO ORFANATO
 
+## Kira
+- Idade: 15 anos
+- Origem: Pyralis, pais arquitetos mortos em acidente
+- **Status: Sylentis** — sem manifestação elemental confirmada
+- Em uma idade onde já deveria estar servindo ao reino ou em uma academia, permanece no orfanato como uma "rejeitada" técnica
+- Representa o lado mais cruel da lógica de afinidade: mesmo com potencial latente, a ausência de manifestação a marginaliza
+- Irmã mais velha do grupo — protetora, mas amarga
+- **Arco Narrativo:** Enfrenta a incerteza de uma vida sem o "brilho" reconhecido pela sociedade; pode despertar sob gatilho emocional extremo
+
+## Dorian
+- Idade: 12 anos
+- Valentão do orfanato
+- **Origem:** Terraxis — vindo de um reino militar, ele observa o mundo com cautela
+- Pai mercenário morto em briga, mãe abandonou
+- **Status: Sylentis em potencial** — sem manifestação até o momento
+- Problemas de raiva e controle emocional — a raiva pode ser o gatilho para um despertar tardio
+- Fascinado/irritado por Grazielly — ressentimento pela diferença de "destino"
+- **Arco Narrativo:** Teme o momento em que terá que deixar o orfanato para uma vida comum sem propósito militar
+
 ## Mira
 - Idade: 10 anos
 - Melhor amiga de Grazielly
 - Origem: País de especiarias, pais mortos por ladrões
-- Afinidade: Terra (fraca) - faz plantas crescerem
+- **Afinidade: Terra (fraca)** — faz plantas crescerem; borderline entre manifestante e Sylentis
 - No orfanato desde os 5 anos (há 5 anos)
+- **Nota:** Sua afinidade fraca a coloca em zona cinzenta — forte o bastante para não ser Sylentis pura, mas fraca demais para atrair atenção das Academias
 
 ## Tomas
 - Idade: 7 anos
 - Origem: Vila pesqueira de Thalassia
 - Tragédia: Família morreu em incêndio, sobreviveu por estar no barco
-- Afinidade: Água (fraca)
+- **Afinidade: Água (fraca)** — similar ao caso de Mira, borderline
 - Sabe que Grazielly tem poderes (viu rampa de gelo)
-
-## Kira
-- Idade: 15 anos
-- Origem: Pyralis, pais arquitetos mortos em acidente
-- Afinidade: Fogo (moderada)
-- Aceita na Academia Elemental (entrará aos 16)
-- Irmã mais velha do grupo
-
-## Dorian
-- Idade: 12 anos
-- Valentão do orfanato
-- Origem: Pai mercenário morto em briga, mãe abandonou
-- Problemas de raiva e controle emocional
-- Fascinado/irritado por Grazielly
+- **Nota:** A afinidade fraca com água o conecta simbolicamente a Thalassia e à linhagem materna de Grazielly
 
 ---
 
@@ -810,7 +872,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Kryll** | — | Artrópode pequeno | Translúcido, brilha no escuro, deixa rastros de Aethra residual |
 | **Lumis** | — | Inseto alado | Asas iridescentes, rastros brilhantes no ar, encanta crianças |
 | **Pyri** | **Mushen Ig** | Inseto luminoso | Vivem nas forjas de Pyralis, resistem ao fogo, luz quente |
-| **Thaluri** | **Mushen A** | Peixe alado de Thalassia | Escamas que refletem a luz de Nyx, saltam entre ondas |
+| **Thaluri** (pl. **Thaluris**) | **Mushen A** | Peixe alado de Thalassia | Escamas que refletem a luz de Nyx, saltam entre ondas |
 | **Terralux** | **Ur Kish** | Inseto subterrâneo | Vivem nas minas de Terraxis, bioluminescência verde-cristalina |
 | **Ventis** | — | Ave mensageira | Usadas para comunicação entre reinos, seguem correntes de ar |
 | **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Liryth mas selvagem, vive nas colinas de Sylvaris |
