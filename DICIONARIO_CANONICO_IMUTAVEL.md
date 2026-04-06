@@ -675,9 +675,9 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - **Uso de poder:** Preserva disfarce de "aposentada pacata" — só usa Thermaris em casos extremos
 - **Habilidades:** Cortinas de névoa quente para fuga, ataques de pressão térmica, incapacitação sem matar
 
-## Nyx (Liryth)
+## Nyx (Lyrien)
 - Companheiro de Grazielly
-- Espécie: Liryth (mamífero pequeno, pelagem prateada)
+- Espécie: Lyrien (mamífero pequeno, pelagem prateada)
 - Nomeado em homenagem à lua azul
 - Resgatado por Grazielly quando ela tinha 4 anos
 
@@ -920,7 +920,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 | Nome Comum | Nome Ancestral (Emê-Gir) | Classificação | Características |
 |------|--------------------------|---------------|-----------------|
-| **Liryth** | **Ur Lil** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
+| **Lyrien** | **Ur Lil** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
 | **Nariel** | **Ur Nanna** | Mamífero médio | Pelagem branca prateada, produtora de leite, olhos refletem as três luas |
 | **Umbri** | **Ur Ensi** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
 | **Sylari** | **Mushen Gir** | Inseto alado | Asas iridescentes, polinizadoras, flutuam como pétalas em dança |
@@ -930,7 +930,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Thaluri** (pl. **Thaluris**) | **Mushen A** | Peixe alado de Thalassia | Escamas que refletem a luz de Nyx, saltam entre ondas |
 | **Terralux** | **Ur Kish** | Inseto subterrâneo | Vivem nas minas de Terraxis, bioluminescência verde-cristalina |
 | **Ventis** | — | Ave mensageira | Usadas para comunicação entre reinos, seguem correntes de ar |
-| **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Liryth mas selvagem, vive nas colinas de Sylvaris |
+| **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Lyrien mas selvagem, vive nas colinas de Sylvaris |
 | **Pyrgon** | **Ur Ig Gal** | Réptil de médio porte | Escamas que refletem o calor, carniceiro oportunista das planícies vulcânicas de Pyralis |
 | **Thalantys** | **Mushen A Dur** | Criatura marinha gelatinosa | Corpo translúcido com veios bioluminescentes, inofensiva, habita recifes de Thalassia |
 | **Umbrix** | **Ur Ensi Gal** | Serpente das sombras | Escamas absorvem luz, virtualmente invisível na escuridão, veneno causa paralisia temporária |
@@ -1040,7 +1040,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 |--------|-------------------|----------|
 | Nascimento de Grazielly / Morte de Ayla | 0 | 1-2 |
 | Morte de Melessa | 4 | 3 |
-| Resgate de Nyx (liryth) | 4 | 4 |
+| Resgate de Nyx (lyrien) | 4 | 4 |
 | Chegada ao Orfanato Luminis | 4 | 3-4 |
 | Aniversário de 5 anos | 5 | 5 |
 | Manifestação Cryonys intensificada | 5 | 5 |
@@ -1083,7 +1083,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 |-------------|---------|
 | trigo | Aethrys |
 | cabra | Nariel |
-| raposa/esquilo | Liryth/Nariel |
+| raposa/esquilo | Lyrien/Nariel |
 | sol | Aurion |
 | lua (genérico) | Lyria/Nyx/Elara |
 | nanobots | Sementes Etéricas / Partículas Primordiais |
@@ -1096,7 +1096,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 
 ## Nomes Consolidados
 - **Orfanato Luminis** (em Velantis, Sylvaris)
-- **Nyx** (o liryth de Grazielly)
+- **Nyx** (o lyrien de Grazielly)
 - **Cristalnor** (lar do avô)
 - **Melessa** (parteira, avó adotiva falecida)
 - **Lyris** (protetora/agente)
@@ -1174,7 +1174,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 | Nome Antigo | Nome Comum | Significado Literal |
 |-------------|------------|---------------------|
-| **Im-amar** | Liryth | Cria do vento |
+| **Im-amar** | Lyrien | Cria do vento |
 | **An-tir** | Sylari | Pássaro celestial |
 | **Gud-nigin** | Nariel | Criatura que circunda |
 | **Nin-tara** | Nyctara | Aquela que percebe na névoa |
@@ -1337,7 +1337,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 - ✅ **Frases cerimoniais** — Canção de Despedida, Bênção Antiga
 
 #### 2. Ajustes de Consistência
-- ✅ **Nyx removido do Cap. III** — Liryth aparece apenas no Cap. IV
+- ✅ **Nyx removido do Cap. III** — Lyrien aparece apenas no Cap. IV
 - ✅ **Convergências reestruturadas** — 6 em ~4000 anos, Kaelthor = 3º Guardião Antigo
 - ✅ **GMs numerados** — Aurelius = 33º GM, Théssaly = 32º GM
 - ✅ **Guardiões Antigos** — Era pré-Sanctrum, guardiões do Selo de Mytra

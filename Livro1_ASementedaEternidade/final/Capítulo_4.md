@@ -26,7 +26,7 @@ O quarto tinha quatro camas — três já ocupadas, com cobertores desarrumados 
 
 Ela se sentou na beira da cama e olhou pela janela. Neve caía sobre Velantis, silenciosa e constante, cobrindo telhados e ruas com um manto branco que transformava a cidade em algo que parecia um sonho. No horizonte, as torres de Zephyra brilhavam fracamente através da neblina, como castelos de um conto que alguém tivesse começado a contar e depois esquecido.
 
-*Nyx*, pensou Grazielly, e a palavra foi como uma facada — rápida, precisa, cortante. O Liryth azul-escuro que ela havia deixado em Mespiria. A pequena criatura que Melessa lhe dera como presente, que dormia enroscada em seu peito durante noites de tempestade, que a seguia pelo quintal como uma sombra fiel. Ela o havia deixado para trás na pressa da partida, e agora, sentada em uma cama estranha em uma cidade estranha, o peso daquela despedida — uma despedida que não teve tempo de acontecer — era quase insuportável.
+*Nyx*, pensou Grazielly, e a palavra foi como uma facada — rápida, precisa, cortante. O Lyrien azul-escuro que ela havia deixado em Mespiria. A pequena criatura que Melessa lhe dera como presente, que dormia enroscada em seu peito durante noites de tempestade, que a seguia pelo quintal como uma sombra fiel. Ela o havia deixado para trás na pressa da partida, e agora, sentada em uma cama estranha em uma cidade estranha, o peso daquela despedida — uma despedida que não teve tempo de acontecer — era quase insuportável.
 
 — Grazielly? — A voz de Lyris veio da porta, suave mas presente. — Você está bem?
 
@@ -36,7 +36,7 @@ Lyris se aproximou e se ajoelhou diante dela. Seus olhos verdes encontraram os c
 
 — Eu sei — Lyris disse, e a honestidade em sua voz era o único presente que podia oferecer naquele momento. — Eu sei que você o deixou. E eu sei como isso dói.
 
-Grazielly não perguntou como Lyris sabia. Não perguntou por que a palavra "deixou" em vez de "perdeu" — como se o Liryth estivesse esperando por ela em algum lugar, vivo e presente, apenas distante. Ela apenas assentiu, e o silêncio entre elas se tornou algo que não era exatamente conforto, mas que era próximo o suficiente.
+Grazielly não perguntou como Lyris sabia. Não perguntou por que a palavra "deixou" em vez de "perdeu" — como se o Lyrien estivesse esperando por ela em algum lugar, vivo e presente, apenas distante. Ela apenas assentiu, e o silêncio entre elas se tornou algo que não era exatamente conforto, mas que era próximo o suficiente.
 
 — Você vai poder voltar — Lyris disse. — Quando o inverno passar, quando as estradas estiverem livres, nós voltamos a Mespiria e o buscamos. Eu prometo.
 
@@ -373,7 +373,7 @@ E mostraria àquela criança uma última peça do mundo que ela havia perdido.
 
 ---
 
-*No próximo capítulo: A primavera chega a Velantis, e com ela a promessa de Grazielly de voltar a Mespiria. Mas o destino tem seus próprios planos — e o Liryth azul-escuro que ela deixou para trás carrega dentro de si um segredo que nem mesmo Melessa conhecia. No orfanato, Lyris observa enquanto os dons de Grazielly começam a se manifestar de formas que ninguém poderia prever. E nas sombras, os olhos que a observam se multiplicam.*
+*No próximo capítulo: A primavera chega a Velantis, e com ela a promessa de Grazielly de voltar a Mespiria. Mas o destino tem seus próprios planos — e o Lyrien azul-escuro que ela deixou para trás carrega dentro de si um segredo que nem mesmo Melessa conhecia. No orfanato, Lyris observa enquanto os dons de Grazielly começam a se manifestar de formas que ninguém poderia prever. E nas sombras, os olhos que a observam se multiplicam.*
 
 ---
 
@@ -387,7 +387,7 @@ E mostraria àquela criança uma última peça do mundo que ela havia perdido.
 | **Lyris (Nyctara)** | Guardiã de Grazielly; agente da Ordem | Viva (Velantis) |
 | **Mira** | Amiga de Grazielly, 8-9 anos | Viva (Orfanato Luminis) |
 | **Madre Elara** | Diretora do Orfanato Luminis | Viva |
-| **Nyx (Liryth)** | Companheiro animal de Grazielly | Vivo (Mespiria — esperando seu retorno) |
+| **Nyx (Lyrien)** | Companheiro animal de Grazielly | Vivo (Mespiria — esperando seu retorno) |
 | **Melessa** | Avó adotiva de Grazielly (mencionada) | Falecida |
 
 ### Locais:

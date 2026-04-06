@@ -28,7 +28,7 @@ Mas agora o inverno estava acabando. E Lyris era uma mulher que cumpria suas pro
 
 Grazielly, por sua vez, havia encontrado no orfanato algo que se parecia com uma rotina — não a rotina confortável e previsível da casa de pedra em Mespiria, onde cada dia se moldava ao redor dos ritmos lentos de Melessa, mas uma rotina nova, mais ruidosa, mais cheia de movimento e de pessoas. As refeições no grande refeitório, onde o perfume de sopa de Lumiara e pão de Aethrys recém-saído do forno se misturava com o barulho de centenas de crianças conversando ao mesmo tempo. As aulas na sala de estudos, onde a Senhora Mirella ensinava letras e números com uma paciência que parecia inesgotável. As noites na biblioteca, onde histórias sobre Ventus e os Seraphyens pintavam mundos que Grazielly podia quase tocar. Os momentos com Mira — aquela menina de dez anos com afinidade Terra tão fraca que mal conseguia fazer uma semente germinar, mas cujo coração era mais vasto do que qualquer campo de Aethrys que Grazielly já havia visto.
 
-Mas mesmo no meio de tudo isso — das risadas, das brincadeiras, da descoberta gradual de que era possível ser feliz mesmo depois de perder tudo —, havia algo que Grazielly não conseguia largar. Um olhar que fugia para a janela que dava para o sudoeste, na direção de Mespiria, como se pudesse ver através das muralhas e das colinas e dos campos até a pequena casa de pedra onde Nyx a esperava. Um nome que ela murmurava antes de dormir, quando achava que ninguém podia ouvir. Um vazio no peito que os cobertores quentes e as refeições fartas e o carinho de Mira não conseguiam preencher, porque o que faltava não era calor nem comida nem amizade — era ele. O Liryth prateado que havia sido seu companheiro desde que encontrara o filhote tremendo nos campos, nos primeiros meses de vida de ambos. Nyx, que ela havia deixado para trás.
+Mas mesmo no meio de tudo isso — das risadas, das brincadeiras, da descoberta gradual de que era possível ser feliz mesmo depois de perder tudo —, havia algo que Grazielly não conseguia largar. Um olhar que fugia para a janela que dava para o sudoeste, na direção de Mespiria, como se pudesse ver através das muralhas e das colinas e dos campos até a pequena casa de pedra onde Nyx a esperava. Um nome que ela murmurava antes de dormir, quando achava que ninguém podia ouvir. Um vazio no peito que os cobertores quentes e as refeições fartas e o carinho de Mira não conseguiam preencher, porque o que faltava não era calor nem comida nem amizade — era ele. O Lyrien prateado que havia sido seu companheiro desde que encontrara o filhote tremendo nos campos, nos primeiros meses de vida de ambos. Nyx, que ela havia deixado para trás.
 
 *Eu prometi*, Grazielly pensava toda noite, antes que o sono a levasse. *Eu prometi que ia voltar.*
 
@@ -68,7 +68,7 @@ O silêncio que se seguiu foi longo o bastante para que Lyris percebesse o vento
 
 — Necessário — Madre Elara repetiu novamente, e agora havia uma ponta de ironia em sua voz.
 
-— A criança deixou algo para trás em Mespiria — Lyris continuou, mantendo o controle de sua fala com a precisão de quem havia feito dezenas de briefings em sua carreira. — Um companheiro. Um Liryth prateado que ela criou desde filhote, que ficou na casa de Melessa quando partimos. Grazielly prometeu que voltaria por ele. Essa promessa é uma das poucas coisas que a sustentam desde que chegou aqui.
+— A criança deixou algo para trás em Mespiria — Lyris continuou, mantendo o controle de sua fala com a precisão de quem havia feito dezenas de briefings em sua carreira. — Um companheiro. Um Lyrien prateado que ela criou desde filhote, que ficou na casa de Melessa quando partimos. Grazielly prometeu que voltaria por ele. Essa promessa é uma das poucas coisas que a sustentam desde que chegou aqui.
 
 Madre Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
 
@@ -82,7 +82,7 @@ Madre Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
 
 O olhar que Madre Elara dirigiu a Lyris naquele momento era o tipo que fazia crianças pequenas engolirem em seco e guerreiros experientes repensarem suas palavras. Mas Lyris não era uma criança, e embora não fosse mais uma guerreira no sentido estrito, havia enfrentado olhares muito mais ameaçadores do que o de uma diretora de orfanato.
 
-— Há mais — Madre Elara disse, e não era uma pergunta. — Não é apenas sobre o Liryth.
+— Há mais — Madre Elara disse, e não era uma pergunta. — Não é apenas sobre o Lyrien.
 
 Lyris hesitou por uma fração de Pulso — um lapso que Madre Elara não perdeu.
 
@@ -228,31 +228,31 @@ Debaixo, havia um espaço oco — um esconderijo que Lyris reconheceu como algo 
 
 Grazielly correu até a cama e se ajoelhou ao lado de Lyris, olhando para o espaço sob o assoalho. O que viu fez algo dentro dela se partir e se recompor ao mesmo tempo — como um vaso que quebra e, no mesmo instante, é juntado por mãos invisíveis, não perfeito, mas inteiro o suficiente para continuar segurando água.
 
-O pequeno Liryth estava lá. Magro — visivelmente mais magro do que quando Grazielly o deixara, com as costelas marcando sob a pelagem prateada que havia perdido parte de seu brilho. Seus olhos dourados, que antes eram dois sóis perpetualmente alertas, estavam semicerrados, como se o esforço de mantê-los abertos fosse demasiado para seu corpo enfraquecido. Sua cauda fofa, que costumava se enrolar ao redor de Grazielly como um cobertor vivo, estava encolhida contra seu corpo, e suas orelhas grandes — aquelas orelhas que captavam os mais sutis sussurros do vento — estavam caídas contra a cabeça como asas dobradas.
+O pequeno Lyrien estava lá. Magro — visivelmente mais magro do que quando Grazielly o deixara, com as costelas marcando sob a pelagem prateada que havia perdido parte de seu brilho. Seus olhos dourados, que antes eram dois sóis perpetualmente alertas, estavam semicerrados, como se o esforço de mantê-los abertos fosse demasiado para seu corpo enfraquecido. Sua cauda fofa, que costumava se enrolar ao redor de Grazielly como um cobertor vivo, estava encolhida contra seu corpo, e suas orelhas grandes — aquelas orelhas que captavam os mais sutis sussurros do vento — estavam caídas contra a cabeça como asas dobradas.
 
 Mas ele estava vivo. Respirando. Esperando.
 
 — Oh, Nyx — Grazielly sussurrou, e suas mãos, que tremiam, alcançaram o pequeno corpo com uma delicadeza que pareceu desproporcional para uma criança de quatro anos quase cinco. — O que fizeram com você?
 
-Lyris observou os cobertores no fundo do esconderijo e compreendeu. Melessa havia preparado aquele espaço — provavelmente nos últimos dias de vida, quando já sabia que não estaria ali para cuidar do Liryth depois de sua partida. Havia comida seca em um canto, parcialmente consumida. Uma tigela pequena de água, agora seca, que sugeria que alguém — talvez um vizinho — havia verificado o esconderijo periodicamente durante o inverno. Melessa havia planejado tudo. Até o fim, até nos seus últimos momentos, ela havia pensado em Grazielly e em Nyx.
+Lyris observou os cobertores no fundo do esconderijo e compreendeu. Melessa havia preparado aquele espaço — provavelmente nos últimos dias de vida, quando já sabia que não estaria ali para cuidar do Lyrien depois de sua partida. Havia comida seca em um canto, parcialmente consumida. Uma tigela pequena de água, agora seca, que sugeria que alguém — talvez um vizinho — havia verificado o esconderijo periodicamente durante o inverno. Melessa havia planejado tudo. Até o fim, até nos seus últimos momentos, ela havia pensado em Grazielly e em Nyx.
 
-Grazielly ergueu o Liryth com cuidado, segurando-o contra o peito como fazia desde que ele era filhote. O peso do corpo de Nyx era menos do que ela lembrava — ele perdera massa durante as semanas sozinho, e o calor que costumava irradiar de sua pelagem estava mais fraco, como uma brasa que quase se apagou mas se recusa a morrer completamente. Mas quando o focinho de Nyx tocou o peito de Grazielly, quando ele inalou seu cheiro — aquele cheiro que era a única coisa que Nyx conhecia como lar desde o dia em que Grazielly o encontrara nos campos —, algo mudou.
+Grazielly ergueu o Lyrien com cuidado, segurando-o contra o peito como fazia desde que ele era filhote. O peso do corpo de Nyx era menos do que ela lembrava — ele perdera massa durante as semanas sozinho, e o calor que costumava irradiar de sua pelagem estava mais fraco, como uma brasa que quase se apagou mas se recusa a morrer completamente. Mas quando o focinho de Nyx tocou o peito de Grazielly, quando ele inalou seu cheiro — aquele cheiro que era a única coisa que Nyx conhecia como lar desde o dia em que Grazielly o encontrara nos campos —, algo mudou.
 
 Os olhos dourados se abriram completamente. As orelhas se ergueram. E do fundo de sua garganta veio um som — um chiado agudo e trêmulo, fraco pela fome e pela solidão, mas inconfundível em seu significado. Era o som que Nyx fazia quando encontrava Grazielly depois de uma separação, mesmo que a separação tivesse sido apenas de algumas horas. Era o som de quem diz, da única forma que pode: *você veio. Eu esperei. Eu sabia que você viria.*
 
 Grazielly desabou em lágrimas.
 
-Não lágrimas silenciosas e contidas como as que derramara nas noites no orfanato. Eram lágrimas que vinham de um lugar profundo, um lugar que havia guardado semanas de medo e culpa e saudade — medo de que Nyx tivesse morrido, culpa por tê-lo deixado, saudade de algo que era parte de quem ela era. Ela chorava abraçando o Liryth contra o peito, sentindo o corpinho dele bater contra o dela, sentindo o calor dele — ainda fraco, mas presente — penetrar em sua pele como um abraço que ela havia necessitado mais do que qualquer outra coisa no mundo.
+Não lágrimas silenciosas e contidas como as que derramara nas noites no orfanato. Eram lágrimas que vinham de um lugar profundo, um lugar que havia guardado semanas de medo e culpa e saudade — medo de que Nyx tivesse morrido, culpa por tê-lo deixado, saudade de algo que era parte de quem ela era. Ela chorava abraçando o Lyrien contra o peito, sentindo o corpinho dele bater contra o dela, sentindo o calor dele — ainda fraco, mas presente — penetrar em sua pele como um abraço que ela havia necessitado mais do que qualquer outra coisa no mundo.
 
 — Eu sinto tanto — Grazielly soluçava, suas palavras se misturando com as lágrimas. — Eu não quis te deixar. Eu esqueci. Eu nunca ia esquecer de você, eu jurei, mas na confusão eu esqueci e você ficou sozinho e eu sinto tanto, Nyx, eu sinto tanto.
 
-O Liryth prateado chiou novamente, e desta vez o som era diferente — mais forte, mais presente, como se a voz dele estivesse voltando junto com a esperança. Ele esfregou o focinho contra o queixo de Grazielly, depositando um rastro úmido de carinho em sua pele, e sua cauda, lentamente, quase imperceptivelmente, começou a se mexer — um movimento pequeno que carregava dentro de si todo o amor de uma criatura que havia esperado na escuridão por semanas por uma única pessoa, e que finalmente, finalmente, havia sido encontrada.
+O Lyrien prateado chiou novamente, e desta vez o som era diferente — mais forte, mais presente, como se a voz dele estivesse voltando junto com a esperança. Ele esfregou o focinho contra o queixo de Grazielly, depositando um rastro úmido de carinho em sua pele, e sua cauda, lentamente, quase imperceptivelmente, começou a se mexer — um movimento pequeno que carregava dentro de si todo o amor de uma criatura que havia esperado na escuridão por semanas por uma única pessoa, e que finalmente, finalmente, havia sido encontrada.
 
 Lyris se afastou discretamente, dando-lhes espaço. Ficou de pé junto à janela, olhando para os campos de Aethrys que se estendiam além de Mespiria, e permitiu-se um momento de algo que não era exatamente emoção — era mais como reconhecimento. Reconhecimento de que havia feito a coisa certa. De que aquela promessa, feita no calor de uma noite de inverno a uma criança que havia perdido tudo, havia sido cumprida.
 
 *Eu prometi*, Lyris pensou. *E cumpri.*
 
-E enquanto observava Grazielly segurar o Liryth contra o peito, acariciando seus pelos com dedos que ainda tremiam de emoção, Lyris viu algo que a fez desviar o olhar por um instante — nos olhos de Grazielly, misturados com as lágrimas, havia pequenos cristais de gelo se formando nas bordas, não perceptíveis para alguém que não soubesse olhar, mas inequivocamente ali. O Cryonys respondia à emoção da criança, manifestando-se em lágrimas que se congelavam antes de cair.
+E enquanto observava Grazielly segurar o Lyrien contra o peito, acariciando seus pelos com dedos que ainda tremiam de emoção, Lyris viu algo que a fez desviar o olhar por um instante — nos olhos de Grazielly, misturados com as lágrimas, havia pequenos cristais de gelo se formando nas bordas, não perceptíveis para alguém que não soubesse olhar, mas inequivocamente ali. O Cryonys respondia à emoção da criança, manifestando-se em lágrimas que se congelavam antes de cair.
 
 *Ele é extraordinária*, Lyris pensou, e a palavra veio com um peso que não era admiration apenas — era algo mais complexo, mais pesado, mais carregado de implicações que ela ainda não estava pronta para processar.
 
@@ -262,13 +262,13 @@ Mas aquele não era o momento para processar. Aquele era o momento para deixar u
 
 ## VI. A Caixa "Depois"
 
-Enquanto Grazielly se sentava no chão da casa de pedra, com Nyx enroscado em seu colo e seus dedos acariciando a pelagem prateada em movimentos hipnóticos e repetitivos — como se precisasse tocar o Liryth constantemente para se convencer de que ele era real, que estava ali, que havia sobrevivido —, Lyris se movia pela casa com a atenção metódica de quem está acostumada a procurar informações em lugares que outros ignoram.
+Enquanto Grazielly se sentava no chão da casa de pedra, com Nyx enroscado em seu colo e seus dedos acariciando a pelagem prateada em movimentos hipnóticos e repetitivos — como se precisasse tocar o Lyrien constantemente para se convencer de que ele era real, que estava ali, que havia sobrevivido —, Lyris se movia pela casa com a atenção metódica de quem está acostumada a procurar informações em lugares que outros ignoram.
 
 Ela verificou as prateleiras, o armário, as gavetas da mesa. Encontrou roupas de Grazielly que ainda serviam, alguns livros infantis que Melessa usava para ensinar letras, um frasco de remédio para tosse vazio e outro pela metade. Coisas comuns, coisas domésticas, coisas que não valiam a pena levar de volta para Velantis mas que representavam uma vida inteira — a vida de Melessa, condensada em objetos simples e desgastados pelo uso.
 
-Foi quando se ajoelhou perto da cama, para verificar se havia algo mais no esconderijo de Nyx que pudesse ser útil, que Lyris notou algo que antes não vira. Junto à tábua solta do assoalho, parcialmente coberta por um dos cobertores que Melessa havia colocado ali para o Liryth, havia uma tira de pano que sobressaía — discreta, quase invisível, do tipo que só olhos treinados detectariam.
+Foi quando se ajoelhou perto da cama, para verificar se havia algo mais no esconderijo de Nyx que pudesse ser útil, que Lyris notou algo que antes não vira. Junto à tábua solta do assoalho, parcialmente coberta por um dos cobertores que Melessa havia colocado ali para o Lyrien, havia uma tira de pano que sobressaía — discreta, quase invisível, do tipo que só olhos treinados detectariam.
 
-Lyris puxou a tira. Debaixo dela, escondida em uma reentrância do assoalho que era separada do espaço onde Nyx se alojava por uma tábua fina — como se Melessa houvesse dividido o esconderijo em dois compartimentos, um para o Liryth e outro para algo mais —, havia uma caixa.
+Lyris puxou a tira. Debaixo dela, escondida em uma reentrância do assoalho que era separada do espaço onde Nyx se alojava por uma tábua fina — como se Melessa houvesse dividido o esconderijo em dois compartimentos, um para o Lyrien e outro para algo mais —, havia uma caixa.
 
 Era pequena. Do tamanho aproximado de dois punhos fechados lado a lado. Feita de madeira clara, com bordas gastas pelo tempo mas ainda sólidas, e uma tampa que se fechava com uma dobradiça simples de ferro. Na superfície da tampa, gravado em letras que Lyris reconheceu como sendo da caligrafia de Melessa — a mesma caligrafia trêmula mas cuidadosa da carta que havia chegado a Sanctrum e mudado tudo —, havia uma única palavra.
 
@@ -335,7 +335,7 @@ Quando a última palavra foi lida e o silêncio se instalou na casa de pedra —
 
 E Lyris, que havia testemunhado coisas que teriam quebrado guerreiros mais endurecidos do que ela, sentiu as próprias lágrimas escorrerem silenciosamente por suas bochechas. Não por tristeza — ou não apenas por isso. Por reconhecimento. Pela beleza devastadora de um amor que continuava existindo mesmo depois de quem o carregava ter partido.
 
-Nyx, sentindo o choro de sua dona, chiou suavemente e lambtou a mão de Grazielly com sua língua áspera e quente, como se pudesse lamber as lágrimas e transformá-las em algo que não fosse dor. E Grazielly, segurando com uma mão o Liryth e com a outra a carta e com o peito o pingente negro que não compreendia, sentiu, por um momento, que Melessa estava ali. Não como fantasma, não como memória, mas como presença — no ar que respirava, na luz que entrava pela janela, no calor do Liryth contra seu corpo.
+Nyx, sentindo o choro de sua dona, chiou suavemente e lambtou a mão de Grazielly com sua língua áspera e quente, como se pudesse lamber as lágrimas e transformá-las em algo que não fosse dor. E Grazielly, segurando com uma mão o Lyrien e com a outra a carta e com o peito o pingente negro que não compreendia, sentiu, por um momento, que Melessa estava ali. Não como fantasma, não como memória, mas como presença — no ar que respirava, na luz que entrava pela janela, no calor do Lyrien contra seu corpo.
 
 *Eu nunca vou estar sozinha*, Grazielly pensou, e a frase não era um desejo, mas uma constatação. *Vó Melessa prometeu. E vó Melessa sempre cumpre o que promete.*
 
@@ -377,7 +377,7 @@ O brilho se apagou como uma vela soprada pelo vento. Grazielly arregalou os olho
 
 Lyris apanhou Grazielly antes que sua cabeça batesse no chão. A criança estava exausta — seu corpo quente contra os braços de Lyris, sua respiração rápida e superficial, sua pele pálida mas viva. Nyx, que havia sido despertado do sono pela manifestação, chiou alarmado e tentou se aproximar de Grazielly, mas Lyris o conteve com um gesto.
 
-— Ela está bem — Lyris disse, mais para acalmar a si mesma do que o Liryth. — Ela apenas está cansada.
+— Ela está bem — Lyris disse, mais para acalmar a si mesma do que o Lyrien. — Ela apenas está cansada.
 
 Do lado de fora, os passos dos Aga Uru se aproximaram. Torvas apareceu na porta, a mão no cabo da espada, os olhos varrendo o interior da casa com a rapidez de um guerreiro avaliando uma ameaça. O que viu fez com que congelasse — não por medo, mas por surpresa.
 
@@ -405,15 +405,15 @@ Grazielly murmurou algo em seu sono exausto — uma palavra que Lyris quase não
 
 A viagem de volta começou no início da tarde, quando Aurion já havia passado do zênite e começava sua descida gradual em direção ao horizonte ocidental, pintando o céu de tons dourados que se refletiam nos campos de Aethrys como se o mundo estivesse banhado em mel.
 
-Grazielly caminhava entre Lyris e o Aga Uru mais jovem, com Nyx aninhado em seus braços. O Liryth tinha recuperado um pouco de sua vitalidade — talvez pelo calor do corpo de Grazielly, talvez pelo alívio de estar de volta com sua dona, talvez pelas sementes doces que Lyris havia conseguido em uma das casas de Mespiria e que Grazielly lhe oferecia a cada parada. Seus olhos dourados estavam mais abertos agora, e sua cauda já fazia movimentos pequenos e ocasionais, como se o prazer de estar ali fosse demasiado grande para ser contido completamente.
+Grazielly caminhava entre Lyris e o Aga Uru mais jovem, com Nyx aninhado em seus braços. O Lyrien tinha recuperado um pouco de sua vitalidade — talvez pelo calor do corpo de Grazielly, talvez pelo alívio de estar de volta com sua dona, talvez pelas sementes doces que Lyris havia conseguido em uma das casas de Mespiria e que Grazielly lhe oferecia a cada parada. Seus olhos dourados estavam mais abertos agora, e sua cauda já fazia movimentos pequenos e ocasionais, como se o prazer de estar ali fosse demasiado grande para ser contido completamente.
 
 A sacola de viagem de Grazielly estava mais pesada do que quando partiram. Dentro dela, além da caixa de Melessa com o pingente negro e a carta dobrada, havia algumas roupas que ainda serviam, um pequeno livro de contos infantis com ilustrações desbotadas, e um sachê de Giralis secas que uma vizinha insistira em dar — para que ela lembre o cheiro de casa, a mulher dissera, com olhos marejados.
 
 O caminho de volta foi mais silencioso do que o de ida. Grazielly estava exausta pela manifestação Cryonys — seu corpo, ainda criança, não tinha a energia necessária para se recuperar rapidamente de um dispêndio elemental daquela magnitude —, e suas pernas curtas se moviam com uma determinação que era maior do que sua força. Lyris a observava de canto de olho, calculando se precisaria carregá-la, mas Grazielly recusava qualquer ajuda, murmurando Eu consigo andar toda vez que Lyris sugeria uma pausa.
 
-Os Aga Uru mantinham seu silêncio profissional, mas Lyris notou que o olhar do guerreiro mais jovem era diferente do que tinha sido pela manhã. Havia algo nele que não era exatamente medo, mas que era próximo — reconhecimento, talvez. A consciência de que a pequena garota loira que carregava um Liryth prateado nos braços era algo além do que parecia. Lyris fez uma nota mental para falar com Nin Aga Soren mais tarde. O relatório sobre a manifestação precisava ser controlado — não suprimido, porque suprimir informações dentro da cadeia de comando da Aga Uru era impossível e contraproducente, mas moldado de forma que não gerasse atenção indesejada.
+Os Aga Uru mantinham seu silêncio profissional, mas Lyris notou que o olhar do guerreiro mais jovem era diferente do que tinha sido pela manhã. Havia algo nele que não era exatamente medo, mas que era próximo — reconhecimento, talvez. A consciência de que a pequena garota loira que carregava um Lyrien prateado nos braços era algo além do que parecia. Lyris fez uma nota mental para falar com Nin Aga Soren mais tarde. O relatório sobre a manifestação precisava ser controlado — não suprimido, porque suprimir informações dentro da cadeia de comando da Aga Uru era impossível e contraproducente, mas moldado de forma que não gerasse atenção indesejada.
 
-Aurion começava a se pôr quando as muralhas da Cidadela Luminis surgiram no horizonte, suas torres recortadas contra o céu que ia do dourado ao lilás. Lyria já estava alta no céu oriental, sua luz prateada banhando os telhados de Velantis com aquele brilho frio e sereno que era a assinatura da guardiã prateada. Nyx, descansando nos braços de Grazielly, ergueu a cabeça e olhou para Lyria com seus olhos dourados, e pelo breve instante, os dois brilhos — o prateado de Lyria e o dourado do Liryth — pareceram conversar em uma linguagem que não era feita de palavras.
+Aurion começava a se pôr quando as muralhas da Cidadela Luminis surgiram no horizonte, suas torres recortadas contra o céu que ia do dourado ao lilás. Lyria já estava alta no céu oriental, sua luz prateada banhando os telhados de Velantis com aquele brilho frio e sereno que era a assinatura da guardiã prateada. Nyx, descansando nos braços de Grazielly, ergueu a cabeça e olhou para Lyria com seus olhos dourados, e pelo breve instante, os dois brilhos — o prateado de Lyria e o dourado do Lyrien — pareceram conversar em uma linguagem que não era feita de palavras.
 
 Grazielly também olhou para Lyria, e um sorriso pequeno cruzou seus lábios cansados.
 
@@ -469,7 +469,7 @@ Grazielly começou a chorar. Mas dessa vez eram lágrimas de felicidade — lág
 
 Ela abraçou Mira com toda a força que tinha, sussurrando obrigada, obrigada, obrigada no ouvido de sua amiga, as mesmas palavras que havia dito a Lyris na noite anterior mas que agora carregavam um significado diferente — não apenas gratidão, mas a sensação de pertencimento, de ser parte de algo, de ter encontrado um lugar no mundo depois de ter perdido o único lugar que conhecia.
 
-Depois abraçou Lyris, que a recebeu com uma gentileza que contrastava com sua postura normalmente controlada. E quando se afastou, ergueu Nyx em seus braços para que todos pudessem ver — o pequeno Liryth prateado, ainda magro, ainda se recuperando, mas vivo, presente, seu olhos dourados refletindo as luzes da festa como duas pequenas luas.
+Depois abraçou Lyris, que a recebeu com uma gentileza que contrastava com sua postura normalmente controlada. E quando se afastou, ergueu Nyx em seus braços para que todos pudessem ver — o pequeno Lyrien prateado, ainda magro, ainda se recuperando, mas vivo, presente, seu olhos dourados refletindo as luzes da festa como duas pequenas luas.
 
 — Esse é o Nyx — Grazielly disse, e sua voz se ergueu acima do barulho do pátio com uma clareza que fez todos os olhos se voltarem para ela. — Ele ficou em Mespiria me esperando durante o inverno inteiro. Ele é meu melhor amigo.
 
@@ -527,21 +527,21 @@ Lyris caminhou até o dormitório e parou na porta entreaberta. No quarto, a luz
 
 *O presente de Aurion*, Lyris pensou. *Um cristal com luz quente para uma filha que ele nunca pode segurar.*
 
-Ela permaneceu na porta por um longo momento, observando. Observando a criança dormindo, o Liryth respirando, o cristal pulsando. E enquanto observava, formulou em sua mente as palavras que escreveria em seu relatório — o relatório que enviaria a Aurelius na próxima caravana, o relatório que continha não apenas as observações rotineiras sobre a adaptação de Grazielly ao orfanato, mas algo mais.
+Ela permaneceu na porta por um longo momento, observando. Observando a criança dormindo, o Lyrien respirando, o cristal pulsando. E enquanto observava, formulou em sua mente as palavras que escreveria em seu relatório — o relatório que enviaria a Aurelius na próxima caravana, o relatório que continha não apenas as observações rotineiras sobre a adaptação de Grazielly ao orfanato, mas algo mais.
 
 *Manifestação Cryonys confirmada*, ela escreveria mentalmente. *Magnitude significativamente superior ao esperado para a idade. Flores de gelo com complexidade estrutural sem precedentes nos registros disponíveis. A criança não demonstrou consciência durante a manifestação e colapsou em exaustão imediatamente após. Recomendo: monitoramento contínuo, restrição de informação, e avaliação especializada quando a criança atingir idade adequada.*
 
 *Observação adicional: a manifestação ocorreu simultaneamente ao contato da criança com um pingente de selo Sanctrum encontrado na residência de Melessa em Mespiria. Origem do pingente desconhecida. Possível conexão com a linhagem da criança requer investigação.*
 
-*Nyx — o Liryth prateado — foi resgatado com sucesso. Vínculo com a criança confirmado como profundo e permanente. Saúde do animal: recuperando.*
+*Nyx — o Lyrien prateado — foi resgatado com sucesso. Vínculo com a criança confirmado como profundo e permanente. Saúde do animal: recuperando.*
 
 *Grazielly completou cinco anos hoje. A criança está bem.*
 
 Lyris afastou-se da porta e caminhou pelo corredor silencioso do orfanato, seus passos ecoando na pedra com o ritmo medido de quem está acostumada a andar nas sombras. O vento de Sylvaris soprava do lado de fora, carregando o perfume das Giralis que se abriam durante a noite e o chiado distante dos Sylvaris nas colinas ao redor da Cidadela Luminis.
 
-E enquanto caminhava, Lyris pensou em tudo o que havia mudado naquele dia. Grazielly tinha seu Liryth de volta. Tinha a carta de Melessa. Tinha o pingente que não entendia. Tinha cinco anos e uma festa de aniversário e amigos que a queriam. Tinha um presente de um pai que não conhecia, pulsando suavemente em seu criado-mudo como um coração que não podia estar ali mas que, de alguma forma, estava.
+E enquanto caminhava, Lyris pensou em tudo o que havia mudado naquele dia. Grazielly tinha seu Lyrien de volta. Tinha a carta de Melessa. Tinha o pingente que não entendia. Tinha cinco anos e uma festa de aniversário e amigos que a queriam. Tinha um presente de um pai que não conhecia, pulsando suavemente em seu criado-mudo como um coração que não podia estar ali mas que, de alguma forma, estava.
 
-E Lyris tinha um relatório para escrever. Um segredo para guardar. E uma promessa — a promessa de cuidar daquela criança que era mais do que parecia, que carregava dentro de si algo que o mundo não havia visto em milênios, e que, apesar de tudo, ainda era apenas uma menina de cinco anos que queria que seu Liryth fosse feliz e que sua avó estivesse ali para ver.
+E Lyris tinha um relatório para escrever. Um segredo para guardar. E uma promessa — a promessa de cuidar daquela criança que era mais do que parecia, que carregava dentro de si algo que o mundo não havia visto em milênios, e que, apesar de tudo, ainda era apenas uma menina de cinco anos que queria que seu Lyrien fosse feliz e que sua avó estivesse ali para ver.
 
 *Eu vou cuidar dela*, Lyris pensou, e a frase não era nova — ela a pensava todos os dias desde que aceitara a missão de Aurelius —, mas naquela noite, depois de tudo o que vira e sentira e testemunhou, carregava um peso diferente. Não era mais uma obrigação de missão. Era uma escolha. Uma escolha feita não por dever ou por lealdade a um superior, mas por algo mais simples e mais poderoso do que qualquer uma daquelas coisas.
 
@@ -559,7 +559,7 @@ Ao seu lado, em um dormitório não muito distante, Grazielly dormia profundamen
 
 ---
 
-Grazielly reencontrou seu Liryth, leu as últimas palavras de Melessa e viu seu poder Cryonys despertar em flores de gelo. E no dia em que completou cinco anos, cercada por amigos e por promessas cumpridas, descobriu que a luz que Melessa prometera que morava dentro dela era real — e que brilhava mais forte do que qualquer escuridão.
+Grazielly reencontrou seu Lyrien, leu as últimas palavras de Melessa e viu seu poder Cryonys despertar em flores de gelo. E no dia em que completou cinco anos, cercada por amigos e por promessas cumpridas, descobriu que a luz que Melessa prometera que morava dentro dela era real — e que brilhava mais forte do que qualquer escuridão.
 
 *"As promessas são sementes. Algumas precisam de estações inteiras para germinar. Mas quando germinam — quando finalmente quebram a terra e alcançam a luz —, o que nasce é sempre mais forte, mais bonito e mais resistente do que quem plantou poderia ter imaginado."*
 
