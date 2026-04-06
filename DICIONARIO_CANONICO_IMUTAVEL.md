@@ -15,7 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Terravox** (besta de carga de Terraxis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
+> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Thalendris** (cidade costeira das falésias brancas), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Terravox** (besta de carga de Terraxis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna, Maris-Aetheria) sao OBSOLETOS fora de logs de versao.
 
 ---
 
@@ -181,6 +181,7 @@ Por não possuírem utilidade imediata para as Academias Elementais ou para a gu
 | **Estigma** | Ter afinidade elemental é o "passaporte" para status social; a ausência de dons é vista como "fardo" |
 | **Abandono** | Famílias que não veem utilidade militar ou acadêmica nos filhos podem abandoná-los — prática comum |
 | **Academias** | Crianças sem manifestação aos 12-14 anos são consideradas "desistentes" e encaminhadas à vida civil |
+| **"Desprovidos"** | Termo depreciativo para Sylentis e pessoas sem poder; usado por agentes de Umbra como disfarce | Estigma social |
 
 ### O Fenômeno "Esconder o Brilho"
 
@@ -391,7 +392,7 @@ Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorat
 - **Zephyra** — Capital, cidade flutuante sobre pilares de cristal Aetheris
 - **Velantis** — Cidade do Orfanato Luminis
 - **Mespiria** — Vila agrícola onde Ayla morreu
-- **Maris-Aetheria** — Distrito portuário de Velantis, ponto de partida para viagens por Carruagens de Ressonância (Cap. 6+)
+- **Thalendris** — Cidade portuária das falésias brancas, litoral oeste de Sylvaris. Faróis de cristal emitem feixes de luz sólida; plataformas de levitação movem cargas. Ponto de partida para tours em Koramis e rotas comerciais marítimas. (Cap. 6+)
 - **Orfanato Luminis** — Local onde Grazielly cresce
   - **STATUS: Alvo Estratégico de Umbra** — alta concentração de linhagens elementais diversificadas
   - Alvo prioritário para sequestro de talentos pelos agentes Nihilaryth
@@ -422,14 +423,34 @@ Dispositivos de cristal pulsante instalados nos portões e pontos estratégicos 
 | **Classificação** | Auxiliam na divisão das crianças por "afinidade elemental presumida" |
 
 #### Carruagens de Ressonância
-Tecnologia de transporte que depende de Aether para funcionar. Usadas para viagens entre cidades e reinos, especialmente em rotas comerciais como Velantis → Maris-Aetheria → Thalyra.
+Tecnologia de transporte que depende de Aether para funcionar. Usadas para viagens entre cidades e reinos, especialmente em rotas comerciais como Velantis → Thalendris → Thalyra.
 
 | Característica | Descrição |
 |---------------|------------|
 | **Propulsão** | Utilizam cristais Aetheris sintonizados com a assinatura etérica do condutor |
 | **Capacidade** | Variável — de veículos individuais a carruagens para dezenas de passageiros |
 | **Restrição** | Sylentis não conseguem alimentar a propulsão — apenas consomem a tecnologia |
-| **Implicação Narrativa** | Durante o passeio a Maris-Aetheria (Cap. 6), Kira sente amargura por ser alguém que apenas "consome" a tecnologia sem poder alimentá-la |
+| **Implicação Narrativa** | Durante o passeio a Thalendris (Cap. 6), Kira sente amargura por ser alguém que apenas "consome" a tecnologia sem poder alimentá-la |
+
+#### Veleiros de Estrada
+Nome poético das Carruagens de Ressonância em Sylvaris. Veículos construídos de madeira leve entrelaçada com latão polido, que flutuam sobre Trilhos de Vento — caminhos invisíveis de corrente induzida por cristais Aetheris. Cada Veleiro é operado por um **Timoneiro de Vento**, condutor treinado em sintonizar a frequência dos cristais com as correntes atmosféricas.
+
+| Característica | Descrição |
+|---------------|------------|
+| **Propulsão** | Cristais Aetheris sintonizados com correntes de ar via Trilhos de Vento |
+| **Operação** | Timoneiro de Vento ajusta frequência, velocidade e direção via console de latão e cristais |
+| **Capacidade** | Variável — o Veleiro nº17 do Cap. 6 transporta 40 crianças + tripulação |
+| **Nome Poético** | "Veleiros de Estrada" (Sylvaris) — ninguém usa "Carruagens de Ressonância" em contexto de viagem |
+
+#### Espelhos de Eco
+Dispositivos analógicos usados por agentes de Umbra para capturar assinaturas espirituais de alvos sem levantar suspeitas. Parecem espelhos decorativos comuns, mas contêm microcristais de Aetherite que registram e armazenam a assinatura etérica de qualquer ser que se aproxime.
+
+| Característica | Descrição |
+|---------------|------------|
+| **Aparência** | Pequenos espelhos de mão, aparentemente decorativos |
+| **Mecanismo** | Microcristais de Aetherite na superfície registram Aethra de quem se aproxima |
+| **Uso** | Agentes de Umbra disfarçados de "Desprovidos" usam para identificar linhagens elementais |
+| **Implicação Narrativa** | Usados no Cap. 6 para capturar a assinatura da Herdeira em Thalendris |
 
 ### Thalassia
 - **Thalyra** — Cidade costeira, Festival das Águas
@@ -688,6 +709,34 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 ---
 
+## 👤 VETHRAN NOLL (BURÓCRATA DE SANCTRUM)
+
+## Identidade
+- **Nome:** Vethran Noll
+- **Cargo:** Funcionário de baixo escalão no Departamento de Transferências de Sanctrum
+
+## Informações
+- Responsável por relatórios de transferência de órfãos entre reinos
+- Seus relatórios continham "cargas fantasmas" — crianças enviadas para academias inexistentes
+- Investigado por Selina Thalassa durante o Cap. 6
+- Possivelmente cúmplice ou peão de Thaloris Ventaris
+
+---
+
+## 👤 THALORIS VENTARIS (ANTAGONISTA EMERGENTE)
+
+## Identidade
+- **Nome:** Thaloris Ventaris
+- **Status:** Identidade parcialmente desconhecida — operando nas sombras
+
+## Informações Confirmadas
+- Orquestra o tráfico de talentos elementais através de transferências fantasmas de órfãos
+- Opera em aliança com "as profundezas" — possível conexão com Umbra ou forças Nihilaryth
+- Descoberto por Selina Thalassa durante investigação no Cap. 6
+- **Conexão com Thalendris** — o ponto focal de suas operações de captura de assinaturas
+
+---
+
 # 👥 PERSONAGENS DO ORFANATO
 
 ## Kira
@@ -910,7 +959,7 @@ Os Koramis são as maiores aves conhecidas de Nova Aetherion e uma das imagens m
 | **Expectativa de Vida** | 80 a 120 ciclos de Aurion |
 | **Vulnerabilidade** | Filhotes são alvos de caça furtiva — população monitorada pela Ordem |
 
-**Na Narrativa:** Durante o passeio a Maris-Aetheria (Cap. 6+), as crianças do Orfanato Luminis têm a oportunidade de fazer um tour montado nos Koramis — uma experiência rara que emociona até Kira, que apesar de sua amargura com o sistema, não consegue esconder o encanto ao ver o mundo de cima. Os soldados Vigilantes oferecem tours curtinhos como parte das festividades locais de Velantis. Cada Koramis carrega até 4 crianças com um condutor Vigilante, sobrevoando os campos de Aethrys e o lago do Orfanato antes de pousar suavemente no pátio.
+**Na Narrativa:** Durante o passeio a Thalendris (Cap. 6+), as crianças do Orfanato Luminis têm a oportunidade de fazer um tour montado nos Koramis — uma experiência rara que emociona até Kira, que apesar de sua amargura com o sistema, não consegue esconder o encanto ao ver o mundo de cima. Os soldados Vigilantes oferecem tours curtinhos como parte das festividades locais de Velantis. Cada Koramis carrega até 4 crianças com um condutor Vigilante, sobrevoando os campos de Aethrys e o lago do Orfanato antes de pousar suavemente no pátio.
 
 ### A Criatura Nyctara — Emblema de Lyris
 
@@ -1072,7 +1121,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 | 3 | O Legado da Parteira | Morte de Melessa, Lyris chega |
 | 4 | O Resgate do Coração | Grazielly salva Nyx |
 | 5 | O Presente das Estrelas | Aniversário 5 anos, cristal de Aurelius |
-| 6 | Sombras do Passado, Luzes do Orfanato | Vida no orfanato, avô misterioso |
+| 6 | O Horizonte de Sal e Cristal | Viagem a Thalendris, teste de Umbra, Koramis, Selina investiga |
 | 7 | O Sussurro das Águas | Lyris viaja a Thalyra, investigação do avô, ameaça Nihilaryth |
 
 ---
@@ -1181,7 +1230,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 11.1.0 - LORE COMPLETA DA NYCTARA
+**Versão do Dicionário:** 12.0.0 - CAPÍTULO VI E EXPANSÃO GEOGRÁFICA
 **Data de Atualização:** 06/04/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
@@ -1206,6 +1255,22 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 - ✅ **Seção dedicada "A Criatura Nyctara — Emblema de Lyris"** — Aparência, mecanismo de caça, explicação de por que não usa visão, tabela de simbolismo Nyctara ↔ Lyris
 - ✅ **Tabela Vanguarda atualizada** — Descrição expandida com Sussurro Etérico
 - ✅ **Emê-Gar atualizado** — Nomes ancestrais para todas as novas espécies
+
+### Atualizações da Versão 12.0.0:
+
+#### 7. Capítulo VI e Expansão Geográfica (v12.0.0)
+
+- ✅ **Capítulo VI escrito** — "O Horizonte de Sal e Cristal" (559 linhas, 5 seções)
+- ✅ **Thalendris** — Nova cidade costeira de falésias brancas no litoral oeste de Sylvaris (substitui Maris-Aetheria)
+- ✅ **Veleiros de Estrada** — Nome poético das Carruagens de Ressonância em Sylvaris
+- ✅ **Timoneiro de Vento** — Operador dos Veleiros de Estrada
+- ✅ **Trilhos de Vento** — Caminhos invisíveis de corrente induzida
+- ✅ **Espelhos de Eco** — Dispositivos de captura de assinatura espiritual usados por Umbra
+- ✅ **Vethran Noll** — Burocrata de Sanctrum com relatórios de transferências fantasmas
+- ✅ **Thaloris Ventaris** — Antagonista emergente, orquestra tráfico de talentos elementais
+- ✅ **"Desprovidos"** — Termo depreciativo para pessoas sem poder; usado como disfarce por agentes
+- ✅ **Koramis** integrados na narrativa do Cap. 6 — Tour aéreo para crianças em Thalendris
+- ✅ **Emê-Gar**: "Mushen Kora" (Koramis) — já registrado na v11.0.0
 
 #### 4. Sincronização Ontológica (Caps 01-04)
 
@@ -1287,3 +1352,4 @@ Alterações só com autorização explícita do autor.
 *Como Arquivista-Mestre de Aetherion e Especialista em Ontologia Narrativa,*
 *este registro fundamental é a âncora da verdade contra as distorções temporais*
 *e a corrupção do Vazio Primordial.*
+
