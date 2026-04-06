@@ -15,7 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
+> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Terravox** (besta de carga de Terraxis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna) sao OBSOLETOS fora de logs de versao.
 
 ---
 
@@ -854,6 +854,12 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Solarys** | **She Utu Sag** | Flor dourada que segue a luz de Aurion | Símbolo de esperança |
 | **Hydra Vine** | **U A Ki** | Videiras de água de Thalassia que armazenam água | Fonte vital em emergências |
 | **Flores-Mespiria** | — | Flores de âmbar/dourado | Cerimonial |
+| **Pyrénia** | **She An Ig** | Arbusto espinhento de frutas vermelhas-ácidas, nativo das planícies de Pyralis, resiste ao calor extremo | Culinária, geleias, licores |
+| **Terralith** | **She Dur** | Tubérculo robusto das montanhas de Terraxis, casca espessa e polpa nutritiva, alimento básico das populações mineiras | Alimento principal em Terraxis |
+| **Umbraférrea** | **Gesh Umbar** | Fungo raro das cavernas profundas de Umbra, libera esporos prateados que curam feridas respiratórias | Medicina avançada, rituais de cura |
+| **Noctídea** | **Gesh Nyx** | Flores que desabrocham apenas sob a luz de Nyx, pétalas azul-prateadas com fulgor etéreo | Rituais de adivinhação, cerimonial |
+| **Veralis** | **Gesh Im Gal** | Grama alta e flexível dos prados de Sylvaris, hastes sussurram canções com o vento, crianças fazem apitos entreteados | Brinquedos infantis, cestaria |
+| **Thalux** | **She A Gal** | Planta aquática bioluminescente dos lagos rasos de Thalassia, raízes comestíveis e folhas emitem luz azul suave | Alimentação costeira, iluminação natural |
 
 **NUNCA USAR:** trigo, arroz, milho, ou outros cereais terrestres
 
@@ -876,6 +882,35 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Terralux** | **Ur Kish** | Inseto subterrâneo | Vivem nas minas de Terraxis, bioluminescência verde-cristalina |
 | **Ventis** | — | Ave mensageira | Usadas para comunicação entre reinos, seguem correntes de ar |
 | **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Liryth mas selvagem, vive nas colinas de Sylvaris |
+| **Pyrgon** | **Ur Ig Gal** | Réptil de médio porte | Escamas que refletem o calor, carniceiro oportunista das planícies vulcânicas de Pyralis |
+| **Thalantys** | **Mushen A Dur** | Criatura marinha gelatinosa | Corpo translúcido com veios bioluminescentes, inofensiva, habita recifes de Thalassia |
+| **Umbrix** | **Ur Ensi Gal** | Serpente das sombras | Escamas absorvem luz, virtualmente invisível na escuridão, veneno causa paralisia temporária |
+| **Fulguris** | **Mushen Bar** | Ave elétrica de pequeno porte | Penas carregadas de eletricidade estática, emitem faíscas durante voo, nativa das auroras de Fulmora |
+| **Nyxara** | **Ur Nyx** | Mamífero arborícola noturno | Pelagem que brilha sob Nyx, olhos grandes, habita copas das árvores de Sylvaris, alimenta-se de Sylaris |
+
+## Criaturas de Montaria e Transporte
+
+| Nome Comum | Nome Ancestral (Emê-Gir) | Classificação | Características | Uso Principal |
+|------|--------------------------|---------------|-----------------|---------------|
+| **Koramis** | **Mushen Kora** | Ave gigante de montaria | Asas de até 10 passos de envergadura, penas que mudam de cor conforme a luz de Aurion, temperamento dócil e leal | Patrulha aérea Vigilante, transporte entre cidades, tours infantis |
+| **Terravox** | **Ur Kish Dur** | Mamífero quadrúpede | Grande porte, casca óssea protetora nas costas, lento mas incrivelmente forte, resistente a frio extremo | Besta de carga nas minas de cristal Aethra de Terraxis |
+
+### Detalhes: Koramis
+
+Os Koramis são as maiores aves conhecidas de Nova Aetherion e uma das imagens mais icônicas de Sylvaris. Domesticadas há séculos pelos Vigilantes de Velantis, essas criaturas majestosas patrulham os céus do Reino do Vento diariamente, garantindo a segurança das rotas aéreas e monitorando as fronteiras. Seu nome ancestral, *Mushen Kora*, significa "Ave do Coração" — uma referência ao vínculo afetivo que desenvolvem com seus tratadores.
+
+| Característica | Detalhe |
+|---------------|---------|
+| **Envergadura** | Até 10 passos (~15 metros) |
+| **Capacidade** | 4 a 6 pessoas em selas adaptadas |
+| **Temperamento** | Dócil com treinamento, protetor por instinto |
+| **Velocidade** | Moderada em cruzeiro, rápida em mergulho |
+| **Habitat Natural** | Ninhos nas cornijas das montanhas flutuantes de Sylvaris |
+| **Alimentação** | Thaluris, sementes de Aethrys, frutos de Pyrénia |
+| **Expectativa de Vida** | 80 a 120 ciclos de Aurion |
+| **Vulnerabilidade** | Filhotes são alvos de caça furtiva — população monitorada pela Ordem |
+
+**Na Narrativa:** Durante o passeio a Maris-Aetheria (Cap. 6+), as crianças do Orfanato Luminis têm a oportunidade de fazer um tour montado nos Koramis — uma experiência rara que emociona até Kira, que apesar de sua amargura com o sistema, não consegue esconder o encanto ao ver o mundo de cima. Os soldados Vigilantes oferecem tours curtinhos como parte das festividades locais de Velantis. Cada Koramis carrega até 4 crianças com um condutor Vigilante, sobrevoando os campos de Aethrys e o lago do Orfanato antes de pousar suavemente no pátio.
 
 ## Criaturas Lendárias
 
@@ -955,6 +990,8 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | Escala Kardashev | Escala de Evolução Aetherion |
 | Esfera Dyson | Manto Solar |
 | lobo/coruja/falcão | Urrak/Nyctara/Velatrix |
+| cavalo/elefante | Koramis/Terravox |
+| coelho/gato | Liryth/Nyxara |
 | segundo/metro/grama | Pulso/Passo/Semente |
 
 ## Nomes Consolidados
@@ -1026,6 +1063,12 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **A-edin** | Aethrys | Água da planície |
 | **Nig-ug** | Giralis | Coisa preciosa |
 | **Gish-im** | Aeriva | Árvore do vento |
+| **She ig-an** | Pyrénia | Fruto do fogo |
+| **She dur** | Terralith | Alimento da pedra |
+| **Gesh umbar** | Umbraférrea | Fungo das sombras profundas |
+| **Gesh nyx** | Noctídea | Flor de Nyx |
+| **Gesh im-gal** | Veralis | Grama do grande vento |
+| **She a-gal** | Thalux | Água grande luminosa |
 
 ## Fauna em Língua Antiga
 
@@ -1037,6 +1080,13 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Tir-kur** | Nyctara | Pássaro da montanha |
 | **Urrak** | Urrak | (Onomatopeia - uivo) |
 | **Vel-gish** | Velatrix | Veloz da floresta |
+| **Ur ig-gal** | Pyrgon | Grande réptil de fogo |
+| **Mushen a-dur** | Thalantys | Criatura marinha durável |
+| **Ur ensi-gal** | Umbrix | Grande serpente das sombras |
+| **Mushen bar** | Fulguris | Ave do relâmpago |
+| **Ur nyx** | Nyxara | Criatura de Nyx |
+| **Mushen kora** | Koramis | Ave do coração |
+| **Ur kish-dur** | Terravox | Grande besta das pedras |
 
 ## Tempo em Língua Antiga
 
@@ -1080,11 +1130,19 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 10.0.0 - SINCRONIZAÇÃO ONTOLÓGICA
+**Versão do Dicionário:** 11.0.0 - EXPANSÃO DA FLORA E FAUNA
 **Data de Atualização:** 06/04/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
+
+#### 5. Expansão da Flora e Fauna (v11.0.0)
+
+- ✅ **+6 novas espécies de Flora** — Pyrénia, Terralith, Umbraférrea, Noctídea, Veralis, Thalux
+- ✅ **+7 novas espécies de Fauna** — Pyrgon, Thalantys, Umbrix, Fulguris, Nyxara, Koramis, Terravox
+- ✅ **Koramis** — Ave gigante de montaria de Sylvaris, usada por soldados Vigilantes para patrulha aérea e por crianças em tours (Cap. 6+)
+- ✅ **Nova seção: Criaturas de Montaria e Transporte** — Koramis e Terravox
+- ✅ **Emê-Gar atualizado** — Nomes ancestrais para todas as novas espécies
 
 #### 4. Sincronização Ontológica (Caps 01-04)
 
