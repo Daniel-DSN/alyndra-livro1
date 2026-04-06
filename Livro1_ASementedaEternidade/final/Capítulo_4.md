@@ -76,7 +76,59 @@ Grazielly comeu outra colherada. Depois outra. E antes que percebesse, a tigela 
 
 — Viu? — Mira disse, sorrindo com a satisfação de quem ganhou uma aposta silenciosa. — Eu disse que você ia gostar daqui.
 
-Depois do jantar, as crianças se reuniram na biblioteca para a hora das histórias — o mesmo ritual que todas as crianças novas vivenciavam em sua primeira noite, mas que para ela era tudo — novo, fresco, carregado de primeira impressões. A biblioteca era maior do que qualquer cômodo que Grazielly já havia visto — paredes cobertas de estantes que iam do chão ao teto, livros de todas as cores e tamanhos empilhados e organizados com um cuidado que sugeria que aquele lugar era sagrado. Velas de cristal Aetheris tremiam em suportes de parede, projetando luz dourada que fazia as páginas antigas parecerem conter universos inteiros.
+E então, como se a insatisfação de uma criança de oito anos com o silêncio fosse uma força da natureza, Mira se levantou e puxou Grazielly pelo braço.
+
+— Vem, a história só começa daqui a pouco. Quero te mostrar uma coisa antes.
+
+---
+
+## III. Conhecendo o Luminis
+
+O corredor do andar térreo era longo e cheio de portas, cada uma com um pequeno quadro de madeira pendurado na altura dos olhos de uma criança — desenhos feitos pelos próprios moradores ao longo dos anos, retratando o que cada sala significava para quem a usava. O da cozinha mostrava uma panela sorridente com olhos redondos e braços curtos. O da biblioteca, um livro com asas de Seraphyen. E o da porta no final do corredor, pintado em tons suaves de azul e rosa, mostrava um berço de onde saía uma estrela de cinco pontas.
+
+Mira abriu aquela porta com cuidado — dois dedos na maçaneta, nenhum ruído — e sussurrou:
+
+— Aqui é o Berçário. Todo mundo fala baixo aqui dentro.
+
+O berçário era uma sala ampla e morna, banhada por uma luz amarelada que não vinha de velas nem de cristais Aetheris, mas de algo mais suave — Giralis plantadas em vasos nas janelas, cujas pétalas bioluminescentes emitiam um brilho constante e gentil que lembrava a luz de Lyria filtrada através de água. O ar cheirava a leite morno, a sabonete de ervas e a algo que Grazielly não conseguia nomear mas que fez seu peito apertar — algo que era talvez o cheiro de cuidado, de presença, de vidas muito pequenas sendo protegidas de um mundo muito grande.
+
+Havia seis berços dispostos em semicírculo ao redor de uma janela grande que dava para o jardim interno do orfanato. Cinco estavam ocupados. Bebês de idades variadas — alguns dormindo com a serenidade absoluta de quem ainda não conhece o medo, outros acordados mas silenciosos, olhando para o teto com aqueles olhos redondos e sem foco que só os recém-nascidos têm. Um deles, o menor, tinha os punhos cerrados sobre o peito e a boca entreaberta, e cada respiração era tão pequena que parecia que o ar nem entrava — apenas passava de raspão, como se o bebê estivesse respirando por educação, não por necessidade.
+
+Grazielly se aproximou do berço mais próximo sem perceber. A bebé dentro tinha talvez poucas semanas de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de Sylvaris em uma manhã sem nuvens. A bebé não chorava. Não se movia. Apenas a olhava com aquela serenidade absurda dos que ainda não aprenderam que o mundo pode ser cruel, e Grazielly sentiu algo dentro de si se afrouar — não completamente, não o bastante para apagar a dor, mas o bastante para sentir que havia ainda espaço dentro do peito para coisas que não fossem apenas perda.
+
+— A mãe dela deixou ela na porta num inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Madre Elara encontrou de manhã, embrulhada num cobertor de lã. Ela se chama Liora.
+
+Grazielly não perguntou por que a mãe tinha partido. Não precisava perguntar. Havia coisas que uma criança de quatro anos compreendia sem palavras — e a possibilidade de ser deixada, de ser solta, de ter o único vínculo do mundo rompido por mãos que não eram as suas, era uma delas.
+
+Com a ponta dos dedos — o mesmo gesto que Melessa lhe ensinara para tocar as flores de Giralis sem quebrar as pétalas — Grazielly tocou a mão minúscula da bebé. A mão se fechou ao redor de seu dedo com uma força que não deveria existir em algo tão pequeno, e Grazielly sentiu os olhos se encherem de algo que não era exatamente lágrimas mas que morava na mesma vizinhança.
+
+*Nyx nunca foi tão pequeno*, pensou. Mas Nyx também chegou para ela — entregue por Melessa, envolvido em um pano quente, com os olhos ainda fechados e o chiado que mais tarde aprenderia a reconhecer como uma saudação.
+
+Ela ficou ali por um momento que nem Mira interrompeu. Depois soltou o dedo — Liora não reclamou, apenas continuou olhando para o teto com a filosofia serena dos bebês — e seguiu Mira para fora.
+
+A sala de desenhos ficava no outro extremo do corredor — uma sala grande, maior que o berçário, com janelas que iam do chão quase ao teto e mesas baixas espalhadas pelo espaço como ilhas em um arquipélago. Cada mesa estava coberta de papéis e lápis de cera feitos de cera de Giralis — que brilhavam com cores que pareciam impossíveis, como se cada cor fosse uma nota musical diferente. Havia potes de tinta, pincéis de cerdas grossas e finas, pedaços de argila modelados e abandonados em vários estágios de secura, e no canto, uma prancheta grande com um desenho inacabado que alguém havia deixado de um dia para o outro — um castelo no topo de uma montanha, com bandeiras que pareciam feitas de vento.
+
+Mas as paredes eram o verdadeiro espetáculo. Cobertas de desenhos de crianças de todas as idades e de todos os níveis de habilidade, criavam uma galeria que era ao mesmo tempo caótica e maravilhosa. Havia dragões de cinco patas e Seraphyens de asas desiguais. Havia retratos de famílias onde o número de pessoas variava entre dois e doze. Havia paisagens impossíveis — oceanos de cor roxa, montanhas que flutuavam no céu, florestas onde as árvores tinham faces sorridentes. E no centro de uma parede, emoldurado por uma moldura de madeira simples mas feita com cuidado, havia um desenho que era diferente de todos os outros — não por sua técnica, que era tão rudimentar quanto os demais, mas por algo que emanava dele, uma urgência que transcendia a idade de quem o havia feito.
+
+Era o desenho de uma menina de olhos grandes, de mãos que brilhavam como pequenas estrelas, parada diante de uma árvore enorme cujos galhos tocavam as nuvens. Ao redor da menina, criaturas aladas — Seraphyens, Thaluris, Sylari — formavam um círculo como se a protegessem. E no topo da árvore, um pássaro azul-escuro olhava para baixo com olhos que, mesmo desenhados com lápis de cera, pareciam conter algo que era mais do que tinta sobre papel.
+
+Grazielly parou diante daquele desenho.
+
+— Alguém desenhou isso? — ela perguntou, e sua voz saiu mais baixa do que pretendia.
+
+— A gente não sabe — Mira respondeu, com um tom que misturava mistério e respeito. — Tava aqui quando Madre Elara chegou, há muitos e muitos anos. Dizem que era do primeiro orfanato, o que veio antes deste. Mas ninguém lembra quem desenhou.
+
+Grazielly olhou para o pássaro azul-escuro no topo da árvore.
+
+*Nyx.*
+
+Desviou o olhar e não perguntou mais nada.
+
+---
+
+## IV. A Hora das Histórias
+
+Mais tarde, as crianças se reuniram na biblioteca para a hora das histórias — o mesmo ritual que todas as crianças novas vivenciavam em sua primeira noite, mas que para ela era tudo — novo, fresco, carregado de primeira impressões. A biblioteca era maior do que qualquer cômodo que Grazielly já havia visto — paredes cobertas de estantes que iam do chão ao teto, livros de todas as cores e tamanhos empilhados e organizados com um cuidado que sugeria que aquele lugar era sagrado. Velas de cristal Aetheris tremiam em suportes de parede, projetando luz dourada que fazia as páginas antigas parecerem conter universos inteiros.
 
 Grazielly sentou-se ao lado de Mira em um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Mirella cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
 
@@ -84,9 +136,60 @@ Grazielly sentou-se ao lado de Mira em um canto perto da janela, de onde podia v
 
 Grazielly sentiu algo ao ouvir aquele nome. Não reconhecimento exato — ela nunca havia ouvido a história de Ventus, não da forma como seria contada ali —, mas algo mais profundo, mais instintivo. Como se o nome fosse uma música que ela já conhecesse mas não conseguisse lembrar de onde.
 
-Mirella começou a narrar, e sua voz ganhou aquela qualidade que era ao mesmo tempo canção de ninar e épica, suave o bastante para acalmar crianças e poderosa o bastante para transportá-las para além dos muros do orfanato. Falou de Ventus, o Seraphyen do Vento, o mais jovem dos dez guardiões primordiais que haviam protegido a criação desde o princípio dos tempos. Falou de como ele havia perdido seus irmãos e irmãs um a um na Primeira Guerra, cada queda um sacrifício necessário para manter o universo intacto. Falou de como ele havia se dissipado por completo ao final, transformando-se no próprio vento que soprava através de todos os mundos — o ar que respiravam, a brisa que carregava sementes, a tempestade que limpa o velho para abrir espaço para o novo. E falou de como, em seu último ato de amor, Ventus havia fundado Sylvaris — o Reino dos Ventos Livres —, um lugar onde aqueles que buscavam refúgio poderiam encontrar paz, onde o vento seria eternamente livre e eternamente protetor.
+Mirella começou a narrar, mas não como quem conta uma história — como quem recita algo que aprendeu de cor há tanto tempo que as palavras já não moram em sua mente mas em seu sangue. E as crianças, que normalmente não conseguiam ficar caladas por mais de alguns Pulsos, se aquietaram. Até as mais inquietas pararam de se mexer. E Mirella recitou:
 
-E quando Mirella disse "e é por isso que o vento em Sylvaris é sagrado, porque o vento é Ventus", uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
+*"Havia dez que guardavam o mundo,*
+*cada um com seu dom, sua luz, seu canto:*
+*do fogo, da água, da terra e do vento,*
+*das sombras, das estrelas, do tempo e do ferro,*
+*do sono profundo e da luz primeva.*
+
+*Dez irmãos que dançavam com o cosmos,*
+*que seguravam o céu como quem sustenta um manto,*
+*que protegiam os mundos como quem cobre um filho.*
+
+*Mas a guerra veio — e um a um caíram.*
+*Primeiro o do sono, que adormeceu para sempre.*
+*Depois o do ferro, que se partiu em mil lâminas.*
+*E assim por diante, cada queda um eco,*
+*cada ausência um vazio que o universo não sabia preencher.*
+
+*Quando só restou o mais jovem — Ventus,*
+*o do vento, o da liberdade,*
+*o que nunca quis reinar nem mandar,*
+*ele olhou para o que restava e chorou.*
+*Não de medo. Não de fraqueza.*
+*Chorou porque amava.*
+*Chorou porque tudo o que ele amava se havia partido.*
+
+*E então Ventus abriu as asas pela última vez —*
+*e voou tão alto que o céu não pôde contê-lo,*
+*tão longe que a terra não pôde segurá-lo —*
+*e se espalhou.*
+*Não como morte. Como presente.*
+*No sopro que insiste na tempestade,*
+*na brisa que afaga teu rosto ao amanhecer,*
+*no redemoinho que dança com as folhas,*
+*no silêncio entre uma rajada e outra,*
+*quando o mundo inteiro segura a respiração —*
+*é Ventus.*
+*É o último guardião.*
+*É o amor que não morreu.*
+*Apenas aprendeu a voar.*
+
+*E por isso fundou Sylvaris, nosso reino,*
+*não com muros nem coroas nem espadas,*
+*mas com uma promessa gravada no vento:*
+*que todo aquele que procurar abrigo* 
+*encontrará um sopro morno em meio ao frio,*
+*e uma brisa que dirá:*
+*'Aqui você pode descansar.'*
+*Porque o vento é livre — e sendo livre,*
+*não esquece ninguém."*
+
+Silêncio na biblioteca. O tipo de silêncio que vem depois de algo que não se pode seguir com palavras comuns. Crianças que normalmente não conseguiam ficar calmas por mais de alguns Pulsos estavam imóveis, olhando para Mirella com expressões que oscilavam entre o encanto e algo mais profundo — a compreensão instintiva, mesmo na infância, de que certas verdades não precisam ser entendidas para serem sentidas.
+
+E uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
 
 *Ventus,* Grazielly pensou, e o pensamento não veio em palavras mas em sensações — vento no rosto, luz dourada, asas abertas, liberdade absoluta. *Você está aqui? No vento? No ar que eu respiro?*
 
@@ -95,6 +198,10 @@ O vento soprou através da janela entreaberta da biblioteca — um sopro breve e
 Grazielly fechou os olhos e sentiu, pela primeira vez desde que havia acordado naquela manhã, algo que não era dor. Era consolo. Era a sensação de que, apesar de tudo — apesar de Melessa, apesar de Nyx, apesar da nevasca e da casa vazia e do futuro incerto —, ela não estava completamente sozinha.
 
 Não completamente.
+
+---
+
+## V. O Dormitório
 
 Na hora de dormir, Mira levou Grazielly ao dormitório — uma sala grande com camas organizadas em filas, cada uma com um cobertor de lã e um travesseiro simples. A maioria das camas já estava ocupada por corpos pequenos que respiravam o ritmo pesado do sono, e o ar era quente e cheirava a lavanda e a lã.
 
@@ -122,7 +229,49 @@ A terceira figura era mais distante, mais difusa. Uma silhueta masculina que fic
 
 Mas antes que pudesse ver mais, antes que a silhueta se revelasse ou que Melessa ou Ayla dissessem algo que ela pudesse lembrar ao acordar, o sonho se dissolveu. E Grazielly afundou em um sono profundo e sem sonhos, o primeiro sono verdadeiramente descansado desde que Melessa havia partido, como se o subconsciente dela soubesse que precisava daquele descanso para sobreviver ao que viria.
 
-E na sala ao lado, sentada em uma cadeira ao lado da janela do escritório onde observava o dormitório através da porta entreaberta, Lyris observava Grazielly dormir e fazia silenciosamente a contagem dos dias até que pudesse voltar a Mespiria e buscar Nyx.
+---
+
+## VI. A Madre e a Guardiã
+
+E na sala ao lado, sentada em uma cadeira ao lado da janela do escritório onde observava o dormitório através da porta entreaberta, Lyris observava Grazielly dormir. A respiração da menina era irregular — o tipo de respiração que carrega dentro de si o peso de um dia demasiado, de uma noite que pede descanso mas não o encontra fácil. Lyris contava os dias até que pudesse voltar a Mespiria e buscar Nyx quando a porta do escritório se abriu.
+
+Era Madre Elara.
+
+A diretora do Orfanato Luminis era uma mulher cuja idade era difícil de determinar — seus cabelos eram grisalhos, puxados para um coque frouxo na nuca, e seu rosto carregava linhas que falavam de décadas cuidando de crianças que não eram suas. Mas seus olhos — escuros, vivos, afiados como lâminas de cristal Aetheris — tinham uma energia que desafiava qualquer tentativa de envelhecimento. Ela usava um hábito simples de tecido cinza-claro, sem adornos, sem insígnias, e caminhava com o tipo de silêncio que só se aprende depois de anos numa casa cheia de crianças que precisam de sono mais do que de ruído.
+
+— Ela dormiu? — Madre Elara perguntou, e a pergunta era simples, mas o tom não era — havia na voz da madre algo que era ao mesmo tempo pergunta e constatação, como se já soubesse a resposta mas quisesse confirmá-la com alguém que tivesse olhado mais de perto.
+
+— Dormiu — Lyris confirmou. — Mas não antes de dizer o nome de um Liryth que não está aqui.
+
+Madre Elara se aproximou da janela e olhou para o dormitório através da fresta da porta. Por um longo momento, observou Grazielly — a menina pequena encolhida sob o cobertor, os cabelos loiros espalhados no travesseiro, as mãos cerradas sobre o peito como se segurasse algo invisível.
+
+— Mira me contou que ela não comeu quase nada no jantar — Madre Elara disse, e seu tom era o de quem não julga, apenas observa. — E que olhou para a tigela como se a sopa fosse um inimigo. Só comeu porque a Mira insistiu. Isso é tristeza demais para uma criança de quatro anos, Lyris. Tristeza demais para quem acabou de chegar.
+
+Lyris sabia que Madre Elara era perceptiva — era uma das razões pelas quais o Orfanato Luminis era o que era, um lugar que recebia crianças quebradas e devolvia ao mundo pessoas inteiras. A madre não fazia perguntas por curiosidade. Fazia perguntas porque as respostas ditavam o tipo de cuidado que cada criança precisava.
+
+— Ela deixou algo para trás — Lyris disse, escolhendo cada palavra com o cuidado de quem caminha em campo minado. — Não foi apenas a avó. Há um Liryth — um companheiro animal. Azul-escuro. Chamado Nyx. Ele ficou em Mespiria quando trouxemos Grazielly para cá.
+
+— Deixou um Liryth para trás? — Madre Elara repetiu, e algo em seu rosto mudou — não desapontamento, não surpresa, mas uma compreensão que vinha de décadas de experiência. — Lyris, crianças dessa idade não se separam de seus companheiros por vontade própria. Um Liryth não é um animal de estimação — é parte da criança. Separar os dois é como arrancar uma metade do peito e esperar que a outra metade continue respirando como se nada tivesse acontecido.
+
+Lyris não respondeu imediatamente. Havia verdade nas palavras da madre — uma verdade que ela já conhecia, que já sentia cada vez que olhava para Grazielly e via o espaço vazio onde Nyx deveria estar.
+
+— A nevasca não nos deu escolha — Lyris disse finalmente. — A estrada para Mespiria estava bloqueada. Se tivéssemos esperado, a menina não teria sobrevivido ao inverno naquela casa sozinha. Melessa já havia partido. Não havia mais ninguém.
+
+Madre Elara assentiu lentamente, e no assentimento havia algo que era aceitação, não concordância — a aceitação de quem sabe que às vezes as escolhas certas são também as que mais machucam.
+
+— Quando as estradas abrirem — Madre Elara disse, e não era uma pergunta — vocês vão buscá-lo.
+
+— Nós vamos buscá-lo — Lyris confirmou.
+
+— Então enquanto isso — Madre Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, cavalos, um guia que conheça o caminho por dentro das montanhas —, diga.
+
+Lyris sentiu algo que raramente sentia em missões da Ordem — gratidão genuína, não a gratidão calculada de quem recebe um recurso estratégico, mas a gratidão simples de quem oferece um ombro e recebe um porto seguro em troca.
+
+— Obrigada, Elara — Lyris disse, e não usou o título "Madre" — era um sinal de intimidade que ela não permitia a quase ninguém, mas que Elara havia conquistado há décadas, em uma noite semelhante a esta, quando Lyris era muito mais jovem e muito menos sábia, e o orfanato já era o lugar que era.
+
+Madre Elara colocou a mão no ombro de Lyris por um instante — um gesto breve, mas que carregava dentro de si décadas de confiança — e se retirou em silêncio, deixando Lyris sozinha com a vista do dormitório e com a contagem dos dias.
+
+Lyris voltou a olhar para Grazielly. A menina continuava dormindo, as mãos ainda cerradas sobre o peito.
 
 *Um dia. Alguns dias. Uma semana, no máximo.*
 
@@ -132,11 +281,7 @@ E na sala ao lado, sentada em uma cadeira ao lado da janela do escritório onde 
 
 ---
 
-
-
----
-
-
+## VII. A Primeira Manhã
 
 Grazielly acordou antes de todas as outras crianças.
 
@@ -157,6 +302,10 @@ Grazielly seguiu um impulso que não conseguia explicar — uma atração que n�
 O ar a atingiu como uma parede de gelo, mas era um gelo diferente do dia anterior. A nevasca havia passado durante a noite, e o mundo que se revelava diante de Grazielly era de uma beleza devastadora — e acolhedora ao mesmo tempo. O terreno dentro das muralhas era uma mistura de jardins e brinquedos: um balanço de corda amarrado ao galho de um Argentis enorme coberto de neve, uma estrutura de madeira que parecia um castelo de crianças com torres e escorregadores, e mais adiante, escondida atrás de um arbusto de Aeriva, a entrada de uma pequena gruta natural de pedra que os moradores mais antigos diziam ter sido formada pelas raízes de um Sylvaris milenar. Mesmo sob a neve, dava para ver que dentro da gruta havia almofadas de tecido, lanternas de cristal apagadas e pilhas de livros infantis — um esconderijo que alguém, em algum momento, havia transformado em um refúgio dentro do refúgio. Além da gruta, um canteiro de Giralis adormecidas sob a geada cercava um pequeno lago congelado onde, na primavera, crianças menores alimentavam Thaluris — aqueles peixes alados de escamas prateadas que diziam ter vindo de Thalassia — com migalhas de pão. Tudo coberto por uma camada de neve branca e imaculada que brilhava sob a primeira luz de Aurion como se tivessem polido o universo durante a noite. Os telhados de Velantis eram montanhas de neve. As ruas eram caminhos de cristal. E o céu, o céu era de um azul tão profundo e tão claro que parecia falso, como se alguém o tivesse pintado enquanto ela dormia.
 
 Grazielly caminhou até os portões do orfanato — portões de ferro forjado que ficavam na frente do prédio, adornados com desenhos de Sylari e Aerélia entrelaçadas em padrões que eram belos mesmo sob a camada de neve que os cobria. E foi ali, parada diante dos portões, olhando para a rua coberta de branco que se estendia em ambas as direções, que ela viu.
+
+---
+
+## VIII. O Último Voo
 
 A estátua ficava no jardim à esquerda dos portões, parcialmente escondida por um Argentis cujos galhos nevados formavam uma cortina natural ao seu redor. Era uma escultura de pedra cinza-claro, ligeiramente desgastada pelo tempo e pelas intempéries, mas ainda reconhecível, ainda dotada de uma dignidade que os séculos não haviam conseguido erodir. Representava uma figura alada — um ser cuja forma era vagamente humana mas cujas proporções sugeriam algo além da humanidade, algo mais etéreo, mais luminoso, mais antigo. As asas estavam abertas, estendidas para os lados como se a figura estivesse no meio de um voo eterno, suspensa para sempre no momento entre a terra e o céu. O rosto estava voltado para cima, para o azul infinito onde Aurion começava a despontar no horizonte, e a expressão naquele rosto de pedra era de algo que não era exatamente alegria nem exatamente tristeza, mas que ficava no espaço entre os dois — uma serenidade que aceitava tanto a dor quanto a beleza do mundo, que reconhecia tanto a perda quanto a possibilidade, que continha em sua quietude de pedra tudo o que uma vida inteira de amor e sacrifício poderia ensinar.
 
