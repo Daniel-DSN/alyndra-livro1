@@ -48,7 +48,7 @@ Ayla caminhava pelas ruas de Zephyra como uma sombra que se recusa a ser percebi
 
 Era assim há meses — desde que chegara ao sudoeste de Nova Aetherion, desde que escolhera aquele reino entre todos os outros, desde que encontrara nas terras ventosas de Sylvaris uma espécie de paz que não imaginava existir. Ela vinha à capital com frequência, sempre nos mesmos dias, sempre nos mesmos horários, como uma criatura de hábitos que sabia que a regularidade era a melhor forma de passar despercebida.
 
-Os Sylvarisn — o povo do vento — eram conhecidos por sua hospitalidade e por sua discrição. Não faziam perguntas sobre o passado de ninguém, não julgavam origens, não cavavam feridas que preferiam ficar fechadas. Em Sylvaris, uma pessoa era aceita pelo que era no presente, não pelo que havia sido antes de atravessar as fronteiras do reino.
+Os Sylvari — o povo do vento — eram conhecidos por sua hospitalidade e por sua discrição. Não faziam perguntas sobre o passado de ninguém, não julgavam origens, não cavavam feridas que preferiam ficar fechadas. Em Sylvaris, uma pessoa era aceita pelo que era no presente, não pelo que havia sido antes de atravessar as fronteiras do reino.
 
 Era exatamente o que Ayla precisava.
 
@@ -60,7 +60,7 @@ A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcad
 
 O comerciante assentiu e começou a preparar o pacote. Enquanto ele trabalhava, Ayla observava a praça ao redor, seus olhos treinados registrando detalhes que a maioria das pessoas jamais notaria.
 
-Zephyra era uma cidade erguida sobre pilares de cristal Aetheris que flutuavam levemente no ar, suas torres esguias de mármore branco parecendo tocar o céu. Jardins suspensos ondulavam com as brisas constantes como vestidos de seda em dança eterna, e fontes esculpidas jorravam água que o vento transformava em névoa cintilante. As ruas eram largas e limpas, pavimentadas com pedras claras que refletiam a luz de Aurion como espelhos naturais. Em todos os lugares, o som constante do vento criava uma melodia de fundo — um sussurro perpétuo que os Sylvarisn diziam ser a voz do último Seraphyen, falando com seus filhos através dos séculos.
+Zephyra era uma cidade erguida sobre pilares de cristal Aetheris que flutuavam levemente no ar, suas torres esguias de mármore branco parecendo tocar o céu. Jardins suspensos ondulavam com as brisas constantes como vestidos de seda em dança eterna, e fontes esculpidas jorravam água que o vento transformava em névoa cintilante. As ruas eram largas e limpas, pavimentadas com pedras claras que refletiam a luz de Aurion como espelhos naturais. Em todos os lugares, o som constante do vento criava uma melodia de fundo — um sussurro perpétuo que os Sylvari diziam ser a voz do último Seraphyen, falando com seus filhos através dos séculos.
 
 Era uma cidade de beleza sobrenatural. Uma cidade que parecia ter sido criada para a paz.
 
@@ -134,7 +134,7 @@ Mespiria era uma pequena comunidade agrícola nas cercanias de Velantis — long
 
 Era exatamente o que Ayla procurava.
 
-Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Sylvarisn, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena, mas aconchegante nos arredores da vila.
+Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Sylvari, e Melessa — uma viúva idosa, parteira da vila — oferecera-lhe uma casa pequena, mas aconchegante nos arredores de Mespiria, sem fazer uma única pergunta sobre a gravidez evidente.
 
 — Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam à luz de Aurion da tarde. — Comecei a me preocupar. A caminhada de Zephyra não é curta, especialmente em seu estado.
 
@@ -334,7 +334,7 @@ Sylvaris é apresentado como um refúgio — não apenas para Ayla, mas para tod
 | Termo | Definição |
 |-------|-----------|
 | **Convergência Tripla** | Alinhamento das três luas; fenômeno raro que marca eventos de importância cósmica |
-| **Sylvarisn** | Povo de Sylvaris; conhecidos por hospitalidade e discrição |
+| **Sylvari** | Povo de Sylvaris; conhecidos por hospitalidade e discrição |
 | **Sylvaris** | Árvores de casca clara; folhas tilintam como sinos no vento |
 | **Aethrys** | Cereal dourado; ondula nos campos como mares de ouro |
 | **Mirael** | Ervas aromáticas de cura |
