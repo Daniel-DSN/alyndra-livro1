@@ -74,7 +74,7 @@ Era uma tempestade silenciosa. Uma tempestade que observava. Uma tempestade que 
 
 O tempo perdeu seu significado dentro da casa de pedra.
 
-Minutos se estiravam como horas. Horas se comprimiam como segundos. Ayla empurrava e respirava, empurrava e respirava, seu corpo exausto se recusando a desistir enquanto a vida dentro dela lutava para sair.
+Pulsos se estiravam como Passos. Passos se comprimiam como batidas de um coração acelerado. Ayla empurrava e respirava, empurrava e respirava, seu corpo exausto se recusando a desistir enquanto a vida dentro dela lutava para sair.
 
 A cada contração, as velas de cristal Aetheris tremiam — não com o vento, mas com algo mais profundo. Uma energia que parecia emanar da própria Ayla, ou talvez da criança que ela carregava, pulsando no ar como ondas de calor em um dia de verão.
 
@@ -122,7 +122,7 @@ Apenas uma tristeza profunda. Uma saudade antecipada da vida que não viveria. D
 
 Ayla ergueu uma mão trêmula e tocou o rosto de sua filha recém-nascida.
 
-Um sorriso suave, cheio de amor e dor, formou-se em seus lábios pálidas. Suas últimas forças estavam se esvaindo como água entre dedos cansados, mas ela tinha ainda uma tarefa a cumprir — a mais importante de sua vida.
+Um sorriso suave, cheio de amor e dor, formou-se em seus lábios pálidos. Suas últimas forças estavam se esvaindo como água entre dedos cansados, mas ela tinha ainda uma tarefa a cumprir — a mais importante de sua vida.
 
 — Grazielly — sussurrou ela, a voz pouco mais que um suspiro. — Seu nome... é Grazielly.
 
