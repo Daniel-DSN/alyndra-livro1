@@ -659,9 +659,9 @@ E no fundo da multidão, Lyris observava tudo com uma mistura de tristeza, rever
 
 Quando os aldeãos começaram a se dispersar, Lyris se aproximou de Grazielly, que permanecia imóvel ao lado da sepultura recém-fechada.
 
-— Grazielly — Lyris disse suavemente, ajoelhando-se para ficar na altura dos olhos da criança. — Eu sou Lyris. Sua avó me pediu para cuidar de você.
+— Grazielly — Lyris disse suavemente, ajoelhando-se para ficar na altura dos olhos da criança, com a mesma gentileza daquela madrugada em que ela acordara em seus braços. — Sua avó me pediu para cuidar de você. E eu prometi a ela que cumpriria.
 
-— Eu sei — Grazielly disse finalmente, sua voz calma. — Vó Melessa me disse sobre você. Ela disse que eu deveria confiar em você.
+— Eu sei — Grazielly disse, sua voz calma. — Vó Melessa me disse sobre você. Antes. E depois... quando ela foi, você estava lá. A senhora não precisava estar, mas estava.
 
 — E você confia?
 
@@ -686,6 +686,16 @@ Grazielly assentiu, entrou na casa de pedra e retornou com uma pequena bolsa —
 Lyris estendeu a mão, e Grazielly a tomou sem hesitar.
 
 Juntas, as duas se afastaram de Mespiria, deixando para trás a casa de pedra, os campos de She Utu e os vizinhos que haviam sido família. A nevasca começou a cair quando alcançaram a estrada principal, flocos brancos que se acumulavam no chão como um manto de silêncio sobre o mundo. Grazielly caminhava ao lado de Lyris com uma compostura que impressionava a agente — nenhuma reclamação, nenhum pedido de descanso, nenhuma lágrima além daquelas que já haviam sido choradas.
+
+A jornada até Velantis levou três dias. Três dias de estradas cobertas de neve, de noites passadas em estalagens onde Lyris pagava com moedas de prata e dormia com uma mão sobre a pequena bolsa que guardava a autorização do En Me e a outra sempre próxima de Grazielly. A criança não reclamava do frio, não pedia para parar, não fazia perguntas sobre para onde iam — caminhava em silêncio, os olhos fixos no horizonte branco, como se estivesse esperando que o mundo decidisse para onde levá-la. Nas noites, Grazielly dormia encolhida sob os cobertores das estalagens, e Lyris ficava acordada, observando a respiração suave da criança e pensando em todas as perguntas que ainda não tinha coragem de fazer — sobre Aurelius, sobre Ayla, sobre o que significava proteger algo que talvez não devesse existir.
+
+No segundo dia, passaram por uma ponte de pedra sobre um rio congelado, e Grazielly parou no meio para olhar para baixo. Sob o gelo, a água corria — escura, profunda, invisível mas viva. Ela ficou ali por um longo momento, e Lyris esperou sem pressa.
+
+— A água não para — Grazielly disse finalmente, quase para si mesma. — Mesmo com o gelo por cima. Ela continua indo.
+
+Lyris não respondeu. Mas aquelas palavras ficaram com ela pelo resto da viagem, e por muito tempo depois.
+
+No terceiro dia, quando as muralhas de Velantis surgiram além da neblina como um gigante de pedra emergindo de um sonho, Grazielly apertou a mão de Lyris com força — o primeiro gesto de vulnerabilidade que demonstrava desde que haviam partido.
 
 E no vento que soprava ao redor delas, carregando neve e sussurros de lugares distantes, algo parecia acompanhá-las — uma presença antiga que observava uma criança de cabelos loiros e olhos castanhos caminhar para um futuro que nem mesmo os Seraphyens poderiam ter previsto.
 
