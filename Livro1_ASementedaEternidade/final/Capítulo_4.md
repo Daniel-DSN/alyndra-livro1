@@ -66,7 +66,7 @@ Grazielly sentou-se ao lado de Mira, em um banco de madeira que era grande demai
 
 Nyx. O pensamento veio como uma facada, rápida e dolorosa, e Grazielly sentiu o apetite — que havia começado a surgir com o cheiro da comida — desaparecer como se alguém tivesse fechado uma torneira dentro dela. Ela olhou para a tigela de sopa à sua frente e viu a superfície do caldo refletindo seu próprio rosto — um rosto pequeno, pálido, com olhos que pareciam demasiado grandes para a cara, com manchas de neve derretida ainda nas bochechas e cabelos loiros que estavam começando a secar em tufos desgrenhados.
 
-— Você precisa comer — Mira disse ao seu lado, e na voz da menina havia uma preocupação que ia além da cortesia — era a preocupação genuína de alguém que havia visto outras crianças chegarem ao orfanato com o mesmo olhar vazio, e sabia que a comida era uma das primeiras coisas que o corpo precisava para começar a se recuperar do que quer que o tivesse quebrado. — A sopa é boa. Dona Leticia coloca Mirael ralado que dá um gosto especial. E o pão é ótimo para mergulhar.
+— Você precisa comer — Mira disse ao seu lado, e na voz da menina havia uma preocupação que ia além da cortesia — era a preocupação genuína de alguém que havia visto outras crianças chegarem ao orfanato com o mesmo olhar vazio, e sabia que a comida era uma das primeiras coisas que o corpo precisava para começar a se recuperar do que quer que o tivesse quebrado. — A sopa é boa. Dona Théria coloca Mirael ralado que dá um gosto especial. E o pão é ótimo para mergulhar.
 
 Grazielly pegou a colher e mexeu a sopa sem vontade, observando os legumes brilhantes subindo e descendo no caldo dourado. Depois, por dever para com Mira — que a havia recebido com um sorriso quando tudo o que Grazielly queria era se esconder em um canto escuro e nunca mais falar com ninguém —, levou uma colherada à boca.
 
@@ -295,7 +295,7 @@ A dor não era tão cortante quanto no dia anterior — o corpo e a mente tinham
 
 Grazielly se levantou devagar, com o cuidado de quem não quer acordar ninguém, e vestiu as roupas que Thalia havia deixado para ela no orfanato — uma blusa de lã azul e calças de linho grosso que eram um pouco grandes mas serviam, que eram limpas e quentes e que cheiravam a algo que não era o perfume de Melessa nem o cheiro da casa de pedra, mas que era bom na sua própria maneira, na maneira das coisas novas que ainda não carregam memórias.
 
-Desceu as escadas em silêncio, seus pés descalços sobre a pedra fria, e encontrou o orfanato imerso naquele silêncio particular das primeiras horas — antes das crianças acordarem, antes da Dona Leticia começar a preparar o café da manhã, antes que o mundo retomasse seu movimento constante e inevitável. A Aeriva nas paredes tremulava levemente com uma brisa que entrava por alguma janela aberta, e as Giralis nos vasos ao longo do corredor ainda estavam fechadas, suas pétalas prateadas encolhidas contra o frio da madrugada.
+Desceu as escadas em silêncio, seus pés descalços sobre a pedra fria, e encontrou o orfanato imerso naquele silêncio particular das primeiras horas — antes das crianças acordarem, antes da Dona Théria começar a preparar o café da manhã, antes que o mundo retomasse seu movimento constante e inevitável. A Aeriva nas paredes tremulava levemente com uma brisa que entrava por alguma janela aberta, e as Giralis nos vasos ao longo do corredor ainda estavam fechadas, suas pétalas prateadas encolhidas contra o frio da madrugada.
 
 Grazielly seguiu um impulso que não conseguia explicar — uma atração que não vinha da razão mas de algum lugar mais profundo, mais instintivo, como se algo a estivesse chamando do lado de fora do edifício. Passou pela porta principal — que estava destrancada, como se o orfanato confiasse no mundo o suficiente para não precisar de trancas naquelas horas — e saiu para o exterior.
 
@@ -337,7 +337,7 @@ O vento soprou mais forte por um momento — um sopro breve e morno que não tin
 
 Grazielly sentiu aquele sopro no rosto. E embora não soubesse explicar por quê, embora não tivesse palavras para descrever a sensação, ela sentiu que não estava sozinha. Que Melessa estava ali, de alguma forma — no vento, na luz de Aurion, na pedra da estátua. Que Ayla estava ali, observando de um lugar que os olhos não podiam alcançar. E que Nyx, mesmo distante, mesmo sozinho na casa de pedra sob a neve, estava conectado a ela por algo que a distância não podia quebrar.
 
-A primeira manhã de Grazielly no Orfanato Luminis terminou quando a Dona Leticia abriu a porta dos fundos para buscar lenha e a viu ali, parada no jardim coberto de neve, olhando para o céu com uma expressão que era ao mesmo tempo de tristeza e de determinação — a expressão de alguém que perdeu muito mas que ainda tinha algo a viver, algo a encontrar, algo a prometer.
+A primeira manhã de Grazielly no Orfanato Luminis terminou quando a Dona Théria abriu a porta dos fundos para buscar lenha e a viu ali, parada no jardim coberto de neve, olhando para o céu com uma expressão que era ao mesmo tempo de tristeza e de determinação — a expressão de alguém que perdeu muito mas que ainda tinha algo a viver, algo a encontrar, algo a prometer.
 
 — Criança! — a cozinheira chamou. — Entre! Está congelando lá fora!
 
