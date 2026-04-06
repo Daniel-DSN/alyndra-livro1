@@ -600,20 +600,52 @@ Grazielly, em pé ao lado da cova, começou a cantar.
 
 Não era uma canção que ninguém reconhecia — não um hino tradicional de Sylvaris, não uma canção de ninar que Melessa lhe havia ensinado, não algo que qualquer criança de sua idade deveria conhecer. Era uma melodia antiga, profunda, que parecia vir de algum lugar muito distante, de uma época anterior às eras que a memória registrava.
 
-As palavras eram em uma língua que ninguém presente compreendia, sons que pareciam carregar o peso de milênios em cada sílaba:
+As palavras eram em uma língua que ninguém presente compreendia — sons que pareciam carregar o peso de milênios em cada sílaba. Começou quase como um sussurro, tão suave que os mais próximos mal perceberam que Grazielly havia começado a cantar:
 
-*"Zi-me an-ki, ud-sar nam-mu..."*
-*"Sopro do destino, céu-terra, dia-jardim, destino-eterno..."*
+*"An dingir, ki-zi..."*
+*"Céu de deuses, terra de vida..."*
 
-*"Me-lugal dingir-gal, ki-agar nam-tar..."*
-*"Poder-do-rei, deus-grande, terra-amada, destino-tecer..."*
+*"E nam-mu, she-zen..."*
+*"Morada do destino eterno, pequena semente..."*
 
-*"A-ma-ru, gi-na du-ru, zi-ga im-ma..."*
-*"Árvore-mãe, retornar-caminho, vento-da-vida, erguer..."*
+Então a voz da criança se elevou. Não como a voz de uma menina de quatro anos, mas como algo que vinha de muito mais fundo — de um lugar anterior ao nascimento, anterior à memória, anterior ao tempo. A melodia não era triste, nem alegre. Era algo que transcendia ambos: era o som de uma verdade que existia antes de qualquer sentimento poder nomeá-la.
 
-Os aldeãos mais velhos reconheceram fragmentos — palavras que haviam sobrevivido em rituais esquecidos, em cantos de curandeiros que as pronunciavam sem compreender seu significado original. Era a Língua Antiga, a fala dos primeiros povos que haviam caminhado sob a luz dos Seraphyens. E embora ninguém presente pudesse traduzir completamente, o significado parecia claro de alguma forma que transcendia a razão. Era uma canção de despedida. Uma canção de gratidão. Uma canção de amor que atravessava a própria morte.
+*"A e-dingir, she-zu, ki-ag nam-tar..."*
+*"Na morada sagrada a semente eterna; o amor tece o destino..."*
 
-E enquanto Grazielly cantava, um brilho suave começou a emanar de sua pele — não o brilho fraco e momentâneo que Melessa havia visto ocasionalmente ao longo dos anos, mas um fulgor verdadeiro, pulsante, que parecia responder à canção que ela entoava. Os aldeãos que testemunharam aquela cena jamais a esqueceriam — uma criança de quatro anos, de pé ao lado de uma sepultura aberta, brilhando como uma estrela enquanto cantava sua avó adotiva para o descanso final.
+*"Zi-me, mul-an, im-ma zi-ga..."*
+*"Sopro de vida, estrela no céu, o vento se ergue vivo..."*
+
+*"She-dingir, bur-nam, e zi mul..."*
+*"Semente divina, raiz do destino, casa de vida e luz..."*
+
+E então o refrão veio — não como uma voz, mas como se o próprio ar ao redor da sepultura começasse a vibrar, como se o vento de Sylvaris empurrasse aquelas palavras para além do cemitério, além de Mespiria, além de qualquer lugar que a razão pudesse alcançar. As folhas das Gesh Nanna pararam de tremer. Os pássaros emigram cessaram seu canto distante. Até o vento gelado de inverno pareceu segurar a respiração.
+
+*"She-zu, an-ki, zi dingir-me..."*
+*"Semente eterna entre céu e terra, vida de poder divino..."*
+
+*"Ki-ag nam-tar, e mul-zi..."*
+*"O amor tece o destino, na luz das estrelas vivas..."*
+
+*"Im-ma ki-ag, zi gi-na..."*
+*"O vento é amor, e a vida sempre retorna..."*
+
+A última estrofe veio como um sussurro — quase tão silenciosa quanto a neve que começava a cair ao redor da sepultura, cobrindo o mundo com um manto branco que parecia absorver todo o som. Grazielly cantava para Melessa, e para a mãe que nunca conheceu, e para todas as vozes que o vento já havia carregado embora:
+
+*"Gi-na e-dingir, a-ma-ru..."*
+*"Retorna à morada sagrada, ó árvore-mãe..."*
+
+*"Zi ki-ag, nam tar, zi-me an-gal..."*
+*"A vida é amor; o destino se cumpre; o sopro sobe aos altos céus..."*
+
+E por fim, uma última nota — a mais suave, a mais antiga, como se a própria terra a recebesse em seu seio:
+
+*"She-zu."*
+*"A semente permanece."*
+
+Os aldeãos mais velhos reconheceram fragmentos — palavras que haviam sobrevivido em rituais esquecidos, em cantos de curandeiros que as pronunciavam sem compreender seu significado original. Era a Língua Antiga, a fala dos primeiros povos que haviam caminhado sob a luz dos Seraphyens. Mas nunca ninguém a havia ouvido daquela forma — nunca com aquela estrutura, com aquele refrão que parecia carregar um peso que ia além de um enterro, além de uma vila, além de uma única vida. Era mais do que uma canção de despedida. Era mais do que uma canção de gratidão. Era uma canção que falava de sementes que não morrem, de luz que não se apaga, de amor que atravessa não apenas a morte, mas o próprio tempo — e que embora ninguém presente pudesse traduzir completamente, o significado parecia claro de alguma forma que transcendia a razão: era uma promessa. A promessa de que o que foi plantado na escuridão com amor um dia haveria de florescer.
+
+E durante todo aquele canto, algo extraordinário acontecia sem que ninguém ousasse interromper: um brilho suave começou a emanar da pele de Grazielly — não o fulgor fraco e momentâneo que Melessa havia visto ocasionalmente ao longo dos anos, mas uma luz verdadeira, pulsante, que parecia responder a cada sílaba da canção como se a própria Língua Antiga fosse uma chave que destravava algo dentro dela. Os aldeãos que testemunharam aquela cena jamais a esqueceriam — uma criança de quatro anos, de pé ao lado de uma sepultura aberta, brilhando como uma estrela enquanto entoava um hino que parecia mais antigo que o próprio mundo, cantando sua avó adotiva para o descanso final.
 
 Quando a última nota se dissipou no ar gelado de inverno, o brilho desapareceu. Grazielly piscou, como se acordasse de um sonho, e olhou ao seu redor com olhos que pareciam não compreender totalmente o que acabara de acontecer. Mas não havia medo nela — apenas uma paz serena que parecia ter vindo da própria canção.
 
