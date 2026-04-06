@@ -40,17 +40,17 @@ E Lyris, do outro lado do corredor, deitada em sua cama estreita no quarto que d
 
 ## II. O Pedido
 
-O escritório de Madre Elara ficava no pavimento superior do prédio principal, em uma sala que era ao mesmo tempo modesta e imponente — modesta pelo tamanho, não maior do que a cozinha da casa de pedra em Mespiria, e imponente pela forma como cada objeto parecia ter sido colocado ali por alguém que acreditava que a ordem era uma forma de respeito. Uma escrivaninha de carvalho ocupava o centro da sala, coberta por pilhas organizadas de pergaminhos e registros. Prateleiras ao longo das paredes abrigavam livros encuadernados em couro, e no canto, um pequeno cristal Aetheris pulsava com luz suave, iluminando o ambiente com aquele brilho amarelado que era característico da Cidadela Luminis.
+O escritório de Luminara Elara ficava no pavimento superior do prédio principal, em uma sala que era ao mesmo tempo modesta e imponente — modesta pelo tamanho, não maior do que a cozinha da casa de pedra em Mespiria, e imponente pela forma como cada objeto parecia ter sido colocado ali por alguém que acreditava que a ordem era uma forma de respeito. Uma escrivaninha de carvalho ocupava o centro da sala, coberta por pilhas organizadas de pergaminhos e registros. Prateleiras ao longo das paredes abrigavam livros encuadernados em couro, e no canto, um pequeno cristal Aetheris pulsava com luz suave, iluminando o ambiente com aquele brilho amarelado que era característico da Cidadela Luminis.
 
-Lyris bateu à porta três vezes — o protocolo que Madre Elara exigia de qualquer visita, fosse criança, voluntária ou Aga Uru.
+Lyris bateu à porta três vezes — o protocolo que Luminara Elara exigia de qualquer visita, fosse criança, voluntária ou Aga Uru.
 
 — Entre — a voz veio firme, como sempre.
 
-Lyris abriu a porta e encontrou Madre Elara sentada atrás de sua escrivaninha, os óculos de leitura repousando sobre o nariz fino, uma caneta na mão. A diretora era uma mulher de meia-idade, com cabelos escuros amarrados em um coque severo e olhos castanhos que pareciam capazes de avaliar uma pessoa inteira em um único relance. Havia algo nela que inspirava respeito sem precisar de autoridade — uma presença que preenchia a sala de uma forma que não era opressiva, mas que deixava claro quem comandava aquele espaço.
+Lyris abriu a porta e encontrou Luminara Elara sentada atrás de sua escrivaninha, os óculos de leitura repousando sobre o nariz fino, uma caneta na mão. A diretora era uma mulher de meia-idade, com cabelos escuros amarrados em um coque severo e olhos castanhos que pareciam capazes de avaliar uma pessoa inteira em um único relance. Havia algo nela que inspirava respeito sem precisar de autoridade — uma presença que preenchia a sala de uma forma que não era opressiva, mas que deixava claro quem comandava aquele espaço.
 
-— Madre Elara — Lyris disse, fechando a porta atrás de si. — Preciso falar com a senhora sobre um assunto importante.
+— Luminara Elara — Lyris disse, fechando a porta atrás de si. — Preciso falar com a senhora sobre um assunto importante.
 
-Madre Elara ergueu os olhos do pergaminho que estava lendo e estudou Lyris por um longo momento — aquele tipo de olhar que Lyris reconhecia, porque o usara incontáveis vezes em sua vida como agente. Um olhar que avaliava não apenas as palavras, mas a postura, o tom de voz, a microexpressão facial, o contexto não dito.
+Luminara Elara ergueu os olhos do pergaminho que estava lendo e estudou Lyris por um longo momento — aquele tipo de olhar que Lyris reconhecia, porque o usara incontáveis vezes em sua vida como agente. Um olhar que avaliava não apenas as palavras, mas a postura, o tom de voz, a microexpressão facial, o contexto não dito.
 
 — Sente-se, Lyris.
 
@@ -60,17 +60,17 @@ Lyris obedeceu, colocando-se na cadeira diante da escravaninha com a postura ere
 
 — Preciso de permissão para levar Grazielly a Mespiria.
 
-O silêncio que se seguiu foi longo o bastante para que Lyris percebesse o vento soprando através da janela entreaberta do escritório, levando consigo o perfume das Giralis que começavam a florescer nos canteiros do pátio. Madre Elara não se mexeu. Seus olhos permaneceram fixos em Lyris, e naqueles olhos havia algo que Lyris não conseguiu ler com certeza — desaprovação, preocupação, ou talvez ambas ao mesmo tempo.
+O silêncio que se seguiu foi longo o bastante para que Lyris percebesse o vento soprando através da janela entreaberta do escritório, levando consigo o perfume das Giralis que começavam a florescer nos canteiros do pátio. Luminara Elara não se mexeu. Seus olhos permaneceram fixos em Lyris, e naqueles olhos havia algo que Lyris não conseguiu ler com certeza — desaprovação, preocupação, ou talvez ambas ao mesmo tempo.
 
-— Levar Grazielly a Mespiria — Madre Elara repetiu, e as palavras não eram uma confirmação, mas uma reformulação, como se estivesse testando o peso da frase. — Uma criança de quatro anos, que acabou de perder a avó, que mal se adaptou a este lugar, através de estradas que ainda estão se recuperando do inverno, até uma vila que fica a horas de distância. É isso que está me pedindo?
+— Levar Grazielly a Mespiria — Luminara Elara repetiu, e as palavras não eram uma confirmação, mas uma reformulação, como se estivesse testando o peso da frase. — Uma criança de quatro anos, que acabou de perder a avó, que mal se adaptou a este lugar, através de estradas que ainda estão se recuperando do inverno, até uma vila que fica a horas de distância. É isso que está me pedindo?
 
 — Não estou pedindo como um favor pessoal — Lyris respondeu, sua voz calma mas firme. — Estou pedindo porque é necessário para a recuperação emocional de Grazielly.
 
-— Necessário — Madre Elara repetiu novamente, e agora havia uma ponta de ironia em sua voz.
+— Necessário — Luminara Elara repetiu novamente, e agora havia uma ponta de ironia em sua voz.
 
 — A criança deixou algo para trás em Mespiria — Lyris continuou, mantendo o controle de sua fala com a precisão de quem havia feito dezenas de briefings em sua carreira. — Um companheiro. Um Lyrien prateado que ela criou desde filhote, que ficou na casa de Melessa quando partimos. Grazielly prometeu que voltaria por ele. Essa promessa é uma das poucas coisas que a sustentam desde que chegou aqui.
 
-Madre Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
+Luminara Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
 
 — Eu entendo o vínculo entre uma criança e seu companheiro, Lyris. Não estou questionando isso. Estou questionando a viabilidade e a segurança de uma jornada dessa natureza com uma criança que ainda está se recuperando de um trauma significativo.
 
@@ -78,13 +78,13 @@ Madre Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
 
 — Risco mínimo não é risco zero.
 
-— Nada na vida é risco zero, Madre Elara.
+— Nada na vida é risco zero, Luminara Elara.
 
-O olhar que Madre Elara dirigiu a Lyris naquele momento era o tipo que fazia crianças pequenas engolirem em seco e guerreiros experientes repensarem suas palavras. Mas Lyris não era uma criança, e embora não fosse mais uma guerreira no sentido estrito, havia enfrentado olhares muito mais ameaçadores do que o de uma diretora de orfanato.
+O olhar que Luminara Elara dirigiu a Lyris naquele momento era o tipo que fazia crianças pequenas engolirem em seco e guerreiros experientes repensarem suas palavras. Mas Lyris não era uma criança, e embora não fosse mais uma guerreira no sentido estrito, havia enfrentado olhares muito mais ameaçadores do que o de uma diretora de orfanato.
 
-— Há mais — Madre Elara disse, e não era uma pergunta. — Não é apenas sobre o Lyrien.
+— Há mais — Luminara Elara disse, e não era uma pergunta. — Não é apenas sobre o Lyrien.
 
-Lyris hesitou por uma fração de Pulso — um lapso que Madre Elara não perdeu.
+Lyris hesitou por uma fração de Pulso — um lapso que Luminara Elara não perdeu.
 
 — A casa de Melessa ainda está intacta — Lyris disse. — Os vizinhos estão cuidando. Mas pode haver pertences de Grazielly que ela precisa — roupas, objetos pessoais, lembranças de Melessa. Coisas que pertencem a ela e que podem ajudar no processo de luto.
 
@@ -92,9 +92,9 @@ Lyris hesitou por uma fração de Pulso — um lapso que Madre Elara não perdeu
 
 — Eu acho que não lidar com isso — devolvendo-lhe o que é seu, resgatando quem ela prometeu resgatar — vai continuar a feri-la de uma forma que nenhum tempo de adaptação no orfanato vai curar.
 
-O silêncio se estendeu novamente. Madre Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion. Lyris observou a diretora de costas e notou, na postura de seus ombros, algo que não esperava — uma tensão que não era rigidamente profissional, mas que parecia humana, pessoal, como se Madre Elara estivesse pesando não apenas as palavras de Lyris, mas memórias próprias de perdas e promessas.
+O silêncio se estendeu novamente. Luminara Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion. Lyris observou a diretora de costas e notou, na postura de seus ombros, algo que não esperava — uma tensão que não era rigidamente profissional, mas que parecia humana, pessoal, como se Luminara Elara estivesse pesando não apenas as palavras de Lyris, mas memórias próprias de perdas e promessas.
 
-— Quantos dias — Madre Elara perguntou sem se virar.
+— Quantos dias — Luminara Elara perguntou sem se virar.
 
 — Partimos ao amanhecer, chegamos a Mespiria no fim da manhã, passamos algumas horas na vila, e regressamos pela tarde. De volta antes do anoitecer.
 
@@ -102,19 +102,19 @@ O silêncio se estendeu novamente. Madre Elara se levantou e caminhou até a jan
 
 — Solicitei ao Nin Aga Soren uma Nu Bandi e dois Aga Uru para escolta.
 
-Madre Elara se virou finalmente, e em seus olhos havia algo que Lyris identificou como rendição — não derrota, mas a aceitação de que a pessoa à sua frente havia construído um argumento sólido o bastante para não ser ignorado.
+Luminara Elara se virou finalmente, e em seus olhos havia algo que Lyris identificou como rendição — não derrota, mas a aceitação de que a pessoa à sua frente havia construído um argumento sólido o bastante para não ser ignorado.
 
-— Eu vou permitir — Madre Elara disse, e sua voz carregava o peso de cada condição que se seguiria. — Mas com exigências. Primeira: a escolta é inegociável. Se os Aga Uru avaliarem que as estradas não são seguras, vocês voltam imediatamente. Segunda: Grazielly retorna antes que Lyria se levante no céu da noite. Terceira: a senhora assume toda a responsabilidade pela segurança da criança durante a jornada. Qualquer problema, qualquer atraso, qualquer incidente — a responsabilidade é sua.
+— Eu vou permitir — Luminara Elara disse, e sua voz carregava o peso de cada condição que se seguiria. — Mas com exigências. Primeira: a escolta é inegociável. Se os Aga Uru avaliarem que as estradas não são seguras, vocês voltam imediatamente. Segunda: Grazielly retorna antes que Lyria se levante no céu da noite. Terceira: a senhora assume toda a responsabilidade pela segurança da criança durante a jornada. Qualquer problema, qualquer atraso, qualquer incidente — a responsabilidade é sua.
 
 — Compreendido — Lyris disse, e em sua voz havia algo que era quase gratidão.
 
-— E Lyris — Madre Elara acrescentou, e agora sua voz era mais suave, mais humana, quase maternal. — Cuide dela. Essa criança perdeu demais em muito pouco tempo. Eu não quero que ela perca mais nada.
+— E Lyris — Luminara Elara acrescentou, e agora sua voz era mais suave, mais humana, quase maternal. — Cuide dela. Essa criança perdeu demais em muito pouco tempo. Eu não quero que ela perca mais nada.
 
 — Eu sei — Lyris disse. — É por isso que estou fazendo isso.
 
 Foi quando ouviu o som. Um leve arranhão na porta, quase imperceptível, do tipo que só ouvidos treinados — ou ouvidos de crianças tentando espionar — podiam detectar. Lyris se virou e abriu a porta.
 
-Grazielly estava ali, de pé no corredor, os olhos arregalados, as mãos tremendo contra a saia de sua blusa de veluma azul. Seus olhos castanhos iam de Lyris para Madre Elara e de volta, e neles havia algo que fez o coração de Lyris se apertar — uma esperança tão grande, tão delicada, que parecia que qualquer palavra errada poderia quebrá-la em mil pedaços.
+Grazielly estava ali, de pé no corredor, os olhos arregalados, as mãos tremendo contra a saia de sua blusa de veluma azul. Seus olhos castanhos iam de Lyris para Luminara Elara e de volta, e neles havia algo que fez o coração de Lyris se apertar — uma esperança tão grande, tão delicada, que parecia que qualquer palavra errada poderia quebrá-la em mil pedaços.
 
 — Você ouviu — Lyris disse, e não era uma pergunta.
 
@@ -130,9 +130,9 @@ Grazielly soltou o ar que estava segurando — um suspiro longo e tremido que ca
 
 — Obrigada — Grazielly sussurrou. — Obrigada, obrigada, obrigada.
 
-Lyris envolveu a criança com seus braços e, por cima da cabeça loira de Grazielly, trocou um olhar com Madre Elara. A diretora permaneceu imóvel por um momento, seu rosto severo inabalável, mas algo em seus olhos — um brilho suave, quase imperceptível — sugeria que, sob todas as regras e protocolos, havia ali um coração que ainda sabia reconhecer quando uma criança precisava de algo que nenhuma regra podia proporcionar.
+Lyris envolveu a criança com seus braços e, por cima da cabeça loira de Grazielly, trocou um olhar com Luminara Elara. A diretora permaneceu imóvel por um momento, seu rosto severo inabalável, mas algo em seus olhos — um brilho suave, quase imperceptível — sugeria que, sob todas as regras e protocolos, havia ali um coração que ainda sabia reconhecer quando uma criança precisava de algo que nenhuma regra podia proporcionar.
 
-— Amanhã ao amanhecer, Grazielly — Madre Elara disse, e sua voz era firme mas não fria. — Mas agora vá dormir. Você vai precisar de energia para a viagem.
+— Amanhã ao amanhecer, Grazielly — Luminara Elara disse, e sua voz era firme mas não fria. — Mas agora vá dormir. Você vai precisar de energia para a viagem.
 
 Grazielly se afastou de Lyris e assentiu, enxugando os olhos com as costas da mão. Depois, com um último olhar para ambas — um olhar que carregava mais gratidão do que palavras poderiam expressar — correu pelo corredor em direção ao dormitório, seus passos pequenos ecoando na pedra como batidas de um coração que finalmente encontrava um ritmo de esperança.
 
@@ -457,11 +457,11 @@ Grazielly olhou para Mira com uma expressão de completo desamparo. Cinco anos. 
 
 — Eu... eu esqueci — Grazielly sussurrou, e suas palavras se perderam no barulho da festa, mas Mira ouviu.
 
-— É claro que você esqueceu! — Mira disse, rindo, lágrimas de felicidade brilhando em seus olhos. — Você estava ocupada salvando seu melhor amigo! Mas eu não esqueci. Eu lembrei há semanas, quando vi a data no calendário da Madre Elara. E ela me ajudou a planejar tudo!
+— É claro que você esqueceu! — Mira disse, rindo, lágrimas de felicidade brilhando em seus olhos. — Você estava ocupada salvando seu melhor amigo! Mas eu não esqueci. Eu lembrei há semanas, quando vi a data no calendário da Luminara Elara. E ela me ajudou a planejar tudo!
 
-Grazielly olhou além de Mira, para o pátio cheio de luz e cor e som, e viu Madre Elara parada perto da porta do refeitório, os braços cruzados, o sorriso ainda em seu rosto. Quando seus olhos encontraram os de Grazielly, a diretora fez um gesto quase imperceptível com a cabeça — um aceno que era ao mesmo tempo reconhecimento e bênção.
+Grazielly olhou além de Mira, para o pátio cheio de luz e cor e som, e viu Luminara Elara parada perto da porta do refeitório, os braços cruzados, o sorriso ainda em seu rosto. Quando seus olhos encontraram os de Grazielly, a diretora fez um gesto quase imperceptível com a cabeça — um aceno que era ao mesmo tempo reconhecimento e bênção.
 
-*A viagem*, Grazielly pensou, e as peças se encaixaram. *A viagem foi hoje de propósito. Madre Elara sabia. Lyris sabia. Todo mundo sabia que hoje era meu aniversário, e eles marcaram a viagem para voltar a tempo.*
+*A viagem*, Grazielly pensou, e as peças se encaixaram. *A viagem foi hoje de propósito. Luminara Elara sabia. Lyris sabia. Todo mundo sabia que hoje era meu aniversário, e eles marcaram a viagem para voltar a tempo.*
 
 A emoção que tomou conta de Grazielly naquele momento era de uma complexidade que suas cinco anos — seus cinco anos recém-completados, o primeiro aniversário que celebrava sem Melessa — mal podiam conter. Era alegria pela festa, pela surpresa, pela generidade de todas aquelas pessoas que ela mal conhecia. Era gratidão por Mira, que tinha pensado nela, que tinha planejado tudo, que tinha feito daquele dia algo especial. Era tristeza — sempre tristeza, sempre um pouco de tristeza, porque Melessa não estava ali para ver, para sorrir, para cantar as canções de aniversário que costumava cantar. E era amor — puro, simples, avassalador, o tipo de amor que uma criança sente quando descobre, de forma inequívoca, que é querida.
 
@@ -475,7 +475,7 @@ Depois abraçou Lyris, que a recebeu com uma gentileza que contrastava com sua p
 
 As crianças rodearam Grazielly, curiosas, estendendo mãos para tocar a pelagem prateada de Nyx com a timidez de quem encontra uma criatura que nunca viu antes. Nyx, geralmente cauteloso com estranhos, não recuou — talvez porque sentisse a felicidade de Grazielly e entendesse que aquelas pessoas não eram ameaças, talvez porque estivesse demasiado cansado para se importar, talvez porque, de alguma forma que ninguém poderia explicar, soubesse que estava em um lugar seguro.
 
-A festa continuou. As crianças cantaram canções que Mira havia ensaiado durante semanas. A sopa de Lumiara foi servida e devorada com o entusiasmo que apenas crianças com fome podem demonstrar. Os bolos de Aethrys desapareceram em minutos. E quando chegou a hora do bolo — o bolo com cinco velas de cristal Aetheris —, Madre Elara se adiantou e, com uma voz que Grazielly nunca havia ouvido tão suave, disse:
+A festa continuou. As crianças cantaram canções que Mira havia ensaiado durante semanas. A sopa de Lumiara foi servida e devorada com o entusiasmo que apenas crianças com fome podem demonstrar. Os bolos de Aethrys desapareceram em minutos. E quando chegou a hora do bolo — o bolo com cinco velas de cristal Aetheris —, Luminara Elara se adiantou e, com uma voz que Grazielly nunca havia ouvido tão suave, disse:
 
 — Faça um pedido, Grazielly. E sopre as velas.
 

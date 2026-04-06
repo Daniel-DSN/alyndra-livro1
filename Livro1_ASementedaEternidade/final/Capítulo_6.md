@@ -28,17 +28,17 @@ Aos cinco anos — cinco anos completos agora, marcados pelo aniversário que tr
 
 A esplanada de partida fervilhava de atividade como um formigueiro iluminado. Centenas de crianças se aglomeravam em grupos organizados por idade e por alas, carregando pequenas sacolas de viagem que continham o essencial — roupas de troca, um cobertor enrolado, algum lanche que a cozinha havia preparado com carinho. As vozes se misturavam em um coro de excitação e nervosismo, intercaladas pelos chamados dos monitores mais velhos que tentavam — com sucesso variável — manter algo que se parecesse com ordem. O ar cheirava a couro, a veluma, ao perfume adocicado das Aerélia que floresciam nos canteiros da esplanada, e a algo mais indefinível — a eletricidade da antecipação, o cheiro que a esperança teria se pudesse ser enlatado.
 
-E no centro daquela efervescência, imponente e calma como uma rocha no meio de um rio, Madre Elara observava tudo.
+E no centro daquela efervescência, imponente e calma como uma rocha no meio de um rio, Luminara Elara observava tudo.
 
-A diretora do Orfanato Luminis estava de pé na varanda do prédio principal, as mãos cruzadas nas costas, os olhos escuros percorrendo a esplanada com a precisão de um general inspecionando suas tropas antes da batalha. Seu rosto severo não traía emoção — mas Lyris, que estava de pé ao lado da diretora, conhecia aquele olhar bem o suficiente para ler o que havia por trás dele. Madre Elara estava contando. Contando crianças, contando grupos, contando os Veleiros de Estrada que se alinhavam na estrada de terra além do portão principal como gigantes adormecidos esperando para serem despertados. Cada criança verificada era uma responsabilidade assumida; cada grupo formado era uma promessa de que todos retornariam inteiros.
+A diretora do Orfanato Luminis estava de pé na varanda do prédio principal, as mãos cruzadas nas costas, os olhos escuros percorrendo a esplanada com a precisão de um general inspecionando suas tropas antes da batalha. Seu rosto severo não traía emoção — mas Lyris, que estava de pé ao lado da diretora, conhecia aquele olhar bem o suficiente para ler o que havia por trás dele. Luminara Elara estava contando. Contando crianças, contando grupos, contando os Veleiros de Estrada que se alinhavam na estrada de terra além do portão principal como gigantes adormecidos esperando para serem despertados. Cada criança verificada era uma responsabilidade assumida; cada grupo formado era uma promessa de que todos retornariam inteiros.
 
-— Quarenta e dois grupos este ano — Madre Elara disse, sua voz baixa o bastante para que apenas Lyris ouvisse. — Duzentas e trinta e uma crianças. É o maior contingente que já enviamos.
+— Quarenta e dois grupos este ano — Luminara Elara disse, sua voz baixa o bastante para que apenas Lyris ouvisse. — Duzentas e trinta e uma crianças. É o maior contingente que já enviamos.
 
 — As estradas estão seguras — Lyris respondeu, embora soubesse que a segurança das estradas era apenas uma parte da equação. — Os Aga Uru reforçaram as patrulhas ao longo da rota. Os Timoneiros de Vento foram avaliados individualmente.
 
-— A segurança das estradas não é o que me preocupa — Madre Elara disse, e seus olhos encontraram os de Lyris por um instante — um instante que carregava o peso de conversas que já haviam tido em particular, de preocupações que não podiam ser ditas em voz alta na frente das crianças. — É o que pode estar nas estradas que me preocupa.
+— A segurança das estradas não é o que me preocupa — Luminara Elara disse, e seus olhos encontraram os de Lyris por um instante — um instante que carregava o peso de conversas que já haviam tido em particular, de preocupações que não podiam ser ditas em voz alta na frente das crianças. — É o que pode estar nas estradas que me preocupa.
 
-Lyris não respondeu. Não precisava. Ela sabia — com a certeza metódica de quem havia dedicado décadas à inteligência e à proteção — que Madre Elara não era apenas uma diretora de orfanato. Havia algo naquela mulher que transcendia o cargo, uma intuição que Lyris reconhecia como afinada pelo mesmo tipo de experiência que havia moldado sua própria vida. Madre Elara percebia coisas. Notava descompassos. E se ela estava preocupada, Lyris tinha razões de sobra para também estar.
+Lyris não respondeu. Não precisava. Ela sabia — com a certeza metódica de quem havia dedicado décadas à inteligência e à proteção — que Luminara Elara não era apenas uma diretora de orfanato. Havia algo naquela mulher que transcendia o cargo, uma intuição que Lyris reconhecia como afinada pelo mesmo tipo de experiência que havia moldado sua própria vida. Luminara Elara percebia coisas. Notava descompassos. E se ela estava preocupada, Lyris tinha razões de sobra para também estar.
 
 Os Veleiros de Estrada eram, para os olhos infantis que os observavam com maravilha, as coisas mais bonitas que já haviam visto. O nome poético era uma tradição antiga de Sylvaris — ninguém chamava aquelas máquinas de Carruagens de Ressonância em meio à excitação de uma viagem, da mesma forma que ninguém chamava Aurion de "estrela central" quando podia chamá-lo simplesmente de "a luz". Mas o nome técnico era preciso: eram veículos construídos de madeira leve entrelaçada com latão polido, com formatos que lembravam vagões de navio — longos, elegantes, com laterais de janelas arqueadas que permitiam ver a paisagem passar como um rio de cores em movimento. O fundo de cada Veleiro abrigava o compartimento de cristais, uma seção reforçada onde cristais Aetheris de grande porte pulsavam com luz internalizada, alimentando a propulsão que mantinha o veículo suspenso sobre os Trilhos de Vento — caminhos invisíveis de corrente induzida que percorriam as principais rotas de Sylvaris como veias de energia percorrendo um corpo gigantesco.
 
@@ -70,7 +70,7 @@ Nyx chiou baixinho e se aninhou mais fundo contra o peito dela, como se aquela a
 
 O Veleiro designado ao grupo de Grazielly era o número dezessete — um dos maiores da frota, com capacidade para quarenta passageiros mais o Timoneiro e dois assistentes. Era também um dos mais antigos, com marcas de viagens anteriores gravadas na madeira do casco como cicatrizes que contavam histórias, e cheirava a uma mistura de cera de latão, veluma armazenada e algo que Grazielly só conseguiu identificar como "aventura" — um cheiro composto de todos os lugares por onde aquele veículo já havia passado, todas as paisagens que já havia cruzado, todos os ventos que já havia cortado.
 
-Grazielly embarcou com Nyx escondido sob a capa azul — uma manobra que já havia sido combinada com Lyris e com a monitora do grupo, porque Lyriens, embora fossem companheiros leais e inofensivos, tecnicamente não eram permitidos nas expedições do Ciclo de Viagem. A regra existia por razões práticas — animais podiam se assustar, se perder, criar confusão em grupos grandes de crianças —, mas Lyris havia argumentado, com a lógica implacável que a caracterizava, que separar Grazielly de Nyx após tudo o que a criança havia passado seria não apenas desnecessário, mas potencialmente prejudicial. Madre Elara havia cedido com um olhar que dizia: *desta vez. Só desta vez.*
+Grazielly embarcou com Nyx escondido sob a capa azul — uma manobra que já havia sido combinada com Lyris e com a monitora do grupo, porque Lyriens, embora fossem companheiros leais e inofensivos, tecnicamente não eram permitidos nas expedições do Ciclo de Viagem. A regra existia por razões práticas — animais podiam se assustar, se perder, criar confusão em grupos grandes de crianças —, mas Lyris havia argumentado, com a lógica implacável que a caracterizava, que separar Grazielly de Nyx após tudo o que a criança havia passado seria não apenas desnecessário, mas potencialmente prejudicial. Luminara Elara havia cedido com um olhar que dizia: *desta vez. Só desta vez.*
 
 Mira embarcou logo atrás, arrastando sua sacola de viagem — consideravelmente maior do que a de Grazielly — com o entusiasmo de quem vai a um festival. Aos dez anos, com seus cabelos cacheados cor de ébano e olhos verdes que brilhavam de anticipation, Mira era a criança mais experiente do grupo em termos de viagens, e portanto uma espécie de guia informal para os menores. Ela já havia visto Thalendris, já havia provado peixe salgado dos cais, já havia ouvido as histórias dos pescadores que falavam de monstros marinhos nas profundezas do Mar de Lyria. E estava determinada a que Grazielly visse tudo com os mesmos olhos de maravilha que ela havia tido na primeira vez.
 
@@ -148,7 +148,7 @@ Foi quando o silêncio se instalou e Mira se adiantou, tirando Grazielly da zona
 
 — Alguém quer começar? — Mira perguntou, sua voz carregando a naturalidade de quem está acostumada a liderar sem parecer que está liderando.
 
-A primeira a falar foi uma menina de oito anos que Grazielly não conhecia — filha de fazendeiros de uma vila ao norte de Velantis, que havia chegado ao orfanato há menos de um ano. Sua história era simples, triste em sua simplicidade: uma doença que levara os pais em questão de dias, uma tia que não podia cuidar dela, uma viagem longa até a Cidadela Luminis, onde Madre Elara a recebera sem perguntas e sem julgamentos.
+A primeira a falar foi uma menina de oito anos que Grazielly não conhecia — filha de fazendeiros de uma vila ao norte de Velantis, que havia chegado ao orfanato há menos de um ano. Sua história era simples, triste em sua simplicidade: uma doença que levara os pais em questão de dias, uma tia que não podia cuidar dela, uma viagem longa até a Cidadela Luminis, onde Luminara Elara a recebera sem perguntas e sem julgamentos.
 
 Mas foram as histórias que se seguiram que ficaram com Grazielly — não nos ouvidos, mas em algum lugar mais profundo, mais pesado, onde as experiências dos outros se transformavam em algo que ela carregava como parte de si mesma.
 
@@ -354,7 +354,7 @@ Kira chegou ao lado delas, seus olhos âmbar vasculhando o rosto de Grazielly co
 
 — Falha técnica — Lyris interveio, e sua voz era tão controlada, tão precisa, que parecia ter sido ensaiada. — O cristal do Veleiro descarregou acidentalmente. Acontece às vezes quando os Veleiros ficam muito tempo ancorados sem manutenção. O homem provavelmente só tropeçou no impacto da onda de ar.
 
-Kira olhou para Lyris com aquele olhar avaliador que Grazielly já havia visto em Madre Elara — o olhar de quem sabe que está sendo alimentado com uma versão simplificada da verdade, mas que decide, por razões próprias, não pressionar.
+Kira olhou para Lyris com aquele olhar avaliador que Grazielly já havia visto em Luminara Elara — o olhar de quem sabe que está sendo alimentado com uma versão simplificada da verdade, mas que decide, por razões próprias, não pressionar.
 
 — Falha técnica — Kira repetiu, e sua voz era plana. — Certo.
 
@@ -483,7 +483,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | **Selina Thalassa** | — | Mestra da Informação | Descobre conspiração de tráfico de talentos |
 | **Vethran Noll** | — | Burocrata de Sanctrum | Autoriza transferências fantasma |
 | **Thaloris Ventaris** | — | Nobre de Sanctrum | Arquiteto do tráfico de talentos nas sombras |
-| **Madre Elara** | — | Diretora do Orfanato Luminis | Supervisiona o Ciclo de Viagem |
+| **Luminara Elara** | — | Diretora do Orfanato Luminis | Supervisiona o Ciclo de Viagem |
 
 ### Locais
 

@@ -474,9 +474,9 @@ Vethran desapareceu nas sombras da câmara, deixando Thaloris sozinho com seus p
 
 Lyris deixou Zephyra no dia seguinte ao amanhecer, seguindo para Velantis pela estrada principal que cortava os campos de Sylvaris. O Orfanato Luminis — que os moradores de Velantis chamavam de Cidadela Luminis — não era um prédio isolado, mas um complexo fortificado que ocupava várias colinas nos arredores da cidade, conectadas por muralhas de pedra e passarelas suspensas. Suas torres de observação erguiam-se contra o céu como dedos de cristal, e os muros eram percorridos por guerreiros de armaduras prateadas — os Aga Uru, Escudos da Tempestade — cuja presença havia se tornado tão natural para os velantisianos quanto o vento que soprava entre as torres.
 
-Madre Elara, a idosa diretora, recebeu-a com um sorriso cansado mas genuíno. Lyris havia enviado uma mensagem de apresentação dias antes, usando os canais diplomáticos que sua autorização garantia, e a resposta havia vindo rápida: o orfanato sempre precisava de mãos dispostas.
+Luminara Elara, a idosa diretora, recebeu-a com um sorriso cansado mas genuíno. Lyris havia enviado uma mensagem de apresentação dias antes, usando os canais diplomáticos que sua autorização garantia, e a resposta havia vindo rápida: o orfanato sempre precisava de mãos dispostas.
 
-— Uma aposentada da Ordem — Madre Elara repetiu, estudando Lyris com olhos que haviam visto demais para serem enganados por aparências. — E o que a traz a Velantis, senhora?
+— Uma aposentada da Ordem — Luminara Elara repetiu, estudando Lyris com olhos que haviam visto demais para serem enganados por aparências. — E o que a traz a Velantis, senhora?
 
 — Busco tranquilidade — Lyris respondeu, com a meia-verdade que havia ensaiado durante a viagem. — Anos de serviço deixaram suas marcas. Sylvaris sempre foi conhecida como refúgio. E acredito que posso ser útil aqui — tenho experiência com crianças, embora indireta.
 
@@ -484,7 +484,7 @@ Madre Elara, a idosa diretora, recebeu-a com um sorriso cansado mas genuíno. Ly
 
 — A Ordem me ensinou a observar, a ouvir, a ser paciente. Qualidades que, acredito, servem tanto para crianças quanto para missões de campo.
 
-Madre Elara a estudou por um longo momento, depois assentiu — não porque estivesse convencida, mas porque havia decidido que qualquer segredo que Lyris carregasse era da conta dela, desde que não colocasse as crianças em perigo.
+Luminara Elara a estudou por um longo momento, depois assentiu — não porque estivesse convencida, mas porque havia decidido que qualquer segredo que Lyris carregasse era da conta dela, desde que não colocasse as crianças em perigo.
 
 — Teremos prazer em tê-la, senhora Lyris. As crianças precisam de orientação, e eu não sou mais jovem o suficiente para fazer tudo sozinha.
 
@@ -711,7 +711,7 @@ O que Grazielly viu quando Lyris a conduziu pelos portões de ferro forjado não
 
 A placa de bronze no portão principal dizia "Orfanato Luminis — Onde toda criança encontra luz", mas para Grazielly, de quatro anos, aquele lugar era tão grande que parecia abrigar o mundo inteiro. As paredes de pedra das construções principais estavam cobertas por Aeriva — trepadeiras delicadas que se enrolavam nas superfícies como abraços verdes, suas folhas finas tremulando mesmo sob o frio. O som de centenas de crianças ecoava pelos corredores e pátios — risadas, conversas, jogos, choros distantes que se perdiam entre as muralhas — criando uma atmosfera que era ao mesmo tempo avassaladora e, de alguma forma, acolhedora.
 
-— Este é o orfanato onde trabalho — Lyris explicou enquanto conduzia Grazielly pela entrada. — Madre Elara é a diretora. Ela é gentil, embora possa parecer um pouco séria no começo.
+— Este é o orfanato onde trabalho — Lyris explicou enquanto conduzia Grazielly pela entrada. — Luminara Elara é a diretora. Ela é gentil, embora possa parecer um pouco séria no começo.
 
 — Lyris! Você voltou! — uma voz chamou do topo das escadas. Era uma menina de talvez oito ou nove anos, cabelos castanhos presos em tranças e um sorriso que parecia iluminar o corredor. — Quem é essa?
 
@@ -723,7 +723,7 @@ Mira desceu as escadas correndo, sua curiosidade evidente em cada movimento.
 
 Grazielly olhou para Lyris, incerta. Lyris sorriu e assentiu.
 
-— Vá com ela — Lyris disse suavemente. — Eu preciso falar com Madre Elara.
+— Vá com ela — Lyris disse suavemente. — Eu preciso falar com Luminara Elara.
 
 A voz de Mira continuou enquanto conduzia Grazielly por uma turnê que parecia não ter fim. E aos poucos, muito gradualmente, o peso no peito da pequena órfã começou a aliviar — não a ponto de desaparecer completamente, mas o suficiente para permitir que algo mais entrasse.
 
@@ -733,17 +733,17 @@ Curiosidade. Interesse. Talvez, eventualmente, esperança.
 
 ## XIV. A Guardiã Silenciosa e a Sombra no Orfanato
 
-Enquanto Grazielly dormia, Lyris se reunia com Madre Elara no escritório da diretora.
+Enquanto Grazielly dormia, Lyris se reunia com Luminara Elara no escritório da diretora.
 
-— Então Melessa partiu — Madre Elara disse, não como pergunta.
+— Então Melessa partiu — Luminara Elara disse, não como pergunta.
 
-— Sim. — Lyris hesitou. — Grazielly está aqui. Ela é... especial, Madre. Mais do que eu posso explicar agora.
+— Sim. — Lyris hesitou. — Grazielly está aqui. Ela é... especial, Luminara. Mais do que eu posso explicar agora.
 
 — Eu percebi algo diferente nela desde o começo — a diretora observou. — Você demonstrou interesse nela. Interesse que ia além do que seria normal para uma observadora casual.
 
 — Ela nasceu sob a Convergência Tripla. Sua mãe morreu no parto. Seu pai não pode ser revelado. Mas ele é alguém que se preocupa profundamente com ela.
 
-Madre Elara estudou Lyris por um longo momento.
+Luminara Elara estudou Lyris por um longo momento.
 
 — O pai é importante.
 
@@ -753,11 +753,11 @@ Madre Elara estudou Lyris por um longo momento.
 
 — Se a senhora permitir.
 
-— Nossas portas estão sempre abertas para crianças que precisam de lar, Lyris. — Madre Elara assentiu. — Ela será tratada como qualquer outra criança. Sem privilégios especiais, mas também sem desvantagens.
+— Nossas portas estão sempre abertas para crianças que precisam de lar, Lyris. — Luminara Elara assentiu. — Ela será tratada como qualquer outra criança. Sem privilégios especiais, mas também sem desvantagens.
 
-— Obrigada, Madre.
+— Obrigada, Luminara.
 
-Quando Lyris se levantou para sair, Madre Elara acrescentou:
+Quando Lyris se levantou para sair, Luminara Elara acrescentou:
 
 — Há algo antigo naquela criança. Cuide bem dela.
 
@@ -765,7 +765,7 @@ Lyris assentiu, a promessa já gravada em seu coração.
 
 Depois de deixar o escritório, Lyris caminhou pelos corredores do orfanato, verificando portas e janelas como fazia toda noite desde que chegara a Velantis — um hábito de agente que a aposentadoria não havia conseguido eliminar. No pátio interno, sob a luz fraca das três luas, ela parou ao ouvir um som — o rangido suave de uma vassoura contra pedra.
 
-Mestre Aldric, o caseiro do orfanato, estava varrendo o pátio. Era um homem de meia-idade, silencioso e eficiente, que havia chegado ao orfanato três anos atrás recomendado por um sacerdote local. Fazia manutenção geral — consertava telhas, pintava paredes, cuidava do jardim — e raramente falava mais do que o estritamente necessário. As crianças gostavam dele porque às vezes lhes dava doces que trazia da cidade, e Madre Elara o considerava indispensável.
+Mestre Aldric, o caseiro do orfanato, estava varrendo o pátio. Era um homem de meia-idade, silencioso e eficiente, que havia chegado ao orfanato três anos atrás recomendado por um luminar local. Fazia manutenção geral — consertava telhas, pintava paredes, cuidava do jardim — e raramente falava mais do que o estritamente necessário. As crianças gostavam dele porque às vezes lhes dava doces que trazia da cidade, e Luminara Elara o considerava indispensável.
 
 Lyris o observou por um momento do corredor escuro. O modo como Aldric varria era... eficiente demais. Cada movimento era calculado, sem desperdício de energia. Ele varria como quem patrulha — os olhos escaneando os arredores mesmo enquanto as mãos trabalhavam. E havia algo em sua postura, na forma como distribuía o peso entre os pés, que Lyris reconhecia de algum lugar.
 
@@ -821,7 +821,7 @@ Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do 
 | **Aurelius (En Me)** | Guardião Mestre; pai secreto de Grazielly | Vivo (Sanctrum — escondeu a verdade de Lyris) |
 | **Thaloris Ventaris** | Senhor dos Ventos (Lugal Lil) | Vivo (Zephyra — investigando Lyris) |
 | **Vethran Noll** | Mestre dos Sussurros (En Dili Lil) | Vivo (Sylvaris — agente misterioso designado para vigiar Lyris) |
-| **Madre Elara** | Diretora do Orfanato Luminis | Viva |
+| **Luminara Elara** | Diretora do Orfanato Luminis | Viva |
 | **Thalia** | Curandeira jovem | Viva (Mespiria) |
 
 ### Locais:

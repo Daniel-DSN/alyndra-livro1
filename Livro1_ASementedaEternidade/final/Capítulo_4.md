@@ -96,7 +96,7 @@ Havia seis berços dispostos em semicírculo ao redor de uma janela grande que d
 
 Grazielly se aproximou do berço mais próximo sem perceber. A bebé dentro tinha talvez poucas semanas de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de Sylvaris em uma manhã sem nuvens. A bebé não chorava. Não se movia. Apenas a olhava com aquela serenidade absurda dos que ainda não aprenderam que o mundo pode ser cruel, e Grazielly sentiu algo dentro de si se afrouar — não completamente, não o bastante para apagar a dor, mas o bastante para sentir que havia ainda espaço dentro do peito para coisas que não fossem apenas perda.
 
-— A mãe dela deixou ela na porta num madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Madre Elara encontrou de manhã, embrulhada num cobertor de veluma. Ela se chama Liora.
+— A mãe dela deixou ela na porta num madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Luminara Elara encontrou de manhã, embrulhada num cobertor de veluma. Ela se chama Liora.
 
 Grazielly não perguntou por que a mãe tinha partido. Não precisava perguntar. Havia coisas que uma criança de quatro anos compreendia sem palavras — e a possibilidade de ser deixada, de ser solta, de ter o único vínculo do mundo rompido por mãos que não eram as suas, era uma delas.
 
@@ -116,7 +116,7 @@ Grazielly parou diante daquele desenho.
 
 — Alguém desenhou isso? — ela perguntou, e sua voz saiu mais baixa do que pretendia.
 
-— A gente não sabe — Mira respondeu, com um tom que misturava mistério e respeito. — Tava aqui quando Madre Elara chegou, há muitos e muitos anos. Dizem que era do primeiro orfanato, o que veio antes deste. Mas ninguém lembra quem desenhou.
+— A gente não sabe — Mira respondeu, com um tom que misturava mistério e respeito. — Tava aqui quando Luminara Elara chegou, há muitos e muitos anos. Dizem que era do primeiro orfanato, o que veio antes deste. Mas ninguém lembra quem desenhou.
 
 Grazielly olhou para o pássaro azul-escuro no topo da árvore.
 
@@ -231,45 +231,45 @@ Mas antes que pudesse ver mais, antes que a silhueta se revelasse ou que Melessa
 
 ---
 
-## VI. A Madre e a Guardiã
+## VI. A Luminara e a Guardiã
 
 E na sala ao lado, sentada em uma cadeira ao lado da janela do escritório onde observava o dormitório através da porta entreaberta, Lyris observava Grazielly dormir. A respiração da menina era irregular — o tipo de respiração que carrega dentro de si o peso de um dia demasiado, de uma noite que pede descanso mas não o encontra fácil. Lyris contava os dias até que pudesse voltar a Mespiria e buscar Nyx quando a porta do escritório se abriu.
 
-Era Madre Elara.
+Era Luminara Elara.
 
 A diretora do Orfanato Luminis era uma mulher cuja idade era difícil de determinar — seus cabelos eram grisalhos, puxados para um coque frouxo na nuca, e seu rosto carregava linhas que falavam de décadas cuidando de crianças que não eram suas. Mas seus olhos — escuros, vivos, afiados como lâminas de cristal Aetheris — tinham uma energia que desafiava qualquer tentativa de envelhecimento. Ela usava um hábito simples de tecido cinza-claro, sem adornos, sem insígnias, e caminhava com o tipo de silêncio que só se aprende depois de anos numa casa cheia de crianças que precisam de sono mais do que de ruído.
 
-— Ela dormiu? — Madre Elara perguntou, e a pergunta era simples, mas o tom não era — havia na voz da madre algo que era ao mesmo tempo pergunta e constatação, como se já soubesse a resposta mas quisesse confirmá-la com alguém que tivesse olhado mais de perto.
+— Ela dormiu? — Luminara Elara perguntou, e a pergunta era simples, mas o tom não era — havia na voz da luminara algo que era ao mesmo tempo pergunta e constatação, como se já soubesse a resposta mas quisesse confirmá-la com alguém que tivesse olhado mais de perto.
 
 — Dormiu — Lyris confirmou. — Mas não antes de dizer o nome de um Lyrien que não está aqui.
 
-Madre Elara se aproximou da janela e olhou para o dormitório através da fresta da porta. Por um longo momento, observou Grazielly — a menina pequena encolhida sob o cobertor, os cabelos loiros espalhados no travesseiro, as mãos cerradas sobre o peito como se segurasse algo invisível.
+Luminara Elara se aproximou da janela e olhou para o dormitório através da fresta da porta. Por um longo momento, observou Grazielly — a menina pequena encolhida sob o cobertor, os cabelos loiros espalhados no travesseiro, as mãos cerradas sobre o peito como se segurasse algo invisível.
 
-— Mira me contou que ela não comeu quase nada no jantar — Madre Elara disse, e seu tom era o de quem não julga, apenas observa. — E que olhou para a tigela como se a sopa fosse um inimigo. Só comeu porque a Mira insistiu. Isso é tristeza demais para uma criança de quatro anos, Lyris. Tristeza demais para quem acabou de chegar.
+— Mira me contou que ela não comeu quase nada no jantar — Luminara Elara disse, e seu tom era o de quem não julga, apenas observa. — E que olhou para a tigela como se a sopa fosse um inimigo. Só comeu porque a Mira insistiu. Isso é tristeza demais para uma criança de quatro anos, Lyris. Tristeza demais para quem acabou de chegar.
 
-Lyris sabia que Madre Elara era perceptiva — era uma das razões pelas quais o Orfanato Luminis era o que era, um lugar que recebia crianças quebradas e devolvia ao mundo pessoas inteiras. A madre não fazia perguntas por curiosidade. Fazia perguntas porque as respostas ditavam o tipo de cuidado que cada criança precisava.
+Lyris sabia que Luminara Elara era perceptiva — era uma das razões pelas quais o Orfanato Luminis era o que era, um lugar que recebia crianças quebradas e devolvia ao mundo pessoas inteiras. A luminara não fazia perguntas por curiosidade. Fazia perguntas porque as respostas ditavam o tipo de cuidado que cada criança precisava.
 
 — Ela deixou algo para trás — Lyris disse, escolhendo cada palavra com o cuidado de quem caminha em campo minado. — Não foi apenas a avó. Há um Lyrien — um companheiro animal. Azul-escuro. Chamado Nyx. Ele ficou em Mespiria quando trouxemos Grazielly para cá.
 
-— Deixou um Lyrien para trás? — Madre Elara repetiu, e algo em seu rosto mudou — não desapontamento, não surpresa, mas uma compreensão que vinha de décadas de experiência. — Lyris, crianças dessa idade não se separam de seus companheiros por vontade própria. Um Lyrien não é um animal de estimação — é parte da criança. Separar os dois é como arrancar uma metade do peito e esperar que a outra metade continue respirando como se nada tivesse acontecido.
+— Deixou um Lyrien para trás? — Luminara Elara repetiu, e algo em seu rosto mudou — não desapontamento, não surpresa, mas uma compreensão que vinha de décadas de experiência. — Lyris, crianças dessa idade não se separam de seus companheiros por vontade própria. Um Lyrien não é um animal de estimação — é parte da criança. Separar os dois é como arrancar uma metade do peito e esperar que a outra metade continue respirando como se nada tivesse acontecido.
 
-Lyris não respondeu imediatamente. Havia verdade nas palavras da madre — uma verdade que ela já conhecia, que já sentia cada vez que olhava para Grazielly e via o espaço vazio onde Nyx deveria estar.
+Lyris não respondeu imediatamente. Havia verdade nas palavras da luminara — uma verdade que ela já conhecia, que já sentia cada vez que olhava para Grazielly e via o espaço vazio onde Nyx deveria estar.
 
 — A nevasca não nos deu escolha — Lyris disse finalmente. — A estrada para Mespiria estava bloqueada. Se tivéssemos esperado, a menina não teria sobrevivido ao inverno naquela casa sozinha. Melessa já havia partido. Não havia mais ninguém.
 
-Madre Elara assentiu lentamente, e no assentimento havia algo que era aceitação, não concordância — a aceitação de quem sabe que às vezes as escolhas certas são também as que mais machucam.
+Luminara Elara assentiu lentamente, e no assentimento havia algo que era aceitação, não concordância — a aceitação de quem sabe que às vezes as escolhas certas são também as que mais machucam.
 
-— Quando as estradas abrirem — Madre Elara disse, e não era uma pergunta — vocês vão buscá-lo.
+— Quando as estradas abrirem — Luminara Elara disse, e não era uma pergunta — vocês vão buscá-lo.
 
 — Nós vamos buscá-lo — Lyris confirmou.
 
-— Então enquanto isso — Madre Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, Velrok para a estrada, um guia que conheça o caminho por dentro das montanhas —, diga.
+— Então enquanto isso — Luminara Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, Velrok para a estrada, um guia que conheça o caminho por dentro das montanhas —, diga.
 
 Lyris sentiu algo que raramente sentia em missões da Ordem — gratidão genuína, não a gratidão calculada de quem recebe um recurso estratégico, mas a gratidão simples de quem oferece um ombro e recebe um porto seguro em troca.
 
-— Obrigada, Elara — Lyris disse, e não usou o título "Madre" — era um sinal de intimidade que ela não permitia a quase ninguém, mas que Elara havia conquistado há décadas, em uma noite semelhante a esta, quando Lyris era muito mais jovem e muito menos sábia, e o orfanato já era o lugar que era.
+— Obrigada, Elara — Lyris disse, e não usou o título "Luminara" — era um sinal de intimidade que ela não permitia a quase ninguém, mas que Elara havia conquistado há décadas, em uma noite semelhante a esta, quando Lyris era muito mais jovem e muito menos sábia, e o orfanato já era o lugar que era.
 
-Madre Elara colocou a mão no ombro de Lyris por um instante — um gesto breve, mas que carregava dentro de si décadas de confiança — e se retirou em silêncio, deixando Lyris sozinha com a vista do dormitório e com a contagem dos dias.
+Luminara Elara colocou a mão no ombro de Lyris por um instante — um gesto breve, mas que carregava dentro de si décadas de confiança — e se retirou em silêncio, deixando Lyris sozinha com a vista do dormitório e com a contagem dos dias.
 
 Lyris voltou a olhar para Grazielly. A menina continuava dormindo, as mãos ainda cerradas sobre o peito.
 
@@ -386,7 +386,7 @@ E mostraria àquela criança uma última peça do mundo que ela havia perdido.
 | **Grazielly** | Protagonista; filha secreta de Aurelius e Ayla | 4 anos (no Orfanato Luminis) |
 | **Lyris (Nyctara)** | Guardiã de Grazielly; agente da Ordem | Viva (Velantis) |
 | **Mira** | Amiga de Grazielly, 8-9 anos | Viva (Orfanato Luminis) |
-| **Madre Elara** | Diretora do Orfanato Luminis | Viva |
+| **Luminara Elara** | Diretora do Orfanato Luminis | Viva |
 | **Nyx (Lyrien)** | Companheiro animal de Grazielly | Vivo (Mespiria — esperando seu retorno) |
 | **Melessa** | Avó adotiva de Grazielly (mencionada) | Falecida |
 
