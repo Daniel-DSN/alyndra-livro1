@@ -96,7 +96,7 @@ Havia seis berços dispostos em semicírculo ao redor de uma janela grande que d
 
 Grazielly se aproximou do berço mais próximo sem perceber. A bebé dentro tinha talvez poucas semanas de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de Sylvaris em uma manhã sem nuvens. A bebé não chorava. Não se movia. Apenas a olhava com aquela serenidade absurda dos que ainda não aprenderam que o mundo pode ser cruel, e Grazielly sentiu algo dentro de si se afrouar — não completamente, não o bastante para apagar a dor, mas o bastante para sentir que havia ainda espaço dentro do peito para coisas que não fossem apenas perda.
 
-— A mãe dela deixou ela na porta num madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Madre Elara encontrou de manhã, embrulhada num cobertor de lã. Ela se chama Liora.
+— A mãe dela deixou ela na porta num madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Madre Elara encontrou de manhã, embrulhada num cobertor de veluma. Ela se chama Liora.
 
 Grazielly não perguntou por que a mãe tinha partido. Não precisava perguntar. Havia coisas que uma criança de quatro anos compreendia sem palavras — e a possibilidade de ser deixada, de ser solta, de ter o único vínculo do mundo rompido por mãos que não eram as suas, era uma delas.
 
@@ -203,7 +203,7 @@ Não completamente.
 
 ## V. O Dormitório
 
-Na hora de dormir, Mira levou Grazielly ao dormitório — uma sala grande com camas organizadas em filas, cada uma com um cobertor de lã e um travesseiro simples. A maioria das camas já estava ocupada por corpos pequenos que respiravam o ritmo pesado do sono, e o ar era quente e cheirava a lavanda e a lã.
+Na hora de dormir, Mira levou Grazielly ao dormitório — uma sala grande com camas organizadas em filas, cada uma com um cobertor de veluma e um travesseiro simples. A maioria das camas já estava ocupada por corpos pequenos que respiravam o ritmo pesado do sono, e o ar era quente e cheirava a lavanda e a veluma.
 
 — Essa é sua cama — Mira sussurrou, apontando para uma cama ao lado da sua — a que estava mais perto da janela, onde um fino filete de luz das velas do corredor entrava e criava uma linha dourada no chão. — Eu guardei para você. Eu sabia que você ia gostar de ficar perto da janela. Toda criança nova gosta de ficar perto da janela.
 
@@ -285,7 +285,7 @@ Lyris voltou a olhar para Grazielly. A menina continuava dormindo, as mãos aind
 
 Grazielly acordou antes de todas as outras crianças.
 
-Não foi o tipo de despertar súbito e assustado do dia anterior — aquele despertar em que ela soube, antes de abrir os olhos, que Melessa havia partido. Este foi mais gentil, mais gradual, como se o sono a estivesse liberando devagar, dedo por dedo, permitindo que ela se reacomodasse à realidade em etapas suportáveis. Primeiro veio a consciência do calor — o cobertor sobre ela, o colchão sob ela, o ar morno do dormitório. Depois veio o reconhecimento do lugar — os sons da respiração das outras crianças, o cheiro de lã e lavanda, a escuridão que era a escuridão de um edifício fechado, não de uma casa de pedra com frestas por onde o vento entrava. E depois, inevitavelmente, veio a lembrança.
+Não foi o tipo de despertar súbito e assustado do dia anterior — aquele despertar em que ela soube, antes de abrir os olhos, que Melessa havia partido. Este foi mais gentil, mais gradual, como se o sono a estivesse liberando devagar, dedo por dedo, permitindo que ela se reacomodasse à realidade em etapas suportáveis. Primeiro veio a consciência do calor — o cobertor sobre ela, o colchão sob ela, o ar morno do dormitório. Depois veio o reconhecimento do lugar — os sons da respiração das outras crianças, o cheiro de veluma e lavanda, a escuridão que era a escuridão de um edifício fechado, não de uma casa de pedra com frestas por onde o vento entrava. E depois, inevitavelmente, veio a lembrança.
 
 Nyx.
 
@@ -293,7 +293,7 @@ A dor não era tão cortante quanto no dia anterior — o corpo e a mente tinham
 
 *Eu vou voltar por ele. Eu prometi.*
 
-Grazielly se levantou devagar, com o cuidado de quem não quer acordar ninguém, e vestiu as roupas que Thalia havia deixado para ela no orfanato — uma blusa de lã azul e calças de linho grosso que eram um pouco grandes mas serviam, que eram limpas e quentes e que cheiravam a algo que não era o perfume de Melessa nem o cheiro da casa de pedra, mas que era bom na sua própria maneira, na maneira das coisas novas que ainda não carregam memórias.
+Grazielly se levantou devagar, com o cuidado de quem não quer acordar ninguém, e vestiu as roupas que Thalia havia deixado para ela no orfanato — uma blusa de veluma azul e calças de giran grosso que eram um pouco grandes mas serviam, que eram limpas e quentes e que cheiravam a algo que não era o perfume de Melessa nem o cheiro da casa de pedra, mas que era bom na sua própria maneira, na maneira das coisas novas que ainda não carregam memórias.
 
 Desceu as escadas em silêncio, seus pés descalços sobre a pedra fria, e encontrou o orfanato imerso naquele silêncio particular das primeiras horas — antes das crianças acordarem, antes da Dona Théria começar a preparar o café da manhã, antes que o mundo retomasse seu movimento constante e inevitável. A Aeriva nas paredes tremulava levemente com uma brisa que entrava por alguma janela aberta, e as Giralis nos vasos ao longo do corredor ainda estavam fechadas, suas pétalas prateadas encolhidas contra o frio da madrugada.
 

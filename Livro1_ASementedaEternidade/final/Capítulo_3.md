@@ -278,11 +278,11 @@ O Palácio das Correntes de Ar era uma maravilha arquitetônica que parecia desa
 
 Lyris foi escoltada por um guarda de uniforme azul prateado através de corredores abertos onde o vento entrava como hóspede de honra, trazendo consigo o perfume de flores distantes e o sussurro de histórias carregadas pelas brisas. Cada passo que dava ecoava no mármore polido, e os cristais Aetheris flutuando nas paredes criavam padrões de luz que dançavam ao redor dela como constelações aprisionadas.
 
-— A agente Lyris, de Sanctrum — o guarda anunciou, abrindo as portas do Salão das Brisas.
+— A agente Lyris, de Sanctrum — o guarda anunciou, abrindo as portas do Savelumao das Brisas.
 
 A câmara de audiências era vasta, com tetos altos onde cristais Aetheris flutuavam, criando padrões de luz que dançavam no chão de mármore. Janelas enormes permitiam que o vento entrasse livremente, e as cortinas de seda branca ondulavam como asas de aves em voo.
 
-Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto de poder e autoridade que os governantes usavam como extensão de si mesmos. Mas o Salão das Brisas estava vazio.
+Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto de poder e autoridade que os governantes usavam como extensão de si mesmos. Mas o Savelumao das Brisas estava vazio.
 
 Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura flutuava a quase dois metros do chão — não com o esforço nervoso de quem luta contra a gravidade, mas com a serenidade absoluta de quem nasceu no ar e pertence a ele. Um enorme cavalete flutuava ao seu lado, a tela presa sem suporte visível, e ao redor de suas mãos pincéis, paletas e potes de pigmento orbitavam em silêncio como satélites obedientes. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
 
@@ -296,9 +296,9 @@ Thaloris adicionou três pinceladas finais — uma de prata pálida no canto sup
 
 Thaloris Ventaris era um homem de presença imponente mesmo desarrumado — com manchas de tinta nas mãos e no antebraço, com o cabelo grisalho menos impecável do que o protocolo exigia, com uma expressão de quem havia sido interrompido no meio de algo profundamente pessoal. Mas seus olhos azuis, quando encontraram os de Lyris, eram tão penetrantes quanto qualquer relatório de inteligência havia descrito — olhos que pareciam pesar a alma de quem os encarava.
 
-— Agente Lyris. — Sua voz era profunda, calma, com aquela qualidade que comandava atenção sem precisar de volume. — Peço desculpas. A arte não espera por audiências, e a inspiração é uma visitante impaciente. — Ele desceu lentamente até o chão do salão, seus pés tocando o mármore com a leveza de uma pluma, e caminhou até uma bacia de prata onde lavou as mãos, a tinta se dissolvendo na água como neblina se dissipa ao contato de Aurion. — Dê-me um momento.
+— Agente Lyris. — Sua voz era profunda, calma, com aquela qualidade que comandava atenção sem precisar de volume. — Peço desculpas. A arte não espera por audiências, e a inspiração é uma visitante impaciente. — Ele desceu lentamente até o chão do savelumao, seus pés tocando o mármore com a leveza de uma pluma, e caminhou até uma bacia de prata onde lavou as mãos, a tinta se dissolvendo na água como neblina se dissipa ao contato de Aurion. — Dê-me um momento.
 
-Lyris assentiu, usando o tempo para observar o salão com olhos treinados. Sete cadeiras alinhadas ao longo das paredes — os assentos do Conselho de Correntes. Tapeçarias que retratavam cenas da fundação de Sylvaris. E, em uma parede discreta, uma porta lateral que ela marcou mentalmente como uma rota de saída alternativa.
+Lyris assentiu, usando o tempo para observar o savelumao com olhos treinados. Sete cadeiras alinhadas ao longo das paredes — os assentos do Conselho de Correntes. Tapeçarias que retratavam cenas da fundação de Sylvaris. E, em uma parede discreta, uma porta lateral que ela marcou mentalmente como uma rota de saída alternativa.
 
 Quando Thaloris voltou, caminhando até o trono que finalmente ocupou com a naturalidade de quem está acostumado ao poder, sua aparência já era a de um governante — as mangas do manto cobertas, a postura ereta, o manto azul claro movendo-se mesmo sem brisa, como se o próprio ar respondesse à sua presença.
 
@@ -342,7 +342,7 @@ Lyris fez outra reverência.
 
 — E que a graça de Ventus ilumine seu reinado, Lugal Lil.
 
-Lyris virou-se e caminhou para fora do salão, seus passos ecoando no mármore enquanto o vento sussurrava segredos que só ele conhecia.
+Lyris virou-se e caminhou para fora do savelumao, seus passos ecoando no mármore enquanto o vento sussurrava segredos que só ele conhecia.
 
 ---
 
@@ -350,15 +350,15 @@ Lyris virou-se e caminhou para fora do salão, seus passos ecoando no mármore e
 
 — Agente Lyris.
 
-A voz a alcançou quando já estava a três passos das portas do Salão das Brisas. Lyris parou, virando-se parcialmente.
+A voz a alcançou quando já estava a três passos das portas do Savelumao das Brisas. Lyris parou, virando-se parcialmente.
 
 — Senhor?
 
 Thaloris havia descido os degraus de seu trono e caminhava em sua direção com passos deliberados. O manto azul claro ondulava ao redor dele como asas que tivessem esquecido como voar.
 
-— Se puderem nos dar um momento — ele disse para os guardas e assistentes que ainda ocupavam o salão.
+— Se puderem nos dar um momento — ele disse para os guardas e assistentes que ainda ocupavam o savelumao.
 
-Os Sete Ventos trocaram olhares curiosos, mas obedeceram sem questionar. Um a um, retiraram-se, seguidos pelos assistentes e guardas, até que apenas Lyris e o Senhor dos Ventos permanecessem no vasto salão. As portas se fecharam com um baque suave. O vento continuava a entrar pelas janelas, as cortinas brancas dançando como fantasmas ao redor deles.
+Os Sete Ventos trocaram olhares curiosos, mas obedeceram sem questionar. Um a um, retiraram-se, seguidos pelos assistentes e guardas, até que apenas Lyris e o Senhor dos Ventos permanecessem no vasto savelumao. As portas se fecharam com um baque suave. O vento continuava a entrar pelas janelas, as cortinas brancas dançando como fantasmas ao redor deles.
 
 Thaloris parou a um passo dela, seus olhos azuis agora carregando algo diferente da diplomacia formal — reconhecimento, conhecimento, e um brilho que Lyris não gostou nem um pouco.
 
@@ -374,7 +374,7 @@ Ele fez uma pausa, deixando as palavras seguintes flutuarem no ar como o vento q
 
 — Nyctara.
 
-O codinome ecoou pelo salão vazio. Mas não com o peso sombrio que Lyris esperava. Thaloris o pronunciou com um tom quase sarcástico — como quem pronuncia o nome de um personagem de uma história que ouviu na infância e que agora, ao encontrar a pessoa real, acha curiosamente... decepcionante.
+O codinome ecoou pelo savelumao vazio. Mas não com o peso sombrio que Lyris esperava. Thaloris o pronunciou com um tom quase sarcástico — como quem pronuncia o nome de um personagem de uma história que ouviu na infância e que agora, ao encontrar a pessoa real, acha curiosamente... decepcionante.
 
 — Nyctara. — Ele repetiu o nome, inclinando a cabeça como um urrak examinando uma presa que não valia o esforço da caçada. — A Lenda Sombria. A fantasma que aparecia nas missões mais perigosas e desaparecia antes que alguém pudesse gritar por socorro. O demônio que os Mestres dos Sussurros de três reinos diferentes tentaram capturar e nunca conseguiram. — Um sorriso irônico tocou seus lábios. — E agora me diz que é uma aposentada que quer ajudar em um orfanato.
 
@@ -414,7 +414,7 @@ Lyris fez uma reverência — mais profunda desta vez, um reconhecimento de que 
 
 — Vá com o vento, Nyctara. — A voz de Thaloris carregava um tom que ela não conseguiu identificar completamente. Ameaça? Promessa? Ou apenas o reconhecimento irônico de um igual?
 
-Lyris virou-se e caminhou para fora do salão. Suas botas ecoaram no mármore, e o vento sussurrou segredos que só ele conhecia.
+Lyris virou-se e caminhou para fora do savelumao. Suas botas ecoaram no mármore, e o vento sussurrou segredos que só ele conhecia.
 
 ---
 

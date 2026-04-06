@@ -26,7 +26,7 @@ Grazielly estava entre os que nunca haviam saído.
 
 Aos cinco anos — cinco anos completos agora, marcados pelo aniversário que trouxera o cristal de Sanctrum e o fulgor que ainda latejava sob sua pele como um segundo coração —, ela havia passado toda a sua vida dentro de um raio que não ultrapassava algumas dezenas de Passos. Mespiria, primeiro. O Bosque dos Sussurros, em um dia que preferia não lembrar. E o Orfanato Luminis, que se tornara seu universo inteiro. Agora, pela primeira vez, ela ia ver o que existia além das colinas.
 
-A esplanada de partida fervilhava de atividade como um formigueiro iluminado. Centenas de crianças se aglomeravam em grupos organizados por idade e por alas, carregando pequenas sacolas de viagem que continham o essencial — roupas de troca, um cobertor enrolado, algum lanche que a cozinha havia preparado com carinho. As vozes se misturavam em um coro de excitação e nervosismo, intercaladas pelos chamados dos monitores mais velhos que tentavam — com sucesso variável — manter algo que se parecesse com ordem. O ar cheirava a couro, a lã, ao perfume adocicado das Aerélia que floresciam nos canteiros da esplanada, e a algo mais indefinível — a eletricidade da antecipação, o cheiro que a esperança teria se pudesse ser enlatado.
+A esplanada de partida fervilhava de atividade como um formigueiro iluminado. Centenas de crianças se aglomeravam em grupos organizados por idade e por alas, carregando pequenas sacolas de viagem que continham o essencial — roupas de troca, um cobertor enrolado, algum lanche que a cozinha havia preparado com carinho. As vozes se misturavam em um coro de excitação e nervosismo, intercaladas pelos chamados dos monitores mais velhos que tentavam — com sucesso variável — manter algo que se parecesse com ordem. O ar cheirava a couro, a veluma, ao perfume adocicado das Aerélia que floresciam nos canteiros da esplanada, e a algo mais indefinível — a eletricidade da antecipação, o cheiro que a esperança teria se pudesse ser enlatado.
 
 E no centro daquela efervescência, imponente e calma como uma rocha no meio de um rio, Madre Elara observava tudo.
 
@@ -44,7 +44,7 @@ Os Veleiros de Estrada eram, para os olhos infantis que os observavam com maravi
 
 Cada Veleiro era operado por um Timoneiro de Vento — um condutor treinado na arte de sintonizar a frequência dos cristais com as correntes atmosféricas, ajustando velocidade, altitude e direção através de uma console de latão e cristais que ocupava a parte dianteira da cabine. Os Timoneiros eram figuras respeitadas em Sylvaris, uma profissão que exigia tanto sensibilidade elementar quanto habilidade técnica, e eles conduziam seus Veleiros com a quietude concentrada de quem sabe que está guiando não apenas uma máquina, mas as vidas de dezenas de pessoas.
 
-Grazielly parou no topo dos degraus que levavam à esplanada, Nyx aninhado contra seu peito sob a capa azul de lã, e olhou para os Veleiros com olhos tão grandes que pareciam conter todo o céu matinal de Sylvaris dentro deles.
+Grazielly parou no topo dos degraus que levavam à esplanada, Nyx aninhado contra seu peito sob a capa azul de veluma, e olhou para os Veleiros com olhos tão grandes que pareciam conter todo o céu matinal de Sylvaris dentro deles.
 
 — Mira — ela sussurrou, puxando a manga da amiga ao seu lado. — Eles... eles voam?
 
@@ -68,7 +68,7 @@ Nyx chiou baixinho e se aninhou mais fundo contra o peito dela, como se aquela a
 
 ## II. O Grupo dos Quarenta
 
-O Veleiro designado ao grupo de Grazielly era o número dezessete — um dos maiores da frota, com capacidade para quarenta passageiros mais o Timoneiro e dois assistentes. Era também um dos mais antigos, com marcas de viagens anteriores gravadas na madeira do casco como cicatrizes que contavam histórias, e cheirava a uma mistura de cera de latão, lã armazenada e algo que Grazielly só conseguiu identificar como "aventura" — um cheiro composto de todos os lugares por onde aquele veículo já havia passado, todas as paisagens que já havia cruzado, todos os ventos que já havia cortado.
+O Veleiro designado ao grupo de Grazielly era o número dezessete — um dos maiores da frota, com capacidade para quarenta passageiros mais o Timoneiro e dois assistentes. Era também um dos mais antigos, com marcas de viagens anteriores gravadas na madeira do casco como cicatrizes que contavam histórias, e cheirava a uma mistura de cera de latão, veluma armazenada e algo que Grazielly só conseguiu identificar como "aventura" — um cheiro composto de todos os lugares por onde aquele veículo já havia passado, todas as paisagens que já havia cruzado, todos os ventos que já havia cortado.
 
 Grazielly embarcou com Nyx escondido sob a capa azul — uma manobra que já havia sido combinada com Lyris e com a monitora do grupo, porque Lyriens, embora fossem companheiros leais e inofensivos, tecnicamente não eram permitidos nas expedições do Ciclo de Viagem. A regra existia por razões práticas — animais podiam se assustar, se perder, criar confusão em grupos grandes de crianças —, mas Lyris havia argumentado, com a lógica implacável que a caracterizava, que separar Grazielly de Nyx após tudo o que a criança havia passado seria não apenas desnecessário, mas potencialmente prejudicial. Madre Elara havia cedido com um olhar que dizia: *desta vez. Só desta vez.*
 
@@ -378,7 +378,7 @@ Seus olhos eram escuros e afiados como lâminas de obsidiana, e enquanto percorr
 
 Selina havia passado os últimos três meses compilando relatórios de transferências de órfãos — não os relatórios oficiais, que eram impecáveis em sua burocracia e vazios em sua substância, mas os relatórios reais, os que existiam nas entrelinhas dos números e nas discrepâncias que outros olhos não percebiam. E o que ela encontrara não era bonito.
 
-Os relatórios provinham de Vethran Noll — um burocrata de médio escalão em Sanctrum, o tipo de funcionário que existia em toda estrutura governamental: eficiente o bastante para não ser demitido, insignificante o bastante para não ser notado, e posicionado em exatamente o lugar certo para ter acesso a informações que não deveria ter. Vethran Noll era responsável por autorizar e registrar as transferências de órfãos entre o Orfanato Luminis e as Academias Elementais dos sete reinos — uma função que parecia tediosa e irrelevante, mas que, na verdade, era um dos nós mais sensíveis da rede de proteção infantil de Nova Aetherion.
+Os relatórios provinham de Vethran Noll — um burocrata de médio escavelumao em Sanctrum, o tipo de funcionário que existia em toda estrutura governamental: eficiente o bastante para não ser demitido, insignificante o bastante para não ser notado, e posicionado em exatamente o lugar certo para ter acesso a informações que não deveria ter. Vethran Noll era responsável por autorizar e registrar as transferências de órfãos entre o Orfanato Luminis e as Academias Elementais dos sete reinos — uma função que parecia tediosa e irrelevante, mas que, na verdade, era um dos nós mais sensíveis da rede de proteção infantil de Nova Aetherion.
 
 E era nos relatórios de Vethran Noll que Selina havia encontrado as cargas fantasmas.
 
@@ -402,7 +402,7 @@ O relatório mais recente de Vethran Noll mencionava uma transferência pendente
 
 *A academia não existe*, Selina pensou, e suas mãos, que haviam permanecido firmes durante horas de análise, começaram a tremer levemente. *Eles estão criando academias fantasmas para justificar transferências de crianças que não chegam a lugar nenhum.*
 
-E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um escritório no Palácio de Cristal — um escritório que pertencia a um funcionário de alto escalão cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
+E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um escritório no Palácio de Cristal — um escritório que pertencia a um funcionário de alto escavelumao cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
 
 Thaloris Ventaris.
 
@@ -508,7 +508,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | **Desprovidos** | Termo para pessoas sem poder Aethra; usado como disfarce por mercenários |
 | **Cargas Fantasmas** | Registros de crianças transferidas para academias inexistentes; rastro burocrático de sequestro |
 | **Thaloris Ventaris** | Nobre de Sanctrum; arquiteto do tráfico de talentos; aliado de forças das profundezas |
-| **Vethran Noll** | Burocrata de médio escalão em Sanctrum; registra transferências fantasma |
+| **Vethran Noll** | Burocrata de médio escavelumao em Sanctrum; registra transferências fantasma |
 
 ### Criaturas
 
