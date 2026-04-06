@@ -729,16 +729,6 @@ A voz de Mira continuou enquanto conduzia Grazielly por uma turnê que parecia n
 
 Curiosidade. Interesse. Talvez, eventualmente, esperança.
 
-Naquela noite, durante o jantar no grande refeitório, Grazielly sentou-se entre Mira e Lyris. A comida era simples mas farta — ensopado de tubérculos-da-terra, pão fresco, frutas-cristalizadas para sobremesa. As crianças conversavam animadamente sobre seus dias, e havia uma energia naquele lugar que Grazielly reconheceu como algo bom — a energia de uma família formada não por sangue, mas por necessidade e escolha.
-
-Depois do jantar, Mira a levou à biblioteca, onde uma mulher idosa contou a história de Ventus, o último dos Seraphyens. Enquanto a narradora descrevia como Ventus se dissipou nos ventos, Grazielly sentiu uma lágrima escorrer por sua bochecha — não de tristeza, mas de reconhecimento, como se já tivesse ouvido aquela história antes, em algum lugar distante, em algum tempo anterior ao seu nascimento.
-
-Naquela noite, deitada na cama ao lado da de Mira, Grazielly fechou os olhos e viu Melessa — não doente e fraca, mas jovem e sorrindo. E ao lado de Melessa, uma mulher de cabelos escuros e olhos familiares.
-
-*Boa noite, vó Melessa,* ela pensou. *Boa noite, mamãe. Eu estou em um lugar seguro agora.*
-
-E no sono que se seguiu, Grazielly sonhou com ventos que sussurravam seu nome, com estrelas que brilhavam apenas para ela, com um pai distante que a observava de um palácio que ela ainda não conhecia.
-
 ---
 
 ## XIV. A Guardiã Silenciosa e a Sombra no Orfanato

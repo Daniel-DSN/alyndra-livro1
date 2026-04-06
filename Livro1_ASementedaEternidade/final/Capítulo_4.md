@@ -16,25 +16,15 @@
 
 ## I. A Primeira Noite
 
-Grazielly não chorou quando entrou no Orfanato Luminis.
+Quando a porta do quarto se fechou, Grazielly ficou sozinha.
 
 Não porque não sentisse dor — a dor estava ali, pesada e opressiva, ocupando todo o espaço dentro de seu peito como uma pedra que ninguém conseguiria deslocar. Mas porque Melessa havia lhe ensinado que as lágrimas, embora legítimas, eram um recurso que devia ser usado com sabedoria. Chorar por chorar não curava nada. Chorar quando se precisava de força era desperdiçar a força que as lágrimas carregavam.
 
 E Grazielly precisava de toda a força que pudesse reunir.
 
-O Orfanato Luminis — que os velantisianos chamavam de Cidadela Luminis — não ficava em uma rua estreita. Era um complexo que se espalhava por várias colinas nos arredores de Velantis, como se alguém tivesse construído uma cidade em miniatura apenas para crianças. Muralhas de pedra baixas circundavam o perímetro — não mais altas do que o ombro de um adulto, mais para conter as crianças curiosas do que para repelir invasores, cobertas de Aeriva que descia em cachos verdes como se a própria natureza se recusasse a deixar aquela parede nua. Nas torres que se erguiam acima delas Grazielly podia ver os guerreiros de armaduras prateadas — os Aga Uru — que vigiavam de cima, mas ao longo das muralhas internas havia jardins suspensos com canteiros de Giralis e bancos de madeira onde as crianças podiam sentar e observar as nuvens. Eles não falavam. Não sorriam. Mas observavam de onde não assustavam, como se estivessem ali para garantir que nada de ruim entrasse — e que nada de bonito saísse.
+O quarto tinha quatro camas — três já ocupadas, com cobertores desarrumados e pequenos objetos pessoais espalhados pelos criados-mudos ao lado de cada uma. A quarta, ao lado da janela, era dela. Lençóis limpos e um travesseiro que parecia esperar.
 
-Lyris a conduziu pelos portões principais, passando sob um arco de pedra onde algo brilhava — um Sinalizador de Aethra, uma esfera de cristal que pulsava com luz suave, como se respirasse. Cada pessoa que passava era envolvida por aquela luz por um instante, e Grazielly sentiu um formigamento percorrer sua pele — depois nada. O Sinalizador a deixou passar.
-
-Os corredores internos eram largos o bastante para dez crianças caminharem lado a lado, e passarelas suspensas conectavam prédios diferentes acima de pátios pavimentados onde a neve se acumulava em camadas perfeitas. As paredes de pedra das construções principais estavam cobertas por Aeriva — aquelas trepadeiras delicadas que se enrolavam em superfícies como abraços verdes, suas folhas finas tremulando ao vento mesmo sob a neve. Nos corredores, desenhos feitos com giz de cores cobriam o chão de pedra — sóis tortos, casinhas, animais que mais pareciam borrões felizes — sinais de que crianças passavam por ali todos os dias e deixavam suas marcas não como gravidade, mas como alegria. Bonecos de pano pendurados em ganchos nas paredes, carrinhos de madeira encostados nos cantos e pequenos teatros de sombras feitos de caixas de papelão esperavam pelos próximos donos. Uma placa de bronze no portão dizia "Orfanato Luminis — Donde toda criança encontra luz" em letras polidas por tantas mãos ao longo dos anos.
-
-Lyris a conduziu pelos corredores silenciosos, subindo escadas de madeira que rangiam sob seus passos, passando por portas entreabertas que revelavam salas cheias de camas, mesas, brinquedos — e crianças que a observavam com a curiosidade sem vergonha da infância. Olhos de todas as idades e cores a seguiam pelo corredor, e Grazielly sentia cada um deles como um ponto de calor em sua pele — não hostil, mas intenso, como se a reconhecessem como algo diferente mesmo antes de saberem quem ela era.
-
-— Este será seu quarto — Lyris disse, parando diante de uma porta no segundo andar. — Compartilhará com outras meninas da sua idade. Amanhã você as conhecerá.
-
-Grazielly entrou no quarto sem dizer uma palavra. Havia quatro camas — três já ocupadas, com cobertores desarrumados e pequenos objetos pessoais espalhados pelos criados-mudos ao lado de cada uma. A quarta cama, ao lado da janela, estava vazia, com lençóis limpos e um travesseiro que parecia esperar.
-
-Ela se sentou na borda da cama e olhou pela janela. Neve caía sobre Velantis, silenciosa e constante, cobrindo telhados e ruas com um manto branco que transformava a cidade em algo que parecia um sonho. No horizonte, as torres de Zephyra brilhavam fracamente através da neblina, como castelos de um conto que alguém tivesse começado a contar e depois esquecido.
+Ela se sentou na beira da cama e olhou pela janela. Neve caía sobre Velantis, silenciosa e constante, cobrindo telhados e ruas com um manto branco que transformava a cidade em algo que parecia um sonho. No horizonte, as torres de Zephyra brilhavam fracamente através da neblina, como castelos de um conto que alguém tivesse começado a contar e depois esquecido.
 
 *Nyx*, pensou Grazielly, e a palavra foi como uma facada — rápida, precisa, cortante. O Liryth azul-escuro que ela havia deixado em Mespiria. A pequena criatura que Melessa lhe dera como presente, que dormia enroscada em seu peito durante noites de tempestade, que a seguia pelo quintal como uma sombra fiel. Ela o havia deixado para trás na pressa da partida, e agora, sentada em uma cama estranha em uma cidade estranha, o peso daquela despedida — uma despedida que não teve tempo de acontecer — era quase insuportável.
 
@@ -80,9 +70,9 @@ Grazielly comeu outra colherada. Depois outra. E antes que percebesse, a tigela 
 
 — Viu? — Mira disse, sorrindo com a satisfação de quem ganhou uma aposta silenciosa. — Eu disse que você ia gostar daqui.
 
-Depois do jantar, as crianças se reuniram na biblioteca para a hora das histórias — o mesmo ritual que Grazielly havia presenciado no Orfanato Luminis no Capítulo que seria escrito em outra época, mas que aqui era novo, fresco, carregado de primeira impressões. A biblioteca era maior do que qualquer cômodo que Grazielly já havia visto — paredes cobertas de estantes que iam do chão ao teto, livros de todas as cores e tamanhos empilhados e organizados com um cuidado que sugeria que aquele lugar era sagrado. Velas de cristal Aetheris tremiam em suportes de parede, projetando luz dourada que fazia as páginas antigas parecerem conter universos inteiros.
+Depois do jantar, as crianças se reuniram na biblioteca para a hora das histórias — o mesmo ritual que todas as crianças novas vivenciavam em sua primeira noite, mas que para ela era tudo — novo, fresco, carregado de primeira impressões. A biblioteca era maior do que qualquer cômodo que Grazielly já havia visto — paredes cobertas de estantes que iam do chão ao teto, livros de todas as cores e tamanhos empilhados e organizados com um cuidado que sugeria que aquele lugar era sagrado. Velas de cristal Aetheris tremiam em suportes de parede, projetando luz dourada que fazia as páginas antigas parecerem conter universos inteiros.
 
-Grazielly sentou-se ao lado de Mira no mesmo lugar onde costumava se sentar nos capítulos futuros — um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Mirella cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
+Grazielly sentou-se ao lado de Mira em um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Mirella cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
 
 — Esta noite — Mirella disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Sylvaris com seu último ato de amor pela criação.
 
