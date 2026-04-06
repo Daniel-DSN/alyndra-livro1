@@ -202,7 +202,7 @@ Lyris assentiu, esperando. Quando o silêncio se estendeu, ela percebeu que algo
 
 Lyris processou a informação com a neutralidade de quem havia dedicado uma vida a separar o que era relevante do que não era. Mas algo em seus instintos — aqueles instintos que décadas de trabalho nas sombras haviam afiado até a perfeição — sussurrava que havia mais naquela história do que estava sendo dito.
 
-— Com todo respeito, senhor — ela disse, mantendo a voz calma mas permitindo que uma ponta de curiosidade a atravessasse. — Existem agentes ativos em Sylvaris. Observadores de rotina. Mestresregionais que já monitoram a região há anos. Por que convocar alguém que está aposentada? Por que eu?
+— Com todo respeito, senhor — ela disse, mantendo a voz calma mas permitindo que uma ponta de curiosidade a atravessasse. — Existem agentes ativos em Sylvaris. Observadores de rotina. Mestres regionais que já monitoram a região há anos. Por que convocar alguém que está aposentada? Por que eu?
 
 Aurelius não se mexeu. Mas Lyris — treinada para ler micro-expressões, para perceber o que os olhos revelavam quando as palavras tentavam esconder — notou uma tensão quase imperceptível em seu maxilar, um breve aperto em torno de seus olhos que sugeria que sua pergunta havia atingido um nervo exposto.
 
