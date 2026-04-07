@@ -903,6 +903,10 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Solarys** | **She Utu Sag** | Flor dourada que segue a luz de Aurion | Símbolo de esperança |
 | **Hydra Vine** | **U A Ki** | Videiras de água de Thalassia que armazenam água | Fonte vital em emergências |
 | **Flores-Mespiria** | — | Flores de âmbar/dourado | Cerimonial |
+| **Zanthári** | **She Zan** | Especiaria dourada originária das planícies de Thalassia; sementes que conferem cor e sabor marcante | Tempero, corante; base do comércio de aromáceos |
+| **Canelis** | **Gesh Can** | Casca aromática de árvore das florestas de Sylvaris; sabor adocicado e quente | Tempero; comércio entre reinos |
+| **Kravári** | **Kra Vesh** | Broto seco de arbusto das montanhas de Terraxis; aroma intenso e picante | Tempero; chás medicinais |
+| **Pyráxis** | **She Pir** | Semente ardente cultivada nas regiões quentes de Pyralis; aquece a boca | Tempero; a variedade "Pyráxis de Aurion" é a mais valorizada |
 | **Pyrénia** | **She An Ig** | Arbusto espinhento de frutas vermelhas-ácidas, nativo das planícies de Pyralis, resiste ao calor extremo | Culinária, geleias, licores |
 | **Terralith** | **She Dur** | Tubérculo robusto das montanhas de Terraxis, casca espessa e polpa nutritiva, alimento básico das populações mineiras | Alimento principal em Terraxis |
 | **Umbraférrea** | **Gesh Umbar** | Fungo raro das cavernas profundas de Umbra, libera esporos prateados que curam feridas respiratórias | Medicina avançada, rituais de cura |
@@ -1093,6 +1097,11 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 | cavalo/elefante | Koramis/Terravox |
 | coelho/gato | Lyrien/Nyxara |
 | segundo/metro/grama | Pulso/Passo/Semente |
+| açafrão | Zanthári |
+| canela | Canelis |
+| cravo | Kravári |
+| pimenta | Pyráxis |
+| especiarias | aromáceos |
 
 ## Nomes Consolidados
 - **Orfanato Luminis** (em Velantis, Sylvaris)
