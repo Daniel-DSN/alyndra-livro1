@@ -779,14 +779,6 @@ Lyris não disse nada. Não se aproximou. Apenas registrou mentalmente cada deta
 
 Ela decidiu que observaria. Com paciência. Com cuidado. Com a mesma atenção que dedicava a cada missão que já realizara. Se Aldric era o que ele parecia — um caseiro comum — ninguém sairia machucado. Mas se havia algo mais por trás daquele silêncio eficiente, Lyris o descobriria. Antes que fosse tarde demais.
 
-Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do vento sobre Sylvaris, e uma menina de quatro anos dormindo em uma cama que não era sua, sonhando com uma mãe que jamais conheceria e um pai que sequer sabia de sua existência.
-
-*Eu cuidarei de você, Grazielly,* Lyris prometeu silenciosamente, olhando para a janela do dormitório onde a criança dormia. *Pelo resto de meus dias. Pela promessa que fiz. Pelo amor que já sinto por você.*
-
-*Filha de guerreros e de segredos, você nunca ficará sozinha novamente.*
-
-*Mas as sombras estão se movendo. E eu preciso estar pronta.*
-
 ---
 
 **[CONTINUA NO CAPÍTULO IV...]**
