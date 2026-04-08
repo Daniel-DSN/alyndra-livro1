@@ -2,7 +2,7 @@
 
 ---
 
-## Melessa
+## Melessa Alderis
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Campo | Informação |
 |-------|------------|
-| **Nome completo** | Melessa |
+| **Nome completo** | Melessa Alderis |
 | **Idade** | Idosa (várias décadas de vida; "decadas como parteira e curandeira") |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari |
@@ -26,15 +26,74 @@
 
 ---
 
-### APARÊNCIA FÍSICA
+### APARÊNCIA FÍSICA — Referência para Desenho
 
-| Aspecto | Descrição canônica |
-|---------|-------------------|
-| **Cabelos** | Brancos |
-| **Olhos** | Experientes, perspicazes; capazes de detectar segredos e mentiras |
-| **Mãos** | Tremulais no final da vida; antes firmes e hábeis (décadas de prática) |
-| **Voz** | Firme nos momentos de determinação; suave e amorosa com Grazielly; fraca nos últimos dias |
-| **Postura** | Determinada mesmo quando o corpo fraquejava; mãos que "trouxeram centenas de crianças ao mundo" |
+> ⚠️ Descrição desenvolvida para guiar a ilustração do personagem. Dados canônicos marcados com [C]; elementos criativos derivados são marcados com [D].
+
+#### ESTRUTURA CORPORAL
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Biótipo** | Baixa e arredondada, com ombros caídos que sugerem décadas de trabalho curvado sobre camas de parto. [C/D]
+| **Altura** | Abaixo da média para uma aetheriana Sylvari — talvez 1,55 m. O encurvamento da idade a fez parecer ainda menor nos últimos anos. [D]
+| **Constituição** | Robusta na juventude, finada no final da vida. Nos primeiros anos com Grazielly, ainda tinha braços fortes capazes de carregar uma criança e instrumentos de curandeira por horas. Na doença, o peso derreteu visivelmente — "Melessa enfraquecia a cada dia". [C/D]
+| **Pele** | Tom moreno-claro típico dos Sylvari que vivem sob a luz direta de Aurion, mas com uma palidez doentia sobreposta nos últimos meses de vida. Mãos ásperas e calejadas pelo trabalho com ervas e curativos; pele fina e enrugada no dorso das mãos, com veias visíveis. [C/D]
+
+#### ROSTO
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Formato** | Redondo-arredondado, com bochechas que outrora eram cheias mas afundaram com o declínio. Queixo suave, sem angulação marcante. [D]
+| **Olhos** | Castanho-âmbar, profundos e embaciados pela idade — mas que ainda podiam perfurar como agulhas quando detectavam uma mentira. Pálpebras pesadas; sobrancelhas brancas e espessas, naturalmente arqueadas, que se franziam quando pensativa. [C/D]
+| **Nariz** | Curto e largo, levemente arqueado na ponta — nariz de quem já cheirou mil ervas e reconhece cada uma de olhos fechados. [D]
+| **Boca** | Lábios finos, frequentemente comprimidos em uma linha neutra que escondia o que sabia. Quando sorria — raro —, a boca se abria em um arco largo que transformava todo o rosto, revelando dentes levemente desiguais. [D]
+| **Rugas** | Sulcos profundos ao redor dos olhos (rugas de expressão de quem sorriu e observou muito); linhas verticais entre as sobrancelhas (cabeça franzida em concentração); vincos ao redor da boca. [D]
+| **Orelhas** | Pequenas, ligeiramente projetadas para os lados, com lóbulos levemente alongados. [D]
+
+#### CABELO
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Cor** | Branco-prateado, completamente grisalho desde muito antes da velhice — talvez desde os cinquenta anos. [C/D]
+| **Textura** | Fino e ralo, mas outrora espesso e cacheado. [D]
+| **Corte/Penteado** | Comprimento médio, geralmente puxado para trás em um coque frouxo ou trança solta presa com um graveto ou fita de tecido desbotado. Mechas soltas escapam constantemente, emoldurando o rosto. No dia a dia, costumava usar um lenço de veluma esmaecido — azul-claro ou cinza — para segurar o cabelo enquanto trabalhava. [D]
+| **Detalhe** | Grazielly penteou seus cabelos brancos "com delicadeza" após sua morte (Cap 3, X) — o que sugere que o cabelo era longo o suficiente para ser penteado e que era uma das tarefas de cuidado entre as duas. [C]
+
+#### MÃOS
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Formato** | Pequenas, com dedos curtos e unhas aparadas rente — mãos funcionais, não ornamentais. [D]
+| **Textura** | Calosidades nos dedos indicadores e polegares (de segurar instrumentos de parteira); manchas escuras nas pontas dos dedos (de manusear ervas medicinais e preparados); pele seca e rachada nos meses de inverno. [D]
+| **Movimento** | Nos anos ativos, firmes e precisas — mãos que "trouxeram centenas de crianças ao mundo" [C]. Nos últimos meses, tremiam visivelmente: "a mão que segurava uma caneca de chá tremia" (Cap 3, IX). [C]
+
+#### VESTUÁRIO HABITUAL
+
+| Item | Descrição |
+|------|----------|
+| **Vestido principal** | Roupa longa e solta de giran natural em tom terroso (marrom, bege ou cinza-claro), com bordado discreto de Giralis na barra — padrão que ela mesma fez. Mangas compridas que podiam ser dobradas acima dos cotovelos quando trabalhava. [D]
+| **Avental** | Avental de veluma desbotada usado sobre o vestido durante o trabalho de parteira — com bolsos cheios de ervas, pequenos frascos e fios de sutura. [D]
+| **Xale** | Xale pesado de lã grossa — essencial nos invernos rigorosos de Sylvaris. Usado constantemente durante a doença, mesmo dentro de casa. [C/D] — "coberta com um xale pesado apesar do sol morno" (Cap 3, IX)
+| **Calçados** | Botas baixas de couro envelhecido, sem adereços, com solas gastas pelo uso de décadas. [D]
+| **Acessórios** | Bolsa de tecido cruzada no corpo contendo suas ferramentas de curandeira: chás secos, pequenas facas de corte, ataduras de linho, cristais de cura menores. [D]
+
+#### EXPRESSÕES E POSTURA
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Expressão padrão** | Neutra-contemplativa — rosto que revelava pouco para quem não sabia ler, mas que para Grazielly transmitia volumes. [D]
+| **Quando concentrada** | Sobrancelhas franzidas, lábios comprimidos, olhos fixos — seja em um parto complicado ou separando ervas. [D]
+| **Quando com Grazielly** | Expressão se abria — sorrisos que eram "ao mesmo tempo alívio e tristeza e gratidão e despedida" (Cap 3, IX). Olhos se suavizavam, linhas de preocupação se invertiam em calor. [C/D]
+| **Na morte** | "Sorriso suave nos lábios, mãos pousadas sobre o peito como se estivesse apenas dormindo" (Cap 3, X) — expressão de paz absoluta. [C]
+| **Postura** | Tendência a se curvar para frente; nas cadeiras, costas curvadas sobre a trabalho. Em pé, inclinava-se ligeiramente para escutar — hábito de quem passou a vida inclinando-se para ouvir sussurros de mães em trabalho de parto. [D]
+
+#### MARCAS DISTINTIVAS
+
+| Marca | Descrição |
+|-------|----------|
+| **Queimaduras antigas nas mãos** | Pequenas cicatrizes em forma de pontos nos dedos — marcas de cristais de cura aquecidos e ervas quentes manuseadas ao longo de décadas. [D]
+| **Manchas de ervas** | Unhas com tom amarelado-permanente, impossível de remover — resultado de décadas preparando infusões e cataplasmas. [D]
+| **Sombra sob os olhos** | Acentuada nos últimos anos — resultado de noites sem dormir vigiando Grazielly ou preocupando-se com o futuro. [D]
 
 ---
 

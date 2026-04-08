@@ -2,7 +2,7 @@
 
 ---
 
-## Thalia
+## Thalia Seren
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Campo | Informação |
 |-------|------------|
-| **Nome completo** | Thalia |
+| **Nome completo** | Thalia Seren |
 | **Idade** | Jovem (Cap 2: "rosto jovem pálido") |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari |
@@ -26,13 +26,74 @@
 
 ---
 
-### APARÊNCIA FÍSICA
+### APARÊNCIA FÍSICA — Referência para Desenho
 
-| Aspecto | Descrição canônica |
-|---------|-------------------|
-| **Rosto** | Jovem; pálido em momentos de urgência (Cap 2) |
-| **Olhos** | Marejados ao examinar Melessa doente (Cap 3) |
-| **Voz** | Capaz de sussurrar em momentos de tensão; firme ao alertar sobre riscos |
+> ⚠️ Descrição desenvolvida para guiar a ilustração do personagem. Dados canônicos marcados com [C]; elementos criativos derivados são marcados com [D].
+
+#### ESTRUTURA CORPORAL
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Biótipo** | Delgada e ágil, com a leveza de quem cresceu correndo pelas colinas de Sylvaris e aprendeu a mover-se rápido em situações de emergência — seja acudindo um parto ou buscando curativos. [C/D]
+| **Altura** | Mediana para uma aetheriana Sylvari — aproximadamente 1,65 m. Na época do nascimento de Grazielly (Cap 2), devia ter por volta de 20-22 anos. [D]
+| **Constituição** | Magra mas com tônus muscular funcional — braços fortes de quem carrega pacientes e instrumentos; pernas firmes de quem caminha longas distâncias entre casas de Mespiria. [D]
+| **Pele** | Tom claro com subtom quente, próprio dos Sylvari de interior. A palidez mencionada no capítulo 2 ("rosto jovem pálido") é reativa — surge em momentos de estresse e urgência, não é seu tom natural. [C/D]
+
+#### ROSTO
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Formato** | Oval-alongado, com maxilares suavemente definidos e testa proporcionalmente alta. Rosto jovem mas com uma seriedade prematura — como se tivesse envelhecido emocionalmente mais rápido do que o corpo. [C/D]
+| **Olhos** | Verde-azulados, expressivos — a cor típica de Sylvari com alguma herança de região mais fria. Arregalados de susto ao testemunhar o brilho de Grazielly ("Por todos os Seraphyens...") [C]; marejados ao examinar Melessa doente (Cap 3) [C]. Sobrancelhas castanho-escuras, naturalmente arqueadas, que se elevam quando surpresa. Cílios longos e visíveis. [C/D]
+| **Nariz** | Fino e reto, levemente pontiagudo — nariz jovem, ainda sem as marcações da idade. [D]
+| **Boca** | Lábios cheios, naturalmente levemente arqueados para baixo nos cantos — o que lhe confere uma expressão permanente de preocupação discreta. Quando sorri, o contraste é notável: a boca se abre revelando dentes alinhados e a seriedade desaparece por completo. [D]
+| **Bochechas** | Lisas quando tranquila; levemente avermelhadas pelo esforço quando corre ou se agita. Quando chora, ficam manchadas de rosa irregular — ela não chora discretamente, chora de verdade. [D]
+| **Orelhas** | Pequenas e bem coladas à cabeça, com lóbulos arredondados. Usava brincos pequenos — provavelmente penduriculares de prata simples, típicos de mulheres jovens de Mespiria. [D]
+
+#### CABELO
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Cor** | Castanho-escuro, quase preto sob a luz fraca de velas, mas revelando reflexos avelã quando banhada por Aurion. [D]
+| **Textura** | Liso e denso, com volume natural nas raízes que cai em ondas suaves a partir do meio do comprimento. [D]
+| **Corte/Penteado** | Comprido — abaixo dos ombros, acima da cintura. Em dias de trabalho na vila, puxado para trás em uma trança apertada ou coque prático preso com uma tira de couro. Quando sozinha ou em casa, costumava deixá-lo solto. Nos primeiros tempos no Orfanato Luminis, adotou um penteado mais contido — meio preso, com mechas soltas na nuca — uma transição entre a praticidade da vila e a formalidade da Cidadela. [D]
+| **Detalhe** | Mechas que escapam da trança emolduram o rosto — algo que ela está constantemente empurrando para trás com as costas da mão. [D]
+
+#### MÃOS
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Formato** | Longas e finas, com dedos afilados — mãos de curandeira, projetadas para trabalho delicado: segurar agulhas, preparar bandagens, aplicar cataplasmas. [D]
+| **Textura** | Pele macia mas com calosidades incipientes nos indicadores e nos calcanhares das mãos (de manusear instrumentos e esfregar ervas). Unhas cortadas curtas por praticidade, mas limpas — ela cuida das mãos como parte de sua profissão. [D]
+| **Movimento** | Rápidas e precisas — mãos que correm para buscar "bandagens de pressão e cristais de cura" sem hesitar (Cap 2) [C]. Quando nervosa, entrelaçam os dedos ou beliscam a palma. Quando segura algo frágil — a carta selada de Melessa —, as mãos ficam rígidas de tensão. [C/D]
+
+#### VESTUÁRIO HABITUAL
+
+| Item | Descrição |
+|------|----------|
+| **Vestido na vila (Mespiria)** | Blusa de veluma cinza-azulada com gola simples, saia longa de giran verde-musgo que alcançava os tornozelos. Roupas práticas, sem ornamentos excessivos — adequadas para correr entre casas de madrugada ou ajoelhar-se ao lado de uma paciente. [D]
+| **Vestido no Orfanato Luminis** | Evolução sutil para tons mais formais — blusa de veluma azul-marinho, saia de giran mais escura. Ainda prática, mas com acabamento mais cuidado. Orfanato exige certa apresentação. [C/D] — providenciou roupas de veluma e giran para Grazielly (Cap 4 e 5)
+| **Avental de curandeira** | Avental curto de tecido resistente, com bolsos laterais para frascos de cura e bandagens. Manchado por ervas e preparados. [D]
+| **Calçados** | Sandálias de couro trançado nos dias quentes de Mespiria; botas baixas de couro quando viajava ou no inverno. [D]
+| **Acessórios** | Brincos de prata simples (penduriculares pequenos); bolsa de couro no cinto com ferramentas básicas de curandeira (frascos, ataduras, ervas secas). [D]
+
+#### EXPRESSÕES E POSTURA
+
+| Aspecto | Descrição |
+|---------|----------|
+| **Expressão padrão** | Atenta e ligeiramente preocupada — como se estivesse sempre esperando que algo desse errado. Olhos que escaneiam o ambiente por hábito. [D]
+| **Em emergência** | Rosto pálido ("rosto jovem pálido à luz das velas" — Cap 2) [C]; olhos arregalados; mandíbula travada em determinação. Movimentos rápidos e diretos — é quando ela é mais eficiente. [C/D]
+| **Ao chorar** | Olhos marejados visivelmente (Cap 3) [C]; expressão que contorce em dor contida — ela chora como quem respira: com dificuldade, mas sem parar. [C/D]
+| **Com Grazielly** | A expressão mais suave — olhos que se umedecem, boca que se curva em um sorriso protetor. Quando abraçou Grazielly após a morte de Melessa ("Oh, minha pequena"), era todo afeto sem filtro. [C/D]
+| **Postura** | Ereta e alerta — postura de quem está sempre pronto para se mover. Ao caminhar, passos rápidos e seguros; ao parar, inclinava-se ligeiramente para frente, como se quisesse ouvir melhor. No orfanato, aprendeu a se conter mais — postura ligeiramente mais contida e formal. [D] |
+
+#### MARCAS DISTINTIVAS
+
+| Marca | Descrição |
+|-------|----------|
+| **Cicatriz no dedo mindinho esquerdo** | Corte pequeno mas profundo — resultado de um instrumento de parteira que escorregou durante um parto difícil nos primeiros anos de treinamento com Melessa. A cicatriz é pálida, quase invisível, mas ela a toca inconscientemente quando nervosa. [D]
+| **Manchas de ervas nas mãos** | Menos pronunciadas que as de Melessa, mas ainda visíveis — manchas esverdeadas nas pontas dos dedos, particularmente no polegar e indicador direitos. [D]
+| **Olheiras leves** | Presentes desde os primeiros capítulos — resultado de noites interrompidas por chamados de emergência e, mais tarde, pelas noites de vigília ao lado de Melessa doente. [C/D] |
 
 ---
 
