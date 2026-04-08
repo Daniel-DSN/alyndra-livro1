@@ -19,6 +19,7 @@
 | **Idade** | Idosa (várias décadas de vida; "decadas como parteira e curandeira") |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari |
+| **Classificação Etérica** | **Sylentis** (Adormecida) — sem manifestação elemental conhecida |
 | **Local de residência** | Casa de pedra nos arredores de Mespiria, Sylvaris |
 | **Profissão** | Parteira e curandeira de Mespiria |
 | **Status vital** | **Falecida** — Capítulo 3, Seção X ("A Despedida") |

@@ -19,6 +19,7 @@
 | **Idade** | Jovem (Cap 2: "rosto jovem pálido") |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari |
+| **Classificação Etérica** | **Sylentis** (Adormecida) — sem manifestação elemental conhecida |
 | **Local de residência (início)** | Mespiria, Sylvaris |
 | **Local de residência (atual)** | Orfanato Luminis, Cidadela Luminis, Velantis |
 | **Profissão** | Curandeira de Mespiria → Voluntária do Orfanato Luminis |
