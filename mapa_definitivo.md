@@ -693,8 +693,8 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 | 4 | O Resgate do Coração | Grazielly salva Nyx |
 | 5 | O Presente das Estrelas | Aniversário 5 anos, cristal de Aurelius |
 | 6 | O Horizonte de Sal e Cristal | Ciclo de Viagem a Thalendris; Koramis; ataque dos mercenários de Umbra nos cais; Grazielly manifesta Cryonys involuntariamente |
-| 6.5 | Interlúdio: A Sombra nos Penhascos de Sal | Nyctara elimina célula de mercenários de Umbra em caverna de sal; técnicas Véu da Ausência e Névoa Calcinante; descobre ligação Vethran Noll |
-| 7 | O Olho que Tudo Vê | Selina investiga Frequência de Desaparecimento; confronto com Aurelius; Refratores de Aurion; RRA |
+| 7 | A Sombra nos Penhascos de Sal | Nyctara elimina célula de mercenários de Umbra em caverna de sal; técnicas Véu da Ausência e Névoa Calcinante; descobre ligação Vethran Noll |
+| 8 | O Olho que Tudo Vê | Selina investiga Frequência de Desaparecimento; confronto com Aurelius; Refratores de Aurion; RRA |
 
 ---
 
