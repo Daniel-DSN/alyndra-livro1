@@ -346,7 +346,7 @@ Ela sabia — com a certeza gelada de quem conectava os pontos de um quadro que 
 
 O pulso de energia Aethra que Grazielly havia involuntariamente gerado — a onda que arremessou o mercenário e estabilizou o cristal do Veleiro — não foi apenas uma manifestação de poder Cryonys. Foi uma assinatura. Uma assinatura que os Espelhos de Eco, mesmo aquele que havia caído na água, provavelmente haviam capturado.
 
-*Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o Cryonys de Grazielly se instalou em seus ossos. *Eles registraram a assinatura da Herdeira.*
+*Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o Cryonys de Grazielly se instalou em seus ossos. *Se os Espelhos de Eco capturaram aquela emissão, a assinatura da Herdeira pode ter sido registrada. E se foi, será apenas uma questão de tempo até que a transmitam.*
 
 Kira chegou ao lado delas, seus olhos âmbar vasculhando o rosto de Grazielly com uma atenção que era mais do que preocupação protetora.
 
@@ -402,6 +402,10 @@ O relatório mais recente de Vethran Noll mencionava uma transferência pendente
 
 *A academia não existe*, Selina pensou, e suas mãos, que haviam permanecido firmes durante horas de análise, começaram a tremer levemente. *Eles estão criando academias fantasmas para justificar transferências de crianças que não chegam a lugar nenhum.*
 
+Não eram apenas os registros de transferência que passavam pelo crivo de Selina. Como Mestra da Informação, ela tinha acesso formal a toda correspondência que transitava pelos canais do Palácio de Cristal — incluindo os relatórios periódicos que guardiões designados enviavam ao En Me sobre o bem-estar das crianças sob sua custódia. Eram informes rotineiros, redigidos com a neutralidade burocrática típica desses documentos, enviados por mensageiros que levavam ciclos para percorrer a distância entre os reinos e Sanctrum. Nenhum era instantâneo. A maioria era monótona o bastante para adormecer um Vigilante de plantão.
+
+Mas entre os últimos relatórios recebidos, um havia prendido a atenção de Selina — não pelo conteúdo em si, mas pela convergência que ele criava com os dados que já estava analisando. O informe, escrito por uma guardiã cuja identidade Selina reconhecia como uma agente aposentada da Ordem designada para proteção de menor, mencionava a iminência do Ciclo de Viagem anual do Orfanato Luminis e o destino planejado: Thalendris, costa oeste de Sylvaris. O relatório era de doze ciclos atrás — o que significava que, se os mensageiros mantivessem o ritmo habitual, as crianças já estavam em Thalendris. Ou muito perto.
+
 E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um escritório no Palácio de Cristal — um escritório que pertencia a um funcionário de alto escalão cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
 
 Thaloris Ventaris.
@@ -416,11 +420,9 @@ Selina se recostou na cadeira e fechou os olhos por um momento, processando o pe
 
 *Eles estão procurando alguém*, Selina pensou, e a ideia se formou com a clareza de um cristal sendo lapidado. *Não estão apenas coletando crianças com afinidades comuns. Estão procurando alguém específico. Uma assinatura específica. Uma linhagem específica.*
 
-E enquanto Selina sentava ali, na câmara subterrânea do Palácio de Cristal, cercada por pilhas de dados que revelavam a anatomia de uma conspiração cujas proporções ainda estavam se revelando, algo aconteceu — algo que ela não podia saber, mas que sentiu, com a intuição de quem dedicou a vida a ler o mundo nas entrelinhas.
+Selina cruzou a data do relatório interceptado com a do documento de transferência pendente para a falsa Academia Costeira de Thalendris, e sentiu o chão desaparecer sob seus pés. Os dois documentos se alinhavam como engrenagens de uma máquina que ela só agora começava a enxergar por completo. A operação de Thaloris Ventaris não era teórica — era iminente. As crianças do Orfanato Luminis já estavam em Thalendris, e se o padrão das cargas fantasmas se mantinha — e todos os dados indicavam que se mantinha —, os mercenários de Umbra que executavam as capturas nas sombras estariam lá, esperando. O documento pendente, com o campo de afinidade propositalmente em branco, sugeria que desta vez a rede não procurava qualquer talento — procurava algo específico. Algo que ainda não sabiam identificar por nome. Até que encontrassem.
 
-A centenas de léguas dali, em Thalendris, nos cais brancos da Cidade das Falésias, uma criança de cinco anos havia gerado, involuntariamente, uma onda de energia Aethra tão específica, tão poderosa, tão inequivocamente singular, que se houvesse um Espelho de Eco próximo o bastante — e havia, porque os mercenários de Umbra haviam se posicionado exatamente para isso —, aquela assinatura agora estava registrada. Catalogada. Transmitida.
-
-As peças estavam se movendo no tabuleiro. E a maior delas — a Herdeira cuja existência era o segredo mais bem guardado de Nova Aetherion — havia, sem saber, revelado sua posição.
+As peças estavam se movendo no tabuleiro. E as crianças do Orfanato Luminis estavam caminhando direto para o ponto onde as sombras eram mais densas.
 
 Selina abriu os olhos e olhou para os dados diante dela — os nomes, as datas, as rotas, as cargas fantasmas. E então, com a precisão de quem sabe que cada Pulso conta, ela começou a escrever.
 
@@ -442,7 +444,7 @@ E reconhecimento, acima de tudo, de que o tempo estava acabando.
 
 ---
 
-Grazielly saiu do Orfanato Luminis pela primeira vez e viu o mundo — os Veleiros de Estrada que flutuavam sobre Trilhos de Vento, as falésias brancas de Thalendris, o Mar de Lyria que se estendia até o infinito. E nos cais da cidade costeira, quando agentes disfarçados tentaram usar Espelhos de Eco para capturar assinaturas espirituais de crianças, o instinto de Grazielly tomou conta — uma onda involuntária de poder Cryonys que repeliu o atacante e, sem que a criança soubesse, revelou sua assinatura primordial para os que observavam das sombras.
+Grazielly saiu do Orfanato Luminis pela primeira vez e viu o mundo — os Veleiros de Estrada que flutuavam sobre Trilhos de Vento, as falésias brancas de Thalendris, o Mar de Lyria que se estendia até o infinito. E nos cais da cidade costeira, quando agentes disfarçados tentaram usar Espelhos de Eco para capturar assinaturas espirituais de crianças, o instinto de Grazielly tomou conta — uma onda involuntária de poder Cryonys que repeliu o atacante e, sem que a criança soubesse, expsôs sua assinatura primordial aos dispositivos que observavam das sombras — uma assinatura capturada nos cristais de Aetherite, mas cujo destino ainda pendia, incerto, entre os cais de Thalendris e a escuridão que os aguardava.
 
 Enquanto isso, em Sanctrum, Selina Thalassa descobriu que o tráfico de talentos não é um crime isolado, mas uma operação orquestrada por dentro da própria estrutura governamental — com Thaloris Ventaris como peça central. E a criança que Grazielly protegeu involuntariamente com seu poder é exatamente a peça que as forças das profundezas buscam.
 
@@ -463,7 +465,7 @@ Mas o coração deste capítulo está nas pessoas — nas histórias de perda qu
 
 A seção de Selina Thalassa em Sanctrum revela que o tráfico de talentos é muito maior do que parecia — não um crime isolado, mas uma conspiração orquestrada de dentro do governo, com cargas fantasmas, academias inexistentes e uma mente estrategista nas sombras. Thaloris Ventaris emerge como o nome por trás da cortina.
 
-E o final — a assinatura capturada, a carta cifrada, a convergência de linhas que antes pareciam separadas — indica que as peças estão se movendo rumo a algo maior. A Herdeira foi identificada. E os que a procuram estão mais perto do que qualquer um imagina.
+E o final — a assinatura capturada pelos Espelhos de Eco nos cais, os relatórios periódicos que Selina intercepta nos canais do Palácio, a carta cifrada, a convergência de linhas que antes pareciam separadas — indica que as peças estão se movendo rumo a algo maior. A Herdeira pode ter sido identificada. E os que a procuram estão mais perto do que qualquer um imagina.
 
 ---
 
@@ -509,6 +511,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | **Cargas Fantasmas** | Registros de crianças transferidas para academias inexistentes; rastro burocrático de sequestro |
 | **Thaloris Ventaris** | Nobre de Sanctrum; arquiteto do tráfico de talentos; aliado de forças das profundezas |
 | **Vethran Noll** | Burocrata de médio escalão em Sanctrum; registra transferências fantasma |
+| **Relatórios Periódicos** | Informes rotineiros que guardiões designados enviam ao En Me sobre o bem-estar de crianças sob custódia; levam ciclos para chegar a Sanctrum; transitam pelos canais burocráticos do Palácio de Cristal |
 
 ### Criaturas
 
@@ -525,7 +528,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | **Noite de Fogo** | Crianças compartilham histórias de perda ao redor das lanternas de cristal |
 | **Voo nos Koramis** | Kira voa pela primeira vez; quebra emocional significativa |
 | **Ataque nos Cais** | Mercenários de Umbra usam Espelhos de Eco; Grazielly manifesta poder instintivamente |
-| **Descoberta de Selina** | Conexão entre cargas fantasmas e Thaloris Ventaris |
+| **Descoberta de Selina** | Conexão entre cargas fantasmas, Thaloris Ventaris e o relatório interceptado de Lyris sobre o destino Thalendris |
 
 ### Linha do Tempo
 
@@ -534,17 +537,17 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | **5 anos (primavera)** | Ciclo de Viagem; partida do Orfanato Luminis |
 | **5 anos (2ª noite de viagem)** | Noite de Fogo nos escarpamentos; histórias de Mira, Tomas e Dorian |
 | **5 anos (3º dia)** | Chegada a Thalendris; voo nos Koramis; incidente nos cais |
-| **Simultaneamente (Sanctrum)** | Selina descobre conspiração de Thaloris Ventaris |
+| **Simultaneamente (Sanctrum, com atraso)** | Selina intercepta relatório de Lyris (12 ciclos antigo) e descobre conspiração de Thaloris Ventaris; deduz que as crianças estão em perigo em Thalendris |
 
 ---
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No próximo capítulo, as consequências da manifestação de Grazielly em Thalendris começarão a se desenrolar. A carta cifrada de Selina chegará às mãos de Lyris, forçando-a a confrontar a realidade de que a identidade da Herdeira pode não ser tão secreta quanto acreditava.
+No próximo capítulo, as consequências da manifestação de Grazielly em Thalendris começarão a se desenrolar — mas não do jeito que os conspiradores esperavam. Nas sombras da noite costeira, uma guardiã fará o que guardiãs não deveriam fazer. E a carta cifrada de Selina ainda está a caminho — levando ciclos para cruzar os reinos, atravessando montanhas e mares por mãos de mensageiros silenciosos. Quando chegar, talvez já seja tarde para mudar o que precisa ser mudado. Ou talvez não.
 
 Kira e Dorian — os dois Sylentis cujas histórias de dor e raiva foram reveladas ao redor das lanternas — continuarão a desenvolver seus arcos. Kira, cujo primeiro voo despertou algo que ela há muito havia enterrado, começará a questionar se o brilho é realmente a única medida de valor. E Dorian, cuja raiva encontra um eco na amargura do mundo, chegará mais perto de um gatilho que ninguém — menos ainda ele mesmo — está preparado para enfrentar.
 
-E nas profundezas, aqueles que observam analisarão a assinatura capturada pelo Espelho de Eco. E saberão exatamente o que encontraram.
+E nas profundezas da conspiração, algo se move — mercenários que capturaram dados nos cais de Thalendris, relatórios que cruzam reinos em mãos de mensageiros, e uma guardiã que, nas sombras da noite costeira, toma uma decisão que ninguém mais pode tomar por ela.
 
 *"Quando as sombras têm um mapa, não é necessário perseguir. Basta esperar no destino certo — e deixar que a presa caminhe até você."*
 
