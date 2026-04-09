@@ -110,7 +110,9 @@ Estilos que combinam dois ou mais elementos em manifestações únicas:
 
 Substitui definitivamente qualquer terminologia terrestre para medir manipulação energética.
 
-### Os Oito Estágios do Despertar
+> **⚠️ VERSÃO EXPANDIDA:** A versão completa da escala inclui subestágios (`.i`/`.m`/`.s`/`.p`), cinco parâmetros complementares de poder (Eficiência ε, Vazão Ψ, Dominância Δ, Profundidade Π, Reservatório RÆ), a lore completa da **Manopla de Vinculação** (artefato do GM), a **Escala de Poder (1-10)** — classificação narrativa de ameaça tática que complementa a medição de Æ — e o **Ranking de Poder de todos os personagens conhecidos**. Consulte o **DICIONARIO_CANONICO_IMUTAVEL.md** — seções "Escala de Evolução Aetherion — VERSÃO EXPANDIDA" e "ESCALA DE PODER AETHERION (1-10)".
+
+### Os Oito Estágios do Despertar (Versão Básica)
 
 | Estágio | Faixa de Æ | Nome | Significado Místico |
 |---------|------------|------|---------------------|
@@ -270,11 +272,11 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 | Reino | Elemento | Capital | Características |
 |-------|----------|---------|-----------------|
-| **Fulmora** | Raio/Tempestade | Alturas | Norte, auroras eternas, torres capta-raios |
-| **Pyralis** | Fogo | Ignatia | Oeste, vulcões, Forjas Primordiais |
+| **Fulmora** | Raio/Tempestade | Alturas | Nordeste, "Os Everests", picos mais altos do planeta |
+| **Pyralis** | Fogo | Ignatia | Norte/Noroeste, vulcões, Forjas Primordiais |
 | **Terraxis** | Terra | Petramagna | Leste, montanhas/deserto, minas de cristal Aethra |
 | **Thalassia** | Água | Aquarys Prime | Sul, ilhas flutuantes, cidades submersas |
-| **Umbra** | Gelo/Sombra | Umbralis | Extremo Norte, exilados, recrutamento Nihilaryth |
+| **Umbra** | Gelo/Sombra | Umbralis | Noroeste (hemisfério norte), exilados, recrutamento Nihilaryth |
 | **Aetherion Prime** | Todos (centro) | Sanctrum | Centro político, Palácio do GM |
 | **Sylvaris** | Ar/Vento | Zephyra | Sudoeste, ventos livres, montanhas flutuantes |
 
@@ -400,7 +402,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | Atributo | Valor |
 |----------|-------|
 | **Nome Completo** | Selina Thalassa |
-| **Codinome** | "S." |
+| **Codinome** | "ZU" |
 | **Título** | Mestra da Informação |
 | **Posição** | Integrante do **Conselho dos 10** em Sanctrum |
 | **Origem** | Descendente de linhagem nobre de Thalassia |
@@ -530,12 +532,7 @@ Composto por **3-5 Primordiais (Estágio VII)** com poder de veto sobre o GM.
 | **Tempestade Vinculadora** | Tecnologia e Energia | *A definir* |
 | **Sombra Vinculadora** | Inteligência e Segurança | *A definir* |
 
-#### Sínodo da Fé
-
-| Assento | Representação |
-|---------|---------------|
-| **Sumo Sacerdote de Ilyos** | Luz e Construção |
-| **Sumo Sacerdotisa de Nyxalor** | Sombras e Equilíbrio |
+> **NOTA:** Os assentos "Sínodo da Fé" foram **removidos** — contradizem a regra canônica de que não existe veneração em Aetherion (Ilyos proibiu). Ver ficha *Mappa Mundi de Aetherion*.
 
 ---
 
@@ -660,10 +657,17 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 | Nome | Habitat | Características |
 |------|---------|-----------------|
 | **Urrak** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias |
-| **Nyctara** | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total |
+| **Nyctara** | Florestas de Umbra | Ave noturna predadora, inspiração para o falcão e o corvo. Hábitos estritamente noturnos, plumagem escura que se camufla perfeitamente na névoa e nas sombras. Olhos adaptados à escuridão total. Reservada como referência para o codinome de Lyris na Vanguarda — seu passado sombrio em Umbra será revelado em futuros livros. [C] |
 | **Velatrix** | Céus de Sylvaris | Ave de rapina veloz, penas criam assobios em voo picado |
 
 **NUNCA USAR:** lobo, coruja, falcão, águia, ou outros animais terrestres
+
+## Criaturas de Montaria
+
+| Nome | Habitat | Características | Usuário |
+|------|---------|-----------------|----------|
+| **Venthari** | Picos de Kaelvrym, Sylvaris | Grande ave de rapina silvestre, envergadura de até 4 passos. Plumagem prateado-acinzentada que reflete a luz lunar e se funde com névoa e nuvens. Voo quase silencioso mesmo em velocidade. Capaz de planar por horas nas correntes térmicas sem bater asas. Temperamento leal ao cavaleiro, agressivo com estranhos. [C] | Esquadrilha Fantasma (Sylvaris) |
+| **Koramis** | Planícies e vales de Sylvaris | Montaria aérea padrão dos Nu Bandi. Espécie domesticada de grande porte, resistente e versátil. Usada para reconhecimento, combate e transporte. | Nu Bandi, cavalaria aérea geral de Sylvaris |
 
 ---
 
@@ -772,7 +776,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 #### 1. Expansão da Governança
 - ✅ **O Círculo de Cristal** — Alto Conselho dos Anciãos (3-5 Primordiais Estágio VII)
 - ✅ **Mesa dos Vinculadores** — Atualizada para 2 representantes por reino (14 membros)
-- ✅ **Conselho dos 10 Refinado** — Marechal de Ferro, A Sentinela, Sínodo da Fé
+- ✅ **Conselho dos 10 Refinado** — Marechal de Ferro, A Sentinela (Sínodo da Fé removido por contradição canônica)
 - ✅ **Futuro assento de Noah** — Mestre de Ciência reservado
 
 #### 2. Agências e Economia das Sombras

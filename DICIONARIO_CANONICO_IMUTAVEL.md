@@ -15,7 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Thalendris** (cidade costeira das falésias brancas), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Terravox** (besta de carga de Terraxis). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna, Maris-Aetheria) sao OBSOLETOS fora de logs de versao.
+> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Thalendris** (cidade costeira das falésias brancas), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Venthari** (ave de rapina de montaria, exclusiva da Esquadrilha Fantasma — Mushen Ven), **Terravox** (besta de carga de Terraxis). **Nyctara** é ave noturna de Umbra (NÃO é montaria) — reservada como referência para o codinome de Lyris. Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna, Maris-Aetheria) sao OBSOLETOS fora de logs de versao.
 
 ---
 
@@ -221,6 +221,383 @@ Substitui definitivamente a Escala Kardashev para medir manipulação energétic
 | VI - Luminar | Hierarca | "Venerável [Nome]" |
 | VII - Primordial | Primordial | "Senhor [Nome], o [Título]" |
 | VIII - Divino | Divino | Apenas nomes próprios |
+
+---
+
+## Escala de Evolução Aetherion — VERSÃO EXPANDIDA
+
+A versão básica dos Oito Estágios classifica indivíduos por sua quantidade de Aethra. Porém, dois indivíduos no mesmo Estágio podem ter perfis de poder completamente diferentes. Esta seção expande o sistema com **subestágios** e **parâmetros complementares** que definem a verdadeira capacidade de combate e manipulação de um personagem.
+
+### Subestágios (Tiers)
+
+Cada Estágio contém **quatro subníveis** que refinam a classificação:
+
+| Subestágio | Sigla | Significado | Critério |
+|------------|-------|-------------|----------|
+| **Inferior** | `.i` | Início do estágio | Recém-ascendeu; instável; domínio limitado |
+| **Médio** | `.m` | Consolidado | Controle confiável; pode usar técnicas padrão do estágio |
+| **Superior** | `.s` | Aproximando-se do teto | Alta eficiência; acessa técnicas avançadas |
+| **Pico** | `.p` | Limite absoluto do estágio | Domínio quase perfeito; pronto para ascender |
+
+**Exemplo:** Aurelius sem Manopla = **VII.s** (Primordial Superior). Com Manopla Modo Passivo = **VII.p** (Pico absoluto). Com Manopla Modo Ativo = poder equivalente a **VIII.i** temporário (mas com risco catastrófico).
+
+---
+
+### Parâmetros Complementares de Poder
+
+Além da quantidade bruta de Æ, cinco parâmetros definem o perfil real de um manipulador:
+
+#### 1. Eficiência Etérica (ε)
+A proporção entre o Æ gasto e o efeito obtido. Um manipulador com ε=90% gasta 100 Æ para produzir 90 Æ de efeito. Um com ε=40% gasta 100 Æ para produzir apenas 40 Æ de efeito.
+
+| Classificação | Faixa | Descrição |
+|---------------|-------|-----------|
+| **Instável** | 10% - 25% | Recém-despertos; perda massiva de energia; dificilmente combativos |
+| **Rude** | 25% - 45% | Controlam o fluxo mas desperdiçam muito; técnicas básicas |
+| **Competente** | 45% - 65% | Militares treinados; técnicas confiáveis |
+| **Afinado** | 65% - 85% | Elite; mínima perda; técnicas avançadas |
+| **Primordial** | 85% - 95% | Mestres supremos; quase nenhuma perda |
+| **Perfeito** | 95% - 100% | Apenas seres divinos ou portadores de artefatos primordiais |
+
+> **A Manopla de Vinculação** eleva a eficiência de Aurelius para near-100% no Modo Passivo, eliminando virtualmente todo desperdício. É por isso que ele parece "um dos mais fortes da atualidade" — não apenas pela quantidade de Æ, mas porque cada gota é usada com precisão absoluta.
+
+#### 2. Vazão Etérica (Ψ — Psi)
+A velocidade com que um manipulador pode canalizar seu Æ por Pulso. Um reservatório enorme é inútil se a vazão for baixa — como ter um lago atrás de um canudinho.
+
+| Classificação | Æ por Pulso | Descrição |
+|---------------|-------------|-----------|
+| **Gotejante** | 1 - 5 Æ/P | Sylentis adormecidos; apenas percepção passiva |
+| **Filamento** | 5 - 50 Æ/P | Técnicas lentas; meditation-style |
+| **Corrente** | 50 - 200 Æ/P | Combatentes experientes; técnicas contínuas |
+| **Torrente** | 200 - 1.000 Æ/P | Oficiais de alto escalão; técnicas de área |
+| **Cascata** | 1.000 - 5.000 Æ/P | Comandantes supremos; técnicas devastadoras |
+| **Inundação** | 5.000 - 50.000 Æ/P | Primordiais; modificam o campo de batalha inteiro |
+| **Dilúvio** | 50.000+ Æ/P | Apenas seres divinos ou selos abertos |
+
+> **A Manopla** no Modo Ativo permite que Aurelius alcance temporariamente níveis de **Dilúvio**, canalizando o Æ de Nyxalor diretamente — mas cada Pulso nessa vazão corrói o selo.
+
+#### 3. Dominância Elemental (Δ — Delta)
+O número de elementos que um manipulador pode utilizar efetivamente. A maioria dos mortais domina apenas 1-2 elementos; a Manopla quebra essa barreira.
+
+| Classificação | Elementos | Descrição |
+|---------------|-----------|-----------|
+| **Mono** | 1 | Afinidade natural única (ex: apenas Fogo) |
+| **Dual** | 2 | Dois elementos naturais ou uma SynDrarys (ex: Cryonys) |
+| **Tri** | 3 | Raro; geralmente com treinamento secular |
+| **Multi** | 4-5 | Extremamente raro;requires séculos de estudo |
+| **Plei elemental** | 6 | Praticamente impossível sem artefato |
+| **Total** | Todos (5+) | Manipulação Elemental Total — apenas com a Manopla |
+
+> **A Manopla de Vinculação no Modo Passivo** concede Dominância **Total** ao portador: qualquer técnica elemental concebível pode ser executada, desde que haja Æ suficiente para sustentá-la. É o "desbloqueador de toda a performance" — remove as barreiras naturais que limitam mortais a 1-2 elementos.
+
+#### 4. Profundidade de Pilar (Π — Pi)
+O nível de domínio dentro de cada Pilar da Manipulação. Alguém com Π=1 no Pilar Elemento pode controlar fogo; com Π=5, pode criar fogo primordial que queima conceitos.
+
+| Nível | Significado | Capacidade |
+|-------|-------------|------------|
+| **1** | Percepção | Sente a energia mas não a controla plenamente |
+| **2** | Controle Básico | Direciona o elemento; técnicas de nível iniciante |
+| **3** | Controle Avançado | Técnicas complexas; pode combinar e modificar |
+| **4** | Domínio | Cria técnicas próprias; eficiência máxima no elemento |
+| **5** | Transcendência | Manipula a essência do elemento; pode alterar propriedades fundamentais |
+
+> A Manopla eleva todos os Pilares do portador para **Π=4 mínimo** (Modo Passivo) ou **Π=5** (Modo Ativo), permitindo que Aurelius — cuja afinidade natural é provavelmente um único elemento — execute técnicas de mestria em qualquer Pilar.
+
+#### 5. Reservatório Efetivo (RÆ)
+O Æ total disponível para combate sustentado. Diferente do Æ absoluto (potencial máximo), o RÆ é o quanto o manipulador pode usar antes de atingir exaustão. Um Primordial com 200.000 Æ absolutos pode ter um RÆ de 150.000 Æ — os 50.000 restantes são reserva vital que, se tocados, causam colapso.
+
+> **A Manopla** adiciona ao RÆ do portador uma fração do Æ selado de Nyxalor. No Modo Passivo, essa fração é pequena e segura. No Modo Ativo, a fração cresce — mas é Æ de Nyxalor, e cada uso abre uma fenda na consciência do selado.
+
+---
+
+### Ficha Etérica — Modelo de Perfil
+
+Cada personagem pode ser descrito por um perfil compacto:
+
+```
+[Nome] — Estágio [X].[sub] | ε [XX]% | Ψ [XXX] Æ/P | Δ [Classificação] | Π [X] | RÆ [XXX.XXX]
+```
+
+**Exemplo com Aurelius (sem Manopla):**
+```
+Aurelius — VII.s | ε 88% | Ψ 8.000 Æ/P | Δ Mono (provável: Mental/Espacial) | Π 4-5 | RÆ ~180.000
+```
+
+**Exemplo com Aurelius (Manopla Modo Passivo):**
+```
+Aurelius + Manopla (Passivo) — VII.p | ε 99% | Ψ 12.000 Æ/P | Δ Total | Π 5 | RÆ ~250.000 (+70.000 do selo)
+```
+
+**Exemplo com Aurelius (Manopla Modo Ativo — PERIGOSO):**
+```
+Aurelius + Manopla (Ativo) — VIII.i* | ε 99% | Ψ 65.000+ Æ/P | Δ Total | Π 5 | RÆ virtualmente ilimitado (SELAR CORROENDO)
+```
+* *=classificação temporária, cada Pulso corrói o selo e amplia a influência de Nyxalor
+
+---
+
+## ⚔️ ESCALA DE PODER AETHERION (1-10) — Classificação Narrativa
+
+> **NOTA:** Esta escala complementa a Escala de Evolução Aetherion (que mede Æ bruto em oito estágios). Enquanto a Escala de Æ quantifica a energia espiritual bruta de um indivíduo, a **Escala de Poder (1-10)** classifica a **ameaça tática real** em combate. Ela combina: quantidade de Æ, eficiência etérica (ε), vazão (Ψ), experiência de combate, mestria elemental, linhagem, artefatos e fatores especiais. Dois indivíduos com o mesmo Æ podem estar em níveis completamente diferentes se um tiver refinamento superior, um artefato amplificador, ou décadas de experiência a mais.
+
+### Os Dez Níveis
+
+| Nível | Designação | Perfil Típico | Amplitude de Æ | Equivalência Aetherion |
+|-------|-----------|---------------|----------------|----------------------|
+| **1** | **Desperto** | Sylentis e cidadãos comuns | 0 - 200 Æ | Estágios I-III |
+| **2** | **Discípulo** | Treinados com potencial não realizado | 200 - 1.000 Æ | Estágio IV |
+| **3** | **Veterano** | Líderes de reino; militares de elite | 1.000 - 50.000 Æ | Estágios V-VI |
+| **4** | **Lenda** | Lendas vivas; os mais fortes entre mortais | 5.000 - 50.000 Æ | Estágios V-VI (pico) |
+| **5** | **Transcendente** | Teto do poder mortal sem artefatos | 50.000 - 200.000 Æ | Estágio VII |
+| **6** | **Amplificado** | Mortal + artefato primordial | 200.000 - 500.000 Æ | Estágio VII (pico + artefato) |
+| **7-8** | **Semidivino** | Filhos Legítimos; entidades cósmicas | 500.000+ Æ | Estágio VIII |
+| **9** | **Divino Supremo** | Moldam realidades; poder universal | Imensurável | Acima do Estágio VIII |
+| **10** | **Absoluto** | Reescrevem as regras da existência | Infinito | Além de qualquer medição |
+| **∞** | **Incontável** | Transcende o conceito de escala | — | — |
+
+> **Diferença fundamental entre Nível 3 e 4:** Ambos compartilham faixas de Æ similares (1.000-50.000 Æ). O que separa um Veterano de uma Lenda não é quantidade de energia — é **décadas de refinamento, genialidade tática e reputação forjada em batalha**. O Veterano é confiável e competente; a Lenda é extraordinária e temida.
+
+---
+
+### Detalhamento por Nível
+
+#### Nível 1 — Desperto
+Cidadãos comuns e Sylentis. A maioria da população civil de Nova Aetherion possui Æ latente ou mínimo — o suficiente para sentir Aethra no ambiente, mas completamente incapaz de manipulá-lo em combate. Não representam ameaça tática em qualquer cenário de batalha. Este é o patamar natural de qualquer pessoa que não passou por treinamento elemental formal.
+
+**Grazielly (atual):** No início do Livro 1, demonstra estar neste nível. Sua Cryonys se manifesta espontaneamente (flores de gelo) mas sem controle consciente ou eficiência — é um dom latente, não uma habilidade treinada. Porém, seu potencial é **imensurável**: sangue Seraphyen via Aurelius + linhagem Marethyu via Ayla + Cryonys (extremamente raro) + Semente Etérica + nascida sob Convergência Tripla. Conforme esses dons despertarem ao longo da história, Grazielly ascenderá progressivamente na escala — e seu teto final é desconhecido, podendo rivalizar com seres muito acima do Nível 5.
+
+**Representantes típicos:** Sylentis comuns, cidadãos de todos os reinos, Mira (Terra fraca), Tomas (Água fraca), Dorian (não manifestado), Kira (talento moderado, prestes a ascender).
+
+#### Nível 2 — Discípulo
+Iniciantes que despertaram sua afinidade elemental e iniciaram treinamento formal, mas ainda não desenvolveram consistência, refinamento ou volume de combate suficiente para serem considerados ameaças sérias. Executam técnicas básicas de um único elemento com eficiência baixa a moderada (25-60%). A maioria dos recrutas militares recém-saídos das Academias Elementais se enquadra aqui.
+
+A diferença crítica entre Nível 2 e Nível 3 não é falta de potencial — é **falta de realização**. Um indivíduo com afinidade para Relâmpago (um dos elementos mais letais) pode estar no Nível 2 simplesmente porque nunca se dedicou ao treinamento com a disciplina necessária. O potencial de destruição do elemento não compensa a ausência de técnica.
+
+**Caso especial — Líder do Relâmpago (Fulmora):** O governante do Reino do Trovão está neste nível **exclusivamente por desleixo em seu treinamento**. O elemento Relâmpago é intrinsecamente um dos mais letais de todos os cinco — um mestre do Trovão em Nível 4 seria uma força devastadora capaz de rivalizar diretamente com o Líder do Fogo. Porém, por razões que serão reveladas na história (negligência deliberada, prioridades políticas, ou circunstâncias pessoais), esse líder nunca desenvolveu seu poder além do básico. Quando — e se — esse líder decidir se dedicar ao treinamento, sua ascensão será rápida, dramática e potencialmente perturbadora para o equilíbrio geopolítico dos Sete Reinos.
+
+**Representantes típicos:** Recrutas militares, estudantes de Academia Elemental, o Líder do Relâmpago (Fulmora), Vethran Noll (cujo poder real é informacional, não etérico), Selina Thalassa e Vaelora (cuja força reside na inteligência e vigilância, não em poder direto).
+
+#### Nível 3 — Veterano
+Guerreiros experientes, comandantes militares consolidados e **a maioria dos líderes elementais atuais**. Este é o patamar padrão de quem dedicou décadas ao treinamento e à combate. Indivíduos neste nível dominam 1-2 elementos com competência sólida (ε 45-80%), possuem vazão respeitável (50-3.000 Æ/P), e podem liderar exércitos, defender territórios e derrotar ameaças convencionais. São combatentes confiáveis que qualquer general gostaria de ter em suas fileiras.
+
+O Nível 3 é onde a maioria dos "nomes fortes" dos Sete Reinos se encontra. São figuras respeitadas e temidas dentro de seus domínios, capazes de influenciar o curso de guerras regionais. Porém, no panorama geral do poder em Aetherion, eles operam firmemente dentro dos limites mortais convencionais.
+
+- **Líder da Água (Thalassia):** Exemplo típico de Nível 3. Comando sólido de manipulação aquática, capacidade de defender as ilhas flutuantes e as cidades submersas de Thalassia. Comparado ao Líder do Vento, está em patamar similar — ambos são Veteranos competentes.
+- **Thaloris Ventaris (Sylvaris):** Embora seja um líder político brilhante e diplomaticamente astuto, o poder bruto de Thaloris em combate direto é de Nível 3. Ele domina Vento com proficiência (Estágio VI.s, ε 80%, Ψ 3.000 Æ/P), mas não possui a genialidade técnica ou a experiência de combate extensiva que elevaria um lutador ao Nível 4. Seu **perigo real** reside na influência política, na Rede dos Sussurros de Vethran Noll e no tráfego de talentos — não em poder etérico direto.
+- **Líderes de Terraxis e Umbra:** Estimados em Nível 3 — guerreiros competentes que governam por força militar ou pela sombra, respectivamente. Sem dados específicos, assumem o patamar médio dos líderes elementais.
+- **Mestra Caliana:** Vento do Norte de Sylvaris. Responsável pela defesa e fronteiras do reino. Competência sólida e lealdade inabalável ao trono, mas sem a excepcionalidade que define uma Lenda.
+
+**Representantes típicos:** Líderes da Água, Vento, Terraxis e Umbra; Mestra Caliana; comandantes militares de alto escalão; Marethyus (limitado pelo selo em Cristalnor).
+
+#### Nível 4 — Lenda
+Lendas vivas — os mais fortes entre os mortais sem artefatos primordiais. Seres cujo poder, habilidade ou reputação transcende o comum e cuja presença num campo de batalha pode mudar sozinha o curso de um conflito regional. Dominam seus elementos com mestria notável (ε > 75%), possuem técnicas que poucos conseguem replicar, e são reconhecidos (ou temidos) em escala continental. O que separa o Nível 4 do Nível 3 não é apenas mais Aethra — é **décadas de refinamento brutal, experiência de combate real contra ameaças existênciais e genialidade tática que permite maximizar cada gota de Æ**.
+
+Este é um nível raro. Na atualidade, poucos mortais sem artefatos alcançaram este patamar. Cada Lenda é uma anomalia — alguém que transcendeu as limitações de seu elemento e de seu treinamento através de determinação excepcional ou circunstâncias extraordinárias.
+
+- **Líder do Fogo (Pyralis):** Um dos líderes mais fortes da atualidade, e a razão pela qual Pyralis é temida como potência militar. O elemento Fogo, em mãos de um mestre de Nível 4, é devastador — capaz de reduzir fortalezas inteiras a cinzas, derreter defesas elementais e criar campos de batalha hostis ao inimigo. Este líder atingiu o Nível 4 por pura **disciplina e treinamento implacável** ao longo de décadas. Se houvesse um "ranking de perigo" entre os líderes mortais, o Líder do Fogo estaria no topo.
+- **Lyris (A Nyctara):** Seu Æ bruto (~3.000 Æ) não impressionaria no papel — tecnicamente, ela está na faixa de um Veterano (Nível 3). Porém, Lyris é uma **Lenda** (Nível 4) pela qualidade absoluta de sua execução. Sua eficiência etérica de 82% para seu volume de Aethra é notavelmente alta — resultado de décadas de operações secretas da Vanguarda onde cada gota de Æ importava, pois não havia margem para erro. Seu Thermaris (Vapor, fusão de Água + Fogo) é uma SynDrarys rara que pouquíssimos dominam. E sua genialidade tática — capacidades de fuga, camuflagem com cortinas de névoa térmica, incapacitação sem matar — a torna um adversário que mesmo Transcendentes prefeririam evitar. Lyris é a prova viva de que **qualidade supremacia quantidade** na Escala de Poder.
+
+**Representantes típicos:** Líder do Fogo (Pyralis), Lyris (A Nyctara), provavelmente o Líder de Terraxis se for um general de longo histórico militar.
+
+#### Nível 5 — Transcendente
+O teto absoluto do poder mortal **sem** artefatos primordiais. Pouquíssimos indivíduos na história de Nova Aetherion atingiram este patamar com seus próprios méritos — e no presente, contam-se nos dedos. Um Transcendente é um ser cuja presença num campo de batalha altera a própria natureza do conflito: exércitos inteiros podem ser derrotados por um único Transcendente operando sozinho. Dominam múltiplos elementos (ou um único com profundidade transcendental), possuem ε > 85%, vazão suficiente para técnicas de escala continental (5.000+ Æ/P), e RÆ que permite combate sustentado por horas.
+
+O Nível 5 é a fronteira entre o mortal e o divino — o último degrau antes que artefatos ou linhagens cósmicas sejam necessários para progredir. Alcançá-lo requer não apenas talento e treinamento, mas uma **convergência rara de linhagem, oportunidade e determinação ao longo de séculos**.
+
+- **Aurelius (sem Manopla):** O atual Guardião Mestre é Nível 5 por mérito próprio. Antes de receber a Manopla de Vinculação, já era um Primordial (Estágio VII.s, ε 88%, Ψ 8.000 Æ/P, RÆ ~180.000 Æ). Seu domínio natural provavelmente é Mental ou Espacial (explicaria sua percepção etérica excepcional e sua capacidade de antecipar ameaças). Mesmo sem o artefato, pouquíssimos seres no planeta poderiam desafiá-lo diretamente em combate — e nenhum venceria sem sacrifícios inaceitáveis.
+
+**Representantes históricos:** Aurelius (base), Nin Aga (comandante supremo), os membros do Círculo de Cristal (Primordiais Estágio VII), ancestrais lendários da Era Seraphyen.
+
+#### Nível 6 — Amplificado
+Mortais empunhando artefatos primordiais de magnitude cósmica. Este nível representa o que acontece quando um Transcendente (Nível 5) recebe amplificação divina — o resultado é um ser que opera no limite entre o mortal e o divino, capaz de manipulação elemental total, eficiência near-perfecta, e poder que ameaça continentes inteiros. Não se trata de "um pouco mais forte" que o Nível 5 — é uma **ordem de magnitude diferente** de capacidade.
+
+**Aurelius + Manopla de Vinculação (Modo Passivo):** No Modo Passivo (estado permanente enquanto portada), a Manopla atua como amplificador cósmico: eleva ε de Aurelius para 99% (eliminando virtualmente todo desperdício etérico), concede Dominância Elemental Total (todos os 5 elementos), eleva Π para 4-5 em todos os Pilares da Manipulação, aumenta Ψ em ~50%, e adiciona ~20% ao RÆ natural drenado de forma segura do selo. Na prática, Aurelius pode usar **qualquer técnica elemental concebível** com precisão absoluta. Ele é percebido universalmente como "o ser mais forte do planeta" — e o Modo Passivo já é suficiente para confirmar essa reputação. A maioria das pessoas nunca viu o Modo Ativo, e nunca precisa ver.
+
+**O Paradoxo do Nível 6:** Este é o ponto de inflexão entre segurança e catástrofe. A Manopla não amplifica apenas o poder do portador — ela **abre uma porta para Nyxalor**. Os Modos Ativo e Crítico podem empurrar Aurelius temporariamente para Nível 7-8, mas cada segundo nesses modos corrói o selo que mantém o Filho Legítimo das Sombras preso, e amplia a influência da entidade selada sobre a mente do portador. O Nível 6 é o **último nível seguro** — tudo além é uma aposta contra a sanidade e a autonomia do usuário.
+
+**Representantes:** Apenas Aurelius + Manopla (Passivo) na atualidade. Artefatos de poder similar não são conhecidos em posse de outros mortais.
+
+#### Nível 7-8 — Semidivino
+Entidades que transcendem completamente a mortalidade — Filhos Legítimos criados pelo Fruto da Existência e Seraphyens supremos. Seu poder opera em escala planetária ou superior. Podem alterar a realidade perceptível, criar e destruir civilizações, e existem além das limitações biológicas que amarram mortais. A diferença entre Nível 7 e 8 é uma questão de magnitude e estabilidade: Nível 7 é "semidivino consolidado" — um ser que operou em nível divino durante eras; Nível 8 é "divino total" — o ápice do que um ser individual pode alcançar sem transcendê-lo.
+
+- **Ilyos (média 7-8):** Como Filho Legítimo da Luz, Ilyos é inerentemente um ser de poder imensurável. Sua "média" de 7-8 reflete que ele pode operar em ambos os níveis dependendo do contexto — o poder que canalizou para forjar o selo de Myrtha e criar a Manopla de Vinculação foi claramente Nível 8 ou superior, enquanto sua operação indireta através das leis universais (após se dissolver na estrutura do universo) se manifesta mais como Nível 7. Ilyos não é mais uma entidade individual — ele **se tornou parte da estrutura da realidade**, e seu poder atua de forma onipresente mas sutil.
+- **Nyxalor (Nível 8 estável):** Como Filho Legítimo das Sombras, Nyxalor possui Æ imensurável (estimado >1.000.000 Æ) — um dos seres mais poderosos que já existiram. Diferente de Ilyos, cujo poder oscila conforme o método de atuação, Nyxalor é **estável no Nível 8**: seu Æ, sua eficiência e sua capacidade de manipulação não diminuíram com o selamento — apenas sua liberdade de ação. Ele está **selado dentro da Manopla de Vinculação**, com consciência ativa e fragmentada, capaz de influenciar o portador através de sussurros, impulsos e visões (Fases 1-3 do mecanismo de dominação), mas incapaz de agir diretamente no mundo físico. Se o selo fosse rompido — se a essência de Elarys se exaurisse completamente — Nyxalor operaria plenamente em Nível 8, com o adicional de corrupção Nihilaryth que poderia elevá-lo a um patamar ainda mais perigoso.
+
+#### Nível 9 — Divino Supremo
+O ápice do poder divino acessível — entidade que molda a realidade em escala universal, não apenas planetária. Este é um nível tão raro que, na história cósmica conhecida, apenas uma ou duas entidades atingiram este patamar de forma confirmada. Não se trata de "poder muito forte" — é poder que redefine os fundamentos da existência.
+
+- **Yggoraty (no auge):** O Primaz, "O Primeiro Entre Iguais" (Círculo 1 da Hierarquia Sagrada da Era Aetherion). Yggoraty atingiu Nível 9 em seu momento supremo — o sacrifício de si mesmo na Singularidade para criar Yggorath, a entidade-árvore que se tornou a fonte última de Aethra no universo atual. Esse ato de transcender a própria existência material para se tornar um pilar de sustentação da realidade espiritual demonstra poder que vai **além da manipulação elementar**: é poder de **criação ontológica**. Yggorath, a árvore resultante, herda parte desse poder e o manifesta de forma passiva e permanente — filtrando a entropia do Vazio Primordial e distribuindo Aethra por todos os planos de existência. É o coração pulsante do universo.
+
+#### Nível 10 — Absoluto
+O teto absoluto da existência. Apenas **Alyndra**, a Fundadora, atingiu este nível em seu poder máximo. Não é simplesmente "o ser mais poderoso" — é o ser cujo poder **define o que é poder**. Consumiu o Fruto da Existência (cristalização de poder e conhecimento absoluto gerada pela Árvore da Existência) e usou esse poder para fundar Aetherion — literalmente reescrevendo as regras fundamentais da ontologia universal. Neste nível, a distinção entre criador e criação se dissolve; a vontade do ser e a estrutura da realidade são indistinguíveis.
+
+- **Alyndra (a verdadeira, poder máximo):** Fundadora de Aetherion. Seu Nível 10 não é um título que ela ostenta em combate diário — é o potencial máximo que ela alcançou em seu auge, durante os eventos da Era Aetherion que culminaram com a purificação dos possuídos e a dilatação das essências dos Nihilaryth. Atualmente, seu corpo está **capturado** — possuído por um "Líder Possuído" em um planeta distante. A recuperação de seu corpo e do Elmo de Alyndra (parte da Armadura Suprema, usada para escravizar civilizações) são missões secretas da Ordem com prioridade máxima. Se essas peças fossem reunidas, o poder de Nível 10 poderia ser restaurado — com consequências que ninguém é capaz de prever.
+
+#### Além da Escala — Incontável (∞)
+Poder que transcende qualquer sistema de medição concebível — não se trata de "muito forte" ou "o mais forte jamais visto", mas sim de poder que **torna irrelevante o próprio conceito de escala**. Se um Nível 10 pode reescrever as regras da realidade, um ser Incontável pode **criar realidades inteiramente novas com regras próprias**. É o poder que existe nos limites do impossível — onde as leis da física, da ontologia e da causalidade deixam de ser restrições.
+
+- **Iris (do futuro, status máximo):** A herdeira final da linhagem de Alyndra. Em seu estado de poder máximo, Iris supera facilmente toda a escala 1-10 e é tida como um **nível de poder além da contagem** — efetivamente infinito. Essa classificação não é exagero retórico: ela representa a convergência definitiva de todas as linhagens (Seraphyen, Marethyu, Aetherion), todos os sacrifícios acumulados através das eras (Alyndra, Yggoraty, Elarys), e todas as Sementes Etéricas hereditárias processadas em tempo real. O que Iris será capaz de fazer nesse estado permanece como o maior mistério do futuro da história — é um poder que existe apenas como potencial, aguardando o momento certo para se manifestar.
+
+---
+
+### A Manopla de Vinculação mapeada à Escala 1-10
+
+| Modo da Manopla | Nível Equivalente | Duração Segura | Risco | Descrição Resumida |
+|----------------|------------------|----------------|-------|------------------|
+| **Passivo** (O Escudo) | **6** | Permanente | Mínimo | Amplificação constante; Elarys filtra toda a energia; Aurelius é o mortal mais forte do planeta |
+| **Ativo** (A Lâmina) | **6→7** | Minutos | Moderado | Acesso ao Æ de Nyxalor; Nyxalor começa a sussurrar; cada Pulso corrói o selo |
+| **Crítico** (O Abismo) | **7→8** | Segundos | Extremo | Poder divino temporário; Elarys não consegue filtrar; risco de dominação por Nyxalor |
+
+> **Resumo do paradoxo:** No Modo Passivo (Nível 6), Aurelius é o ser mais forte do planeta entre entidades livres. No Modo Ativo (Nível 6→7), ele toca o poder dos Filhos Legítimos — mas cada Pulso corrói a essência de Elarys que protege o selo. No Modo Crítico (Nível 7→8), ele alcança o poder de Nyxalor por segundos — antes de se tornar um fantoche ou se destruir na resistência. **O Nível 6 é o único nível seguro.** Tudo além é uma partida de xadrez contra a própria sanidade, onde cada movimento ganho é um pedaço de autonomia perdido para Nyxalor.
+
+---
+
+## 🔮 A MANOPLA DE VINCULAÇÃO — O Artefato do Guardião Mestre
+
+### Definição
+
+A **Manopla de Vinculação** (nome ancestral: *Gish Dur An* — "Mão que Aprisiona a Eternidade") é o artefato primordial portado exclusivamente pelo Guardião Mestre. Forjada por Ilyos após o sacrifício de Elarys, ela é ao mesmo tempo: (1) o amplificador supremo do poder do GM, (2) a prisão que mantém Nyxalor contido, e (3) a chave que pode libertar o que está selado.
+
+**⚠️ PARADOXO CENTRAL:** A Manopla é a maior arma de proteção de Nova Aetherion e, simultaneamente, o dispositivo que pode destruí-la. O GM é mais forte POR CAUSA dela, e mais vulnerável POR CAUSA dela.
+
+### História
+
+Após Elarys fundir sua essência ao Cristal de Mytha para estabilizar o selo contra Nyxalor, Ilyos compreendeu que um selo estático não seria suficiente — o poder de Nyxalor era vasto demais para ser simplesmente encarcerado. Era necessário um **mecanismo dinâmico**: algo que pudesse absorver, redirecionar e, se necessário, liberar controladamente o poder selado. Assim nasceu a Manopla de Vinculação.
+
+Ilyos forjou a Manopla fundindo três componentes:
+1. **Cristal de Mytha** — o núcleo; a prisão dimensional que contém as essências
+2. **Essência de Elarys** — o estabilizador; a consciência pura que atua como "corrente" contra Nyxalor
+3. **Fragmento da Vontade Pura** — o amplificador; uma centelha do próprio Criador que permite ao portador transcender limites mortais
+
+### O Mecanismo Interno — O que Está Selado
+
+Dentro do Cristal de Mytha, encapsulado pela Manopla, existem **duas essências** em equilíbrio delicado:
+
+#### Nyxalor (O Prisioneiro)
+- **Natureza:** Filho Legítimo (Nível Divino), Estágio VIII, Æ imensurável (>1.000.000 Æ estimado)
+- **Estado:** Consciência ativa mas fragmentada; não pode agir diretamente, mas pode **influenciar** o portador através de sussurros, impulsos e visões
+- **Função no selo:** Sua essência funciona como um **reservatório de Æ virtualmente ilimitado** — se o portador souber acessá-lo
+- **Ameaça:** Cada acesso ao Æ de Nyxalor fortalece a conexão entre ele e o portador. Chega um ponto em que a linha entre "usar" e "ser usado" se dissolve
+
+#### Elarys (A Guardiã)
+- **Natureza:** Seraphyen (Nível Primordial), Estágio VII, Æ estimado em ~300.000 Æ
+- **Estado:** Essência fundida ao Cristal; consciência preservada mas limitada; atua como **filtro estabilizador**
+- **Função no selo:** Elarys é o "escudo" que impede Nyxalor de dominar o portador. Quanto mais o selo é usado, mais a essência de Elarys se **gasta** para manter a estabilidade
+- **Ameaça:** Se a essência de Elarys se exaurir completamente, Nyxalor fica sem oposição interna dentro do selo
+
+> **Dinâmica:** Nyxalor é o poder bruto. Elarys é a trava. O portador é a válvula. Se a válvula abre demais, a trava quebra. Se a trava quebra, o poder bruto consome o portador.
+
+### Os Três Modos de Ativação
+
+#### Modo 1 — Passivo (O Escudo)
+Estado permanente da Manopla enquanto portada. Não requer ativação consciente.
+
+| Efeito | Detalhe |
+|--------|---------|
+| **Amplificação de Eficiência** | Eleva ε do portador para 95-99% — elimina virtualmente todo desperdício etérico |
+| **Desbloqueio de Dominância** | Concede Δ Total (todos os 5 elementos) — o portador pode executar qualquer técnica elemental |
+| **Elevação de Profundidade** | Eleva Π para 4-5 em todos os Pilares conhecidos |
+| **Vazão Aumentada** | Ψ aumenta em ~50% em relação ao nível base do portador |
+| **RÆ Amplificado** | Adiciona ~20% do RÆ natural como bônus, drenado de forma segura do selo |
+| **Risco** | Mínimo. Elarys filtra toda a energia. O selo não sofre desgaste perceptível. |
+
+> **Na prática:** No Modo Passivo, Aurelius já é um dos seres mais poderosos do planeta. Pode usar qualquer técnica de qualquer elemento, com eficiência near-perfecta. É por isso que a maioria das pessoas o percebe como "o mais forte" — elas nunca viram o Modo Ativo, e não precisam ver.
+
+#### Modo 2 — Ativo (A Lâmina)
+Ativação consciente. O portador **escolhe** abrir o selo parcialmente para acessar reservas mais profundas do Æ de Nyxalor. Requer intenção deliberada.
+
+| Efeito | Detalhe |
+|--------|---------|
+| **Æ de Nyxalor acessível** | O portador pode canalizar uma fração do Æ selado — quantidade limitada apenas pela tolerância de seu corpo e de Elarys |
+| **Vazão massiva** | Ψ pode atingir níveis de **Dilúvio** (50.000+ Æ/P) — modificação de campo de batalha em escala continental |
+| **Dominância Total mantida** | Todos os elementos; Π=5 em todos os Pilares |
+| **Técnicas Impossíveis** | O portador pode executar técnicas que excedem seu RÆ natural, usando o Æ de Nyxalor como combustível |
+| **Risco MODERADO** | Cada Pulso no Modo Ativo corrói ligeiramente o selo. Elarys gasta essência para estabilizar. Nyxalor começa a sussurrar |
+| **Duração segura** | Estimada em **minutos** antes que os riscos se tornem críticos |
+
+> **Na prática:** Aurelius usa o Modo Ativo apenas em situações de ameaça existencial — quando o destino de Nova Aetherion está em jogo. Cada uso é uma partida de xadrez contra Nyxalor: o GM tira poder do selo, Nyxalor tira influência do GM.
+
+#### Modo 3 — Crítico (O Abismo)
+Ativação involuntária ou desesperada. O selo se abre além do que Elarys pode filtrar.
+
+| Efeito | Detalhe |
+|--------|---------|
+| **Poder Nível Divino temporário** | O portador canaliza Æ em escala de VIII.i (500.000+ Æ/P) — poder de Filho Legítimo |
+| **Realidade distorce** | Técnicas de Pilar Realidade tornam-se possíveis (limitadamente) |
+| **Campo de batalha destruído** | O ambiente físico sofre alterações permanentes |
+| **Risco EXTREMO** | O selo se corrói rapidamente. Elarys não consegue filtrar. Nyxalor pode **assumir controle parcial** do corpo do portador |
+| **Duração segura** | **Segundos.** Após isso, o portador corre risco de dominação permanente |
+
+> **Na prática:** O Modo Crítico é o "botão de autodestruição". Se Aurelius fosse forçado a usá-lo, ele teria segundos de poder divino antes de se tornar um fantoche de Nyxalor — ou de destruir a si mesmo na tentativa de resistir. É por isso que ele evita ao máximo conflitos que o levariam a essa extremidade.
+
+### O Mecanismo de Risco — Como Nyxalor Domina
+
+O processo de dominação não é instantâneo — é **gradual e insidioso**, operando em fases:
+
+| Fase | Nome | Sinais | Consequência |
+|------|------|--------|--------------|
+| **1** | O Sussurro | Pensamentos que parecem "seus" mas têm uma cadência diferente; sonhos com sombras; uma atração inexplicável por decisões mais agressivas | O portador não percebe; atribui a estresse |
+| **2** | O Eco | Emoções amplificadas — raiva mais quente, medo mais gelado; técnicas elementais começam a exibir "sombra" (ex: fogo com tonalidade negra); decisões estratégicas se tornam mais impulsivas | O portador começa a suspeitar; aliados notam mudança |
+| **3** | A Resonância | Trechos de consciência de Nyxalor se fundem com os do portador — memórias que não são suas, conhecimento que não deveria ter; a voz de Nyxalor se torna audível durante canalização | Perigo crítico; o portador pode não distinguir mais onde termina sua vontade |
+| **4** | A Substituição | Nyxalor assume controle do corpo. A consciência do portador é empurrada para o fundo — observadora, impotente, presa dentro de sua própria mente enquanto algo antigo usa suas mãos | Catástrofe; o selo está rompido |
+
+> **A taxa de progressão** depende da frequência e intensidade do uso do Modo Ativo. Um único uso breve (segundos) pode não avançar além da Fase 1. Usos repetidos em combate, porém, podem acelerar dramaticamente. Aurelius, ao longo de séculos como GM, provavelmente oscila permanentemente entre a Fase 0 (Modo Passivo) e a Fase 1 (usos ocasionais do Modo Ativo) — o que explica seu temperamento controlado mas com momentos de frieza perturbadora.
+
+### O Peso de Aurelius — Por que Ele é Como É
+
+A Manopla explica muito da psicologia de Aurelius:
+
+1. **Por que ele é tão poderoso:** Não é apenas Estágio VII — é Estágio VII com amplificador primordial que eleva sua eficiência ao máximo e concede Dominância Total.
+2. **Por que ele evita conflito direto:** Cada combate que exige o Modo Ativo é um risco calculado. Ele não pode "simplesmente lutar" sem consequências.
+3. **Por que ele é estoico:** A Fase 1 do Sussurro já o afeta. Ele luta constantemente contra impulsos que não são inteiramente seus. O estoicismo não é virtude — é armadura.
+4. **Por que ele não pode proteger Grazielly abertamente:** O filho de um GM seria um alvo. Se inimigos descobrissem a vulnerabilidade da Manopla (o sussurro de Nyxalor), poderiam explorá-la para corrompê-lo.
+5. **Por que Selina o desafia:** Ela percebe que "o silêncio do En Me criou ruído" — talvez intua que algo nele mudou, que decisões que ele toma não são 100% dele.
+
+---
+
+## 📊 RANKING DE PODER DOS PERSONAGENS CONHECIDOS — ESCALA 1-10
+
+> **⚠️ NOTA:** Este ranking reflete o estado atual (início do Livro 1). A Escala de Poder (1-10) mede ameaça tática real em combate, não apenas quantidade bruta de Æ. Para parâmetros técnicos detalhados (ε, Ψ, Δ, Π, RÆ), consulte a seção "Escala de Evolução Aetherion — VERSÃO EXPANDIDA" acima. Personagens jovens como Grazielly têm potencial imensurável mas estão no início do desenvolvimento.
+
+### Tabela Principal
+
+| Nível | Personagem | Estado/Condição | Elemento | Observação |
+|-------|-----------|-----------------|----------|------------|
+| **∞** | **Iris** (futuro, máx.) | Status máximo | Todos | Supera toda a escala; poder incontável; convergência de todas as linhagens |
+| **10** | **Alyndra** (a verdadeira) | Poder máximo | Todos | Fundadora; consumiu o Fruto da Existência; reescreveu a ontologia |
+| **9** | **Yggoraty** | No auge (sacrifício) | Todos | O Primaz; criou Yggorath; poder de criação universal |
+| **8** | **Nyxalor** | Selado na Manopla | Sombras | Æ imensurável (>1.000.000); consciência ativa; reservatório do selo |
+| **7-8** | **Ilyos** | Dissolvido nas leis | Luz | Filho Legítimo; atua indiretamente; oscila entre os dois níveis |
+| **6** | **Aurelius** + Manopla | Modo Passivo | Todos* | *GM + Manopla; Dominância Elemental Total; ε 99%; o mais forte do planeta |
+| **5** | **Aurelius** | Sem artefato | Mental/Espacial? | GM por mérito próprio; Estágio VII.s; teto mortal |
+| **5** | **Círculo de Cristal** | 3-5 Anciãos | Variado | Primordiais (VII.m-s); poder de veto sobre o GM |
+| **5** | **Nin Aga** | Comandante supremo | Mono | Estágio VII.i-m; comandante militar máximo da Ordem |
+| **4** | **Líder do Fogo** (Pyralis) | Ativo | Fogo | Um dos mais fortes líderes; disciplina implacável |
+| **4** | **Lyris** (A Nyctara) | Ativa (Vanguarda) | Thermaris | Lenda viva; ε 82%; qualidade sobre quantidade; décadas de operações |
+| **3** | **Thaloris Ventaris** | Lugal Lil de Sylvaris | Vento | Poder bruto de Veterano; perigo real = influência política e Rede dos Sussurros |
+| **3** | **Líder da Água** (Thalassia) | Ativo | Água | Comando sólido; defesa das ilhas; patamar similar ao Vento |
+| **3** | **Líder de Terraxis** | Ativo | Terra | Estimativa; líder de reino militar |
+| **3** | **Líder de Umbra** | Ativo | Gelo/Sombra | Estimativa; poder nas sombras |
+| **3** | **Marethyus** (O Bruxo) | Selado em Cristalnor | Água Sombra | Poder real limitado pelo selo; potencial desconhecido se liberto |
+| **3** | **Mestra Caliana** | Vento do Norte | Vento/Terra | Defesa e fronteiras de Sylvaris; lealdade ao trono |
+| **2** | **Líder do Relâmpago** (Fulmora) | Ativo | Relâmpago | Potencial de Nível 4; treinamento negligenciado; elemento letal subaproveitado |
+| **2** | **Selina Thalassa** | Conselho dos 10 | Mente/Espaço? | Mestra da Informação; poder = inteligência, não força bruta |
+| **2** | **Vaelora** (A Sentinela) | Conselho dos 10 | Mono | Mestra da Vigia; informante da Vanguarda em Thalyra |
+| **2** | **Príncipe Darian Ascanius** | Herdeiro de Sylvaris | Vento | Lidera a Esquadrilha Fantasma; jovem e impetuoso |
+| **2** | **Vethran Noll** | Mestre dos Sussurros | Mental | Æ baixo (~900); poder real = Rede dos Sussurros (informacional) |
+| **1** | **Grazielly** | Despertando | Cryonys | *Potencial imensurável; atual nível 1 por inexperiência; ascenderá *
+| **1** | **Kira** | Orfanato Luminis | Fogo | Talento moderado; aceita na Academia Elemental |
+| **1** | **Mira** | Orfanato Luminis | Terra | Terra fraca; florescimento |
+| **1** | **Tomas** | Orfanato Luminis | Água | Água fraca; testemunhou Cryonys de Grazielly |
+| **1** | **Dorian** | Orfanato Luminis | — | Não manifestado; problemas de raiva |
+
+> **Notas Importantes:**
+> - A Escala de Poder 1-10 prioriza **ameaça tática real** sobre quantidade bruta de Æ. Lyris (Nível 4) tem menos Æ que Thaloris (Nível 3), mas sua eficiência, experiência e genialidade tática a tornam uma combatente superior em combate direto.
+> - **Grazielly** está no topo do ranking de *potencial latente*: sangue Seraphyen + linhagem Marethyu + Cryonys + nascida sob Convergência Tripla + Semente Etérica. Seu teto final é desconhecido. No início do Livro 1, é uma criança que faz flores de gelo — Nível 1 por pura inexperiência.
+> - O **Líder do Relâmpago** é o caso mais notável de "potencial não realizado": seu elemento é um dos mais letais, mas ele está no Nível 2 exclusivamente por negligência. Quando se dedicar, a ascensão será rápida.
+> - **Aurelius** é o único personagem que ocupa dois níveis diferentes dependendo do artefato: Nível 5 (base) e Nível 6 (Manopla Passiva). Nos Modos Ativo e Crítico da Manopla, ele atinge temporariamente Nível 7-8 — com risco catastrófico.
+> - **Vethran Noll** tem Æ baixo (~900, Estágio IV), mas seu poder real é informacional: a Rede dos Sussurros que ele comanda é mais perigosa que qualquer técnica elemental individual.
+> - Personagens marcados com "Estimativa" (Líderes de Terraxis e Umbra) aguardam definição pelo Criador.
 
 ---
 
@@ -742,24 +1119,30 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 ---
 
-## 👤 VETHRAN NOLL (BURÓCRATA DE SANCTRUM)
+## 👤 VETHRAN NOLL (MESTRE DOS SUSSURROS DE SYLVARIS)
 
 ## Identidade
 - **Nome:** Vethran Noll
-- **Cargo:** Funcionário de baixo escalão no Departamento de Transferências de Sanctrum
+- **Cargo:** Mestre dos Sussurros (En Dili Lil) — chefe de inteligência de Sylvaris
+- **Idade:** 62 ciclos
 
 ## Informações
-- Responsável por relatórios de transferência de órfãos entre reinos
-- Seus relatórios continham "cargas fantasmas" — crianças enviadas para academias inexistentes
+- Ex-agente Sentinela de Sanctrum; desertou há 30 ciclos por razões desconhecidas
+- Acolhido por Thaloris Ventaris e tornou-se seu braço direito nas sombras
+- **Cúmplice direto de Thaloris Ventaris no tráfico de talentos elementais** — executa as operações logísticas do esquema
+- Opera uma rede de informantes dentro da burocracia de Sanctrum — incluindo o Departamento de Transferências
+- Seus controles no Departamento de Transferências continham "cargas fantasmas" — crianças enviadas para academias inexistentes
 - Investigado por Selina Thalassa durante o Cap. 6
-- Possivelmente cúmplice ou peão de Thaloris Ventaris
+- Lealdade absoluta a Sylvaris — e ao Senhor dos Ventos acima de tudo; move-se sem fazer som
+- **⚠️ ESTADO ATUAL:** Sob investigação da Mestra da Informação. O esquema de tráfico conecta Vethran diretamente a Thaloris Ventaris.
 
 ---
 
-## 👤 THALORIS VENTARIS (ANTAGONISTA EMERGENTE)
+## 👤 O ARQUITETO DAS SOMBRAS (ANTAGONISTA EMERGENTE)
 
 ## Identidade
-- **Nome:** Thaloris Ventaris
+- **Codinome Interno da Vanguarda:** "O Arquiteto"
+- **Nome Verdadeiro:** Desconhecido
 - **Status:** Identidade parcialmente desconhecida — operando nas sombras
 
 ## Informações Confirmadas
@@ -767,6 +1150,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - Opera em aliança com "as profundezas" — possível conexão com Umbra ou forças Nihilaryth
 - Descoberto por Selina Thalassa durante investigação no Cap. 6
 - **Conexão com Thalendris** — o ponto focal de suas operações de captura de assinaturas
+- **⚠️ IMPORTANTE:** O nome "Thaloris Ventaris" foi associado a essa investigação — trata-se do **Senhor dos Ventos (Rei de Sylvaris)**. Thaloris está envolvido no tráfico de talentos como parceiro estratégico de Vethran Noll: o Senhor dos Ventos define a direção do esquema, enquanto o Mestre dos Sussurros executa as operações logísticas. A face nobre de Thaloris (acolhedor de refugiados, diplomata visionário) é genuína — mas esconde essa faceta sombria. A investigação de Selina Thalassa avança, mas ainda não expôs publicamente a conexão direta entre o trono sylvari e o tráfico.
 
 ---
 
@@ -980,6 +1364,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 |------|--------------------------|---------------|-----------------|---------------|
 | **Koramis** | **Mushen Kora** | Ave gigante de montaria | Asas de até 10 passos de envergadura, penas que mudam de cor conforme a luz de Aurion, temperamento dócil e leal | Patrulha aérea Vigilante, transporte entre cidades, tours infantis |
 | **Terravox** | **Ur Kish Dur** | Mamífero quadrúpede | Grande porte, casca óssea protetora nas costas, lento mas incrivelmente forte, resistente a frio extremo | Besta de carga nas minas de cristal Aethra de Terraxis |
+| **Venthari** | **Mushen Ven** | Ave de rapina de montaria | Envergadura de até 4 passos (~6 metros), plumagem prateado-acinzentada que se funde com névoa e nuvens, voo quase silencioso, capacidade de planar por horas | Montaria exclusiva da Esquadrilha Fantasma de Sylvaris — reconhecimento noturno e infiltração |
 
 ### Detalhes: Koramis
 
@@ -997,6 +1382,25 @@ Os Koramis são as maiores aves conhecidas de Nova Aetherion e uma das imagens m
 | **Vulnerabilidade** | Filhotes são alvos de caça furtiva — população monitorada pela Ordem |
 
 **Na Narrativa:** Durante o passeio a Thalendris (Cap. 6+), as crianças do Orfanato Luminis têm a oportunidade de fazer um tour montado nos Koramis — uma experiência rara que emociona até Kira, que apesar de sua amargura com o sistema, não consegue esconder o encanto ao ver o mundo de cima. Os soldados Vigilantes oferecem tours curtinhos como parte das festividades locais de Velantis. Cada Koramis carrega até 4 crianças com um condutor Vigilante, sobrevoando os campos de Aethrys e o lago do Orfanato antes de pousar suavemente no pátio.
+
+### Detalhes: Venthari
+
+As Venthari são aves de rapina silvestres nativas dos picos mais elevados da cordilheira de Kaelvrym, em Sylvaris. Diferente dos Koramis — dóceis e domesticados para uso geral —, as Venthari são criaturas de temperamento selvagem e independente, capturadas filhotes e treinadas exclusivamente pela Esquadrilha Fantasma. Seu nome ancestral, *Mushen Ven*, significa "Ave do Vento Oculto" — uma referência à sua capacidade de se fundir com névoa e nuvens até se tornar praticamente invisível.
+
+| Característica | Detalhe |
+|---------------|---------|
+| **Envergadura** | 3 a 4 passos (~4,5 a 6 metros) |
+| **Capacidade** | 1 cavaleiro (montaria individual de combate) |
+| **Temperamento** | Leal ao cavaleiro de vínculo, agressivo com estranhos, impossível de remontar por terceiros |
+| **Velocidade** | Extrema em mergulho e voo rasante, moderada em cruzeiro |
+| **Habitat Natural** | Ninhos nas cornijas inacessíveis do Kaelvrym, acima da linha de nuvens |
+| **Alimentação** | Pequenos mamíferos, peixes de rio, Lyrien |
+| **Expectativa de Vida** | 40 a 60 ciclos de Aurion |
+| **Vulnerabilidade** | População natural pequena; capturadas apenas como ovos ou filhotes por criadores autorizados da Esquadrilha Fantasma |
+
+**Camuflagem Natural:** A plumagem da Venthari possui uma propriedade etérica singular — as penas prateado-acinzentadas contêm microcristais de Aethra que refratam a luz de forma a espelhar o entorno. Em névoa, a ave se torna virtualmente invisível. Em voo noturno, apenas seus olhos âmbar brilham — dois pontos de luz flutuando na escuridão. Essa capacidade faz da Venthari a montaria perfeita para a Esquadrilha Fantasma, cujas missões exigem aproximação silenciosa e desaparecimento rápido.
+
+**⚠️ IMPORTANTE:** As Venthari NÃO são montarias disponíveis para civis ou para a cavalaria geral de Sylvaris (que usa Koramis). Seu uso é restrito e exclusivo à Esquadrilha Fantasma — unidade de elite de reconhecimento noturno e infiltração. [C]
 
 ### A Criatura Nyctara — Emblema de Lyris
 
@@ -1127,7 +1531,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 | Escala Kardashev | Escala de Evolução Aetherion |
 | Esfera Dyson | Manto Solar |
 | lobo/coruja/falcão | Urrak/Nyctara/Velatrix |
-| cavalo/elefante | Koramis/Terravox |
+| cavalo/elefante | Koramis/Terravox/Venthari |
 | coelho/gato | Lyrien/Nyxara |
 | segundo/metro/grama | Pulso/Passo/Semente |
 | açafrão | Zanthári |
@@ -1229,6 +1633,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Mushen bar** | Fulguris | Ave do relâmpago |
 | **Ur nyx** | Nyxara | Criatura de Nyx |
 | **Mushen kora** | Koramis | Ave do coração |
+| **Mushen ven** | Venthari | Ave do vento oculto |
 | **Ur kish-dur** | Terravox | Grande besta das pedras |
 
 ## Tempo em Língua Antiga
@@ -1353,8 +1758,8 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 - ✅ **Timoneiro de Vento** — Operador dos Veleiros de Estrada
 - ✅ **Trilhos de Vento** — Caminhos invisíveis de corrente induzida
 - ✅ **Espelhos de Eco** — Dispositivos de captura de assinatura espiritual usados por Umbra
-- ✅ **Vethran Noll** — Burocrata de Sanctrum com relatórios de transferências fantasmas
-- ✅ **Thaloris Ventaris** — Antagonista emergente, orquestra tráfico de talentos elementais
+- ✅ **Vethran Noll** — Mestre dos Sussurros de Sylvaris; rede de informantes em Sanctrum
+- ✅ **O Arquiteto das Sombras** — Antagonista emergente (nome verdadeiro desconhecido), orquestra tráfico de talentos elementais
 - ✅ **"Desprovidos"** — Termo depreciativo para pessoas sem poder; usado como disfarce por agentes
 - ✅ **Koramis** integrados na narrativa do Cap. 6 — Tour aéreo para crianças em Thalendris
 - ✅ **Emê-Gar**: "Mushen Kora" (Koramis) — já registrado na v11.0.0
