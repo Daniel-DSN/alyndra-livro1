@@ -59,7 +59,7 @@
 | VII | **Mestre das Artes** | **Nin Me** | "Senhora do Éter" | Cultura; educação; artes |
 | VIII | **Primeiro Curador** | **Nin A** | "Senhora da Água" | Saúde; hospitais; cura |
 | IX | **Mestre de Obras** | **En Dur** | "Senhor da Fundação" | Infraestrutura; construções |
-| X | **A Sentinela** | **Dili** | "O Vigia" | Inteligência; informação; vigilância |
+| X | **A Sentinela** | **Dili** | "O Vigia" | Inteligência; informação; vigilância — *Vaeola Lyrendis (atual Sentinela)* |
 
 ### Regras de Funcionamento
 
@@ -161,6 +161,12 @@
 - Espionagem e contra-espionagem
 - Responde ao assento X do Conselho
 
+### O Marechal de Ferro (Lugal Ban)
+
+**Assento:** II — Defesa e forças armadas do Conselho dos 10
+
+O Marechal de Ferro é o comandante operacional de todas as forças armadas de Sanctrum — a única pessoa além do En Me com autoridade absoluta em questões militares. Responde pela defesa do Planalto, pela coordenação das forças da Ordem e pela mobilização em caso de conflito. Suas relações com a Sentinela (Vaeola Lyrendis) são tensas mas produtivas — ambos representam facetas da segurança de Nova Aetherion (inteligência vs. força bruta) e seus diálogos são marcados por inteligência e franqueza mútua. Vaeola freqüentemente questiona as decisões militares do Marechal de Ferro com arrogância, mas seu senso de justiça a faz reconhecer quando ele tem razão.
+
 **Guardiões do Selo**
 - Proteção do Selo de Mytra
 - Apenas os mais confiáveis
@@ -169,6 +175,21 @@
 ---
 
 > **NOTA CARTOGRÁFICA:** A seção "Sínodo da Fé (Sanga Me)" foi **removida** por contradição com as regras canônicas do universo. Em Aetherion, **não existe veneração a ninguém** — Ilyos proibiu toda forma de culto. Os antigos templos são hoje ruínas arqueológicas e centros de estudo, não locais de adoração. A única exceção é uma seita oculta em Umbra dedicada a Nyxalor e Nihilaryth — uma heresia perseguida pelo resto do mundo. Ver ficha técnica *Mappa Mundi de Aetherion* para detalhes completos.
+
+### Departamento de Investigações Especiais — Olho de Aurion
+
+**Responsável:** Selina Thalassa (Agente ZU / Mestra da Informação)
+
+O **Olho de Aurion** é o departamento de inteligência de Sanctrum liderado por Selina Thalassa, operando a partir da Câmara dos Sussurros no terceiro subsolo da Torre de Aurion. Embora formalmente vinculado ao assento X (A Sentinela) do Conselho dos 10, Selina opera com autonomia considerável — reporting diretamente ao En Me em questões críticas, mas mantendo independência investigativa.
+
+**Investigação em curso — A Frequência de Desaparecimento:**
+- Anos de investigações sobre desaparecimentos sistemáticos de indivíduos com afinidade elemental em Sylvaris
+- 14+ casos documentados em 7 ciclos — crianças e adultos com qualquer nível de afinidade
+- Cargas Fantasmas: documentação impecável apontando para instituições inexistentes
+- Novo agente (nome TBD) trouxe relatórios que apontam para **facilitação institucional** — o Líder do Vento (Thaloris Ventaris) estaria recebendo promessas ou favores em troca de facilitar a captação de talentos
+- Selina decidiu ampliar a investigação para múltiplos orfanatos de Sylvaris e outras fontes
+- Movimentos de Aurelius despertaram suspeitas em Selina — ela exige uma conversa a sós
+- Selina questiona Aurelius sobre o envio de uma agente aposentada (Lyris/Nyctara) para uma tarefa aparentemente simples — a resposta de Aurelius levanta suspeitas contra ele mesmo
 
 
 # PARTE II: O REINO DO VENTO (SYLVARIS)
@@ -266,7 +287,7 @@
 **Esquadrilha Fantasma**
 - Elite de reconhecimento noturno
 - Especialistas em infiltração
-- Montam Mushen Gig (Nyctara)
+- Montam **Venthari** [C] — grande ave de rapina silvestre nativa dos picos de Kaelvrym, plumagem prateada que se camufla na névoa e nas nuvens, voo quase silencioso. Reservada exclusivamente para a Esquadrilha Fantasma.
 - Missões de inteligência
 
 **Guarda de Zephyra**
@@ -393,7 +414,7 @@ Sylvaris é dividido em **Oito Províncias** [C], cada uma governada por um **Pr
 
 **Nome:** **Vethran Noll**
 
-**História:** Ex-agente de Sanctrum, transferiu-se para Sylvaris há 30 ciclos. Conhece os segredos de ambos os reinos. Homem de confiança do Senhor Thaloris.
+**História:** Ex-agente de Sanctrum, transferiu-se para Sylvaris há 30 ciclos. Conhece os segredos de ambos os reinos. Braço direito do Senhor Thaloris — e seu cúmplice no tráfico de talentos elementais. Opera a rede logística do esquema através do Departamento de Transferências de Sanctrum.
 
 ---
 
@@ -405,11 +426,13 @@ Sylvaris é dividido em **Oito Províncias** [C], cada uma governada por um **Pr
 
 **Aparência:** Alto, cabelos grisalhos bem cortados, olhos azuis penetrantes, barba aparada. Move-se com elegância natural.
 
-**Personalidade:** Diplomata nato, visionário, protetor. Acolhe refugiados como política oficial. Tem segredos que guarda a sete chaves.
+**Personalidade:** Diplomata nato, visionário, protetor. Acolhe refugiados como política oficial. Sua natureza nobre é genuína — mas esconde um segredo sombrio que o contradiz.
 
 **História:** Subiu ao trono há 25 ciclos após a morte do pai em um acidente de voo. Transformou Sylvaris em refúgio para perseguidos de todos os reinos. Mantém relações cordiais com Sanctrum, mas preserva autonomia.
 
-**Segredo:** Conhece a verdadeira identidade de Nyctara (Lyris) desde uma operação conjunta décadas atrás. Guarda esse conhecimento para usar quando necessário.
+**Segredo 1:** Conhece a verdadeira identidade de Nyctara (Lyris) desde uma operação conjunta décadas atrás. Guarda esse conhecimento para usar quando necessário.
+
+**Segredo 2 (Tráfico de Talentos):** Thaloris está envolvido no tráfico de talentos elementais — crianças com assinaturas poderosas capturadas e transferidas para destinos obscuros. Opera essa rede em parceria com Vethran Noll, que executa as operações logísticas através da Rede dos Sussurros e do Departamento de Transferências de Sanctrum. Essa é a face oculta do Senhor dos Ventos: o líder nobre que acolhe refugiados publicamente, mas trafica talentos nas sombras.
 
 ---
 
@@ -441,9 +464,11 @@ Sylvaris é dividido em **Oito Províncias** [C], cada uma governada por um **Pr
 
 **Aparência:** Baixo, discreto, olhos escuros que parecem ver tudo. Move-se sem fazer som.
 
-**Personalidade:** Observador, calculista, perigoso quando necessário. Lealdade absoluta a Sylvaris.
+**Personalidade:** Observador, calculista, perigoso quando necessário. Lealdade absoluta a Sylvaris — e, acima de tudo, ao Senhor dos Ventos.
 
 **História:** Serviu como Sentinela em Sanctrum antes de desertar por razões desconhecidas. Foi acolhido por Thaloris e tornou-se seu braço direito nas sombras.
+
+**Cumplicidade no Tráfico de Talentos:** Vethran trabalha diretamente com Thaloris Ventaris na rede de tráfico de talentos elementais. Utiliza sua posição como Mestre dos Sussurros para infiltrar o Departamento de Transferências de Sanctrum, criar cargas fantasmas (crianças enviadas para academias inexistentes) e desviar talentos para operações clandestinas. É o executor operacional do esquema — Thaloris define a estratégia, Vethran executa.
 
 ---
 

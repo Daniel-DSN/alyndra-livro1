@@ -15,13 +15,14 @@
 
 | Campo | Informação |
 |-------|------------|
-| **Nome completo** | Aurelius [C] |
+| **Nome completo** | Aurelius Lumivael |
 | **Título público** | Guardião Mestre (GM) / Grande Mestre [C] |
 | **Título ancestral** | **En Me** ("Senhor do Éter") [C] |
 | **Título iniciático (verdadeiro)** | **Guardião de Myrtha** — aquele incumbido de vigiar o Cristal e garantir que o sacrifício de Elarys não seja desfeito [C] |
 | **Ordem na linhagem de GMs** | 33º Guardião Mestre [C] (GM anterior: Théssaly, 32ª GM) [C] |
 | **Idade** | Vários séculos — nascido sob a quinta Convergência Tripla [C] |
 | **Espécie** | Aetheriana [C/D] |
+| **Linhagem ancestral** | **Descendente direto do Seraphyen Vento Luz** — a mais nobre das linhagens Seraphyen, portadora da dualidade primordial entre luz e vento. O sobrenome "Lumivael" (Lumi = luz, Vael = vento) é a marca dessa herança. Como todo descendente de Seraphyen, possui acesso a potência etérica superior à média e uma conexão intrínseca com os elementos primordiais. [D] |
 | **Classificação Etérica** | **Estágio VII (Primordial)** — exigência canônica para o cargo de GM, membro do Círculo de Cristal, com poder de 50.000–500.000 Æ. Condição genética rara que amplifica sua sensibilidade a Aethra. [C/D] |
 | **Local de residência** | Palácio do Grande Mestre, Sanctrum, Aetherion Prime [C] |
 | **Solar Privado** | Torre de Aurion, ponto mais alto — um nível abaixo do Farol de Cristal [C] |
@@ -131,13 +132,14 @@
 | Habilidade | Detalhe |
 |------------|---------|
 | **Percepção etérica avançada** | Condição genética rara que lhe permite "sentir o fluxo etérico melhor do que noventa e nove por cento da população." Selina atribui sua posição ao fato de que "ele literalmente sente Alyndra de uma forma que ninguém mais consegue." [C] |
-| **Manipulação de Aethra (Estágio VII)** | Como Primordial, possui conexão direta com forças primordiais (50.000–500.000 Æ). Capacidade teórica de manipular a realidade em escala significativa, embora o cargo limite seu uso a funções de proteção do Selo. [C/D] |
+| **Manipulação de Aethra (Estágio VII)** | Como Primordial, possui conexão direta com forças primordiais (50.000–500.000 Æ). Perfil expandido: **VII.s** (Superior), ε 88%, Ψ 8.000 Æ/P, Δ Mono (provável Mental/Espacial), Π 4-5, RÆ ~180.000. Capacidade teórica de manipular a realidade em escala significativa, embora o cargo limite seu uso a funções de proteção do Selo. [C/D] |
+| **Manopla de Vinculação (Gish Dur An)** | Artefato primordial forjado por Ilyos que amplifica seu poder de forma dramática. No **Modo Passivo**: ε→99%, Ψ→12.000 Æ/P, Δ→Total (todos os elementos), Π→5, RÆ→~250.000. No **Modo Ativo**: acesso ao Æ de Nyxalor, Ψ→65.000+ Æ/P, poder temporário nível VIII — mas cada uso corrói o selo e amplia a influência de Nyxalor sobre ele. Veja DICIONARIO_CANONICO_IMUTAVEL.md seção "A MANOPLA DE VINCULAÇÃO". [C/D] |
 | **Comando estratégico militar** | Comandante-chefe das forças de defesa de Nova Aetherion. Preside o Conselho dos 10 (Unken En). Autoridade sobre todas as forças armadas da Ordem. [C] |
 | **Diplomacia e mediação** | Media conflitos entre os Sete Reinos. Representa Nova Aetherion em tratados internacionais. Coordena a Mesa dos Vinculadores e o Círculo de Cristal. [C] |
 | **Inteligência e contra-inteligência** | Construiu o sistema de inteligência mais sofisticado de Alyndra. Escreveu tratados sobre o poder do silêncio como ferramenta de informação. Conhece os protocolos de espionagem tão bem quanto Selina. [C] |
 | **Caligrafia identificável** | Sua letra possui padrões que Lyris reconhece mesmo sem assinatura: inclinação dos *a*s, cruzamento dos *t*s, espaçamento generoso entre palavras. [C] |
-| **Controle emocional supremo** | Capacidade de empacotar emoções "com uma precisão que décadas de liderança haviam refinado até a perfeição — guardada em um lugar onde ninguém pudesse vê-la, acessível apenas nos momentos em que estivesse completamente sozinho." [C] |
-| **Guardião do Selo de Mytra** | Deve portar a Manopla de Vinculação para assegurar que o selo não seja rompido pelas forças de Myrthanna. Acesso ao conhecimento iniciático sobre o sacrifício de Elarys e a verdadeira função do GM. [C] |
+| **Controle emocional supremo** | Capacidade de empacotar emoções "com uma precisão que décadas de liderança haviam refinado até a perfeição." Na verdade, parte desse controle é necessário para resistir ao Sussurro de Nyxalor (Fase 1) — o estoicismo não é apenas virtude, é armadura contra a influência do selado. [C/D] |
+| **Guardião do Selo de Mytra** | Deve portar a Manopla de Vinculação para assegurar que o selo não seja rompido pelas forças de Myrthanna. Acesso ao conhecimento iniciático sobre o sacrifício de Elarys e a verdadeira função do GM. A Manopla contém as essências de Nyxalor (prisioneiro) e Elarys (guardiã). [C] |
 | **Experiência em operações especiais** | Como líder do Esquadrão Aurora antes de se tornar GM, possui experiência direta em missões de alto risco. Conhecia Ayla como subordinada antes de se tornarem amantes. [C/D] |
 
 ---

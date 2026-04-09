@@ -15,12 +15,14 @@
 
 | Campo | Informação |
 |-------|------------|
-| **Nome completo** | Grazielly |
+| **Nome completo** | Grazielly Lumivael Marethyus |
+| **Nome conhecido/usado** | Grazielly Marethyus |
+| **Nota sobre o nome** | Seu nome completo inclui o sobrenome paterno (Lumivael, de Aurelius) como primeiro sobrenome, seguido do materno (Marethyus, de Ayla). Porém, como foi escondida e criada longe de Aurelius por Melessa, ela só conhece e usa **Marethyus** — o sobrenome de sua mãe. Ninguém no orfanato ou em Sylvaris sabe da existência do sobrenome Lumivael em sua identidade. |
 | **Idade** | 5 anos (completa 5 anos no Capítulo 5) |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari (nascida em Mespiria, criada em Sylvaris) |
 | **Classificação Etérica** | **Cryonys** (Água + Vento) — manifestação gelo/congelamento absoluto; extremamente rara |
-| **Linhagem** | Sangue Seraphyen (via Aurelius, pai) + Linhagem de manipuladores de água (via Ayla/avô Marethyus) |
+| **Linhagem** | Sangue Seraphyen Vento Luz (via Aurelius Lumivael, pai) + Linhagem de manipuladores de água (via Ayla Marethyus/avô Marethyus). Por ser escondida, usa apenas o sobrenome Marethyus. |
 | **Local de nascimento** | Casa de pedra nos arredores de Mespiria, Sylvaris |
 | **Residência atual** | Orfanato Luminis, Cidadela Luminis, Velantis, Sylvaris |
 | **Status vital** | **Viva** |

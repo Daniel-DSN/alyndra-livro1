@@ -456,7 +456,7 @@ Treinados que despertaram sua afinidade e iniciaram treinamento formal, mas cujo
 
 **Caso especial — Líder do Relâmpago (Fulmora):** O governante do Reino do Trovão está neste nível **exclusivamente por desleixo**. Relâmpago é um dos elementos mais letais — um mestre do Trovão em Nível 4 seria devastador, rivalizando diretamente com o Líder do Fogo. Porém, por razões que serão reveladas na história (negligência deliberada, prioridades políticas, circunstâncias pessoais), esse líder nunca desenvolveu seu poder adequadamente. Quando se dedicar, a ascensão será rápida e perturbadora para o equilíbrio geopolítico.
 
-**Representantes típicos:** Recrutas militares, estudantes de Academia Elemental, Líder do Relâmpago, Vethran Noll (poder informacional, não etérico), Selina Thalassa, Vaelora, Príncipe Darian Ascanius.
+**Representantes típicos:** Recrutas militares, estudantes de Academia Elemental, Líder do Relâmpago, Vethran Noll (poder informacional, não etérico), Selina Thalassa, Vaeola, Príncipe Darian Ascanius.
 
 #### Nível 3 — Veterano
 Guerreiros experientes, comandantes consolidados e **a maioria dos líderes elementais atuais**. Dominam 1-2 elementos com competência sólida (ε 45-80%), possuem vazão respeitável (50-3.000 Æ/P), e podem liderar exércitos e derrotar ameaças convencionais. São combatentes confiáveis, respeitados e temidos em seus domínios — mas firmemente dentro dos limites mortais.
@@ -577,13 +577,13 @@ Poder que transcende qualquer medição concebível — torna irrelevante o pró
 | **8** | **Grazielly** (futuro) | 3ª Transformação | Cryonys+ | Rivaliza com Filhos Legítimos; Resonância Seraphyen |
 | **7-8** | **Ilyos** | Dissolvido nas leis | Luz | Filho Legítimo; atua indiretamente; oscila entre níveis |
 | **7** | **Grazielly** (futuro) | 2ª Transformação | Cryonys+ | Sobrepassa mortais convencionais; Pilares avançados |
-| **6** | **Aurelius** + Manopla | Modo Passivo | Todos* | *GM + Manopla; Dominância Elemental Total; ε 99% |
+| **6** | **Aurelius Lumivael** + Manopla | Modo Passivo | Todos* | *GM + Manopla; Dominância Elemental Total; ε 99% |
 | **6** | **Grazielly** (futuro) | 1ª Transformação | Cryonys+ | Sementes Etéricas ativadas; Æ se expande dramaticamente |
-| **5** | **Aurelius** | Sem artefato | Mental/Espacial? | GM por mérito próprio; Estágio VII.s; teto mortal |
+| **5** | **Aurelius Lumivael** | Sem artefato | Mental/Espacial? | GM por mérito próprio; Estágio VII.s; teto mortal |
 | **5** | **Círculo de Cristal** | 3-5 Anciãos | Variado | Primordiais (VII.m-s); poder de veto sobre o GM |
 | **5** | **Nin Aga** | Comandante supremo | Mono | Estágio VII.i-m; comandante militar máximo da Ordem |
 | **4** | **Líder do Fogo** (Pyralis) | Ativo | Fogo | Um dos mais fortes líderes; disciplina implacável |
-| **4** | **Lyris** (A Nyctara) | Ativa (Vanguarda) | Thermaris | Lenda viva; ε 82%; qualidade sobre quantidade |
+| **4** | **Lyris Vaelcoris** (A Nyctara) | Ativa (Vanguarda) | Thermaris | Lenda viva; ε 82%; qualidade sobre quantidade |
 | **4** | **Grazielly** | + Armadura Seraphyen (pico) | Cryonys + Água Sombra | Domínio pleno da armadura; uma das mais perigosas entre mortais |
 | **3** | **Thaloris Ventaris** | Lugal Lil de Sylvaris | Vento | Poder bruto Veterano; perigo = influência + Rede dos Sussurros |
 | **3** | **Líder da Água** (Thalassia) | Ativo | Água | Comando sólido; defesa das ilhas; similar ao Vento |
@@ -593,7 +593,7 @@ Poder que transcende qualquer medição concebível — torna irrelevante o pró
 | **3** | **Mestra Caliana** | Vento do Norte | Vento/Terra | Defesa e fronteiras de Sylvaris |
 | **2** | **Líder do Relâmpago** (Fulmora) | Ativo | Relâmpago | Potencial de Nível 4; treinamento negligenciado |
 | **2** | **Selina Thalassa** | Conselho dos 10 | Mente/Espaço? | Mestra da Informação; poder = inteligência |
-| **2** | **Vaelora** (A Sentinela) | Conselho dos 10 | Mono | Mestra da Vigia; informante da Vanguarda |
+| **2** | **Vaeola Lyrendis** (A Sentinela) | Conselho dos 10 | Mono | Mestra da Vigia; informante da Vanguarda |
 | **2** | **Príncipe Darian Ascanius** | Herdeiro de Sylvaris | Vento | Esquadrilha Fantasma; jovem e impetuoso |
 | **2** | **Vethran Noll** | Mestre dos Sussurros | Mental | Æ baixo (~900); poder real = Rede dos Sussurros |
 | **1** | **Grazielly** | Despertando (Livro 1) | Cryonys | *Potencial imensurável; acesso próximo de zero por inexperiência |
@@ -976,7 +976,7 @@ Dispositivos analógicos usados por agentes de Umbra para capturar assinaturas e
 ### Thalassia
 - **Thalyra** — Cidade costeira, Festival das Águas
   - **Ponto de contato da Vanguarda** — local de encontro para operações secretas
-  - Onde Lyris encontrou **Vaelora (A Sentinela)**, informante da Vanguarda
+  - Onde Lyris encontrou **Vaeola Lyrendis (A Sentinela)**, informante da Vanguarda
 - **Selina Thalassa ("ZU")** opera em Sanctrum, não em Thalyra
 
 ### Terraxis/Umbra
@@ -1298,16 +1298,22 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 ---
 
-# 👤 MESTRA VAELORA (A SENTINELA)
+# 👤 MESTRA VAEOLA LYRENDIS (A SENTINELA)
 
 ## Identidade
-- **Nome:** Vaelora
+- **Nome:** Vaeola Lyrendis
 - **Codinome:** "A Sentinela"
 - **Título:** Mestra da Vigia
 
 ## Posição Oficial
-- Integrante do **Conselho dos 10** — assento "A Sentinela"
+- Assento X do Conselho dos 10 (A Sentinela / Dili) — Inteligência, informação, vigilância
 - Origem: Thalassia (linha Marethyu secundária)
+
+## Personalidade
+- Fria, direta, fala com arrogância mas possui senso de justiça imediato. Não desperdiça palavras. Sarcástica e intelectualmente afiada. Trata a maioria como inferiores mas age sem hesitação quando percebe injustiça. Seus diálogos com o Marechal de Ferro (Lugal Ban, Assento II) são tensos mas produtivos — inteligência vs. força bruta, com franqueza mútua.
+
+## Estilo de Diálogo
+- Inteligente, sarcástica, direta ao ponto
 
 ## Função Secreta
 - **Informante da Vanguarda em Thalyra**
@@ -1340,7 +1346,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - Vivo, exilado em **Cristalnor** (montanhas entre Terraxis e Umbra)
 - **Afinidade:** **Água Sombra** — domínio anômalo sobre água, poder beirando o sobrenatural
 - Exilou-se voluntariamente após incidente desconhecido
-- Aurelius NÃO sabe da existência dele
+- Aurelius Lumivael NÃO sabe da existência dele
 - Ayla nunca contou sobre sua família
 
 ## Água Sombra
@@ -1598,9 +1604,9 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 # 🔒 SEGREDOS E MISTÉRIOS
 
 ## Segredos Guardados
-1. Aurelius é pai de Grazielly (ninguém sabe, exceto Lyris deduz)
+1. Aurelius Lumivael é pai de Grazielly (ninguém sabe, exceto Lyris Vaelcoris deduziu)
 2. Avô materno vivo em Cristalnor (só Lyris sabe)
-3. Grazielly carrega sangue Seraphyen (via Aurelius)
+3. Grazielly carrega sangue Seraphyen Vento Luz (via Aurelius Lumivael) — nome completo: Grazielly Lumivael Marethyus, mas usa só Marethyus
 4. Linhagem de manipuladores de água do lado materno
 5. **Verdade sobre o GM:** Significado iniciático "Guardião de Myrtha"
 6. **Elo de Elarys:** Essência fundida ao Cristal de Mytha
@@ -1612,7 +1618,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 - Conexão entre Água Sombra e Cryonys
 - O futuro da Academia Elemental para Grazielly
 - O desenvolvimento do poder Cryonys
-- Aurelius descobrindo sobre o avô
+- Aurelius Lumivael descobrindo sobre o avô
 - O destino de Kira na Academia
 - Revelação gradual sobre o Cristal de Mytha
 - Missão secreta para recuperar o Elmo de Alyndra

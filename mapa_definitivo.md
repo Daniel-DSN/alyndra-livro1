@@ -332,11 +332,11 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 |----------|-------|
 | **Nascimento** | Durante Convergência Tripla, vila de Mespiria |
 | **Mãe** | Ayla (falecida no parto) |
-| **Pai** | Aurelius (Guardião Mestre, identidade secreta) |
+| **Pai** | Aurelius Lumivael (Guardião Mestre, identidade secreta) |
 | **Afinidade** | Cryonys (gelo) - extremamente rara |
 | **Características** | Olhos castanhos grandes, cabelos loiros, fulgor que emana da pele |
 | **Idade atual** | 5 anos (início do Livro 1) |
-| **Linhagem** | Sangue Seraphyen (via Aurelius) + Linhagem Marethyu (via Ayla) |
+| **Linhagem** | Sangue Seraphyen Vento Luz (via Aurelius Lumivael) + Linhagem Marethyu (via Ayla) |
 
 ---
 
@@ -345,7 +345,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | Atributo | Valor |
 |----------|-------|
 | **Ocupação** | Ex-guerreira da Equipe Aurora |
-| **Relacionamento** | Amante secreta de Aurelius |
+| **Relacionamento** | Amante secreta de Aurelius Lumivael |
 | **Morte** | Durante o parto de Grazielly |
 | **Enterro** | Túmulo em Mespiria, abençoado por Elara |
 | **Segredo guardado** | Nunca revelou sua família/avô a Aurelius |
@@ -353,10 +353,12 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 ---
 
-## Aurelius
+## Aurelius Lumivael
 
 | Atributo | Valor |
 |----------|-------|
+| **Nome Completo** | Aurelius Lumivael |
+| **Linhagem** | Descendente direto do Seraphyen Vento Luz — o sobrenome "Lumivael" (Lumi = luz, Vael = vento) é a marca dessa herança |
 | **Título** | Guardião Mestre (GM) — Guardião de Myrtha |
 | **Nascimento** | Sob a quinta Convergência Tripla |
 | **Relacionamento** | Pai secreto de Grazielly |
@@ -381,10 +383,11 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 ---
 
-## Lyris (A Nyctara)
+## Lyris Vaelcoris (A Nyctara)
 
 | Atributo | Valor |
 |----------|-------|
+| **Nome Completo** | Lyris Vaelcoris |
 | **Ocupação Oficial** | Ex-agente da Ordem, aposentada |
 | **Ocupação Real** | Monitora Grazielly em nome de Aurelius |
 | **Apresentação** | "Amiga de Ayla" |
@@ -412,16 +415,18 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 ---
 
-## Mestra Vaelora (A Sentinela)
+## Mestra Vaeola (A Sentinela)
 
 | Atributo | Valor |
 |----------|-------|
-| **Nome Completo** | Vaelora |
+| **Nome Completo** | Vaeola Lyrendis |
 | **Codinome** | "A Sentinela" |
 | **Título** | Mestra da Vigia |
-| **Posição** | Integrante do **Conselho dos 10** — assento "A Sentinela" |
+| **Posição** | Assento X do Conselho dos 10 (A Sentinela / Dili) — Inteligência, informação, vigilância |
 | **Origem** | Thalassia (linha Marethyu secundária) |
 | **Função Secreta** | **Informante da Vanguarda em Thalyra** |
+| **Personalidade** | Fria e direta. Fala de forma arrogante mas com senso de justiça imediato. Não desperdiça palavras. Quando percebe uma injustiça, age sem hesitação — mas sua arrogância a faz tratar a maioria das pessoas como se fossem inferiores. É efectiva porque não se importa com hierarquias sociais quando a justiça está em jogo. |
+| **Estilo de Diálogo** | Inteligente, sarcástica, direta ao ponto |
 | **Características** | Cabelos grisalhos/brancos, olhos afiados, cicatriz na bochecha esquerda |
 | **Contato** | Encontra-se com Lyris no Capítulo VII em Thalyra |
 | **Conexão** | Colega de Conselho de Selina Thalassa; aliada na Vanguarda |
@@ -444,6 +449,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 ### Mira
 | Atributo | Valor |
 |----------|-------|
+| **Nome Completo** | Mira Solanthir |
 | **Idade** | 10 anos |
 | **Função** | Melhor amiga de Grazielly |
 | **Origem** | Pyralis (pais comerciantes de especiarias) |
@@ -454,6 +460,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 ### Tomas
 | Atributo | Valor |
 |----------|-------|
+| **Nome Completo** | Tomas Thalendris |
 | **Idade** | 7 anos |
 | **Origem** | Vila pesqueira de Thalassia |
 | **Tragédia** | Família inteira morreu em incêndio; sobreviveu por estar no barco |
@@ -463,6 +470,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 ### Kira
 | Atributo | Valor |
 |----------|-------|
+| **Nome Completo** | Kira Dravenis |
 | **Idade** | 15 anos |
 | **Origem** | Pyralis |
 | **Tragédia** | Pais arquitetos mortos em desabamento |
@@ -473,6 +481,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 ### Dorian
 | Atributo | Valor |
 |----------|-------|
+| **Nome Completo** | Dorian Kelvathis |
 | **Idade** | 12 anos |
 | **Função** | Valentão do orfanato |
 | **Origem** | Terraxis |
@@ -691,9 +700,9 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 ## Segredos Guardados
 
-1. Aurelius é pai de Grazielly (ninguém sabe, exceto Lyris deduz)
+1. Aurelius Lumivael é pai de Grazielly (ninguém sabe, exceto Lyris Vaelcoris deduziu)
 2. Avô materno Marethyus vivo em Cristalnor (só Lyris sabe)
-3. Grazielly carrega sangue Seraphyen (via Aurelius)
+3. Grazielly carrega sangue Seraphyen Vento Luz (via Aurelius Lumivael) — nome completo dela seria Grazielly Lumivael Marethyus, mas usa só Marethyus por ser escondida
 4. Linhagem Marethyu de manipuladores de água do lado materno
 5. **Verdade sobre o GM:** Significado iniciático "Guardião de Myrtha"
 6. **Elo de Elarys:** Essência fundida ao Cristal de Mytha
@@ -705,7 +714,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 - O incidente que fez Marethyus se exilar
 - Conexão entre Água Sombra e Cryonys
-- Aurelius descobrindo sobre o avô
+- Aurelius Lumivael descobrindo sobre o avô
 - O futuro da Academia Elemental para Grazielly
 - O destino de Kira na Academia
 - Revelação gradual sobre o Cristal de Mytha

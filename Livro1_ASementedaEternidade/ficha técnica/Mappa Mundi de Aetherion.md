@@ -15,7 +15,7 @@ O planeta possui uma inclinação axial que gera estações distintas, embora a 
 
 A atmosfera de Aetherion contém partículas de **Aethra** — a energia etérica fundamental que permeia todo o planeta [C]. Essas partículas não são uniformemente distribuídas; concentram-se em maior volume nas regiões de altitude elevada, nas proximidades de formações cristalinas e nas áreas de atividade vulcânica. A presença de Aethra influencia tudo, desde os padrões climáticos até as formas de vida, e é a base sobre a qual toda a civilização de Nova Aetherion se ergue.
 
-A lunação de Aetherion é tríplice: três luas — Alyra, Myren e Thalis [D] — orbitam o planeta em períodos distintos, criando o fenômeno da **Convergência Tripla** quando seus alinhamentos coincidem. Esses eventos astrológicos têm profunda influência sobre as manifestações etéricas e são marcadores temporais fundamentais na cultura de todos os Sete Reinos.
+A lunação de Aetherion é tríplice: três luas — **Lyria** (prata, cura), **Nyx** (azul, mistério) e **Elara** (rosa, sacrifício) [C] — orbitam o planeta em períodos distintos, criando o fenômeno da **Convergência Tripla** quando seus alinhamentos coincidem. Esses eventos astrológicos têm profunda influência sobre as manifestações etéricas e são marcadores temporais fundamentais na cultura de todos os Sete Reinos.
 
 ---
 
