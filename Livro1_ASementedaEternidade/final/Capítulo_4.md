@@ -48,7 +48,7 @@ Um bater suave na porta interrompeu o silêncio entre elas.
 
 — Grazielly? — A voz não era de Lyris. Era mais aguda, mais infantil, carregada de uma pressa que tentava disfarçar-se de gentileza. — É hora do jantar. Todo mundo já está lá embaixo.
 
-Era Mira. A mesma menina que a havia recebido no portão com um sorriso quando tudo o que Grazielly queria era se esconder em um canto escuro — agora parada na porta com os cabelos desgrenhados e uma expressão que misturava preocupação genuína com a impaciência de quem não estava acostumada a esperar.
+Era Mira Solanthir. A mesma menina que a havia recebido no portão com um sorriso quando tudo o que Grazielly queria era se esconder em um canto escuro — agora parada na porta com os cabelos desgrenhados e uma expressão que misturava preocupação genuína com a impaciência de quem não estava acostumada a esperar.
 
 Grazielly olhou para Lyris, que assentiu com um aceno quase imperceptível.
 

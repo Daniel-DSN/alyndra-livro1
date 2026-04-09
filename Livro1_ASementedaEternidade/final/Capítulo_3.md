@@ -538,7 +538,7 @@ Lyris sentiu um arrepio percorrer sua espinha. Não era medo — havia passado d
 
 O silêncio que se seguiu foi absoluto. Até o vento pareceu parar.
 
-Lyris processou a informação com a velocidade de uma mente treinada para o impossível. Ayla — a guerreira que havia desaparecido anos atrás, cuja partida havia afetado Aurelius de uma forma que ele nunca admitiria. Aurelius — o En Me, o Guardião Mestre, o homem que carregava o peso de Nova Aetherion sobre seus ombros. Os dois. Juntos. Uma criança.
+Lyris processou a informação com a velocidade de uma mente treinada para o impossível. Ayla — a guerreira que havia desaparecido anos atrás, cuja partida havia afetado Aurelius de uma forma que ele nunca admitiria. Aurelius Lumivael — o En Me, o Guardião Mestre, o homem que carregava o peso de Nova Aetherion sobre seus ombros. Os dois. Juntos. Uma criança.
 
 — Ayla morreu dando à luz — Melessa continuou, suas mãos tremendo no colo. — Aquela noite, as três luas alinhadas, a Convergência. A criança nasceu brilhando, Lyris. Brilhando com uma luz que não era natural. Eu a escondi porque sabia o que Sanctrum faria se descobrisse — a recolheriam como recurso, como arma, como ferramenta. E Ayla pediu. Antes de morrer, ela me fez prometer que a filha teria uma vida normal. Amor. Um lar. Paz.
 

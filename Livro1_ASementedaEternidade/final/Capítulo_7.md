@@ -84,7 +84,7 @@ O silêncio que se seguiu foi do tipo que a murmulita parecia absorver com avide
 
 O nome não foi pronunciado em voz alta — Selina não pronunciava nomes em momentos como aqueles, porque nomes tinham peso e peso criava ondas que podiam ser detectadas por aqueles que sabiam ouvir. Mas em sua mente, as peças começaram a se encaixar com um clique que era quase audível.
 
-*Lyris. Agente Nyctara. A melhor agente de campo que a Ordem já formou, aposentada em circunstâncias que ninguém questionou porque questionar a aposentadoria de Nyctara era como questionar a luz de Aurion — simplesmente não se fazia. E agora ela reaparece, não como agente, mas como guardiã de uma criança em uma vila agrícola no meio de Sylvaris. Com salvo-conduto do En Me.*
+*Lyris Vaelcoris. Agente Nyctara. A melhor agente de campo que a Ordem já formou, aposentada em circunstâncias que ninguém questionou porque questionar a aposentadoria de Nyctara era como questionar a luz de Aurion — simplesmente não se fazia. E agora ela reaparece, não como agente, mas como guardiã de uma criança em uma vila agrícola no meio de Sylvaris. Com salvo-conduto do En Me.*
 
 Selina voltou-se para o mapa e, com um gesto preciso da mão, expandiu a região de Velantis. Os pontos vermelhos se espalharam como gotas de sangue sobre a projeção etérica. E ali, no centro daquela constelação de desaparecimentos, ela viu algo que não havia notado antes — ou que não havia permitido a si mesma notar.
 

@@ -162,7 +162,7 @@ Mas no fundo de seu peito, um instinto antigo — algo que décadas de parteira 
 
 Ayla pareceu aquietar-se com a promessa. Um último sorriso cruzou seus lábios pálidos, e ela voltou seu olhar para a criança.
 
-— Minha Grazielly... minha pequena estrela... — Ayla ergueu a mão trêmula e tocou a testa da criança, uma bênção que vinha do mais profundo de sua alma. — Eu te libero... das correntes do meu passado. Você não carregará... minhas guerras. Não carregará... meus inimigos. Você será... livre.
+— Minha Grazielly Marethyus... minha pequena estrela... — Ayla ergueu a mão trêmula e tocou a testa da criança, uma bênção que vinha do mais profundo de sua alma. — Eu te libero... das correntes do meu passado. Você não carregará... minhas guerras. Não carregará... meus inimigos. Você será... livre.
 
 Thalia voltou com os bandagens e cristais de cura, mas parou ao ver a cena — a mãe pálida segurando a criança brilhante, a parteira idosa chorando silenciosamente, um pingente negro brilhando na palma da velha como um olho de sombra.
 

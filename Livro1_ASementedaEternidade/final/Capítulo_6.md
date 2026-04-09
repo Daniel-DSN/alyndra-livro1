@@ -76,7 +76,7 @@ Mira embarcou logo atrás, arrastando sua sacola de viagem — consideravelmente
 
 — Senta aqui — Mira disse, puxando Grazielly para um banco perto da janela lateral do Veleiro. — Daqui você vê tudo. Os campos, as colinas, os rios. E quando a gente chegar perto do mar, você vai ver as falésias brancas. São gigantescas, Grazielly. Tão altas quanto as torres do orfanato, mas feitas de pedra e sal e luz.
 
-Tomas, um menino de sete anos com olhos castanhos como terracota e um sorriso fácil que desarmava até os mais sisudos, já estava sentado no banco do outro lado do corredor, o nariz colado na janela como se quisesse absorver o mundo inteiro pela visão. Ele era o tipo de criança que fazia perguntas sem parar — não as perguntas irritantes que exauriam a paciência dos adultos, mas perguntas genuínas, curiosas, que revelavam uma mente que processava o mundo com uma fome que nunca era saciada.
+Tomas Thalendris, um menino de sete anos com olhos castanhos como terracota e um sorriso fácil que desarmava até os mais sisudos, já estava sentado no banco do outro lado do corredor, o nariz colado na janela como se quisesse absorver o mundo inteiro pela visão. Ele era o tipo de criança que fazia perguntas sem parar — não as perguntas irritantes que exauriam a paciência dos adultos, mas perguntas genuínas, curiosas, que revelavam uma mente que processava o mundo com uma fome que nunca era saciada.
 
 — Grazielly — ele chamou sem tirar o nariz da janela. — Você sabe como os cristais fazem o Veleiro flutuar?
 
@@ -88,7 +88,7 @@ Tomas, um menino de sete anos com olhos castanhos como terracota e um sorriso f�
 
 — É quase a mesma coisa — Tomas defendeu, e o sorriso que abriu em seu rosto era o sorriso de uma criança para quem o mundo era, ainda, um lugar de possibilidades infinitas e maravilhas por descobrir.
 
-Foi quando a porta do Veleiro se abriu novamente e Kira entrou.
+Foi quando a porta do Veleiro se abriu novamente e Kira Dravenis entrou.
 
 Kira tinha quinze anos — uma idade que, no contexto do Orfanato Luminis, era quase adulta. Ela era alta, com cabelos ruivos que caíam em ondas sobre os ombros como fogo líquido, e olhos âmbar que pareciam conter algo permanente — não calor exatamente, mas a lembrança do calor, como brasas que haviam sido cobertas por cinzas mas que ainda irradiavam seu poder mesmo na dormência. Seu rosto era angular, marcado por traços que sugeriam uma herança de Pyralis — a terra do fogo, onde seus pais haviam vivido antes de morrer no colapso de uma estrutura que eles mesmos haviam projetado.
 
@@ -104,7 +104,7 @@ Os olhos de Kira encontraram Grazielly por um instante — e naquele instante, h
 
 Mas ela engoliu aquela amargura como engolia todas as outras — com a disciplina silenciosa de quem aprendeu que lamentar-se em voz alta não muda nada, apenas afasta as pessoas.
 
-No fundo do Veleiro, afastado dos demais, Dorian estava sentado sozinho.
+No fundo do Veleiro, afastado dos demais, Dorian Kelvathis estava sentado sozinho.
 
 Aos doze anos, Dorian era o que os adultos chamavam educadamente de "desafiador" e o que as crianças chamavam, com menos eufemismo, de "o menino que ninguém quer perturbar". Ele era magro, com cabelos escuros cortados rente e olhos escuros que pareciam absorver a luz em vez de refleti-la — olhos que observavam tudo e revelavam nada. Seus braços, visíveis sob a manga curta de sua túnica, exibiam cicatrizes que ele não se incomodava em esconder, marcas de brigas que haviam acontecido nos corredores e no pátio e, segundo os rumores, também fora dos muros do orfanato.
 
