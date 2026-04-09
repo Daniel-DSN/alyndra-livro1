@@ -396,6 +396,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | **Vanguarda** | Membro secreto, codinome **"A Nyctara"** |
 | **Pertencimento** | **Vanguarda** — rede de heróis mascarados |
 | **Habilidades** | Cortinas de névoa quente para fuga, ataques de pressão térmica, incapacitação sem matar |
+| **Técnicas Nomeadas** | **Véu da Ausência** — névoa tática de baixa temperatura; obscurece formas, absorve som e dispersa assinaturas etéricas (infecultração). **Névoa Calcinante** — Thermaris em plenitude; vapor superaquecido que preenche área fechada e cozinha alvos de dentro para fora (letal). |
 | **Uso de poder** | Preserva disfarce de "aposentada pacata" — só usa Thermaris em casos extremos |
 
 ---
@@ -691,8 +692,9 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 | 3 | O Legado da Parteira | Morte de Melessa, Lyris chega |
 | 4 | O Resgate do Coração | Grazielly salva Nyx |
 | 5 | O Presente das Estrelas | Aniversário 5 anos, cristal de Aurelius |
-| 6 | Sombras do Passado, Luzes do Orfanato | Vida no orfanato, avô misterioso |
-| 7 | O Sussurro das Águas | Lyris viaja a Thalyra, investigação do avô, ameaça Nihilaryth |
+| 6 | O Horizonte de Sal e Cristal | Ciclo de Viagem a Thalendris; Koramis; ataque dos mercenários de Umbra nos cais; Grazielly manifesta Cryonys involuntariamente |
+| 6.5 | Interlúdio: A Sombra nos Penhascos de Sal | Nyctara elimina célula de mercenários de Umbra em caverna de sal; técnicas Véu da Ausência e Névoa Calcinante; descobre ligação Vethran Noll |
+| 7 | O Olho que Tudo Vê | Selina investiga Frequência de Desaparecimento; confronto com Aurelius; Refratores de Aurion; RRA |
 
 ---
 
