@@ -368,6 +368,22 @@ Ele havia sentido o eco. O momento em que o Ressoador entrou em ressonância com
 
 Mas a alegria — se é que aquilo era alegria, e não algo mais complexo e mais doloroso — durou apenas alguns Pulsos. Porque no mesmo instante em que o cristal de Grazielly pulsava em Velantis, outra frequência — mais fraca, mais distante, mas inequivocamente presente — havia sido captada pelos Refratores de Aurion. Uma frequência que não pertencia a Sanctrum. Que não pertencia a nenhum reino conhecido. Que vinha do norte — do vasto, gelado e silencioso norte, onde as sombras eram mais espessas e as pedras mais velhas, e onde algo que não tinha nome observava o mundo com olhos que eram feitos de escuridão e paciência.
 
+E então Aurelius entendeu. Não como um estalo de intuição, mas como a compreensão lenta e gelada de um cirurgião que percebe, no meio de uma operação, que o bisturi que segurava estava contaminado antes mesmo do primeiro corte.
+
+O cristal dourado fora projetado para ser silencioso. Um receptor passivo, calibrado exclusivamente para a frequência pessoal de Aurion — uma assinatura que ele mesmo havia tecido nos primeiros dias da vida de Grazielly, quando ainda acreditava que a discrição era uma forma de amor. O cristal não emitia. Não transmitia. Apenas *escutava*, como uma concha que guarda o som do mar mas nunca o reproduz. Essa era a premissa: um elo invisível, indetectável, um sussurro entre pai e filha que nenhum Refratore, nenhum Espelho de Eco, nenhuma tecnologia conhecida poderia interceptar. Ele havia testado a assinatura. Havia verificado a calibragem. Havia certeza — a certeza absoluta de quem passou ciclos refinando cada variável — de que a frequência era única, restrita, segura.
+
+Mas ele não havia previsto a Rede de Ressonância de Aurion.
+
+A RRA não era dele. Era de Valtheris — um engenheiro brilhante, ambicioso, cuja obsessão por expandir os limites da comunicação etérica não conhecia as fronteiras do calendário de testes que o En Me havia estipulado. A ativação da rede, naquele laboratório, naquele Pulso, havia enviado um pulso de potência bruta através da frequência de Aurion — uma frequência que era, por definição, a mesma que o cristal de Grazielly estava calibrado para escutar. E o cristal respondera. Não como um receptor passivo, mas como um diapasão atingido pelo som exato para o qual foi construído: vibrando, ressoando, *retransmitindo* sua posição em todo o espectro etérico como um farol que se acende em um mar escuro.
+
+*Eu enviei um receptor passivo*, Aurelius pensou, e o pensamento carregava o gosto metálico de um erro que não podia ser desfeito. *E a RRA de Valtheris o transformou em um transmissor ativo.*
+
+E se Aurelius podia sentir o cristal responder, outros podiam sentir também. O norte podia sentir. Umbra podia sentir. A frequência que os Refratores acabavam de captar não era uma coincidência — era uma resposta. O inimigo ouvira o aperto de mão energético entre a RRA e o cristal, e respondera na mesma frequência, como quem bate à porta de uma casa que acabou de ter sua luz acesa pela primeira vez.
+
+*Eles sabem onde ela está*, Aurelius pensou, e algo dentro dele — algo que não era o En Me, não era o Guardião Mestre, mas o pai, o pai que havia enviado um cristal dourado para o aniversário de cinco anos de uma filha que nunca poderia conhecer — gelou. *Eles sabem que ela está em Velantis. E foi eu quem os avisou.*
+
+O sacrifício de Ayla — a escolha de desaparecer para que Grazielly pudesse viver — agora pendia no ar como um fantasma. Os anos de silêncio de Lyris, o isolamento deliberado, a rede de proteção invisível que ele havia construído ao redor da criança como castelos de cartas cuidadosamente equilibrados — tudo isso podia ter sido anulado por um único momento. Não por traição. Não por espionagem. Mas por um pai que quis ouvir a filha respirar, e um engenheiro que ligou uma máquina antes da hora.
+
 A guerra estava chegando. E a menina que segurava o cristal dourado no jardim de um orfanato em Velantis era o centro de tudo — o que os dois lados buscavam, cada um a sua maneira, com ferramentas e propósitos que não podiam ser mais diferentes.
 
 Aurelius fechou os olhos e, por um breve momento — um momento que nenhum Refratore poderia capturar, nenhum engenheiro poderia medir, nenhuma agente poderia relatar —, ele permitiu que a dor o visitasse. Não a dor do corpo, mas a dor de quem sabe que está protegendo alguém que ama e que, apesar de todos os seus poderes, de todos os seus títulos, de todas as suas frequências de silêncio, pode não ser suficiente.
@@ -388,7 +404,7 @@ A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposenta
 
 Frustrada pelo silêncio de Aurelius, Selina vai ao Laboratório de Engenharia Etérica, onde descobre duas tecnologias que mudarão o curso da narrativa: os Refratores de Aurion (lentes de cristal orbital que mapeiam assinaturas etéricas em tempo real) e a Rede de Ressonância de Aurion (RRA), um sistema de comunicação que usa a frequência de Aurion para transmitir sinais a grandes distâncias. Selina ordena que um Ressoador seja enviado à Cidadela Luminis — oficialmente como teste de comunicação, mas na realidade como uma armadilha para monitorar Lyris e Grazielly.
 
-O capítulo se encerra com a primeira ativação da RRA em Sanctrum, cujo sinal cruza a distância e faz o cristal dourado de Grazielly pulsar em Velantis. A menina sente, através da vibração, a presença distante de alguém que a ama — sem saber que esse alguém é seu pai, Aurelius, e que a conexão entre eles é física, mediada por Aethra, e mais profunda do que qualquer um dos dois compreende plenamente. O capítulo termina com Aurelius percebendo que, ao mesmo tempo em que o cristal de Grazielly pulsava, uma frequência desconhecida — vindas do norte, de Umbra — também foi detectada pelos Refratores. A guerra está chegando de ambos os lados.
+O capítulo se encerra com a primeira ativação da RRA em Sanctrum, cujo sinal cruza a distância e faz o cristal dourado de Grazielly pulsar em Velantis. A menina sente, através da vibração, a presença distante de alguém que a ama — sem saber que esse alguém é seu pai, Aurelius, e que a conexão entre eles é física, mediada por Aethra, e mais profunda do que qualquer um dos dois compreende plenamente. O capítulo termina com Aurelius percebendo, com horror calculista, que a ativação da RRA transformou seu cristal — projetado como receptor passivo e indetectável — em um transmissor ativo que revelou a posição de Grazielly para Umbra. O inimigo detectou o sinal no norte. O sacrifício de Ayla e o silêncio de Lyris podem ter sido anulados por um momento de saudade paterna e a ambição tecnológica de Valtheris. A guerra está chegando de ambos os lados.
 
 ---
 
@@ -444,6 +460,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Ressoador** | Dispositivo portátil da RRA; emite e recebe sinais na frequência de Aurion; três unidades protótipo iniciais |
 | **Frequência de Silêncio** | Termo conceitual de Selina; quando o silêncio deliberado gera exposição (antítese do princípio do En Me) |
 | **Assimetria de Vigilância** | Diferença de velocidade entre a vigilância interna de Sanctrum (instantânea) e os relatórios de campo de Sylvaris (12 ciclos de atraso); fonte de frustração de Selina e motivação para buscar a RRA |
+| **Protocolo de Escuta Passiva** | Princípio pelo qual Aurelius projetou o cristal dourado como receptor passivo (indetectável), calibrado apenas para sua frequência pessoal; a ativação não autorizada da RRA forçou o cristal a responder como transmissor ativo, revelando a posição de Grazielly |
 | **Armadilha de vigilância** | Metáfora usada internamente por Selina; enviar o Ressoador à Cidadela sob justificativa falsa para monitorar Grazielly |
 
 ### Eventos
@@ -456,6 +473,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
 | **Demonstração dos Refratores** | Selina conhece o sistema de vigilância orbital; solicita acesso para rastrear anomalias |
 | **Ativação da RRA** | Primeiro sinal transmitido; cristal de Grazielly pulsa em resposta; eco de Aethra conecta pai e filha |
+| **Revelação do Protocolo de Escuta Passiva** | Aurelius percebe que a RRA transformou seu cristal receptor passivo em transmissor ativo, revelando a posição de Grazielly para Umbra |
 | **Detecção de frequência de Umbra** | Refratores captam sinal do norte durante a ativação da RRA; confirma vigilância do inimigo |
 
 ### Criaturas
@@ -482,7 +500,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Solar do En Me** | Confronto Selina vs. Aurelius sobre o cristal dourado; interrompido pelo Nin Aga |
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
 | **Laboratório de Engenharia Etérica** | Selina descobre os Refratores de Aurion e a RRA; solicita Ressoador para Cidadela Luminis |
-| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; frequência de Umbra detectada simultaneamente |
+| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; frequência de Umbra detectada simultaneamente; Aurelius percebe que a RRA expôs a posição da filha |
 
 ---
 
