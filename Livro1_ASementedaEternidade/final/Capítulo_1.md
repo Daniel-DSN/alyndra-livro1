@@ -54,7 +54,7 @@ Era exatamente o que Ayla precisava.
 
 — Mais um chá, senhora?
 
-A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyra. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil, mas reservada, que sempre comprava as mesmas Mirael aromáticas e pagava sem regatear.
+A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyra. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil, mas reservada, que sempre comprava as mesmas mirael aromáticas e pagava sem regatear.
 
 — Não, obrigada — Ayla respondeu, sua voz mais suave do que fora em sua vida anterior, antes de... antes de tudo. — Hoje só preciso das folhas. E talvez daquelas raízes-doces que você mencionou na semana passada.
 
