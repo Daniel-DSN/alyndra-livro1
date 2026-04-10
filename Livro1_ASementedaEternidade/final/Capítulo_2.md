@@ -108,7 +108,7 @@ Melessa, com décadas de experiência, foi a primeira a se recuperar. Envolveu a
 
 Ayla estava pálida. Muito pálida. Suor frio cobria sua testa, e seus olhos, que haviam brilhado com determinação durante todo o parto, agora começavam a perder o foco.
 
-— Ayla? — Melessa tocou o pulso da mulher, e o que sentiu fez seu coração afundar. Fraco. Irregular. Escapando. — Thalia, traga os bandagens de pressão, depressa! E os cristais de cura!
+— Ayla? — Melessa tocou o pulso da mulher, e o que sentiu fez seu coração afundar. Fraco. Irregular. Escapando. — Thalia, traga as bandagens de pressão, depressa! E os cristais de cura!
 
 A curandeira mais jovem correu para buscar os suprimentos, mas Ayla sabia. Em seus anos como guerreira, ela havia visto aquele olhar muitas vezes — o olhar de alguém que sabia que a morte estava chegando.
 
@@ -164,7 +164,7 @@ Ayla pareceu aquietar-se com a promessa. Um último sorriso cruzou seus lábios 
 
 — Minha Grazielly Marethyus... minha pequena estrela... — Ayla ergueu a mão trêmula e tocou a testa da criança, uma bênção que vinha do mais profundo de sua alma. — Eu te libero... das correntes do meu passado. Você não carregará... minhas guerras. Não carregará... meus inimigos. Você será... livre.
 
-Thalia voltou com os bandagens e cristais de cura, mas parou ao ver a cena — a mãe pálida segurando a criança brilhante, a parteira idosa chorando silenciosamente, um pingente negro brilhando na palma da velha como um olho de sombra.
+Thalia voltou com as bandagens e cristais de cura, mas parou ao ver a cena — a mãe pálida segurando a criança brilhante, a parteira idosa chorando silenciosamente, um pingente negro brilhando na palma da velha como um olho de sombra.
 
 — Viva, minha filha — a voz de Ayla era agora um sussurro, fraco como uma brisa morrendo ao entardecer. — Viva uma vida... de paz. Longe das batalhas... longe do sangue... longe de tudo o que eu fui. Você merece... céus abertos... e risadas... e amor... tanto amor...
 
