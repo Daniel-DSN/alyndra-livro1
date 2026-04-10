@@ -72,7 +72,7 @@ Ayla tomou o pacote com um sorriso que não alcançava seus olhos.
 
 — Obrigada. Você foi muito gentil.
 
-Ela pagou e se afastou, seus passos a levando para longe da praça central, em direção às estradas que conduziam às vilas agrícolas nos arredores da capital. Era uma caminhada longa, mas ela preferia assim. Preferia a solidão dos campos à multidão das cidades. Preferia o silêncio do céu aberto aos sussurros que às vezes captava nas ruas movimentadas — sussurros sobre a Ordem, sobre Sanctrum, sobre um guardião que recentemente havia ascendido ao poder mais alto da terra.
+Ela pagou e se afastou, seus passos a levando para longe da praça central, em direção à plataforma dos Veleiros de Estrada. Do alto de um Veleiro, a viagem até Velantis levaria apenas algumas horas pelos Trilhos de Vento — dali, restaria a caminhada até Mespiria. Preferia assim. Mesmo dentro do compartimento de madeira e cristal, preferia a solidão dos campos que deslizavam pela janela à multidão das cidades. Preferia o silêncio do céu aberto aos sussurros que às vezes captava nas ruas movimentadas — sussurros sobre a Ordem, sobre Sanctrum, sobre um guardião que recentemente havia ascendido ao poder mais alto da terra.
 
 *Aurelius...*
 
@@ -84,7 +84,7 @@ E o segredo que ela carregava agora, dentro de si, era maior que qualquer outro 
 
 ## III. A Jornada para Mespiria
 
-A estrada de Zephyra a Velantis serpenteava através de colinas suaves cobertas por campos de Aethrys, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Sylvaris — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
+A estrada de Velantis a Mespiria serpenteava através de colinas suaves cobertas por campos de Aethrys, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Sylvaris — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
 
 Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A cada passo, ela sentia a criança se mover — pequenos chutes, pequenos alongamentos, como se o bebê já estivesse ansioso para conhecer o mundo que o aguardava.
 
@@ -136,7 +136,7 @@ Era exatamente o que Ayla procurava.
 
 Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Sylvari, e Melessa — uma viúva idosa, parteira da vila — oferecera-lhe uma casa pequena, mas aconchegante nos arredores de Mespiria, sem fazer uma única pergunta sobre a gravidez evidente.
 
-— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam à luz de Aurion da tarde. — Comecei a me preocupar. A caminhada de Zephyra não é curta, especialmente em seu estado.
+— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam à luz de Aurion da tarde. — Comecei a me preocupar. A viagem de Zephyra não é curta, especialmente em seu estado.
 
 — Estou bem, Melessa — Ayla respondeu, subindo os degraus com cuidado. — E consegui as raízes-doces que você pediu.
 

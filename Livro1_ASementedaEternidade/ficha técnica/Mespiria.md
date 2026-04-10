@@ -170,7 +170,7 @@ As três luas ainda eram visíveis no céu da manhã durante o funeral, raras em
 | Evento [C] | Período | Descrição | Capítulo |
 |-----------|---------|-----------|----------|
 | **Chegada de Ayla** | ~9 meses antes da Convergência | Ayla chega grávida a Sylvaris e se estabelece em Mespiria sob identidade falsa (viúva de Pyralis); Melessa a acolhe sem perguntas | Cap. 1 |
-| **Ayla vai a Zephyra** | 3 meses antes da Convergência | Ayla caminha até a capital para comprar ervas e raízes-doces; retorna à casa de Melessa | Cap. 1 |
+| **Ayla vai a Zephyra** | 3 meses antes da Convergência | Ayla viaja de Veleiro até a capital para comprar ervas e raízes-doces; retorna à casa de Melessa | Cap. 1 |
 | **Primeiros sinais do parto** | Dias antes da Convergência | Ayla sente pressão; o Aethra ao redor se torna mais denso; Melessa avisa Thalia | Cap. 1 |
 | **Nascimento de Grazielly** | Noite da Convergência Tripla | Parto difícil (nascimento pélvico); tempestade silenciosa se forma sobre a vila; Grazielly nasce brilhando, olhos abertos | Cap. 2 |
 | **Morte de Ayla** | Minutos após o nascimento | Hemorragia pós-parto; Ayla nomeia Grazielly, entrega o pingente e a mensagem para Aurelius, e morre em paz | Cap. 2 |
@@ -189,7 +189,7 @@ As três luas ainda eram visíveis no céu da manhã durante o funeral, raras em
 
 | Origem | Destino | Distância/Tempo | Notas |
 |--------|---------|-----------------|-------|
-| **Zephyra** | Mespiria | Dias de viagem a pé por estradas rurais | Ayla caminhava entre as cidades; Cap. 1, 3 |
+| **Zephyra** | Mespiria | Algumas horas de Veleiro até Velantis + caminhada até Mespiria | Ayla viajou de Veleiro (Cap. 1); Lyris a pé no inverno, com Veleiros inativos (Cap. 3) |
 | **Velantis** | Mespiria | Algumas horas de viagem (meio período) | Cap. 5: "Partimos ao amanhecer, chegamos a Mespiria no fim da manhã" |
 | **Mespiria** | Velantis | Idem | Cap. 3: estradas ficam intransitáveis no inverno rigoroso |
 | **Mespiria** | Sanctrum | Doze dias de viagem (via carta) | Carta de Melessa viajou 12 dias por montanhas e vilas intermediárias; Cap. 3 |
