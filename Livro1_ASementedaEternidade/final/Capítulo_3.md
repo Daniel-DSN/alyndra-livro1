@@ -926,6 +926,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | Local | Região | Descrição |
 |-------|--------|-----------|
 | **Mespiria** | Sudoeste de Sylvaris | Vila agrícola onde Grazielly cresceu; cercada por Gesh Nanna (pratafolhas) |
+| **Fazenda dos Thorens** | Arredores de Mespiria | Criação de Nariel; onde Grazielly encontrou o filhote Lyrien rejeitado |
 | **Sanctrum** | Aetherion Prime | Capital; Palácio do Grande Mestre; sede da Ordem |
 | **Zephyra** | Sylvaris | Capital flutuante; erguida sobre pilares de cristal Aetheris |
 | **Palácio das Correntes de Ar** | Zephyra | Residência do Senhor dos Ventos; abriga o Savelumao das Brisas |
@@ -953,6 +954,8 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | Criatura | Descrição |
 |----------|-----------|
 | **Mushen Gir** | Pequenas criaturas aladas de cores vivas; chamadas asas-de-veludo; flutuam como pétalas em dança; comuns em Mespiria |
+| **Nyx** | Lyrien; filhote rejeitado por mãe Nariel na fazenda dos Thorens; pelagem cinza-claro sedosa, olhos dourados; nomeado por Grazielly em homenagem à lua azulada; vínculo empático profundo com Grazielly; chiado como comunicação |
+| **Nariel** | Grandes mamíferos de pelagem prateada; criados para leite e lã; gentis e pacientes; comuns nas colinas de Sylvaris |
 
 ### Eventos
 
@@ -960,6 +963,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 |--------|-------------|
 | **Morte de Melessa** | Fim da proteção direta de Grazielly em Mespiria; gatilho para a carta |
 | **Bloqueio de Cryonys** | Gelo etérico involuntário de Grazielly sela o esconderijo no assoalho; Lyris decide priorizar a vida da criança |
+| **Encontro com Nyx** | Grazielly encontra filhote Lyrien rejeitado na fazenda dos Thorens; o toque da menina acalma a criatura; batismo sob a luz de Nyx |
 | **Revelação a Grazielly** | Melessa conta à criança que seu brilho é um segredo; primeira ferramenta de sobrevivência |
 | **Carta de Melessa** | Mensagem desesperada enviada a Aurelius; revela a existência de Grazielly |
 | **Convocação de Lyris** | Aurelius chama a agente aposentada para uma missão que não pode explicar |
