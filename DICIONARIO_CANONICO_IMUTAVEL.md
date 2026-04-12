@@ -1798,6 +1798,272 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 ---
 
+## Estrutura do Ano — 364 Ud, 13 Itu
+
+**1 Mu (ano) = 364 Ud (dias) = 13 Itu (meses) × 28 Ud cada = 52 semanas × 7 Ud**
+
+A divisão por 7 (semana) e por 13 (luas) reflete a natureza lunar do calendário aetheriano. O 13º Itu é o mês intercalar sagrado — dedicado a Dingir-sar e ao Torneio Continental.
+
+### Dias da Semana — Os 7 Lumes
+
+| Dia | Nome | Raiz | Significado | Equivalente |
+|-----|------|------|-------------|-------------|
+| 1 | **Audin** | Aurion | Dia da Estrela | Domingo |
+| 2 | **Lyrdin** | Lyria | Dia da Cura | Segunda |
+| 3 | **Nydin** | Nyx | Dia do Mistério | Terça |
+| 4 | **Eldin** | Elara | Dia dos Laços | Quarta |
+| 5 | **Kidin** | Ki | Dia da Terra | Quinta |
+| 6 | **Andin** | An | Dia do Céu | Sexta |
+| 7 | **Zidin** | Zi | Dia da Vida | Sábado (descanso) |
+
+### Os 13 Itu
+
+| # | Nome | Estação | Descrição |
+|---|------|---------|-----------|
+| 1 | Itu do Despertar | Primavera | Aurion cresce, dias se alongam, sementes germinam |
+| 2 | Itu das Flores | Primavera | Giralis florescem, campos coloridos |
+| 3 | Itu de Lyria | Primavera | Lua prateada domina, celebrações de renovação |
+| 4 | Itu do Esplendor | Verão | Dia mais longo, calor máximo |
+| 5 | Itu das Águas | Verão | Festividades aquáticas, Thaluris sobem à superfície |
+| 6 | Itu de Elara | Verão | Lua rosa, celebrações de amor e sacrifício |
+| 7 | Itu da Colheita | Outono | Aethrys é ceifado, festas de fartura |
+| 8 | Itu dos Ventos | Outono | Sylvaris doura, Veleiros retomam rotas |
+| 9 | Itu de Nyx | Outono | Lua azul domina, mistério, preparação |
+| 10 | Itu do Gelo | Inverno | Inverno profundo, nevascas, isolamento |
+| 11 | Itu das Névoas | Inverno | Névoa e silêncio, festas internas |
+| 12 | Itu da Noite Longa | Inverno | Dia mais curto, véspera do ano |
+| **13** | **Itu de Dingir-sar** | **Intercalar** | **Mês Sagrado — Festival + Torneio Continental** |
+
+---
+
+## Itu de Dingir-sar — O Mês Sagrado (Itu 13)
+
+O 13º e último Itu de cada Mu é dedicado inteiramente ao Dingir-sar e ao Torneio Continental. Todos os reinos enviam delegações a Sanctrum. É o período mais importante do calendário aetheriano — mistura de reverência religiosa, competição marcial e diplomacia continental.
+
+### Calendário do Itu Sagrado
+
+| Ud | Evento | Descrição |
+|----|--------|-----------|
+| **1** | Chegada dos Reinos | Delegações dos 7 Reinos chegam a Sanctrum; cerimônia de abertura |
+| **2-6** | **Prova do Æther** | Medição de Aethra de todos os participantes; classificação técnica |
+| **7** | **Dingir-ilyos** | **Dia de Ilyos** — Celebração do Guardião; procissão de luz, oferendas nas chamas eternas |
+| **8-9** | **Prova da Mente** | Simulações táticas, enigmas, negociações diplomáticas |
+| **10-11** | **Prova do Véu** | Cursosas de infiltração e espionagem |
+| **12-13** | **Prova do Aço** | Torneio de luta 1v1 — eliminatórias |
+| **14** | **Dingir-nyxalor** | **Dia de Nyxalor** — Vigília solene; cerimônia de lembrança; silêncio e reflexão |
+| **15-21** | **Prova das Cinzas** | Simulação de sobrevivência de 7 dias em terreno hostil (ver detalhes abaixo) |
+| **22-24** | **Prova do Aço (final)** | Quartas de final, semifinais e grande final do torneio de luta |
+| **25-26** | Audiências da Mesa dos 10 | Nobres de mérito e observadores assistem às sessões consultivas |
+| **27** | Banquete Continental | Celebração conjunta dos 7 Reinos; anúncio dos resultados |
+| **28** | **Dingir-sar** | **Ano-novo aetheriano** — Cerimônia do Selamento; coroação do campeão; novo Mu começa |
+
+### Dingir-ilyos (Ud 7) — O Dia do Guardião
+
+Data comemorativa de Ilyos, o Filho Legítimo da Luz que selou Nyxalor. É o dia mais alegre do mês sagrado. Sanctrum enfeita-se com lanternas de cristal Aetheris dourado. Procissões percorrem as ruas principais. Oferendas de flores de Giralis são depositadas nos altares de Ilyos. As chamas eternas nos templos são reacesas com cerimônia. Em todos os reinos, o dia é feriado — escolas fecham, mercados oferecem comida gratuita, e as famílias se reúnem para celebrar a proteção que Ilyos garante ao mundo.
+
+### Dingir-nyxalor (Ud 14) — O Dia da Vigília
+
+Data de lembrança de Nyxalor, o Filho Legítimo das Sombras, selado por Ilyos. Não é um dia de celebração — é um dia de respeito e cautela. As lanternas são apagadas ao meio-dia e só reacesas à noite. Em Sanctrum, os sacerdotes da Ordem realizam a Vigília do Silêncio: 12 Pulses (horas) de contemplação sem fala. É lembrete de que o mal não foi destruído, apenas contido — e que cada geração deve vigiar para que o selo se mantenha. Nas ruas, as pessoas evitam festas e comemorações. Em alguns reinos mais supersticiosos, crianças não saem de casa neste dia.
+
+> **Tensão narrativa:** Dingir-ilyos (luz) e Dingir-nyxalor (sombra) estão separados por exatamente 7 Ud — uma semana perfeita. A simetria é deliberada: depois da alegria vem o lembrete; depois da festa vem a vigília. O Itu Sagrado inteiro é construído sobre essa dualidade.
+
+---
+
+## ⚔️ Dingir-en — O Torneio Continental
+
+**𒂍𒂍 Dingir-en** — "A Prova dos Divinos". Torneio anual realizado em Sanctrum durante o Itu de Dingir-sar. Os 7 Reinos enviam seus melhores guerreiros para competir em cinco provas distintas. O campeão geral recebe o título de **Nobre de Sanctrum por Mérito** e vaga na **Equipe Aurora**.
+
+### Regras Gerais
+
+- Cada reino envia até **5 competidores** (1 por prova, ou competidores que disputam múltiplas)
+- Participantes devem ter entre **17 e 45 ciclos** de idade
+- Uso de Aethra é permitido e esperado (exceto na Prova do Véu, que testa o contrário)
+- Juízes de Sanctrum supervisionam todas as provas; técnicas letais são proibidas
+- **Sylentis podem participar** — a pontuação compensa a ausência de poder com outras habilidades
+
+### As Cinco Provas
+
+#### 1. Prova do Aether (𒀭 Dingir-aether) — Mensuração de Poder
+
+**Tipo:** Avaliação técnica (não é torneio — todos participam)
+
+| Métrica | O que mede |
+|---------|------------|
+| **Æ Total** | Volume bruto de Aethra do participante |
+| **Eficiência ε** | Precisão de canalização (% de Aethra convertido em técnica) |
+| **Vazão Æ/P** | Quantidade de Aethra por Pulso sob esforço contínuo |
+| **Controle Emocional** | Estabilidade do fluxo sob pressão (estresse simulado) |
+
+**Classificação automática:** Gotejante → Filamento → Corrente → Torrente → Cascata → Inundação → Dilúvio
+
+**Importância:** Define o "ranking de poder" de todos os competidores. Sylentis recebem Æ = 0 formal, mas são avaliados em controle emocional e resistência física — revelando que o torneio reconhece mais do que apenas poder bruto.
+
+**Duração:** 5 Ud (Ud 2 ao Ud 6)
+
+---
+
+#### 2. Prova da Mente (𒈾 Dingir-nam) — Inteligência e Estratégia
+
+**Tipo:** Simulação individual + negociação
+
+| Fase | Descrição | O que testa |
+|------|-----------|-------------|
+| **Tática** | Cenário de batalha simulado; comandar tropas contra inimigo com força superior | Estratégia militar, liderança sob pressão |
+| **Enigma** | Decifração de texto em Língua dos Antigos + quebra-cabeça espacial | Intelecto, lógica, conhecimento cultural |
+| **Diplomacia** | Crise diplomática simulada entre dois reinos; deve negociar paz em tempo limitado | Carisma, negociação, adaptação social |
+| **Sombra** | Interrogatório invertido: juízes tentam extrair informação; participante deve resistir sem mentir | Controle emocional, discernimento |
+
+**Duração:** 2 Ud (Ud 8 ao Ud 9)
+
+---
+
+#### 3. Prova do Véu (𒁉 Dingir-bar) — Infiltração e Espionagem
+
+**Tipo:** Coursa de obstáculos individual
+
+- O participante deve atravessar uma zona vigiada por sentinelas de Sanctrum sem ser detectado
+- A zona contém armadilhas elementais, sentinelas com detecção de Aethra ativa, e câmeras de cristal
+- **Deve completar um objetivo** (recuperar um artefato, colocar um marcador, abrir um cofre) sem ser visto
+- Uso excessivo de Aethra alerta os sentinelas — quanto menos poder usar, melhor
+- O participante que fizer o percurso no menor tempo com maior discrição vence
+- **Ideal para Sylentis e agentes de inteligência** — a prova que mais nivela o campo entre poderosos e não-poderosos
+
+**Duração:** 2 Ud (Ud 10 ao Ud 11)
+
+---
+
+#### 4. Prova do Aço (𒅗 Dingir-gish) — Torneio de Luta 1v1
+
+**Tipo:** Torneio eliminatório de combate corpo a corpo
+
+- Chaveamento feito por sorteio no Ud 1
+- Eliminatórias simples (perde = está fora)
+- Armas permitidas (espadas, bastões, lanças) — técnicas letais proibidas
+- Juízes de Sanctrum interrompem ao primeiro sinal de risco de morte
+- Aethra permitido em combate (elementos, fortalecimento, velocidade)
+- Categorias não existem — peso e tipo elemental são variáveis que o combatente deve gerenciar
+
+**Cronograma:**
+- Ud 12-13: Eliminatórias (chave completa)
+- Ud 22: Quartas de final
+- Ud 23: Semifinais
+- Ud 24: **Grande Final** — arena principal de Sanctrum, milhares de espectadores
+
+---
+
+#### 5. Prova das Cinzas (𒂊 Dingir-en-ash) — Simulação de Sobrevivência
+
+**Tipo:** Missão de sobrevivência em equipe — 7 dias
+
+Este é o evento mais esperado e mais brutal do torneio. É aqui que lendas nascem e carreiras são feitas.
+
+**Formação das equipes:**
+- **Times de 4 guerreiros** formados ALEATORIAMENTE entre todos os participantes dos 7 reinos
+- Sorteio público no Ud 14 (Dingir-nyxalor) — os times são anunciados durante a vigília, forçando estranhos a cooperarem
+- Cada time recebe um líder designado (o de maior classificação na Prova do Aether)
+- Composição intencionalmente mista: inimigos de reinos rivais, poderosos e fracos, manifestantes e Sylentis
+
+**A missão:**
+- Cada ano a missão é diferente para evitar vantagem preparatória
+- Exemplos de missões passadas:
+  - *Resgatar um VIP mantido refém em uma fortaleza simulada no desfiladeiro de Sanctrum*
+  - *Recuperar 3 fragmentos de artefato espalhados em terreno hostil sob nevasca*
+  - *Percorrer 200 Passos de terreno perigoso e chegar a um marco de extração antes dos times rivais*
+- **Equipes se enfrentam entre si E contra o ambiente** — é permitido (e esperado) atacar, emboscar ou sabotar times rivais
+- A missão é monitorada por observadores de Sanctrum com cristais de vigilância; intervenção apenas em caso de risco de morte real
+
+**Critérios de avaliação:**
+| Critério | Peso | Descrição |
+|----------|------|-----------|
+| **Conclusão** | 40% | A missão foi completada com sucesso? |
+| **Integridade** | 20% | Quantos membros da equipe sobreviveram sem auxílio externo? |
+| **Tempo** | 20% | Quão rápido o time completou o objetivo? |
+| **Liderança** | 10% | O líder manteve a coesão? Decisões foram sábias? |
+| **Criatividade** | 10% | Soluções inesperadas, uso inteligente de recursos limitados |
+
+**Por que é a prova mais importante:**
+- Testa tudo ao mesmo tempo: poder, inteligência, trabalho em equipe, liderança, adaptação, sobrevivência
+- Força guerreiros de reinos rivais a cooperar — diplomacia sob pressão extrema
+- Um participante fraco na Prova do Aether mas brilhante na das Cinzas pode se tornar lenda
+- Os observadores da Mesa dos 10 assistem a tudo — é aqui que recrutamentos silenciosos acontecem
+
+**Duração:** 7 Ud (Ud 15 ao Ud 21)
+
+---
+
+### Pontuação e Classificação Geral
+
+| Prova | Peso na pontuação geral | Vencedor recebe |
+|-------|------------------------|-----------------|
+| Prova do Aether | 20% | Ranking técnico automático |
+| Prova da Mente | 15% | Título de Estrategista |
+| Prova do Véu | 15% | Título de Sombra |
+| Prova do Aço | 25% | Título de Lâmina |
+| Prova das Cinzas | 25% | Título de Fênix |
+
+**Classificação final = soma ponderada das 5 provas.**
+
+### Prêmios
+
+| Posição | Título | Benefícios |
+|---------|--------|------------|
+| **1º geral** | **Nobre de Sanctrum por Mérito** | Título nobiliárquico vitalício + vaga na Equipe Aurora + assento de observador na Mesa dos 10 |
+| **2º geral** | **Lâmina de Sanctrum** | Vaga na Equipe Aurora + direito de audiência com o Guardião Mestre |
+| **3º geral** | **Escudo de Sanctrum** | Convite para servir como guarda avançada + privilégios diplomáticos |
+| **4º-10º** | **Coração dos Sete** | Honra continental; preferência em futuras convocações |
+
+> **Nobreza por mérito vs. nobreza de sangue:** O título de Nobre de Sanctrum por Mérito confere os mesmos direitos que um título hereditário — incluindo assento nas audiências da Mesa dos 10 e voz consultiva em sessões especiais. Isso cria tensão permanente entre aristocratas de nascimento e nobres de talento, uma dinâmica política central na obra.
+
+---
+
+## 🌟 Equipe Aurora
+
+Força de elite continental baseada em Sanctrum, formada exclusivamente por campeões do Dingir-en. O nome vem da aurora de Aurion — o primeiro brilho que surge antes do nascer da estrela, simbolizando esperança e renovação.
+
+**Composição:**
+- Membros ativos: entre 12 e 21 guerreiros (varia conforme ano)
+- Cada novo campeão do Dingir-en é convidado (não obrigado) a se juntar
+- A maioria aceita — o prestígio é imenso e os recursos de Sanctrum são inigualáveis
+- Membros podem servir por até 20 ciclos antes de se aposentarem
+
+**Missões:**
+- Defesa continental contra ameaças que ultrapassam a capacidade de um único reino
+- Missões diplomáticas de alto risco
+- Resposta a crises elementais (erupções, manifestações descontroladas de Aethra)
+- Operações de resgate em grande escala
+- Vigilância de pontos sensíveis (incluindo o selo de Myrtha)
+
+**Na narrativa:**
+- Ayla foi membro da Equipe Aurora antes de sua missão em Sylvaris — isso explica seu treinamento excepcional, suas conexões com Sanctrum, e por que o Selo dos Emissários foi dado a ela
+- A posição de Ayla na Equipe Aurora era prestigiosa o suficiente para que Aurelius a reconhecesse — e secreta o suficiente para que a missão que a levou a Grazielly nunca fosse registrada oficialmente
+
+---
+
+## 🎭 Festivais Regionais
+
+Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Dingir-sar. Estes refletem a cultura, o elemento dominante e as tradições locais.
+
+| Reino | Festival | Itu | Descrição |
+|-------|----------|-----|-----------|
+| **Sanctrum** | Dingir-sar | 13 | Mês sagrado: torneio, celebrações, vigília (ver seção dedicada) |
+| **Sanctrum** | Festa da Manopla | 3 | Celebração da Manopla de Vinculação; relicário aberto ao público por 1 Ud |
+| **Sylvaris** | Vento Cantante | 2 | Sylvaris florescem; música ao ar livre; as folhas tilintam em coro |
+| **Sylvaris** | Festival dos Veleiros | 8 | Retomada das rotas marítimas; regatas entre Velantis e Thalendris |
+| **Pyralis** | Noite das Forjas | 4 | Competição de ferraria; forjas públicas; pirotecnia com Aethra de fogo |
+| **Pyralis** | Festa da Chama Eterna | 1 | Reacendimento das chamas sagradas nas forjas primordiais de Pyralis |
+| **Umbra** | Festival das Sombras | 9 | Névoa de Umbra se expande; jogos de ocultação; máscaras obrigatórias |
+| **Umbra** | Noite dos Sussurros | 11 | Contação de histórias dos antigos; cerimônias secretas na névoa |
+| **Thalassia** | Maré Prateada | 5 | Thaluris sobem à superfície em cardumes; festividade aquática; pescaria sagrada |
+| **Thalassia** | Canto do Mar | 8 | Coral de baleias elementais ecoa pela costa; feriado de contemplação |
+| **Fulmora** | Dança das Auroras | 10 | Aurora boreal mais intensa do ano; competições elementais elétricas |
+| **Fulmora** | Festa dos Raios | 6 | Tempestades controladas iluminam o céu; festival de velocidade |
+| **Terraxis** | Colheita Profunda | 7 | Festa da terra; banquetes de Aethrys; competições de força |
+| **Terraxis** | Raízes do Mundo | 1 | Celebração das cavernas subterrâneas; festas nas profundezas |
+
+> **Nota:** Festivais regionais são independientes do Dingir-sar, mas reinos costumam usar o Itu de Dingir-sar para fazer alianças e acordos comerciais que foram negociados durante o torneio.
+
+---
+
 ## Frases Cerimoniais
 
 ### Canto de She-zu — A Semente que Não Morre (Cap. III)
