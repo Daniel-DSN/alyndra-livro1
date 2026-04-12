@@ -16,7 +16,7 @@
 
 ## I. A Noite das Três Luas
 
-A noite chegou diferente em Mespiria.
+A noite do primeiro Audin chegou diferente em Mespiria.
 
 Não era algo que os aldeões pudessem nomear com precisão. O céu estava claro, sem nuvens, e Aurion havia se posto como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento musical sendo esticada cada vez mais, esperando o momento em que finalmente se romperia.
 

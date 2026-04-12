@@ -164,7 +164,7 @@ Grazielly parou no topo da colina que dava acesso à vila, seus olhos percorrend
 
 — Ou você cresceu — Lyris respondeu suavemente.
 
-Grazielly olhou para Lyris, e em seus olhos havia algo que Lyris reconheceu — a percepção dolorosa de que os lugares da infância, quando revisitados, nunca são tão grandes quanto a memória os fez ser. Uma lição que a maioria das pessoas aprende na vida adulta, mas que Grazielly estava aprendendo aos quatro anos — quase cinco, porque naquela semana ela completaria cinco anos, um detalhe que Lyris não havia esquecido.
+Grazielly olhou para Lyris, e em seus olhos havia algo que Lyris reconheceu — a percepção dolorosa de que os lugares da infância, quando revisitados, nunca são tão grandes quanto a memória os fez ser. Uma lição que a maioria das pessoas aprende na vida adulta, mas que Grazielly estava aprendendo aos quatro anos — quase cinco, porque naquela semana ela completaria cinco anos — no próximo Audin, o mesmo dia de seu nascimento —, um detalhe que Lyris não havia esquecido.
 
 Os Aga Uru acompanharam-nas pela rua principal em silêncio profissional. Torvas sinalizou com a mão para que os Aga Uru se posicionassem nas extremidades da rua enquanto Lyris e Grazielly caminhavam para o centro da vila. Mespiria não era perigosa, mas os guerreiros de Sylvaris não deixavam nada ao acaso.
 
@@ -525,7 +525,7 @@ Ela permaneceu na porta por um longo momento, observando. Observando a criança 
 
 *Nyx — o Lyrien prateado — foi resgatado com sucesso. Vínculo com a criança confirmado como profundo e permanente. Saúde do animal: recuperando.*
 
-*Grazielly completou cinco anos hoje. A criança está bem.*
+*Grazielly completou cinco anos hoje, no primeiro Audin do Itu do Despertar. A criança está bem.*
 
 Lyris afastou-se da porta e caminhou pelo corredor silencioso do orfanato, seus passos ecoando na pedra com o ritmo medido de quem está acostumada a andar nas sombras. O vento de Sylvaris soprava do lado de fora, carregando o perfume das Giralis que se abriam durante a noite e o chiado distante dos Sylvaris nas colinas ao redor da Cidadela Luminis.
 

@@ -1153,7 +1153,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 # 👥 PERSONAGENS PRINCIPAIS
 
 ## Grazielly
-- **Nascimento:** Durante Convergência Tripla, na vila de Mespiria
+- **Nascimento:** Audin, 1º Ud do Itu do Despertar, 4.098 E.D. — durante a 8ª Convergência Tripla, na vila de Mespiria
 - **Mãe:** Ayla (falecida no parto)
 - **Pai:** Aurelius (Guardião Mestre, identidade secreta)
 - **Afinidade:** Cryonys (gelo) - extremamente rara
@@ -1593,7 +1593,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 
 | Evento | Idade de Grazielly | Capítulo |
 |--------|-------------------|----------|
-| Nascimento de Grazielly / Morte de Ayla | 0 | 1-2 |
+| Nascimento de Grazielly / Morte de Ayla | 0 (Audin, 1º Ud do Itu do Despertar, 4.098 E.D.) | 1-2 |
 | Morte de Melessa | 4 | 3 |
 | Resgate de Nyx (lyrien) | 4 | 4 |
 | Chegada ao Orfanato Luminis | 4 | 3-4 |
@@ -1786,7 +1786,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | 5ª | 1.017 E.D. | 1.017 | Primeira Convergência do mundo selado |
 | 6ª | 2.084 E.D. | 1.067 | Ordem dos Mestres se consolida |
 | 7ª | 3.041 E.D. | 957 | Era dos Sete Reinos estabelecida |
-| **8ª** | **4.098 E.D.** | **1.057** | **Nascimento de Grazielly em Mespiria** |
+| **8ª** | **4.098 E.D.** | **1.057** | **Nascimento de Grazielly em Mespiria** (Audin, 1º Ud do Itu do Despertar) |
 
 **Ano da narrativa atual: 4.098 E.D.**
 

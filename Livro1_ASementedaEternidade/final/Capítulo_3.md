@@ -176,7 +176,7 @@ Melessa escreveu a carta com mãos que tremiam não de fraqueza, mas de determin
 
 *Mas eu preciso acreditar que sim. Preciso acreditar que o homem que fez uma mulher sorrir nos momentos mais difíceis de sua vida ainda é digno da confiança que ela depositou nele.*
 
-*Ayla morreu. Há quatro anos, na noite em que as três luas convergiram. Ela morreu dando à luz uma menina — uma criança que Ayla chamou de Grazielly. Eu a trouxe ao mundo. Prometi a Ayla que cuidaria de sua filha. E cumpri essa promessa da melhor forma que pude.*
+*Ayla morreu. Há quatro anos, na noite do primeiro Audin do Itu do Despertar, quando as três luas convergiram. Ela morreu dando à luz uma menina — uma criança que Ayla chamou de Grazielly. Eu a trouxe ao mundo. Prometi a Ayla que cuidaria de sua filha. E cumpri essa promessa da melhor forma que pude.*
 
 *Mas agora estou morrendo. E Grazielly ficará sozinha.*
 
@@ -208,7 +208,7 @@ E em Sanctrum, do outro lado do continente, a carta finalmente chegou.
 
 ## IV. A Convocação
 
-A noite em que a carta chegou ao Palácio do Grande Mestre, Aurelius estava em seu gabinete, lidando com relatórios sobre a atividade de Nihilaryth nas fronteiras de Umbra — a ameaça constante que consumia a maior parte de suas noites de vigília. Quando o assistente trouxe o envelope, lacrado com cera simples, sem os selos oficiais que normalmente acompanhavam correspondência destinada ao En Me, ele quase o descartou como uma das centenas de petições que chegavam diariamente de cidadãos comuns que buscavam a atenção do Guardião Mestre.
+Numa noite de Lyrdin, a carta chegou ao Palácio do Grande Mestre — Aurelius estava em seu gabinete, lidando com relatórios sobre a atividade de Nihilaryth nas fronteiras de Umbra — a ameaça constante que consumia a maior parte de suas noites de vigília. Quando o assistente trouxe o envelope, lacrado com cera simples, sem os selos oficiais que normalmente acompanhavam correspondência destinada ao En Me, ele quase o descartou como uma das centenas de petições que chegavam diariamente de cidadãos comuns que buscavam a atenção do Guardião Mestre.
 
 Mas seu nome estava escrito na frente, em uma caligrafia trêmula, mas cuidadosa. E abaixo do nome, em letras menores: *"Da parte de Ayla."*
 
