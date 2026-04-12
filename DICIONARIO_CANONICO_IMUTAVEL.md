@@ -1033,7 +1033,7 @@ Representação dos Sete Reinos, agora com **2 representantes por reino** (Líde
 | **Umbra** | Sombra Vinculadora | Sentinela do Norte |
 | **Aetherion Prime** | Representante do GM | Chanceler Central |
 
-**Nota:** A atual Maré Vinculadora de Thalassia assumiu o cargo após o afastamento de Ayla da Equipe Aurora.
+**Nota:** A atual Maré Vinculadora de Thalassia assumiu o cargo após o afastamento de Ayla da guilda Equipe Aurora.
 
 ---
 
@@ -1103,7 +1103,9 @@ Um caçador de recompensas que opera nas **"Terras de Ninguém"** entre Terraxis
 
 ## Vanguardas
 
-Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a justiça dos Mestres falha. Cada um adota o codinome de uma criatura nativa de Nova Aetherion.
+Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferente de guildas reconhecidas como a Equipe Aurora, a Vanguarda não possui sede registrada nem líder identificado perante a Mesa dos 10 — e por isso é considerada **ilegal** por Sanctrum e pelos Sete Reinos. Seus membros se inspiram no povo quando a justiça dos Mestres falha. Cada um adota o codinome de uma criatura nativa de Nova Aetherion.
+
+**Relação com Sanctrum:** A tolerância de Aurelius à Vanguarda não é acidental. Ele possui laços com a organização que remontam ao período em que liderava a Equipe Aurora — época em que membros de ambos os lados compartilhavam as mesmas causas. Essa história compartilhada é a razão pela qual a Vanguarda consegue operar sem ser caçada ativamente por Sanctrum, embora nunca seja endossada oficialmente.
 
 ### Estrutura da Vanguarda
 
@@ -1162,7 +1164,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - **Linhagem:** Sangue Seraphyen (via Aurelius) + Linhagem de manipuladores de água (via Ayla/avô)
 
 ## Ayla (Falecida)
-- Ex-guerreira da Equipe Aurora
+- Ex-guerreira da guilda Equipe Aurora
 - Amante secreta de Aurelius
 - Morreu dando à luz Grazielly
 - Enterro: túmulo em Mespiria, abençoado por Elara
@@ -1395,7 +1397,7 @@ Rito de duelo tradicional de Thalassia para determinar o futuro líder do reino.
 
 | Evento | Detalhe |
 |--------|---------|
-| **Contexto** | Ayla (Equipe Aurora) afastou-se de Thalassia |
+| **Contexto** | Ayla (guilda Equipe Aurora) afastou-se de Thalassia |
 | **Resultado** | A atual Maré Vinculadora assumiu após vencer o Torneio |
 | **Legitimidade** | Reconhecida pelo Conselho e pelo povo |
 | **Relação com Ayla** | Possível conhecimento sobre sua linhagem |
@@ -1871,7 +1873,7 @@ Data de lembrança de Nyxalor, o Filho Legítimo das Sombras, selado por Ilyos. 
 
 ## ⚔️ Dingir-en — O Torneio Continental
 
-**𒂍𒂍 Dingir-en** — "A Prova dos Divinos". Torneio anual realizado em Sanctrum durante o Itu de Dingir-sar. Os 7 Reinos enviam seus melhores guerreiros para competir em cinco provas distintas. O campeão geral recebe o título de **Nobre de Sanctrum por Mérito** e vaga na **Equipe Aurora**.
+**𒂍𒂍 Dingir-en** — "A Prova dos Divinos". Torneio anual realizado em Sanctrum durante o Itu de Dingir-sar. Os 7 Reinos enviam seus melhores guerreiros para competir em cinco provas distintas. O campeão geral recebe o título de **Nobre de Sanctrum por Mérito** e o direito de se juntar a qualquer guilda reconhecida de Aetherion — incluindo a Equipe Aurora, quando ativa.
 
 ### Regras Gerais
 
@@ -2007,8 +2009,8 @@ Este é o evento mais esperado e mais brutal do torneio. É aqui que lendas nasc
 
 | Posição | Título | Benefícios |
 |---------|--------|------------|
-| **1º geral** | **Nobre de Sanctrum por Mérito** | Título nobiliárquico vitalício + vaga na Equipe Aurora + assento de observador na Mesa dos 10 |
-| **2º geral** | **Lâmina de Sanctrum** | Vaga na Equipe Aurora + direito de audiência com o Guardião Mestre |
+| **1º geral** | **Nobre de Sanctrum por Mérito** | Título nobiliárquico vitalício + direito de ingresso em qualquer guilda reconhecida + assento de observador na Mesa dos 10 |
+| **2º geral** | **Lâmina de Sanctrum** | Direito de ingresso em qualquer guilda reconhecida + audiência com o Guardião Mestre |
 | **3º geral** | **Escudo de Sanctrum** | Convite para servir como guarda avançada + privilégios diplomáticos |
 | **4º-10º** | **Coração dos Sete** | Honra continental; preferência em futuras convocações |
 
@@ -2016,26 +2018,49 @@ Este é o evento mais esperado e mais brutal do torneio. É aqui que lendas nasc
 
 ---
 
-## 🌟 Equipe Aurora
+## 🛡️ Sistema de Guildas de Aetherion
 
-Força de elite continental baseada em Sanctrum, formada exclusivamente por campeões do Dingir-en. O nome vem da aurora de Aurion — o primeiro brilho que surge antes do nascer da estrela, simbolizando esperança e renovação.
+As guildas de guerreiros são organizações formais reconhecidas (ou não) em toda Nova Aetherion. Não são exércitos reais — são ordens independentes com missões específicas, regidas por leis gerais continentais e leis internas próprias. Cada guilda tem seus Mestres, suas regras e sua afiliação.
 
-**Composição:**
-- Membros ativos: entre 12 e 21 guerreiros (varia conforme ano)
-- Cada novo campeão do Dingir-en é convidado (não obrigado) a se juntar
-- A maioria aceita — o prestígio é imenso e os recursos de Sanctrum são inigualáveis
-- Membros podem servir por até 20 ciclos antes de se aposentarem
+**Leis gerais (estabelecidas pela Mesa dos 10 e acatadas pelos Sete Reinos):**
+- Toda guilda deve ter um líder identificado e uma sede registrada para operar legalmente
+- Guildas legais não podem atuar como exércitos particulares dentro dos reinos sem autorização real
+- Conflitos entre guildas são mediados por Sanctrum quando envolvem ameaça continental
+- Técnicas letais contra civis são proibidas — a pena é dissolução da guilda
 
-**Missões:**
-- Defesa continental contra ameaças que ultrapassam a capacidade de um único reino
-- Missões diplomáticas de alto risco
-- Resposta a crises elementais (erupções, manifestações descontroladas de Aethra)
-- Operações de resgate em grande escala
-- Vigilância de pontos sensíveis (incluindo o selo de Myrtha)
+**Leis internas (variam por guilda):**
+- Código de conduta próprio (juramentos, rituais de admissão, hierarquias)
+- Processo seletivo independente — cada guilda escolhe seus membros como quiser
+- Hierarquia de Mestres, Comandantes e Operativos
+
+**Exemplos de guildas conhecidas:**
+- **Equipe Aurora** — Elite de missões perigosas (apoiada por Sanctrum)
+- **Sindicato do Gelo Negro** — Mercenários e caçadores de recompensa (Umbralis, Umbra)
+- Outras guildas regionais menores existem nos Sete Reinos, com focos variados
+
+---
+
+## 🌟 Guilda Equipe Aurora
+
+Guilda de guerreiros de elite, inicialmente uma iniciativa apoiada por Sanctrum para criar uma força de resposta a missões de perigo extremo que ultrapassassem a capacidade de qualquer reino individual. Não é uma equipe fixa de Sanctrum — é uma guilda independente com liderança própria, Mestres de Guilda e sede própria.
+
+O nome vem da aurora de Aurion — o primeiro brilho que surge antes do nascer da estrela, simbolizando esperança e renovação.
+
+**Características:**
+- Membros de todos os Sete Reinos — não é exclusiva de Sanctrum
+- Recrutamento por mérito: o Dingir-en é uma das portas de entrada (campeões recebem convite), mas existem outras formas de admissão
+- Missões: defesa continental, crises elementais, resgate em grande escala, vigilância de pontos sensíveis (incluindo o selo de Myrtha), operações diplomáticas de alto risco
+- Sanctrum fornece apoio logístico e reconhecimento formal, mas não comanda as operações
+
+**Liderança histórica:**
+- A guilda teve vários Mestres ao longo de sua história
+- **Aurelius** foi um de seus últimos líderes antes de assumir como Guardião Mestre de Sanctrum
+- Sua passagem pela Equipe Aurora é parte do que o tornou uma lenda viva — e explica suas conexões profundas com guerreiros de todo o continente
 
 **Na narrativa:**
-- Ayla foi membro da Equipe Aurora antes de sua missão em Sylvaris — isso explica seu treinamento excepcional, suas conexões com Sanctrum, e por que o Selo dos Emissários foi dado a ela
-- A posição de Ayla na Equipe Aurora era prestigiosa o suficiente para que Aurelius a reconhecesse — e secreta o suficiente para que a missão que a levou a Grazielly nunca fosse registrada oficialmente
+- **Ayla** foi membro da Equipe Aurora antes de sua missão em Sylvaris — isso explica seu treinamento excepcional, suas conexões continentais e por que portava o Selo dos Emissários
+- A posição de Ayla na guilda era prestigiosa o suficiente para que Aurelius a reconhecesse — e secreta o suficiente para que a missão que a levou a Grazielly nunca fosse registrada oficialmente
+- A relação entre Aurelius (ex-líder da Aurora) e a Vanguarda (guilda clandestina) tem raízes nesse período — laços formados quando ambos os lados lutavam pelas mesmas causas, antes de seguirem caminhos diferentes
 
 ---
 
