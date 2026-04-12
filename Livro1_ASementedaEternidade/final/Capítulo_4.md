@@ -76,7 +76,7 @@ Grazielly comeu outra colherada. Depois outra. E antes que percebesse, a tigela 
 
 — Viu? — Mira disse, sorrindo com a satisfação de quem ganhou uma aposta silenciosa. — Eu disse que você ia gostar daqui.
 
-E então, como se a insatisfação de uma criança de oito anos com o silêncio fosse uma força da natureza, Mira se levantou e puxou Grazielly pelo braço.
+E então, como se a insatisfação de uma criança de dez anos com o silêncio fosse uma força da natureza, Mira se levantou e puxou Grazielly pelo braço.
 
 — Vem, a história só começa daqui a pouco. Quero te mostrar uma coisa antes.
 
@@ -371,7 +371,7 @@ E mostraria àquela criança uma última peça do mundo que ela havia perdido.
 
 ---
 
-Grazielly chegou ao Orfanato Luminis carregando o peso de uma perda devastadora — a avó Melessa havia partido, e o Lyrien Nyx ficara para trás em Mespiria, sob a neve. Sua primeira noite foi marcada pelo silêncio e pela dor, mas também pelos primeiros gestos de acolhimento: Mira, a menina de oito anos que a recebeu com um sorriso insistente, levou-a ao jantar e a um tour pelo orfanato. Na biblioteca, Mirella contou a história de Ventus, o último dos Seraphyens, e Grazielly sentiu uma conexão profunda e inexplicável com aquele nome — um reconhecimento que vinha de algo mais antigo que a própria memória. Enquanto isso, Lyris observava da sala ao lado, e em uma conversa com Luminara Elara, a diretora do orfanato, revelou a separação forçada entre Grazielly e Nyx. Elara, com a sabedoria de décadas cuidando de crianças partidas, prometeu proteger a menina até que as estradas reabrissem. Na primeira manhã, Grazielly encontrou no jardim a estátua de Ventus — e uma Sylari pousou em seu ombro como se o próprio vento quisesse lhe dizer que ela não estava sozinha.
+Grazielly chegou ao Orfanato Luminis carregando o peso de uma perda devastadora — a avó Melessa havia partido, e o Lyrien Nyx ficara para trás em Mespiria, sob a neve. Sua primeira noite foi marcada pelo silêncio e pela dor, mas também pelos primeiros gestos de acolhimento: Mira, a menina de dez anos que a recebeu com um sorriso insistente, levou-a ao jantar e a um tour pelo orfanato. Na biblioteca, Mirella contou a história de Ventus, o último dos Seraphyens, e Grazielly sentiu uma conexão profunda e inexplicável com aquele nome — um reconhecimento que vinha de algo mais antigo que a própria memória. Enquanto isso, Lyris observava da sala ao lado, e em uma conversa com Luminara Elara, a diretora do orfanato, revelou a separação forçada entre Grazielly e Nyx. Elara, com a sabedoria de décadas cuidando de crianças partidas, prometeu proteger a menina até que as estradas reabrissem. Na primeira manhã, Grazielly encontrou no jardim a estátua de Ventus — e uma Sylari pousou em seu ombro como se o próprio vento quisesse lhe dizer que ela não estava sozinha.
 
 *"Quando tudo o que conhecemos desaparece, restam duas escolhas: construir algo novo sobre as cinzas ou deixar que o vento leve o que sobrou."*
 
@@ -403,7 +403,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 |------|------|--------|----------------------|
 | **Grazielly** | 4 anos | Órfã recém-chegada ao Orfanato Luminis | Herdeira; primeira conexão profunda com Ventus; separada de Nyx |
 | **Lyris (Nyctara)** | — | Guardiã de Grazielly; agente da Ordem | Faz promessa pessoal de buscar Nyx; revela humanidade |
-| **Mira** | ~8 anos | Primeira amiga de Grazielly no orfanato | Guia acolhedora; afinidade Terra fraca; quebra o isolamento de Grazielly |
+| **Mira** | 10 anos | Primeira amiga de Grazielly no orfanato | Guia acolhedora; afinidade Terra fraca; quebra o isolamento de Grazielly |
 | **Luminara Elara** | — | Diretora do Orfanato Luminis | Décadas de experiência; percebe a gravidade da separação Nyx-Grazielly |
 | **Nyx (Lyrien)** | — | Companheiro animal de Grazielly | Vivo em Mespiria, esperando retorno; presença ausente que domina o capítulo |
 | **Melessa** | — | Avó adotiva de Grazielly | Falecida; mencionada na dor de Grazielly e no sonho |
