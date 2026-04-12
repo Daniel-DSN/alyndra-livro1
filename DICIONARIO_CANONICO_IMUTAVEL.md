@@ -472,7 +472,7 @@ Guerreiros experientes, comandantes consolidados e **a maioria dos líderes elem
 Os mais fortes entre mortais **sem** artefatos primordiais ou Sementes Etéricas ativadas. Seres cuja qualidade de execução transcende a quantidade de Æ — décadas de refinamento, genialidade tática e experiência de combate contra ameaças existenciais. Lendas vivas cuja presença muda o curso de conflitos regionais. Dominam seus elementos com mestria notável (ε > 75%).
 
 - **Líder do Fogo (Pyralis):** Um dos líderes mais fortes da atualidade. Fogo em mãos de um mestre de Nível 4 é devastador — capaz de reduzir fortalezas a cinzas e derreter defesas elementais. Atingiu Nível 4 por pura **disciplina e treinamento implacável** ao longo de décadas.
-- **Lyris (A Nyctara):** Seu Æ bruto (~3.000 Æ) a colocaria tecnicamente no Nível 3. Porém, Lyris é **Nível 4** pela qualidade absoluta de sua execução: ε 82% (excepcional para seu volume), Thermaris (SynDrarys rara), e genialidade tática forjada em décadas de operações da Vanguarda. Prova viva de que **acesso e refinamento supremacia quantidade**.
+- **Lyris (A Nyctara):** Seu Æ bruto (~3.000 Æ) a colocaria tecnicamente no Nível 3. Porém, Lyris é **Nível 4** pela qualidade absoluta de sua execução: ε 82% (excepcional para seu volume), Thermaris (SynDrarys rara), e genialidade tática forjada em décadas de operações dos Nyctari. Prova viva de que **acesso e refinamento supremacia quantidade**.
 
 > **Diferença fundamental entre Nível 3 e 4:** Ambos compartilham faixas de Æ similares (1.000-50.000 Æ). O que separa um Veterano de uma Lenda não é energia — é **décadas de refinamento brutal, experiência de combate real e genialidade tática**. O Veterano é confiável. A Lenda é temida.
 
@@ -583,7 +583,7 @@ Poder que transcende qualquer medição concebível — torna irrelevante o pró
 | **5** | **Círculo de Cristal** | 3-5 Anciãos | Variado | Primordiais (VII.m-s); poder de veto sobre o GM |
 | **5** | **Nin Aga** | Comandante supremo | Mono | Estágio VII.i-m; comandante militar máximo da Ordem |
 | **4** | **Líder do Fogo** (Pyralis) | Ativo | Fogo | Um dos mais fortes líderes; disciplina implacável |
-| **4** | **Lyris Vaelcoris** (A Nyctara) | Ativa (Vanguarda) | Thermaris | Lenda viva; ε 82%; qualidade sobre quantidade |
+| **4** | **Lyris Vaelcoris** (A Nyctara) | Ativa (Nyctari) | Thermaris | Lenda viva; ε 82%; qualidade sobre quantidade |
 | **4** | **Grazielly** | + Armadura Seraphyen (pico) | Cryonys + Água Sombra | Domínio pleno da armadura; uma das mais perigosas entre mortais |
 | **3** | **Thaloris Ventaris** | Lugal Lil de Sylvaris | Vento | Poder bruto Veterano; perigo = influência + Rede dos Sussurros |
 | **3** | **Líder da Água** (Thalassia) | Ativo | Água | Comando sólido; defesa das ilhas; similar ao Vento |
@@ -593,7 +593,7 @@ Poder que transcende qualquer medição concebível — torna irrelevante o pró
 | **3** | **Mestra Caliana** | Vento do Norte | Vento/Terra | Defesa e fronteiras de Sylvaris |
 | **2** | **Líder do Relâmpago** (Fulmora) | Ativo | Relâmpago | Potencial de Nível 4; treinamento negligenciado |
 | **2** | **Selina Thalassa** | Conselho dos 10 | Mente/Espaço? | Mestra da Informação; poder = inteligência |
-| **2** | **Vaeola Lyrendis** (A Sentinela) | Conselho dos 10 | Mono | Mestra da Vigia; informante da Vanguarda |
+| **2** | **Vaeola Lyrendis** (A Sentinela) | Conselho dos 10 | Mono | Mestra da Vigia; informante dos Nyctari |
 | **2** | **Príncipe Darian Ascanius** | Herdeiro de Sylvaris | Vento | Esquadrilha Fantasma; jovem e impetuoso |
 | **2** | **Vethran Noll** | Mestre dos Sussurros | Mental | Æ baixo (~900); poder real = Rede dos Sussurros |
 | **1** | **Grazielly** | Despertando (Livro 1) | Cryonys | *Potencial imensurável; acesso próximo de zero por inexperiência |
@@ -975,8 +975,8 @@ Dispositivos analógicos usados por agentes de Umbra para capturar assinaturas e
 
 ### Thalassia
 - **Thalyra** — Cidade costeira, Festival das Águas
-  - **Ponto de contato da Vanguarda** — local de encontro para operações secretas
-  - Onde Lyris encontrou **Vaeola Lyrendis (A Sentinela)**, informante da Vanguarda
+  - **Ponto de contato dos Nyctari** — local de encontro para operações secretas
+  - Onde Lyris encontrou **Vaeola Lyrendis (A Sentinela)**, informante dos Nyctari
 - **Selina Thalassa ("A Velatrix")** opera em Sanctrum, não em Thalyra
 
 ### Terraxis/Umbra
@@ -1033,7 +1033,7 @@ Representação dos Sete Reinos, agora com **2 representantes por reino** (Líde
 | **Umbra** | Sombra Vinculadora | Sentinela do Norte |
 | **Aetherion Prime** | Representante do GM | Chanceler Central |
 
-**Nota:** A atual Maré Vinculadora de Thalassia assumiu o cargo após o afastamento de Ayla da guilda Equipe Aurora.
+**Nota:** A atual Maré Vinculadora de Thalassia assumiu o cargo após o afastamento de Ayla da guilda Mul-vael.
 
 ---
 
@@ -1043,7 +1043,7 @@ Representação dos Sete Reinos, agora com **2 representantes por reino** (Líde
 
 | Assento | Função | Ocupante Atual | Observações |
 |---------|--------|----------------|-------------|
-| **Mestra da Informação** | Inteligência e redes de informação | **Selina Thalassa** | Nó central da Vanguarda |
+| **Mestra da Informação** | Inteligência e redes de informação | **Selina Thalassa** | Nó central dos Nyctari |
 | **Mestre de Ciência** | Pesquisa e desenvolvimento | *Burocrático* | Futuro assento de **Noah** |
 | **Marechal de Ferro** | Comando estratégico militar | *A definir* | Novo assento |
 | **A Sentinela** | Vigilância global de fronteiras | *A definir* | Novo assento |
@@ -1069,7 +1069,7 @@ Agência oficial de inteligência de Sanctrum, subordinada diretamente a **Selin
 | **Sede** | Sanctrum, Aetherion Prime |
 | **Função** | Coleta de informações, contra-inteligência, vigilância de ameaças Nihilaryth |
 | **Estrutura** | Células operacionais em todos os reinos |
-| **Relação com Vanguarda** | Fonte de inteligência para operações secretas |
+| **Relação com os Nyctari** | Fonte de inteligência para operações secretas |
 
 ---
 
@@ -1101,17 +1101,17 @@ Um caçador de recompensas que opera nas **"Terras de Ninguém"** entre Terraxis
 
 ---
 
-## Vanguardas
+## Nyctari 𒉌𒀀
 
-Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferente de guildas reconhecidas como a Equipe Aurora, a Vanguarda não possui sede registrada nem líder identificado perante a Mesa dos 10 — e por isso é considerada **ilegal** por Sanctrum e pelos Sete Reinos. Seus membros se inspiram no povo quando a justiça dos Mestres falha. Cada um adota o codinome de uma criatura nativa de Nova Aetherion.
+Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferente de guildas reconhecidas como os Mul-vael, Nyctari não possui sede registrada nem líder identificado perante a Mesa dos 10 — e por isso é considerada **ilegal** por Sanctrum e pelos Sete Reinos. Seus membros se inspiram no povo quando a justiça dos Mestres falha. Cada um adota o codinome de uma criatura nativa de Nova Aetherion.
 
-**Relação com Sanctrum:** A tolerância de Aurelius à Vanguarda não é acidental. Ele possui laços com a organização que remontam ao período em que liderava a Equipe Aurora — época em que membros de ambos os lados compartilhavam as mesmas causas. Essa história compartilhada é a razão pela qual a Vanguarda consegue operar sem ser caçada ativamente por Sanctrum, embora nunca seja endossada oficialmente.
+**Relação com Sanctrum:** A tolerância de Aurelius aos Nyctari não é acidental. Ele possui laços com a organização que remontam ao período em que liderava os Mul-vael — época em que membros de ambos os lados compartilhavam as mesmas causas. Essa história compartilhada é a razão pela qual os Nyctari conseguem operar sem ser caçados ativamente por Sanctrum, embora nunca sejam endossados oficialmente.
 
-### Estrutura da Vanguarda
+### Estrutura dos Nyctari
 
 | Função | Descrição |
 |--------|-----------|
-| **Líder da Vanguarda** | *Identidade oculta*; opera sob comando estratégico de alguém com laços profundos com a antiga **Equipe Aurora** |
+| **Líder dos Nyctari** | *Identidade oculta*; opera sob comando estratégico de alguém com laços profundos com a antiga **Mul-vael** |
 | **Destinatário Final** | Recebe relatórios e coordena operações de alto nível |
 
 ### Membros Conhecidos
@@ -1122,7 +1122,7 @@ Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferent
 | **A Nyctara** | Corvídeo noturno das névoas de Umbra | **Lyris** | Caça pelo Sussurro Etérico (Aethra), silêncio absoluto, percepção sem olhos |
 | **O Velatrix** | Ave de rapina de Sylvaris | *Desconhecida* | Velocidade extrema, precisão mortal |
 
-**⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
+**⚠️ NUNCA usar nomes de animais terrestres para Nyctari.**
 
 ---
 
@@ -1164,7 +1164,7 @@ Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferent
 - **Linhagem:** Sangue Seraphyen (via Aurelius) + Linhagem de manipuladores de água (via Ayla/avô)
 
 ## Ayla (Falecida)
-- Ex-guerreira da guilda Equipe Aurora
+- Ex-guerreira da guilda Mul-vael
 - Amante secreta de Aurelius
 - Morreu dando à luz Grazielly
 - Enterro: túmulo em Mespiria, abençoado por Elara
@@ -1191,7 +1191,7 @@ Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferent
 - Descobriu existência do avô de Grazielly (em Thalyra, Festival das Águas)
 - **Afinidade:** Thermaris (Vapor) — fusão rara de Água + Fogo
 - **Estágio:** V - Transcendente (~3.000 Æ)
-- **Vanguarda:** Membro secreto, codinome **"A Nyctara"**
+- **Nyctari:** Membro secreto, codinome **"A Nyctara"**
 - **Uso de poder:** Preserva disfarce de "aposentada pacata" — só usa Thermaris em casos extremos
 - **Habilidades:** Cortinas de névoa quente para fuga, ataques de pressão térmica, incapacitação sem matar
 
@@ -1214,7 +1214,7 @@ Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferent
 - Descendente de linhagem nobre de Thalassia
 
 ## Função Secreta
-- **Nó central de inteligência da Vanguarda**
+- **Nó central de inteligência dos Nyctari**
 - Coordena rede de informantes em todos os reinos
 - Ponto de contato para operações sensíveis
 
@@ -1251,7 +1251,7 @@ Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferent
 ## 👤 O ARQUITETO DAS SOMBRAS (ANTAGONISTA EMERGENTE)
 
 ## Identidade
-- **Codinome Interno da Vanguarda:** "O Arquiteto"
+- **Codinome Interno dos Nyctari:** "O Arquiteto"
 - **Nome Verdadeiro:** Desconhecido
 - **Status:** Identidade parcialmente desconhecida — operando nas sombras
 
@@ -1321,7 +1321,7 @@ Guilda clandestina de heróis mascarados que opera fora da lei oficial. Diferent
 - Inteligente, sarcástica, direta ao ponto
 
 ## Função Secreta
-- **Informante da Vanguarda em Thalyra**
+- **Informante dos Nyctari em Thalyra**
 - Ponto de contato local para operações em Thalassia
 - Conectada à rede de inteligência de Selina Thalassa
 
@@ -1397,7 +1397,7 @@ Rito de duelo tradicional de Thalassia para determinar o futuro líder do reino.
 
 | Evento | Detalhe |
 |--------|---------|
-| **Contexto** | Ayla (guilda Equipe Aurora) afastou-se de Thalassia |
+| **Contexto** | Ayla (guilda Mul-vael) afastou-se de Thalassia |
 | **Resultado** | A atual Maré Vinculadora assumiu após vencer o Torneio |
 | **Legitimidade** | Reconhecida pelo Conselho e pelo povo |
 | **Relação com Ayla** | Possível conhecimento sobre sua linhagem |
@@ -1413,7 +1413,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | **Registros** | Arquivos antigos sobre os "Filhos do Mar Profundo" |
 | **Selina Thalassa** | Possui conhecimento sobre a linhagem Marethyu |
 | **Festival das Águas** | Onde Lyris obteve informações sobre o avô de Grazielly |
-| **Thalyra** | Cidade costeira; ponto de encontro com a Vanguarda |
+| **Thalyra** | Cidade costeira; ponto de encontro com os Nyctari |
 
 ---
 
@@ -1564,7 +1564,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 | O medo da presa a guia até ela | Como agente de inteligência, Lyris usa as emoções dos alvos — medo, culpa, esperança — para extrair informações |
 | Silêncio absoluto | Thermaris (Vapor) cria cortinas de névoa que ocultam seus movimentos |
 | A névoa é seu domínio, não sua prisão | Lyris se disfarça de "aposentada pacata" em Velantis — a aparente fraqueza é sua maior arma |
-| Penas negras com brilho oculto | Sua identidade como Vanguarda é o segredo mais bem guardado de Sylvaris |
+| Penas negras com brilho oculto | Sua identidade dos Nyctari é o segredo mais bem guardado de Sylvaris |
 | O Aethra não mente | Termonisa (Thermaris) não distorce — ela revela o que está oculto sob pressão térmica |
 
 > A Nyctara não escolheu a névoa. A névoa a escolheu. E Lyris entende isso melhor do que ninguém: não são os olhos que definem quem vê a verdade — é a disposição de mergulhar na escuridão e confiar no que os outros sentem, mas não conseguem nomear.
@@ -1575,7 +1575,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 |------|--------|-----------|
 | **Aeros** | Extinto | Criaturas voadoras lendárias que deram nome ao Orfanato Luminis |
 
-## Criaturas para Codinomes de Vanguardas
+## Criaturas para Codinomes dos Nyctari
 
 | Nome Comum | Nome Ancestral (Emê-Gir) | Habitat | Características | Codinome Usado Por |
 |------|--------------------------|---------|-----------------|-------------------|
@@ -1717,6 +1717,8 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Nam-tar** | Tecer destino | Profecias, rituais |
 | **Im-ma** | Vento | Sylvaris |
 | **A-ma-ru** | Árvore-mãe | Referência à Árvore da Existência |
+| **Mul-vael** 𒈦𒁉 | Guardiões Estelares | Guilda de elite; Mul = estrela, vael = guardião |
+| **Nyctari** 𒉌𒀀 | Os das Sombras | Guilda clandestina; deriva de Nyx = noite/mistério |
 
 ## Flora em Língua Antiga
 
@@ -1873,7 +1875,7 @@ Data de lembrança de Nyxalor, o Filho Legítimo das Sombras, selado por Ilyos. 
 
 ## ⚔️ Dingir-en — O Torneio Continental
 
-**𒂍𒂍 Dingir-en** — "A Prova dos Divinos". Torneio anual realizado em Sanctrum durante o Itu de Dingir-sar. Os 7 Reinos enviam seus melhores guerreiros para competir em cinco provas distintas. O campeão geral recebe o título de **Nobre de Sanctrum por Mérito** e o direito de se juntar a qualquer guilda reconhecida de Aetherion — incluindo a Equipe Aurora, quando ativa.
+**𒂍𒂍 Dingir-en** — "A Prova dos Divinos". Torneio anual realizado em Sanctrum durante o Itu de Dingir-sar. Os 7 Reinos enviam seus melhores guerreiros para competir em cinco provas distintas. O campeão geral recebe o título de **Nobre de Sanctrum por Mérito** e o direito de se juntar a qualquer guilda reconhecida de Aetherion — incluindo a Mul-vael, quando ativa.
 
 ### Regras Gerais
 
@@ -2020,7 +2022,19 @@ Este é o evento mais esperado e mais brutal do torneio. É aqui que lendas nasc
 
 ## 🛡️ Sistema de Guildas de Aetherion
 
-As guildas de guerreiros são organizações formais reconhecidas (ou não) em toda Nova Aetherion. Não são exércitos reais — são ordens independentes com missões específicas, regidas por leis gerais continentais e leis internas próprias. Cada guilda tem seus Mestres, suas regras e sua afiliação.
+As guildas de guerreiros são organizações que funcionam como **facções políticas e militares** em Nova Aetherion. Elas nascem nos reinos — formadas por guerreiros que compartilham ideais, afinidades elementais ou interesses comuns — e migram para Sanctrum em busca de poder e influência continental. Não são exércitos reais, mas ordens independentes com missões específicas, leis internas próprias e ambições políticas.
+
+**Guildas como partidos políticos em Sanctrum:**
+- Dentro de Sanctrum, as guildas funcionam como facções que competem por poder e influência — semelhante a partidos políticos
+- Guerreiros mais fortes e carismáticos ascendem a cargos de governança dentro e fora de Sanctrum, representando os interesses de sua guilda
+- As guildas mais poderosas podem colocar membros em posições de destaque na administração continental, na Mesa dos 10 e até influenciar a escolha de Vinculadores nos reinos
+- Sanctrum **não cria** guildas — elas emergem organicamente nos reinos e migram para o centro de poder quando atingem certo peso
+
+**Autonomia dos reinos vs. autoridade de Sanctrum:**
+- Cada reino possui seu próprio sistema de governança e designa seus líderes normalmente
+- Sanctrum **não intervém** na política interna dos reinos em circunstâncias normais
+- Sanctrum só designa líderes para um reino em **casos extraordinários** — crises que ameaçam a estabilidade continental, vacância sem sucessor legítimo, ou quando a segurança de todo o continente está em risco
+- Essa regra é respeitada porque os reinos sabem que a autoridade de Sanctrum é última, não primeira
 
 **Leis gerais (estabelecidas pela Mesa dos 10 e acatadas pelos Sete Reinos):**
 - Toda guilda deve ter um líder identificado e uma sede registrada para operar legalmente
@@ -2034,33 +2048,35 @@ As guildas de guerreiros são organizações formais reconhecidas (ou não) em t
 - Hierarquia de Mestres, Comandantes e Operativos
 
 **Exemplos de guildas conhecidas:**
-- **Equipe Aurora** — Elite de missões perigosas (apoiada por Sanctrum)
+- **Mul-vael** 𒈦𒁉 — Elite de missões perigosas; uma das guildas mais prestigiadas
 - **Sindicato do Gelo Negro** — Mercenários e caçadores de recompensa (Umbralis, Umbra)
+- **Nyctari** 𒉌𒀀 — Guilda clandestina de vigilantes mascarados (ilegal)
 - Outras guildas regionais menores existem nos Sete Reinos, com focos variados
 
 ---
 
-## 🌟 Guilda Equipe Aurora
+## 🌟 Guilda Mul-vael 𒈦𒁉
 
-Guilda de guerreiros de elite, inicialmente uma iniciativa apoiada por Sanctrum para criar uma força de resposta a missões de perigo extremo que ultrapassassem a capacidade de qualquer reino individual. Não é uma equipe fixa de Sanctrum — é uma guilda independente com liderança própria, Mestres de Guilda e sede própria.
+Guilda de guerreiros de elite que emergiu organicamente nos reinos e ascendeu ao centro de poder continental. Não foi criada por Sanctrum — conquistou seu prestígio pelo mérito impressionante de seus membros, tornando-se uma das facções mais influentes dentro da governança de Aetherion. Seu nome vem de *Mul* (estrela, na língua ancestral Emê-Gir) e *vael* (guardião): **os Guardiões Estelares**.
 
-O nome vem da aurora de Aurion — o primeiro brilho que surge antes do nascer da estrela, simbolizando esperança e renovação.
+A Mul-vael nasceu como iniciativa de guerreiros de diferentes reinos que buscavam uma força de resposta a missões de perigo extremo que ultrapassassem a capacidade de qualquer reino individual. Conforme seus membros se destacavam — por força, estratégia e bravura — a guilda migrou para Sanctrum e começou a ascender politicamente, conquistando assentos, influência e recursos.
 
 **Características:**
 - Membros de todos os Sete Reinos — não é exclusiva de Sanctrum
 - Recrutamento por mérito: o Dingir-en é uma das portas de entrada (campeões recebem convite), mas existem outras formas de admissão
 - Missões: defesa continental, crises elementais, resgate em grande escala, vigilância de pontos sensíveis (incluindo o selo de Myrtha), operações diplomáticas de alto risco
-- Sanctrum fornece apoio logístico e reconhecimento formal, mas não comanda as operações
+- Sanctrum fornece apoio logístico e reconhecimento formal, mas não comanda as operações — a guilda é independente
+- Como facção política, a Mul-vael possui representatividade nas decisões continentais e pode indicar membros para posições de governança
 
 **Liderança histórica:**
 - A guilda teve vários Mestres ao longo de sua história
-- **Aurelius** foi um de seus últimos líderes antes de assumir como Guardião Mestre de Sanctrum
-- Sua passagem pela Equipe Aurora é parte do que o tornou uma lenda viva — e explica suas conexões profundas com guerreiros de todo o continente
+- **Aurelius** foi um de seus últimos líderes antes de assumir como Guardião Mestre de Sanctrum — sua ascensão é prova de que guerreiros de guilda podem chegar ao ápice do poder continental
+- Sua passagem pela Mul-vael é parte do que o tornou uma lenda viva — e explica suas conexões profundas com guerreiros de todo o continente
 
 **Na narrativa:**
-- **Ayla** foi membro da Equipe Aurora antes de sua missão em Sylvaris — isso explica seu treinamento excepcional, suas conexões continentais e por que portava o Selo dos Emissários
+- **Ayla** foi membro da Mul-vael antes de sua missão em Sylvaris — isso explica seu treinamento excepcional, suas conexões continentais e por que portava o Selo dos Emissários
 - A posição de Ayla na guilda era prestigiosa o suficiente para que Aurelius a reconhecesse — e secreta o suficiente para que a missão que a levou a Grazielly nunca fosse registrada oficialmente
-- A relação entre Aurelius (ex-líder da Aurora) e a Vanguarda (guilda clandestina) tem raízes nesse período — laços formados quando ambos os lados lutavam pelas mesmas causas, antes de seguirem caminhos diferentes
+- A relação entre Aurelius (ex-líder dos Mul-vael) e os Nyctari (guilda clandestina) tem raízes nesse período — laços formados quando ambos os lados lutavam pelas mesmas causas, antes de seguirem caminhos diferentes
 
 ---
 
@@ -2188,7 +2204,7 @@ Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Din
 - ✅ **Habitat**: Névoas de Umbra (não mais "Florestas de Umbra" genericamente)
 - ✅ **Emê-Gar atualizado**: *Mushen Gig* → *Mushen Nin* ("Ave da Névoa"), *Tir-kur* → *Nin-tara* ("Aquela que percebe na névoa")
 - ✅ **Seção dedicada "A Criatura Nyctara — Emblema de Lyris"** — Aparência, mecanismo de caça, explicação de por que não usa visão, tabela de simbolismo Nyctara ↔ Lyris
-- ✅ **Tabela Vanguarda atualizada** — Descrição expandida com Sussurro Etérico
+- ✅ **Tabela Nyctari atualizada** — Descrição expandida com Sussurro Etérico
 - ✅ **Emê-Gar atualizado** — Nomes ancestrais para todas as novas espécies
 
 ### Atualizações da Versão 12.0.0:
@@ -2213,7 +2229,7 @@ Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Din
 - ✅ **Aéryan → Sylvaryn** — Gentílico ajustado
 - ✅ **Ventus** — "Fundador espiritual de Sylvaris" atualizado
 - ✅ **Orfanato Luminis** — Confirmado em Velantis, Sylvaris
-- ✅ **Lyris (A Nyctara)** — Ficha já consolidada: Thermaris (Vapor), Vanguarda
+- ✅ **Lyris (A Nyctara)** — Ficha já consolidada: Thermaris (Vapor), Nyctari
 - ✅ **Termos terrestres verificados** — Nenhum residual encontrado
 
 ### Atualizações da Versão 9.0.0:
@@ -2250,7 +2266,7 @@ Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Din
 - ✅ **O Selo de Marethyus** — Restrição após missão catastrófica há 30 anos
 - ✅ **Torneio dos Escolhidos** — Rito de duelo de Thalassia
 - ✅ **Ascensão da Maré Vinculadora** — Contexto do afastamento de Ayla
-- ✅ **Líder da Vanguarda** — Identidade oculta com laços na Equipe Aurora
+- ✅ **Líder dos Nyctari** — Identidade oculta com laços na Mul-vael
 
 ### Atualizações da Versão 7.0.0:
 - ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada em todos os documentos
@@ -2260,7 +2276,7 @@ Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Din
 
 ### Atualizações da Versão 5.0.0:
 - ✅ **Lyris integrada como Thermaris (Vapor)** — fusão rara de Água + Fogo
-- ✅ **Lyris revelada como "A Nyctara"** dos Vanguardas
+- ✅ **Lyris revelada como "A Nyctara"** dos Nyctari
 - ✅ Adicionado Estágio de poder de Lyris (V - Transcendente, ~3.000 Æ)
 - ✅ Adicionado Capítulo VII na estrutura de capítulos
 - ✅ Notas de uso de poder: Lyris preserva disfarce, só usa Thermaris em casos extremos
@@ -2272,7 +2288,7 @@ Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Din
 - ✅ Expandido Graus de Contaminação (4 estágios)
 - ✅ Adicionado Organizações de Seguidores Nihilaryth
 - ✅ Adicionado Mesa dos Vinculadores
-- ✅ Criado criaturas alienígenas para Vanguardas (Urrak, Nyctara, Velatrix)
+- ✅ Criado criaturas alienígenas para Nyctari (Urrak, Nyctara, Velatrix)
 - ✅ Adicionado Kryll, Lumis, Hydra Vine à flora/fauna
 - ✅ Adicionado Aeros (criatura extinta)
 - ✅ Adicionado Verdades Ocultas: Grande Atrator, Rito de Ilyos, Elmo de Alyndra
