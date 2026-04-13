@@ -1719,6 +1719,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **A-ma-ru** | Árvore-mãe | Referência à Árvore da Existência |
 | **Mul-vael** 𒈦𒁉 | Guardiões Estelares | Guilda de elite; Mul = estrela, vael = guardião |
 | **Nyctari** 𒉌𒀀 | Os das Sombras | Guilda clandestina; deriva de Nyx = noite/mistério |
+| **Dingir-gish-gal** 𒂍𒅗 | O Grande Duelo Divino | Duelo dos Campeões; categoria especial de sucessão do En Me |
 
 ## Flora em Língua Antiga
 
@@ -1846,20 +1847,22 @@ O 13º e último Itu de cada Mu é dedicado inteiramente ao Dingir-sar e ao Torn
 
 ### Calendário do Itu Sagrado
 
-| Ud | Evento | Descrição |
-|----|--------|-----------|
-| **1** | Chegada dos Reinos | Delegações dos 7 Reinos chegam a Sanctrum; cerimônia de abertura |
-| **2-6** | **Prova do Æther** | Medição de Aethra de todos os participantes; classificação técnica |
-| **7** | **Dingir-ilyos** | **Dia de Ilyos** — Celebração do Guardião; procissão de luz, oferendas nas chamas eternas |
-| **8-9** | **Prova da Mente** | Simulações táticas, enigmas, negociações diplomáticas |
-| **10-11** | **Prova do Véu** | Cursosas de infiltração e espionagem |
-| **12-13** | **Prova do Aço** | Torneio de luta 1v1 — eliminatórias |
-| **14** | **Dingir-nyxalor** | **Dia de Nyxalor** — Vigília solene; cerimônia de lembrança; silêncio e reflexão |
-| **15-21** | **Prova das Cinzas** | Simulação de sobrevivência de 7 dias em terreno hostil (ver detalhes abaixo) |
-| **22-24** | **Prova do Aço (final)** | Quartas de final, semifinais e grande final do torneio de luta |
-| **25-26** | Audiências da Mesa dos 10 | Nobres de mérito e observadores assistem às sessões consultivas |
-| **27** | Banquete Continental | Celebração conjunta dos 7 Reinos; anúncio dos resultados |
-| **28** | **Dingir-sar** | **Ano-novo aetheriano** — Cerimônia do Selamento; coroação do campeão; novo Mu começa |
+| Ud | Evento Normal | Evento em Sucessão do En Me |
+|----|---------------|-------------------------------|
+| **1** | Chegada dos Reinos | Chegada dos Reinos |
+| **2-6** | **Prova do Æther** | Prova do Æther |
+| **7** | **Dingir-ilyos** | **Dingir-ilyos** |
+| **8-9** | **Prova da Mente** | Prova da Mente |
+| **10-11** | **Prova do Véu** | Prova do Véu |
+| **12-13** | **Prova do Aço** | Prova do Aço (eliminatórias) |
+| **14** | **Dingir-nyxalor** | **Dingir-nyxalor** |
+| **15-21** | **Prova das Cinzas** | Prova das Cinzas |
+| **22-24** | **Prova do Aço (final)** | Prova do Aço (final) |
+| **25-26** | Audiências da Mesa dos 10 | **Duelo dos Campeões** (All vs All — ver seção dedicada) |
+| **27** | Banquete Continental | Banquete Continental |
+| **28** | **Dingir-sar** | **Dingir-sar** + **Coroação do novo En Me** |
+
+> **Nota:** As 5 provas regulares acontecem independentemente de haver sucessão. A categoria especial (Duelo dos Campeões) é **adicionada** apenas quando o cargo de En Me está vago.
 
 ### Dingir-ilyos (Ud 7) — O Dia do Guardião
 
@@ -2059,24 +2062,174 @@ As guildas de guerreiros são organizações que funcionam como **facções pol�
 
 Guilda de guerreiros de elite que emergiu organicamente nos reinos e ascendeu ao centro de poder continental. Não foi criada por Sanctrum — conquistou seu prestígio pelo mérito impressionante de seus membros, tornando-se uma das facções mais influentes dentro da governança de Aetherion. Seu nome vem de *Mul* (estrela, na língua ancestral Emê-Gir) e *vael* (guardião): **os Guardiões Estelares**.
 
-A Mul-vael nasceu como iniciativa de guerreiros de diferentes reinos que buscavam uma força de resposta a missões de perigo extremo que ultrapassassem a capacidade de qualquer reino individual. Conforme seus membros se destacavam — por força, estratégia e bravura — a guilda migrou para Sanctrum e começou a ascender politicamente, conquistando assentos, influência e recursos.
+A Mul-vael nasceu de um princípio: **nenhum reino sozinho é suficiente para proteger o continente**. Seus fundadores eram guerreiros de diferentes reinos que lutaram juntos em uma crise continental e perceberam que a rivalidade entre reinos deixava todos vulneráveis. Conforme seus membros se destacavam — por força, estratégia e bravura — a guilda migrou para Sanctrum e começou a ascender politicamente, conquistando assentos, influência e recursos.
 
-**Características:**
-- Membros de todos os Sete Reinos — não é exclusiva de Sanctrum
-- Recrutamento por mérito: o Dingir-en é uma das portas de entrada (campeões recebem convite), mas existem outras formas de admissão
-- Missões: defesa continental, crises elementais, resgate em grande escala, vigilância de pontos sensíveis (incluindo o selo de Myrtha), operações diplomáticas de alto risco
-- Sanctrum fornece apoio logístico e reconhecimento formal, mas não comanda as operações — a guilda é independente
-- Como facção política, a Mul-vael possui representatividade nas decisões continentais e pode indicar membros para posições de governança
+### Ideais da Mul-vael
 
-**Liderança histórica:**
-- A guilda teve vários Mestres ao longo de sua história
-- **Aurelius** foi um de seus últimos líderes antes de assumir como Guardião Mestre de Sanctrum — sua ascensão é prova de que guerreiros de guilda podem chegar ao ápice do poder continental
-- Sua passagem pela Mul-vael é parte do que o tornou uma lenda viva — e explica suas conexões profundas com guerreiros de todo o continente
+- **Cooperação continental** acima dos interesses individuais dos reinos
+- **Mérito acima de sangue** — habilidade e caráter definem o valor de um guerreiro, não seu nascimento
+- **Proteção dos vulneráveis** — os fortes existem para proteger os que não podem se defender
+- **Força como serviço** — poder sem propósito é desperdício; poder ao serviço do continente é virtude
 
-**Na narrativa:**
-- **Ayla** foi membro da Mul-vael antes de sua missão em Sylvaris — isso explica seu treinamento excepcional, suas conexões continentais e por que portava o Selo dos Emissários
-- A posição de Ayla na guilda era prestigiosa o suficiente para que Aurelius a reconhecesse — e secreta o suficiente para que a missão que a levou a Grazielly nunca fosse registrada oficialmente
-- A relação entre Aurelius (ex-líder dos Mul-vael) e os Nyctari (guilda clandestina) tem raízes nesse período — laços formados quando ambos os lados lutavam pelas mesmas causas, antes de seguirem caminhos diferentes
+> **Oposição natural:** Nobres de sangue e reinos tradicionais veem a Mul-vael como ameaça à ordem estabelecida — guerreiros comuns querendo influência continental. Essa tensão entre mérito e sangue é uma dinâmica política central da obra.
+
+### Hierarquia (Emê-Gir)
+
+| Posição | Emê-Gir | Função | Observação |
+|---------|---------|--------|------------|
+| **En Mul-vael** | *En Mul-vael* | Líder supremo; representa a guilda em Sanctrum | Aurelius ocupou este cargo |
+| **Mestres de Guilda** | *Mul-vael Gal* (3-5) | Conselho interno; defesa, inteligência, diplomacia, treinamento | Podem ocupar cargos simultâneos em Sanctrum |
+| **Comandantes** | *Nin Aga* | Líderes de operações de campo; comandam esquadrões | **Ayla era Comandante** |
+| **Operativos** | *Aga Uru* | Membros de campo; executam missões | Corpo principal da guilda |
+| **Aspirantes** | *Zig Mul* | Recrutas em avaliação | Podem vir do Dingir-en ou recrutamento direto |
+
+> **Sobreposição política:** O En Mul-vael (ou um Mestre de Guilda) pode simultaneamente ocupar cargos em Sanctrum — como assento na Mesa dos 10 ou posição de Vinculador. Isso é a ponte entre a guilda como organização militar e a guilda como facção política.
+
+### Trajetória de Aurelius
+
+Aurelius não se tornou En Me pelo torneio — ele se tornou **En Me porque era líder da Mul-vael**, e a Mul-vael era a guilda mais influente do continente. O torneio foi apenas a primeira etapa de uma carreira de décadas.
+
+```
+Jovem guerreiro talentoso
+       ↓
+Vence o Dingir-en → Nobre por Mérito (fama continental)
+       ↓
+Entra na Mul-vael como Operativo (Aga Uru)
+       ↓
+Sobe por mérito: Aga Uru → Nin Aga → Mul-vael Gal
+       ↓ (décadas de serviço, crises resolvidas, respeito conquistado)
+Torna-se En Mul-vael (líder supremo da guilda)
+       ↓
+Mul-vael indica seu nome para suceder o En Me anterior
+       ↓
+Círculo de Cristal avalia e aprova
+       ↓
+Aurelius torna-se En Me (Guardião Mestre de Sanctrum)
+```
+
+**Regra:** Ao assumir como En Me, Aurelius precisou **renunciar ao cargo de En Mul-vael** — o Guardião Mestre não pode pertencer a nenhuma facção. Isso criou um vazio de poder na guilda que gerou tensão política interna (quem assume? será aliado de Aurelius ou rival?).
+
+### Ayla — Comandante (Nin Aga)
+
+**Ayla era Comandante** — uma das líderes de campo mais respeitadas da Mul-vael. Um nível abaixo do conselho (Mestres de Guilda), mas com autonomia suficiente para liderar operações de alto risco e ser reconhecida continentalmente.
+
+- Operava diretamente com Aurelius quando ele era En Mul-vael
+- Quando Aurelius se tornou En Me e renunciou à guilda, Ayla ficou dividida entre a lealdade ao ex-líder e à guilda
+- Sua missão em Sylvaris foi uma **operação da Mul-vael** (não de Sanctrum) — por isso "nunca foi registrada oficialmente"
+- Sua posição explica o treinamento excepcional, as conexões continentais e por que portava o Selo dos Emissários
+
+### Missões
+
+- Defesa continental contra ameaças que ultrapassam a capacidade de um único reino
+- Crises elementais (erupções, manifestações descontroladas de Aethra)
+- Resgate em grande escala
+- Vigilância de pontos sensíveis (incluindo o selo de Myrtha)
+- Operações diplomáticas de alto risco
+- Sanctrum fornece apoio logístico e reconhecimento formal, mas não comanda as operações
+
+### Na narrativa
+
+- A relação entre Aurelius (ex-líder dos Mul-vael) e os Nyctari (guilda clandestina) tem raízes no período em que ele liderava a guilda — laços formados quando ambos os lados lutavam pelas mesmas causas, antes de seguirem caminhos diferentes
+
+---
+
+## 👑 Sucessão do En Me — O Protocolo de Vacância
+
+### Regra Fundamental: Não existe vice-En Me
+
+O cargo de Guardião Mestre é **singular e indivisível**. Não há linha de sucessão automática, não há substituto natural, não há herdeiro presumido. Se o En Me morre, é deposto, renuncia ou perde a capacidade de governar, o poder fica **vazio** até que um novo seja escolhido pelo torneio especial.
+
+**Por que sem vice?**
+- O En Me responde diretamente ao Círculo de Cristal — ter um vice criaria uma segunda fonte de autoridade que poderia minar o cargo
+- A sucessão por torneio garante que o novo En Me tem **mérito comprovado continentalmente**, não apenas indicação política
+- A ausência de vice cria tensão narrativa permanente — se algo acontece com o En Me, o continente inteiro entra em crise até o próximo Itu de Dingir-sar
+
+### O Protocolo de Vacância
+
+Quando o cargo de En Me fica vago, o seguinte protocolo é acionado:
+
+```
+En Me deixa o cargo (morte, deposição, renúncia)
+       ↓
+Círculo de Cristal assume poder temporário
+(3-5 Anciãos Primordiais governam por decisão conjunta)
+       ↓
+Período de transição (pode durar até 1 Mu, se necessário)
+       ↓
+No próximo Itu de Dingir-sar:
+Dingir-en ESPECIAL é convocado
+       ↓
+Duelo dos Campeões define os finalistas
+       ↓
+Círculo de Cristal avalia e declara o vencedor
+       ↓
+Novo En Me é coroado no Ud 28 (Dingir-sar, Ano Novo)
+```
+
+**Durante a vacância:**
+- O Círculo de Cristal governa por decisão conjunta (maioria simples)
+- Cada Ancião Primordial tem poder de veto individual — decisões durante a crise são **lentas e cautelosas**
+- Guildas e reinos começam a se posicionar politicamente — a vacância do En Me é o momento em que **facções tentam influenciar o resultado** do próximo torneio
+- Nenhum Ancião pode se candidatar ao cargo — eles são juízes, não competidores
+
+> **Tensão narrativa:** Se o Círculo de Cristal depor Aurelius (ou se ele for morto/capturado por Nihilaryth), o continente inteiro fica sem Guardião Mestre até o próximo Itu de Dingir-sar. E nesse ínterim, cada facção tenta garantir que seu campeão vença o Duelo dos Campeões.
+
+---
+
+## ⚔️ Duelo dos Campeões — Dingir-gish-gal 𒂍𒅗
+
+**𒂍𒅗 Dingir-gish-gal** — "O Grande Duelo Divino". É a 6ª categoria do Dingir-en, aberta **exclusivamente quando o cargo de En Me está vago**. Nenhum outro torneio tem o peso simbólico e político deste — é aqui que o continente escolhe quem o protegerá até a morte.
+
+### Como Funciona
+
+Cada reino envia **um campeão** — seu guerreiro mais forte e capaz. Não é necessariamente o campeão do Dingir-en regular: cada reino define seu próprio processo interno de seleção (pode ser o líder do reino, o campeão do torneio anual, ou um guerreiro indicado pelas guildas locais).
+
+```
+7 campeões (1 por reino) se enfrentam em arena
+       ↓
+Fase 1 (Ud 25): Confrontos individuais (All vs All)
+       ↓
+Os 2 melhores avançam
+       ↓
+Fase 2 (Ud 26): Grande Final
+       ↓
+Círculo de Cristal avalia TUDO e declara o novo En Me
+       ↓
+Ud 28: Coroação + re-acendimento da Chama Eterna
+```
+
+### Regras
+
+| Regra | Detalhe |
+|-------|---------|
+| **Participantes** | 1 campeão por reino (7 no total) |
+| **Quem escolhe?** | Cada reino define internamente — não há padronização continental |
+| **Formato** | All vs All em arena: confrontos individuais + final entre os 2 melhores |
+| **Aethra** | Permitido sem restrições de elemento |
+| **Armas** | Permitidas (espadas, bastões, lanças) |
+| **Técnicas letais** | **Proibidas** — juízes interrompem ao primeiro sinal de risco de morte |
+| **Duração** | Ud 25 (Fase 1) e Ud 26 (Fase 2) |
+| **Juízes** | **Círculo de Cristal** (não os juízes regulares do Dingir-en) |
+
+### Critérios de Avaliação — NÃO é só poder
+
+O Círculo de Cristal avalia cada campeão em **todos os aspectos** — não apenas força bruta. Um guerreiro mais fraco mas com melhor caráter pode vencer um mais forte mas tirânico.
+
+| Critério | Peso | O que observa |
+|----------|------|---------------|
+| **Poder bruto** | 20% | Æ total, força física, velocidade |
+| **Controle de Aethra** | 15% | Eficiência ε, versatilidade elementar, controle sob pressão |
+| **Estratégia** | 15% | Tática de luta, adaptação em tempo real, uso inteligente de recursos |
+| **Liderança** | 15% | Comportamento sob pressão, como derrota e como ganha, se inspira aliados |
+| **Controle emocional** | 10% | Se perde a cabeça, se desiste, se excede limites do permitido |
+| **Respeito às regras** | 10% | Não usa técnicas proibidas, aceita decisões dos juízes com dignidade |
+| **Caráter** | 15% | O Círculo avalia se esse guerreiro **merece** ser En Me — não apenas se pode |
+
+> **Por que o Círculo de Cristal julga?** Porque o En Me não é apenas o guerreiro mais forte — é o **guardião do continente**. Alguém com poder imenso mas sem caráter seria uma catástrofe. Os Anciãos Primordiais, com seus milênios de experiência, são os únicos com a sabedoria necessária para avaliar algo tão complexo.
+
+### Coroação
+
+O novo En Me é coroado no **Ud 28 (Dingir-sar)**, durante a cerimônia do Ano Novo aetheriano. O primeiro ato do novo Guardião Mestre é **re-acender a Chama Eterna de Sanctrum** — o fogo que queima desde o selamento de Nyxalor, e que simboliza a proteção contínua do mundo.
 
 ---
 
