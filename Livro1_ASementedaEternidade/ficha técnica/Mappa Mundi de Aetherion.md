@@ -1,7 +1,10 @@
-# MAPPA MUNDI DE AETHERION
+# MAPPA MUNDI DE AETHERION — v2
 
 > *"Os cartógrafos antigos diziam que Alyndra não era um planeta — era uma respiração. Que os continentes se erguiam e afundavam como peito de um ser colossal, e que os oceanos eram o espaço entre as inspirações. Nenhum mapa captura Alyndra em sua totalidade; cada carta é apenas uma exalação momentânea de algo demasiado vasto para ser contido em pergaminho."*
 > — Tratado de Cartografia Etérica, autor desconhecido, atribuído ao Terceiro Ciclo
+
+> *"O Vaelantor corta Sylvaris como uma artéria corta um corpo — de sul a norte, levando a vida consigo. Quem não compreende o rio não compreende o reino. Quem não compreende o reino não compreende o mundo."*
+> — Tratado de Cartografia Etérica, fragmento adicionado na revisão do Segundo Ciclo
 
 ---
 
@@ -11,11 +14,13 @@ Aetherion — conhecido pelos eruditos e pelas crônicas antigas como **Alyndra*
 
 Enquanto na Terra as massas continentais ocupam aproximadamente 29% da superfície, em Aetherion esse número é consideravelmente inferior. A consequência direta é um mundo onde **vastos oceanos** dominam o globo, onde **muitos arquipélagos** pontilham as superfícies aquáticas como constelações de pedra sobre espelhos de abismo, e onde a distância entre as grandes massas continentais é medida não em dias de caminhada, mas em semanas de navegação — quando há rotas conhecidas. Essa configuração oceânica conferiu aos povos de Aetherion uma relação com a água que é simultaneamente de dependência e de temor reverencial. Os mares são as estradas que conectam os Sete Reinos — e também as muralhas que os separam.
 
-O planeta possui uma inclinação axial que gera estações distintas, embora a extensão e a intensidade dessas estações variem drasticamente conforme a latitude e a altitude. A topografia central — dominada pelo Planalto de Sanctrum e pelas cordilheiras de Fulmora — cria uma barreira climática que divide o planeta em duas metades com regimes de vento e precipitação marcadamente diferentes. A oeste do planalto, os ventos oceânicos carregam umidade e temperaturas amenas; a leste, o planalto bloqueia grande parte dessa umidade, criando desertos e estepes que se estendem por Terraxis até o extremo leste.
+O planeta possui uma inclinação axial que gera estações distintas, embora a extensão e a intensidade dessas estações variem drasticamente conforme a latitude e a altitude. A topografia central — dominada pelo Planalto de Sanctrum e pelas cordilheiras de Fulmora — cria uma barreira climática que divide o planeta em duas metades com regimes de vento e precipitação marcadamente diferentes. A oeste do planalto, os ventos oceânicos carregam umidade e temperas amenas; a leste, o planalto bloqueia grande parte dessa umidade, criando desertos e estepes que se estendem por Terraxis até o extremo leste.
 
 A atmosfera de Aetherion contém partículas de **Aethra** — a energia etérica fundamental que permeia todo o planeta [C]. Essas partículas não são uniformemente distribuídas; concentram-se em maior volume nas regiões de altitude elevada, nas proximidades de formações cristalinas e nas áreas de atividade vulcânica. A presença de Aethra influencia tudo, desde os padrões climáticos até as formas de vida, e é a base sobre a qual toda a civilização de Nova Aetherion se ergue.
 
 A lunação de Aetherion é tríplice: três luas — **Lyria** (prata, cura), **Nyx** (azul, mistério) e **Elara** (rosa, sacrifício) [C] — orbitam o planeta em períodos distintos, criando o fenômeno da **Convergência Tripla** quando seus alinhamentos coincidem. Esses eventos astrológicos têm profunda influência sobre as manifestações etéricas e são marcadores temporais fundamentais na cultura de todos os Sete Reinos.
+
+A distribuição geográfica dos Sete Reinos sobre a superfície de Aetherion obedece a uma lógica de hemisférios e latitudes que reflete a natureza elemental de cada nação. O hemisfério sul abriga Sylvaris, o reino do vento, cuja posição análoga à América do Sul confere-lhe uma vastidão continental temperada e tropical. O hemisfério norte é dominado por três grandes massas: Pyralis (análoga à América do Norte), Umbra (estendendo-se pelo norte como a Ásia Setentrional) e Fulmora (na posição da Europa). No centro do planeta, o Planalto de Sanctrum ergue-se como o coração geológico do mundo, conectado por terra ao leste com Terraxis — o maior de todos os continentes, cuja extensão lembra a África Oriental em escala continental. A sudeste, Thalassia dispersa-se em arquipélagos na posição da Oceania. Essa configuração cria um planeta de contrastes dramáticos: gelo eterno no norte, calor vulcânico no norte-ocidente, temperosidade verdejante no sul, e altitude extrema no centro.
 
 ---
 
@@ -23,86 +28,224 @@ A lunação de Aetherion é tríplice: três luas — **Lyria** (prata, cura), *
 
 ### O Planalto Global de Sanctrum
 
-No coração exato do planeta ergue-se a formação geológica mais singular de Aetherion: o **Planalto de Sanctrum** [C], um platô de altitude extrema que domina o centro do globo como uma fortaleza natural esculpida pelas próprias forças tectônicas do mundo. Sua analogia mais próxima, em escala planetária, é o Planalto Tibetano da Terra — porém elevado a uma dimensão que transcende qualquer comparação terrestre. Não se trata de um platô regional, mas de um **planalto global**: uma formação que ocupa uma fração significativa da superfície continental do planeta e cuja altitude média supera qualquer outra extensão contígua de terra emersa em Aetherion.
+No coração exato do planeta ergue-se a formação geológica mais singular de Aetherion: o **Planalto de Sanctrum** [C], um platô de altitude extrema que domina o centro do globo como uma fortaleza natural esculpida pelas próprias forças tectônicas do mundo. Sua analogia mais próxima, em escala planetária, é o Planalto Tibetano da Terra — porém elevado a uma dimensão que transcende qualquer comparação terrestre. Não se trata de um platô regional, mas de um **planalto global**: uma formação que ocupa uma fração significativa da superfície continental do planeta e cuja altitude média supera qualquer outra extensão contígua de terra emersa em Aetherion. Sua posição análoga é a do berço afro-oriental — um ponto central de onde as civilizações irradiam para todas as direções.
 
 O planalto apresenta uma topografia que vai dos 3.000 aos 5.000 passos de altitude média em sua região central [D], com picos e cristas que se elevam ainda mais nas bordas. A ascensão ao planalto não é abrupta — as terras sobem gradualmente a partir das planícies periféricas, criando uma transição de biomas que os geógrafos sylvaris chamam de "a escadaria do mundo": primeiro as planícies costeiras, depois as colinas, em seguida as planícies elevadas, os vales alpinos e, finalmente, o planalto propriamente dito. Essa transição gradual torna a aproximação a Sanctrum uma jornada de semanas — ou meses, dependendo do ponto de partida — e é parte do que confere ao Planalto sua aura de inacessibilidade e santidade.
 
-A capital do reino — a cidade de **Sanctrum** [C] — está situada no ponto mais alto do planalto, servindo como o centro político, espiritual e administrativo de todos os Sete Reinos. É ali que o Guardião Mestre — Aurelius, o 33º En Me [C] — reside e governa. A cidade é acessível por um número limitado de rotas terrestres, todas elas passando por territórios de altitude extrema, o que a torna naturalmente defensável. A O rdem dos Mestres, o Círculo de Cristal e o Conselho dos 10 operam a partir de Sanctrum, e o **Selo de Mytra** [C] — o artefato que contém a essência fundida de Elarys — é guardado em câmaras subterrâneas sob a cidade.
+A capital do reino — a cidade de **Sanctrum** [C] — está situada no ponto mais alto do planalto, servindo como o centro político, espiritual e administrativo de todos os Sete Reinos. É ali que o Guardião Mestre — Aurelius, o 33º En Me [C] — reside e governa. A cidade é acessível por um número limitado de rotas terrestres, todas elas passando por territórios de altitude extrema, o que a torna naturalmente defensável. A Ordem dos Mestres, o Círculo de Cristal e o Conselho dos 10 operam a partir de Sanctrum, e o **Selo de Mytra** [C] — o artefato que contém a essência fundida de Elarys — é guardado em câmaras subterrâneas sob a cidade.
 
 O clima no planalto é frio e seco. A altitude extrema filtra a radiação de Aurion, conferindo ao céu um azul tão profundo que parece quase negro nos horizontes. Os ventos são constantes e cortantes, e a vegetação é composta principalmente de gramíneas resistentes, musgos etéricos e liquens que se agarram às rochas com tenacidade. A precipitação é baixa — as nuvens que se formam sobre o planalto tendem a descarregar suas águas nas encostas inferiores antes de atingir o topo, criando um efeito de sombra de chuva que torna o interior do platô semi-árido.
 
 ### Os Everests de Fulmora
 
-Adjacente ao Planalto de Sanctrum, a nordeste, estende-se a região que os cartógrafos denominam **Os Everests** — o domínio do reino de Fulmora [C/D]. Se Sanctrum é a plataforma sobre a qual o mundo se eleva, Fulmora é o ponto onde essa elevação atinge seu ápice absoluto: os picos mais altos de todo o planeta, cordilheiras que ultrapassam qualquer altitude conhecida, cumes cobertos de gelo perpétuo que se perdem nas nuvens mais altas da troposfera.
+Adjacente ao Planalto de Sanctrum, ao norte, estende-se a região que os cartógrafos denominam **Os Everests** — o domínio do reino de Fulmora [C/D]. Se Sanctrum é a plataforma sobre a qual o mundo se eleva, Fulmora é o ponto onde essa elevação atinge seu ápice absoluto: os picos mais altos de todo o planeta, cordilheiras que ultrapassam qualquer altitude conhecida, cumes cobertos de gelo perpétuo que se perdem nas nuvens mais altas da troposfera. Fulmora ocupa a posição análoga à Europa — uma península montanhosa que se projeta a partir da massa continental oriental, pequeno-médio em extensão mas colossal em altitude.
 
-A conexão entre Sanctrum e Fulmora é geológica e topográfica: o planalto sobe gradualmente em direção a nordeste, e essa elevação progressiva se transforma em montanha propriamente dita na borda com Fulmora. A transição é tão fluida que é impossível determinar com precisão onde termina o planalto e começa a cordilheira — os geógrafos debatem o limite há gerações. A corrente de ar que sobe as encostas do planalto em direção a Fulmora cria fenômenos meteorológicos únicos: tempestades de raios perpétuas que dançam entre os picos, correntes ascendentes tão violentas que podem arremessar criaturas voadoras a altitudes letais, e nevoeiros elétricos que carregam cargas etéricas capazes de interferir com instrumentos de navegação.
+A conexão entre Sanctrum e Fulmora é geológica e topográfica: o planalto sobe gradualmente em direção ao norte, e essa elevação progressiva se transforma em montanha propriamente dita na borda com Fulmora. A transição é tão fluida que é impossível determinar com precisão onde termina o planalto e começa a cordilheira — os geógrafos debatem o limite há gerações. A corrente de ar que sobe as encostas do planalto em direção a Fulmora cria fenômenos meteorológicos únicos: tempestades de raios perpétuas que dançam entre os picos, correntes ascendentes tão violentas que podem arremessar criaturas voadoras a altitudes letais, e nevoeiros elétricos que carregam cargas etéricas capazes de interferir com instrumentos de navegação.
 
 A capital de Fulmora, **Alturas** [D], é construída nas encostas de um dos picos mais altos, em uma altitude que desafia a permanência humana. A cidade é um feito de engenharia etérica: estruturas ancoradas à rocha por cristais Aetheris, passareias suspensas entre picos, e sistemas de contenção de vento que permitem a vida em condições que, em qualquer outro lugar, seriam inabitáveis. Os fulmorianos são um povo moldado pela altitude e pela eletricidade — seus corpos, suas construções e suas tradições refletem a convivência permanente com os fenômenos mais extremos do planeta.
 
-### Fronteiras Terrestres a Partir do Planalto
+### A Imensidão de Terraxis — O Maior Continente
 
-O planalto de Sanctrum não é uma ilha isolada — ele é o nó central a partir do qual as terras continentais se irradiam em todas as direções, como os raios de uma roda:
+A leste do Planalto de Sanctrum, as terras descem em uma transição longa e gradual até atingirem as planícies vastas de **Terraxis**, o Reino da Terra [D]. Terraxis é, por uma margem considerável, o **maior continente de Aetherion** — uma massa continental de proporções continentais cuja extensão lembra a África Oriental e a Ásia Meridional combinadas. É a fronteira terrestre mais extensa e mais transitada de todo o planeta: a descida do planalto em direção a Terraxis é marcada por vales profundos, rios caudalosos que nascem do degelo do planalto e desaguam nas planícies orientais, e uma transição climática que vai do frio seco do platô para o calor árido dos desertos de Terraxis.
 
-- **A leste**, o planalto desce gradualmente em direção a **Terraxis** [D], formando a fronteira terrestre entre Sanctrum e o Reino da Terra. A descida é longa e marcada por vales profundos, rios caudalosos que nascem do degelo do planalto e desaguam nas planícies orientais, e uma transição climática que vai do frio seco do platô para o calor árido dos desertos de Terraxis. Essa é uma das poucas fronteiras terrestres diretas entre dois reinos em todo o planeta — a maioria das conexões é marítima.
+A capital de Terraxis, **Petramagna** [D], é uma metrópole monumental construída em pedra — como o nome indica, a "grande pedra" é uma cidade que parece esculpida diretamente da crosta do planeta. Seus muros, suas torres e seus monumentos são feitos da rocha morena e resistente que caracteriza as terras do Reino da Terra, conferindo-lhe uma aparência de permanência absoluta, como se a cidade pudesse sobreviver ao fim do próprio mundo.
 
-- **A norte**, o planalto se conecta às cadeias montanhosas que o ligam a **Pyralis** [D] através de uma série de cordilheiras vulcânicas. Essa rota terrestre — quando passável — permite a travessia entre o centro do planeta e o norte, mas é perigosa, sujeita a erupções, deslizamentos e tempestades de cinzas. A maioria do comércio entre Sanctrum e Pyralis é feita por mar.
+### O Istmo Sylvaris-Pyralis e o Vulcanismo de Pyralis
 
-- **A oeste**, o planalto desce em direção às terras de Sylvaris, mas a transição é menos direta — as planícies de Vaelthyris e as montanhas de Kaelvrym se interpõem como uma zona de amortecimento geográfico entre o coração do mundo e o reino do vento.
+A noroeste de Sylvaris, o continente sul-americano do planeta estreita-se até formar uma conexão terrestre com Pyralis — a **única fronteira terrestre de Sylvaris** [D]. Essa conexão assemelha-se ao istmo do Panamá na Terra: uma faixa de terra relativamente estreita, pontilhada por montanhas e passagens naturais, que une os dois continentes como um cordão umbilical geológico. O istmo é a ponte entre o hemisfério sul (Sylvaris) e o hemisfério norte (Pyralis), e sua posse é de importância estratégica incalculável — quem controla o istmo controla o fluxo de bens e pessoas entre os dois maiores reinos do hemisfério ocidental.
 
-### O Vulcanismo de Pyralis
-
-O reino de Pyralis, situado a norte e noroeste do continente principal, é a região de maior atividade vulcânica de Aetherion [D]. Seu território é pontilhado por vulcões ativos, dormentes e extintos, formando uma paisagem que alterna entre florestas de coníferas, campos de lava resfriada, gêiseres de vapor etérico e rios de magma subterrâneo que aquecem o solo em regiões extensas.
+Pyralis, situado no hemisfério norte na posição análoga à América do Norte, é a região de maior atividade vulcânica de Aetherion e o **segundo maior continente** do planeta [D]. Seu território é pontilhado por vulcões ativos, dormentes e extintos, formando uma paisagem que alterna entre florestas de coníferas, campos de lava resfriada, gêiseres de vapor etérico e rios de magma subterrâneo que aquecem o solo em regiões extensas. A atividade vulcânica é mais intensa na porção ocidental do continente, onde a placa tectônica de Pyralis encontra o Mar de Vaelantor, gerando arcos vulcânicos e cadeias montanhosasrecentes.
 
 As forjas de Pyralis são lendárias em todo o planeta — a combinação de calor vulcânico intenso com a concentração de Aethra nas proximidades das erupções cria condições ideais para a fundição e o trabalho de metais e cristais. É em Pyralis que os melhores ferreiros de Nova Aetherion operam, e é de seus vulcões que se extrai grande parte do cristal Aetheris bruto que sustenta a infraestrutura etérica dos Sete Reinos.
 
 A capital **Ignatia** [D] está situada nas cercanias de um vulcão ativo — não por acaso, mas por projeto. A cidade é aquecida pelo calor geotérmico e iluminada pela luminescência dos rios de magma que correm sob suas fundações, conferindo-lhe uma aparência que os visitantes descrevem como "uma forja que se tornou metrópole". A atividade vulcânica constante é vista pelos pyralianos não como ameaça, mas como bênção — o fogo é seu elemento, e as erupções são interpretadas como manifestações da energia primordial do planeta.
 
+### A Extensão Glacial de Umbra
+
+No extremo norte do planeta, estendendo-se sobre uma área comparável à Ásia Setentrional e ao Ártico combinados, encontra-se **Umbra**, o Reino do Gelo e da Sombra [D]. Umbra é o terceiro maior continente de Aetherion — uma vastidão de tundra, taiga e gelo perpétuo que domina todo o hemisfério setentrional. Sua capital, **Umbralis** [D], é uma cidade construída em meio ao congelamento eterno, onde a luz de Aurion mal se insinua durante metade do ano e onde as auroras etéricas pintam o céu de cores impossíveis durante a noite polar.
+
+Umbra compartilha fronteiras terrestres com dois reinos: ao sul, uma fronteira com **Fulmora** [D], onde a tundra umbriana encontra as encostas setentrionais das cordilheiras fulmorianas; e a leste, uma fronteira com **Terraxis** [D], onde as planícies geladas do norte gradualmente dão lugar às estepes mais temperadas do maior continente do planeta. A oeste, Umbra é banhada pelo **Mar de Cristal** [NEW], o oceano polar norte que o separa de Pyralis por uma barreira de gelo e águas congeladas. É através desse oceano gelado — não por terra — que Pyralis e Umbra se comunicam, e a navegação é possível apenas nos breves meses de degelo, quando os icebreakers etéricos abrem canais entre as placas de gelo.
+
 ---
 
-## CARTOGRAFIA DOS OCEANOS
+## OS SETE REINOS — Posição e Características
 
-Aetherion é, antes de tudo, um planeta de água. Os oceanos que cobrem a maior parte de sua superfície não são massas homogêneas — cada um possui características próprias de temperatura, correnteza, profundidade e periculosidade. Os cartógrafos de Nova Aetherion identificaram cinco grandes massas oceânicas, cada uma com sua identidade e seus mistérios.
+### Tabela Sintética dos Reinos
+
+| # | Reino | Elemento | Hemisfério | Posição no Planeta | Analogia Continental | Tamanho | Capital |
+|---|-------|----------|-----------|-------------------|---------------------|---------|---------|
+| 1 | **Sylvaris** | Vento | Sul | Hemisfério sul | América do Sul | Médio | Zephyra |
+| 2 | **Pyralis** | Fogo | Norte | Hemisfério norte | América do Norte | 2º maior | Ignatia |
+| 3 | **Sanctrum** | Central | Equatorial | Centro do planeta | África/Médio Oriente (berço) | Pequeno (planalto) | Sanctrum |
+| 4 | **Fulmora** | Raio/Tempestade | Norte | Hemisfério norte | Europa | Pequeno-Médio (montanhoso) | Alturas |
+| 5 | **Umbra** | Gelo/Sombra | Norte | Extremo norte | Ásia Setentrional + Polo Norte | Grande | Umbralis |
+| 6 | **Terraxis** | Terra | Equatorial/Leste | Centro-leste | África Oriental | **MAIOR** | Petramagna |
+| 7 | **Thalassia** | Água | Sul | Sudeste | Oceania | Arquipélago | Aquarys Prime |
+
+### Oceanos Adjacentes por Reino
+
+| Reino | Oceanos Adjacentes |
+|-------|-------------------|
+| **Sylvaris** | Mar de Lyria [C] (oeste), Mar de Aurion [D] (nordeste), Mar de Vaelantor [NEW] (noroeste) |
+| **Pyralis** | Mar de Vaelantor [NEW] (oeste), Mar de Aurion [D] (leste), Mar de Cristal [NEW] (norte) |
+| **Sanctrum** | Conectado a Terraxis (leste) e Fulmora (norte) por terra; Mar de Drakon [D] (leste) |
+| **Fulmora** | Mar de Vaelantor [NEW] (oeste), Mar de Drakon [D] (leste) |
+| **Umbra** | Mar de Cristal [NEW] (oeste/norte), Mar de Vaelantor [NEW] (sudoeste) |
+| **Terraxis** | Mar de Drakon [D] (leste), Mar das Correntes [D] (sul) |
+| **Thalassia** | Mar das Correntes [D] (norte/oeste), Mar do Silêncio [D] (sul) |
+
+### 1. Sylvaris — O Reino do Vento [C/D]
+
+Sylvaris ocupa o hemisfério sul de Aetherion na posição análoga à América do Sul — um continente de proporções médias, definido pela vastidão de suas planícies verdes, pela majestade de suas cordilheiras e pela presença dominante do **Rio Vaelantor**, a artéria fluvial que corta o reino de sul a norte. É a terra do vento, da liberdade e dos Sylentis, e sua capital flutuante, **Zephyra** [C], paira acima das águas do Vaelantor na região central de Vaelthyris.
+
+O território de Sylvaris é dividido em oito províncias, distribuídas entre as duas margens do grande rio:
+
+- **Margem Oeste (Ocis Vaelantor):** Vaelthyris, Thyravalis, porção ocidental de Argyris, Orynthar
+- **Margem Leste (Oris Vaelantor):** Nyrvaeth, Kaelvrym (face oriental), Solanthir, Aelanthys
+
+A oeste, Sylvaris é banhada pelo **Mar de Lyria** [C], que banha Thyravalis e toda a costa ocidental até Thalendris — cidade portuária nas margens do grande oceano. Ao norte, a fronteira com Pyralis é **terrestre**: o Istmo Sylvariano conecta os dois continentes através de uma faixa de terra montanhosa e estreita, como as Américas conectadas pelo istmo centro-americano. É a única fronteira de terra de Sylvaris; todas as outras conexões são marítimas.
+
+A distância entre Sylvaris e Sanctrum é de aproximadamente **2.600 km** [D], medida em linha reta através do Mar de Vaelantor — o vasto oceano intercontinental que separa as massas ocidentais (Sylvaris/Pyralis) das massas orientais (Fulmora/Sanctrum/Terraxis). Essa distância, cruzada por navios que levam semanas, é uma das travessias mais longas e mais significativas do planeta.
+
+### 2. Pyralis — O Reino do Fogo [D]
+
+Pyralis domina o hemisfério norte na posição análoga à América do Norte — o segundo maior continente de Aetherion, um território de vulcões, florestas de coníferas e forjas lendárias. Sua capital, **Ignatia** [D], ergue-se próxima a um vulcão ativo, aquecida pelo calor geotérmico. A fronteira sul com Sylvaris é terrestre, cruzando o istmo que conecta os dois continentes. A oeste, Pyralis é banhado pelo Mar de Vaelantor; ao norte, pelo Mar de Cristal, que o separa de Umbra por águas geladas.
+
+### 3. Sanctrum — O Centro do Mundo [C/D]
+
+Sanctrum não é um continente — é um planalto. Erguido no centro exato do planeta, análogo ao berço afro-oriental, o Planalto de Sanctrum é a formação geológica mais singular de Aetherion. Pequeno em extensão superficial mas colossal em altitude, o planalto é conectado por terra a Terraxis (a leste, por uma descida gradual) e a Fulmora (ao norte, por uma transição topográfica contínua que transforma o platô em montanha). A cidade de Sanctrum, no ponto mais alto, é a capital política de todos os Sete Reinos.
+
+### 4. Fulmora — O Reino do Raio [C/D]
+
+Fulmora ocupa o norte do planeta na posição análoga à Europa — um continente pequeno-médio, inteiramente dominado por montanhas. Os "Everests de Fulmora" abrigam os picos mais altos do planeta, cobertos de gelo perpétuo e riscados por tempestades de raios perpétuas. A capital, **Alturas** [D], é construída nas encostas de um dos cumes mais altos. Fulmora compartilha fronteira terrestre com Sanctrum (ao sul, por transição topográfica) e com Umbra (ao norte, onde a tundra encontra as montanhas).
+
+### 5. Umbra — O Reino do Gelo e da Sombra [D]
+
+Umbra estende-se pelo extremo norte do planeta na posição análoga à Ásia Setentrional e ao Ártico — o terceiro maior continente de Aetherion, uma vastidão de tundra, taiga e gelo eterno. Sua capital, **Umbralis** [D], é uma cidade de gelo e pedra onde a luz de Aurion mal chega durante o inverno polar. Umbra possui duas fronteiras terrestres: ao sul com Fulmora e a sudeste com Terraxis. A oeste, o Mar de Cristal o separa de Pyralis. É em Umbra que opera, nas sombras, a seita proibida de Nyxalor e Nihilaryth [C].
+
+### 6. Terraxis — O Reino da Terra [D]
+
+Terraxis é o **maior continente de Aetherion**, estendendo-se pelo centro-leste do planeta na posição análoga à África Oriental — uma massa continental colossal de desertos, savanas, canyons e planícies infinitas. Sua capital, **Petramagna** [D], é uma metrópole de pedra e proporções monumentais. Terraxis conecta-se por terra ao Planalto de Sanctrum (a oeste, por uma longa descida) e a Umbra (ao norte, onde as planícies temperadas gradualmente dão lugar à tundra). A leste, o Mar de Drakon separa Terraxis do desconhecido.
+
+### 7. Thalassia — O Reino da Água [D]
+
+Thalassia não é um continente — é um arquipélago disperso no sudeste do planeta, na posição análoga à Oceania. Composto por milhares de ilhas de tamanhos variados, recifes de coral etérico e atóis que se estendem pelas águas quentes do Mar das Correntes, Thalassia é o reino onde a água é tudo: sustento, estrada, lar e identidade. Sua capital, **Aquarys Prime** [D], é construída sobre águas rasas, uma cidade que parece flutuar sobre o oceano. Ao sul, as águas do Mar do Silêncio cercam as ilhas mais meridionais, marcando a transição para o Polo Sul inexplorado.
+
+---
+
+## O RIO VAELANTOR — A Artéria de Sylvaris [D/NEW]
+
+### Visão Geral
+
+Se Aetherion é um planeta definido por seus oceanos, Sylvaris é um continente definido por seu rio. O **Rio Vaelantor** — do antigo *vael* (vale/vento) e *antor* (grande fluxo), "A Grande Corrente dos Vales" — é a formação hidrográfica mais monumental de todo o planeta, um curso d'água de proporções comparáveis ao Amazonas da Terra em largura e volume. Cortando Sylvaris de sul a norte como uma artéria que divide um corpo em duas metades, o Vaelantor é simultaneamente a espinha dorsal geográfica, econômica e cultural do Reino do Vento.
+
+O Vaelantor nasce nas Cordilheiras Austrais de Sylvaris, ao sul do continente, nas proximidades do Polo Sul inexplorado. Suas fontes são glaciais — águas de degelo que descem dos picos eternamente nevados da Cordilheira Austral, em território que os sylvaris chamam de Cryonys, a terra onde a afinidade elemental entre Água e Vento se manifesta com maior intensidade. Desde sua nascente glacial, o rio segue uma trajetória norte, alimentado por centenas de tributários que drenam ambos os lados do continente, ganhando volume e largura à medida que avança pelas planícies centrais.
+
+### A Divisão do Reino
+
+O Vaelantor divide Sylvaris em duas metades distintas, cada uma com suas províncias, suas culturas e seus caracteres:
+
+**Margem Oeste — Ocis Vaelantor:**
+
+| Província | Características em Relação ao Rio |
+|-----------|----------------------------------|
+| **Vaelthyris** | Província central-oeste; Zephyra flutua acima do Vaelantor aqui; região mais populosa |
+| **Thyravalis** | Costa oeste, banhada pelo Mar de Lyria; falésias dramáticas e faróis etéricos |
+| **Argyris** (porção oeste) | Floresta de Argentis; a mata prateada estende-se até as margens ocidentais do rio |
+| **Orynthar** | Meseta tecnológica; os laboratórios etéricos aproveitam as planícies do oeste |
+
+A margem oeste é considerada a "face voltada para o mundo" de Sylvaris — é ali que ficam Thalendris (no litoral do Mar de Lyria), Velantis (onde se encontra o Orfanato Luminis) e a própria Zephyra. Os portos do oeste são os mais movimentados do reino, e é pela margem oeste que as influências externas chegam com maior facilidade.
+
+**Margem Leste — Oris Vaelantor:**
+
+| Província | Características em Relação ao Rio |
+|-----------|----------------------------------|
+| **Nyrvaeth** | Norte, voltada para o Istmo Sylvariano e Pyralis; neblina e fortalezas |
+| **Kaelvrym** (face oriental) | A cordilheira espinha dorsal; tributários descem das montanhas para o rio |
+| **Solanthir** | Sudeste, transição para Thalassia; comércio e mistura cultural |
+| **Aelanthys** | Meridional, planícies costeiras; portos e aromáceos |
+
+A margem leste é mais isolada, mais selvagem e mais misteriosa. É ali que a névoa de Nyrvaeth envolve as fortalezas que guardam a fronteira norte, e onde as encostas do Kaelvrym descem em cachoeiras e corredeiras em direção ao rio.
+
+### A Foz e a Planície do Vaelantor
+
+Na região central de Sylvaris, onde o Vaelantor atinge sua largura máxima, o rio cria uma **vasta planície de inundação** — a Planície do Vaelantor — uma extensão de terras baixas e férteis que se estende por centenas de quilômetros em ambas as margens. Essa planície é o celeiro de Sylvaris: os campos de Aethrys que alimentam grande parte de Nova Aetherion crescem em suas terras ricas e irrigadas. A Planície do Vaelantor é também a região mais densamente povoada do reino, cortada por estradas, canais de irrigação e rotas de comércio fluvial.
+
+A foz do Vaelantor abre-se para o **Mar de Aurion** [D] na costa norte de Sylvaris, próxima ao Istmo Sylvariano e à fronteira com Pyralis. A foz é um estuário colossal, com múltiplos braços que formam um delta de ilhas e mangues etéricos. É nesse estuário que as Mil Ilhas de Aurion começam sua dispersão para norte, criando uma zona de transição entre o rio e o mar que é rica em vida marinha e em comércio.
+
+### Navegação e Importância Econômica
+
+O Vaelantor é navegável ao longo de grande parte de sua extensão, tornando-se a principal **rota de transporte interno** de Sylvaris. Embarcações de todos os tamanhos — desde canoas de pesca até navios de carga etéricos — percorrem o rio em ambas as direções, transportando grãos de Aethrys, minerais das montanhas, cristais Aetheris, produtos das florestas de Argyris e mercadorias dos portos costeiros. As cidades ribeirinhas são os centros econômicos mais dinâmicos do reino, e a competição pelo controle dos portos fluviais é uma constante na política provincial de Sylvaris.
+
+O Vaelantor é também uma barreira natural: embora seja navegável, sua largura na Planície Central torna a travessia sem barcos impraticável. As pontes que conectam as duas margens são poucas e estratégicas, e sua manutenção é uma responsabilidade compartilhada entre as províncias ribeirinhas. Em tempos de conflito, o controle das pontes do Vaelantor pode determinar o destino de toda a guerra.
+
+### Mespiria e as Margens do Rio
+
+**Mespiria** [C], a cidade natal de Grazielly [C], encontra-se em algum ponto do território de Sylvaris. Embora sua localização exata na margem do Vaelantor não tenha sido determinada, a tradição cartográfica sugere que as cidades menores e menos documentadas de Sylvaris tendem a se distribuir ao longo das margens do rio, onde a água e as rotas de comércio garantem sustento e comunicação.
+
+---
+
+## OS SETE OCEANOS
+
+Aetherion é, antes de tudo, um planeta de água. Os oceanos que cobrem a maior parte de sua superfície não são massas homogêneas — cada um possui características próprias de temperatura, correnteza, profundidade e periculosidade. Os cartógrafos de Nova Aetherion identificaram **sete grandes massas oceânicas**, cada uma com sua identidade e seus mistérios. A ampliação de cinco para sete oceanos na revisão v2 reflete a reclassificação de águas antes consideradas secundárias e o reconhecimento de massas oceânicas distinctas no norte e no centro do planeta.
+
+### Tabela Sintética dos Oceanos
+
+| # | Oceano | Classificação | Posição | Analogia | Características Principais |
+|---|--------|--------------|---------|----------|--------------------------|
+| 1 | **Mar de Lyria** | [C] Canon | Oeste de Sylvaris | Oceano Pacífico (costa americana) | Correntes profundas; azul-escuro; banha Thyravalis |
+| 2 | **Mar de Aurion** | [D] Derivado | Leste do istmo Sylvaris-Pyralis | Mar do Caribe | Águas tropicais; Mil Ilhas de Aurion |
+| 3 | **Mar de Drakon** | [D] Derivado | Leste de Terraxis | Oceano Índico | Vasto, profundo, perigoso; monstros lendários |
+| 4 | **Mar das Correntes** | [D] Derivado | Faixa equatorial | Pacífico/Índico equatorial | Correntes quentes; vida marinha abundante |
+| 5 | **Mar do Silêncio** | [D] Derivado | Oceano Austral (Polo Sul) | Oceano Antártico | Frio, escuro, absorve o som; Polo Sul |
+| 6 | **Mar de Cristal** | [NEW] | Oceano Ártico (Polo Norte) | Oceano Ártico | Congelado; placas de gelo; auroras |
+| 7 | **Mar de Vaelantor** | [NEW] | Intercontinental (W↔E) | Oceano Atlântico | O mais largo e profundo; separa blocos |
 
 ### Mar de Lyria [C]
 
 | Atributo | Descrição |
 |----------|-----------|
 | **Classificação** | Canônico — mencionado nos capítulos do Livro I |
-| **Localização** | Oeste de Sylvaris; estende-se até as costas de Thalendris |
-| **Características** | Correntes profundas e poderosas; águas de um azul-escuro profundo que os sylvaris chamam de "azul de Thyravalis" |
-| **Importância** | Principal via de acesso marítimo a Sylvaris pelo oeste; banha as falésias de Thyravalis |
+| **Localização** | Oeste de Sylvaris; estende-se ao longo de toda a costa ocidental |
+| **Analogia** | Oceano Pacífico (costa sul-americana) |
+| **Características** | Correntes profundas e poderosas; águas de um azul-escuro profundo |
+| **Importância** | Principal via de acesso marítimo a Sylvaris pelo oeste |
 
-O Mar de Lyria é o oceano mais documentado dos mares de Aetherion, pois é nas suas costas que se desenrola grande parte da narrativa do Livro I. Banhando a costa ocidental de Sylvaris desde as falésias dramáticas de Thyravalis até as baías mais protegidas de Velantis, o Mar de Lyria é caracterizado por correntes profundas que percorrem sua extensão como artérias invisíveis. Essas correntes são estudadas pelos cartógrafos e navegadores sylvaris há gerações, pois sua compreensão é essencial para a navegação segura.
+O Mar de Lyria é o oceano mais documentado dos mares de Aetherion, pois é nas suas costas que se desenrola grande parte da narrativa do Livro I. Banhando a costa ocidental de Sylvaris desde as falésias dramáticas de Thyravalis até as baías mais protegidas de Velantis, o Mar de Lyria é caracterizado por correntes profundas que percorrem sua extensão como artérias invisíveis. Essas correntes são estudadas pelos cartógrafos e navegadores sylvaris há gerações, pois sua compreensão é essencial para a navegação segura. Ao sul, o Mar de Lyria conecta-se ao Mar do Silêncio nas latitudes polares; ao norte, suas águas tornam-se mais frias à medida que se aproximam das correntes do Mar de Vaelantor.
 
-A temperatura das águas do Mar de Lyria varia conforme a latitude — mais fria ao norte, onde se aproxima do Mar do Silêncio, e mais temperada ao sul, nas proximidades da Coroa de Coral. As marés são influenciadas pela lunação tripla, criando padrões complexos de preamar e baixa-mar que os navegadores experientes aprendem a ler como se fossem sinais escritos na água.
+A temperatura das águas do Mar de Lyria varia conforme a latitude — mais fria ao norte e ao sul, e mais temperada na faixa central, nas proximidades da Coroa de Coral. As marés são influenciadas pela lunação tripla, criando padrões complexos de preamar e baixa-mar que os navegadores experientes aprendem a ler como se fossem sinais escritos na água.
 
 A pesca é abundante nas águas costeiras do Mar de Lyria, sustentando as comunidades litorâneas de Thyravalis e das regiões vizinhas. Mais ao largo, porém, as profundezas do mar guardam segredos que nenhuma expedição conseguiu revelar — relatos de criaturas de proporções descomunais, de correntes que arrastam navios para o abismo e de ruídos que emanam das profundezas em padrões que sugerem algo além da geologia submarina.
+
+**Thalendris** [D], a cidade costeira de Sylvaris, situa-se nas margens do Mar de Lyria, servindo como principal porto do reino no oeste e como porta de entrada para as rotas comerciais que cruzam o grande oceano.
 
 ### Mar de Aurion [D]
 
 | Atributo | Descrição |
 |----------|-----------|
 | **Classificação** | Derivado criativo |
-| **Localização** | Norte intercontinental; separa Sylvaris de Pyralis |
-| **Características** | Águas frias e revoltas; correntes circulares; tempestades frequentes |
-| **Importância** | Rota marítima entre sudoeste e norte; atravessado pelas Mil Ilhas de Aurion |
+| **Localização** | Entre Sylvaris e Pyralis, no lado LESTE do istmo terrestre |
+| **Analogia** | Mar do Caribe |
+| **Características** | Águas quentes e tropicais; arquipélago vulcânico disperso |
+| **Importância** | Contém as Mil Ilhas de Aurion; rota marítima costeira entre os reinos |
 
-O Mar de Aurion é o oceano intercontinental que separa os territórios de Sylvaris e Pyralis, estendendo-se como uma barreira líquida entre o sudoeste e o norte/noroeste do planeta. Suas águas são notavelmente frias — influenciadas pelas correntes polares que descem do Arquipélago Polar Norte — e frequentemente agitadas por tempestades que se formam sobre sua superfície com uma intensidade que os navegadores classificam como "furiosa mesmo nos dias bons".
+O Mar de Aurion é o oceano que banha o lado oriental da conexão terrestre entre Sylvaris e Pyralis, estendendo-se como um mar interior semi-aberto entre as costas dos dois continentes. Suas águas são consideravelmente mais quentes e calmas do que as dos oceanos abertos, pois são protegidas pela massa continental do istmo a oeste. A temperatura tropical do Mar de Aurion sustenta ecossistemas ricos em recifes, peixes coloridos e formações de coral etérico que luminescem durante a noite.
 
-A característica mais distintiva do Mar de Aurion são as **Mil Ilhas de Aurion**, o arquipélago vulcânico que serve como ponte natural entre Sylvaris e Pyralis. Essas ilhas fragmentam o oceano em uma constelação de estreitos, canais e passagens, criando uma labirinto marítimo que pode ser navegado por rotas conhecidas, mas que reserva perigos para os que se desviam delas. As correntes entre as ilhas são imprevisíveis — mudam de direção conforme a maré, a estação e, segundo alguns navegadores veteranos, conforme a lua Thalis, a mais distante e misteriosa das três.
+A característica mais distintiva do Mar de Aurion são as **Mil Ilhas de Aurion**, o arquipélago vulcânico que se dispersa por suas águas como um mosaico de pedra e cristal. Essas ilhas fragmentam o mar em uma constelação de estreitos, canais e passagens, criando um labirinto marítimo que pode ser navegado por rotas conhecidas, mas que reserva perigos para os que se desviam delas. As correntes entre as ilhas são influenciadas pelas marés triplas e pela atividade vulcânica submarina, tornando a navegação uma arte que exige experiência e instrumentos precisos.
 
-A navegação do Mar de Aurion exige navios de casco reforçado e tripulações experientes. Os Veleiros de Estrada que cruzam suas águas são construídos com características específicas para resistir às ondas altas e aos ventos contrários. A rota principal entre Sylvaris e Pyralis passa pelo canal central das Mil Ilhas, mas essa passagem é estreita e disputada — fortalezas construídas nas ilhas estratégicas controlam o tráfego e cobram pedágios de passagem.
+A navegação do Mar de Aurion é significativamente mais segura do que a do Mar de Vaelantor ou do Mar de Drakon, e suas águas protegidas são um refúgio natural para navios que precisam de reparos, reabastecimento ou proteção contra tempestades oceânicas. As ilhas abrigam fortalezas construídas por Sylvaris e Pyralis ao longo dos séculos, e a soberania sobre o arquipélago é motivo de disputa diplomática constante.
 
 ### Mar de Drakon [D]
 
 | Atributo | Descrição |
 |----------|-----------|
 | **Classificação** | Derivado criativo |
-| **Localização** | Leste de Sylvaris; extensão continental até Terraxis |
-| **Características** | Oceano vasto e profundo; correntes lentas mas poderosas; temperatura variável |
-| **Importância** | Separa os blocos continentais de Sylvaris e Terraxis |
+| **Localização** | Leste de Terraxis; separa a massa continental oriental do desconhecido |
+| **Analogia** | Oceano Índico |
+| **Características** | Oceano vasto e profundo; correntes lentas mas poderosas; perigoso |
+| **Importância** | Fronteira oriental do mundo conhecido |
 
-O Mar de Drakon é a vastidão oceânica que se estende a leste de Sylvaris, separando o continente sudoeste do bloco continental oriental onde se situa Terraxis. Trata-se de um oceano de proporções continentais — uma distância tão grande que poucos viajantes a cruzam sem escalas intermediárias. Os navios que empreendem essa travessia devem levar provisões para semanas, e mesmo os mais velozes raramente completam a jornada em menos de um mês.
+O Mar de Drakon é a vastidão oceânica que se estende a leste de Terraxis, separando o maior continente de Aetherion das terras desconhecidas do extremo leste. Trata-se de um oceano de proporções continentais — uma distância tão grande que poucos viajantes a cruzam sem escalas intermediárias. Os navios que empreendem essa travessia devem levar provisões para semanas, e mesmo os mais velozes raramente completam a jornada em menos de um mês.
 
 O nome Drakon é uma referência às lendas que cercam suas profundezas. Relatos de monstros marinhos de proporções colossais são comuns entre os navegadores que cruzam suas águas — criaturas que os cartógrafos antigos descreviam como "filhos do abismo" e que, mesmo nos mapas mais modernos, continuam sendo representadas nas margens como advertências aos que ousam navegar demasiado longe da costa. Embora a comunidade acadêmica de Sanctrum considere essas histórias exageros de navegadores supersticiosos, o fato é que desaparecimentos de navios no Mar de Drakon são mais frequentes do que em qualquer outro oceano de Aetherion.
 
@@ -114,31 +257,69 @@ As correntes do Mar de Drakon são lentas, mas possuem uma força subjacente que
 |----------|-----------|
 | **Classificação** | Derivado criativo |
 | **Localização** | Faixa equatorial; conecta Thalassia ao resto do mundo |
-| **Características** | Correntes oceânicas circulares que percorrem o equador; águas quentes e ricas em vida marinha |
+| **Analogia** | Pacífico/Índico equatorial (correntes quentes) |
+| **Características** | Correntes oceânicas circulares que percorrem o equador; águas quentes |
 | **Importância** | Principal artéria de conexão global; rota comercial mais movimentada |
 
-O Mar das Correntes é a artéria equatorial de Aetherion — uma faixa oceânica que circunda o planeta na linha do equador, movida por correntes aquecidas pela radiação direta de Aurion. Essas correntes formam um sistema circulatório global que redistribui calor entre os hemisférios e conecta Thalassia ao resto do mundo de maneira que nenhum outro oceano consegue.
+O Mar das Correntes é a artéria equatorial de Aetherion — uma faixa oceânica que percorre o planeta na linha do equador, movida por correntes aquecidas pela radiação direta de Aurion. Essas correntes formam um sistema circulatório global que redistribui calor entre os hemisférios e conecta Thalassia ao resto do mundo de maneira que nenhum outro oceano consegue. É o oceano mais biodiverso do planeta: cardumes de peixes luminescentes, bancos de algas etéricas e colônias de organismos que não foram encontrados em nenhum outro lugar formam um ecossistema de riqueza incomparável.
 
-A importância do Mar das Correntes para o comércio inter-reinos é imensurável. É por suas águas quentes que as mercadorias de Thalassia — peles etéricas, corais raros, pérolas de Aethra condensada — chegam aos mercados de Sylvaris, Pyralis e além. É também por ele que as influências culturais de todos os reinos se mesclam, criando uma zona de intercâmbio permanente que enriquece e complica as relações entre os povos de Aetherion.
+A importância do Mar das Correntes para o comércio inter-reinos é imensurável. É por suas águas quentes que as mercadorias de Thalassia chegam aos mercados de todos os reinos costeiros. A navegação é relativamente segura — as correntes são previsíveis e as tempestades são menos frequentes —, mas a proximidade com o equador cria fenômenos únicos, como as "calmas etéricas", períodos em que o fluxo de Aethra se estabiliza e os instrumentos etéricos deixam de funcionar.
 
-As águas do Mar das Correntes são ricas em vida marinha — cardumes de peixes luminescentes, bancos de algas etéricas e colônias de organismos que não foram encontrados em nenhum outro oceano. Essa abundância faz do Mar das Correntes uma fonte vital de alimento para as ilhas e arquipélagos que o bordeiam, especialmente para o reino de Thalassia, cuja economia depende diretamente dos recursos marinhos.
-
-A navegação no Mar das Correntes é relativamente mais segura do que em outros oceanos — as correntes são previsíveis, as tempestades são menos frequentes e as águas são calmas na maior parte do ano. No entanto, a proximidade com o equador cria fenômenos meteorológicos únicos, como as "calmas etéricas" — períodos em que o fluxo de Aethra na região se estabiliza de forma tão completa que instrumentos etéricos deixam de funcionar temporariamente.
-
-### Mar do Silêncio [D]
+### Mar do Silêncio [D] — RELOCALIZADO
 
 | Atributo | Descrição |
 |----------|-----------|
-| **Classificação** | Derivado criativo |
-| **Localização** | Noroeste; entre Umbra e Sylvaris |
-| **Características** | Vastidão quase inexplorada; águas profundas e obscuras; silêncio perturbador |
-| **Importância** | Zona de mistério e perigo; fronteira marítima não vigiada |
+| **Classificação** | Derivado criativo (relocalizado na v2) |
+| **Localização** | Oceano Austral; circunda o Polo Sul inexplorado |
+| **Analogia** | Oceano Antártico (Southern Ocean) |
+| **Características** | Frio, escuro, absorve o som; correntes circumpolares |
+| **Importância** | Fronteira do desconhecido; local do personagem misterioso do Cap. 1 |
 
-O Mar do Silêncio é, de todos os oceanos de Aetherion, o mais temido e o menos compreendido. Estendendo-se ao noroeste, entre as costas setentrionais de Sylvaris e as costas meridionais de Umbra, trata-se de uma vastidão oceânica que os cartógrafos preenchem com notas como "território não mapeado" e advertências em caligrafia trêmula sobre navios que partiram e nunca retornaram.
+O Mar do Silêncio é, de todos os oceanos de Aetherion, o mais temido e o menos compreendido. **Na revisão v2, foi relocalizado**: não mais entre Sylvaris e Umbra, mas sim ao redor do Polo Sul, como o Oceano Antártico da Terra. Esse oceano circumpolar circunda o continente gelado inexplorado, separando as águas conhecidas do mundo da escuridão absoluta do extremo sul.
 
 O nome do mar não é poético — é literal. As águas do Mar do Silêncio possuem uma propriedade que desafia a explicação dos estudiosos: uma capacidade de absorver o som. Navios que adentram suas águas relatam que o ruído das ondas diminui progressivamente, que o vento parece perder sua voz e que, em determinado ponto, o silêncio se torna tão absoluto que é possível ouvir o próprio batimento cardíaco. Esse fenômeno não é acústico no sentido tradicional — teorias etéricas sugerem que o Mar do Silêncio se encontra sobre uma região onde o fluxo de Aethra é anômalo, absorvendo ou distorcendo as ondas sonoras de maneiras que a ciência de Nova Aetherion ainda não compreende totalmente.
 
-O Mar do Silêncio é particularmente significativo no contexto geopolítico de Aetherion porque serve como **fronteira marítima não vigiada** entre Sylvaris e Umbra. É através de suas águas obscuras que as operações da seita oculta de Nyxalor e Nihilaryth — a única veneração proibida em todo o planeta — podem ser conduzidas sem detecção. A ausência de faróis etéricos, a escassez de rotas comerciais regulares e o medo instintivo que o mar inspira tornam-no um canal ideal para movimentos clandestinos.
+O Mar do Silêncio é de particular importância narrativa: é nestas águas geladas e silenciosas que se encontra o **personagem misterioso introduzido no Capítulo 1** do Livro I [C]. A conexão entre esse personagem e as propriedades sobrenaturais do oceano austral permanece um dos mistérios centrais da narrativa, e o Mar do Silêncio é, portanto, não apenas uma formação geográfica, mas um elemento dramático de primeira ordem.
+
+As correntes do Mar do Silêncio são circumpolares — fluem de oeste para leste ao redor do Polo Sul, sem encontrar obstrução continental. Essas correntes são as mais frias e as mais rápidas de todos os oceanos de Aetherion, criando uma barreira térmica que isola o continente antártico do resto do planeta. Icebergs de proporções colossais desprendem-se das costas do Polo Sul e derivam para norte, carregados por essas correntes, representando um perigo constante para a navegação nas latitudes meridionais.
+
+### Mar de Cristal [NEW]
+
+| Atributo | Descrição |
+|----------|-----------|
+| **Classificação** | Novo — criado na revisão v2 |
+| **Localização** | Oceano Ártico; circunda o norte de Umbra e o Polo Norte |
+| **Analogia** | Oceano Ártico |
+| **Características** | Congelado na maior parte do ano; placas de gelo; auroras etéricas |
+| **Importância** | Separa Pyralis de Umbra; fronteira setentrional do mundo conhecido |
+
+O Mar de Cristal é o oceano polar norte de Aetherion — uma vastidão de águas geladas que circunda o extremo setentrional do planeta, banhando as costas ocidentais e setentrionais de Umbra e estendendo-se até o Polo Norte. Seu nome deriva da aparência que suas águas adquirem durante os meses de congelamento: quando a superfície se cobre de gelo, a luz de Aurion refrata através das placas cristalinas, criando um efeito de caleidoscópio que pode ser avistado a grandes distâncias — como se o próprio oceano fosse um imenso cristal partido em fragmentos irregulares.
+
+O Mar de Cristal é **congelado durante a maior parte do ano**. Apenas nos meses de verão polar — quando a luz de Aurion incide sobre o norte durante 24 horas por dia — as águas chegam a descongelar parcialmente, abrindo canais entre as placas de gelo que permitem a navegação limitada. Mesmo durante o degelo, a navegação é extremamente perigosa: as placas de gelo deslocam-se imprevisivelmente, as correntes sub-superficiais são rápidas e frias, e a névoa que se forma sobre as águas abertas reduz a visibilidade a quase zero.
+
+O Mar de Cristal é a principal barreira natural entre **Pyralis** e **Umbra**. Embora ambos os reinos estejam no hemisfério norte, não compartilham fronteira terrestre — o Mar de Cristal se interpõe entre eles como uma muralha de gelo que só pode ser transposta nos breves meses de degelo. Essa separação oceânica é um dos fatores que explica as diferenças culturais e políticas tão marcantes entre os dois reinos: Pyralis, voltado para o vulcanismo e o comércio, e Umbra, voltado para o gelo e o isolamento.
+
+Os fenômenos de aurora são frequentes sobre o Mar de Cristal — as partículas de Aethra carregadas pelos ventos solares interagem com a atmosfera rarefeita das latitudes polares, criando cortinas de luz verde, violeta e dourado que dançam sobre o gelo durante a noite polar. Essas auroras etéricas são mais intensas do que qualquer fenômeno similar na Terra, e os umbrianos as consideram manifestações do espírito do norte — "os sussurros de Umbra", como diz a tradição local.
+
+O **Arquipélago Polar Norte** [D] pontilha as águas do Mar de Cristal como fragmentos de um continente que nunca se formou completamente, representando a extensão máxima do conhecimento cartográfico no hemisfério setentrional.
+
+### Mar de Vaelantor [NEW]
+
+| Atributo | Descrição |
+|----------|-----------|
+| **Classificação** | Novo — criado na revisão v2 |
+| **Localização** | Oceano intercontinental; separa as massas W (Sylvaris/Pyralis) das massas E (Fulmora/Sanctrum/Terraxis) |
+| **Analogia** | Oceano Atlântico |
+| **Características** | O mais largo e profundo dos oceanos; correntes transversais |
+| **Importância** | Principal barreira intercontinental; define a geopolítica global |
+
+O Mar de Vaelantor é o oceano intercontinental de Aetherion — a vasta massa de água que separa as massas continentais do oeste (Sylvaris e Pyralis) das massas continentais do leste (Fulmora, Sanctrum e Terraxis). Seu nome é uma homenagem ao grande rio de Sylvaris, simbolizando a continuidade entre a água que flui pela terra e a água que se estende pelo mar — como se o Vaelantor fluvial fosse apenas um afluente de um oceano cujo nome compartilha.
+
+O Mar de Vaelantor é o **mais largo e mais profundo** dos sete oceanos de Aetherion [D]. Sua travessia é uma das empreitadas marítimas mais longas do planeta — navios que cruzam de Sylvaris a Sanctrum enfrentam uma distância de aproximadamente 2.600 km em linha reta [D], mas as rotas de navegação seguem correntes que podem estender essa distância para muito além. A travessia completa leva semanas, mesmo nos navios mais velozes, e escalar no meio do oceano é impossível — é uma viagem que exige planejamento, provisões e coragem.
+
+As correntes do Mar de Vaelantor são complexas e potentes. Correntes de superfície fluem de leste para oeste na faixa tropical, enquanto correntes profundas fluem na direção oposta, criando um sistema de circulação que redistribui calor entre os hemisférios. Tempestades oceânicas formam-se sobre o Mar de Vaelantor com uma frequência que supera a de qualquer outro oceano — os ventos que varrem sua superfície sem obstrução continental atingem velocidades que os navegadores classificam como "furiosas mesmo nos dias bons".
+
+A importância geopolítica do Mar de Vaelantor é imensurável. É esse oceano que define a separação fundamental entre os "Reinos do Oeste" (Sylvaris, Pyralis) e os "Reinos do Leste" (Sanctrum, Fulmora, Terraxis). O domínio do Mar de Vaelantor é, portanto, sinônimo de poder global — quem controla suas rotas, seus portos e suas ilhas controla a comunicação entre as duas metades do mundo civilizado. Os arquipélagos que pontilham suas águas — quando existem — são possessões de valor estratégico incalculável.
 
 ---
 
@@ -150,98 +331,106 @@ Se os oceanos são as muralhas de Aetherion, os arquipélagos são suas portas. 
 
 | Atributo | Descrição |
 |----------|-----------|
-| **Localização** | Entre Sylvaris e Pyralis, no Mar de Aurion |
-| **Natureza** | Arquipélago vulcânico ativo; ponte natural entre os dois reinos |
+| **Localização** | Mar de Aurion, entre Sylvaris e Pyralis (lado leste do istmo) |
+| **Natureza** | Arquipélago vulcânico ativo; disperso em águas tropicais |
 | **População** | Comunidades dispersas; fortalezas militares em ilhas estratégicas |
 | **Economia** | Comércio de passagem; extração de minerais vulcânicos; pesca |
 
-As Mil Ilhas de Aurion são, como o nome indica, um arquipélago composto por um número vasto de ilhas de origem vulcânica que se estende pelo Mar de Aurion como um mosaico de pedra e água. O número "mil" é aproximado — os levantamentos cartográficos mais completos identificaram algo entre 800 e 1.200 ilhas, dependendo de como se define o limite entre uma ilha e um rochedo submerso. A origem vulcânica do arquipélago é evidente em suas paisagens: praias de areia negra, falésias de basalto colunar, crateras semi-submersas que formam baías de águas termais e, em algumas ilhas, vulcões ativos que ainda lançam colunas de fumaça e cinzas contra o céu.
+As Mil Ilhas de Aurion são o arquipélago mais disputado de Aetherion — um vasto conjunto de ilhas de origem vulcânica que se dispersa pelo Mar de Aurion como um mosaico de pedra e água. O número "mil" é aproximado — os levantamentos cartográficos mais completos identificaram algo entre 800 e 1.200 ilhas. Suas paisagens são dramaticamente vulcânicas: praias de areia negra, falésias de basalto colunar, crateras semi-submersas que formam baías de águas termais e vulcões ativos que ainda lançam colunas de fumaça e cinzas contra o céu.
 
-A função primordial das Mil Ilhas é servir como **ponte natural** entre Sylvaris e Pyralis. Sem esse arquipélago, a travessia do Mar de Aurion seria uma empreitada de pura travessia oceânica, sem pontos de escala ou referência. Com ele, a viagem pode ser feita de ilha em ilha, utilizando os canais entre as formações como rotas protegidas. No entanto, essa configuração também torna o arquipélago estrategicamente vital — quem controla as Mil Ilhas controla a principal rota marítima entre sudoeste e norte.
-
-Fortalezas foram construídas nas ilhas mais estratégicas ao longo dos séculos, algumas por Sylvaris, outras por Pyralis, e algumas por forças que não respondem a nenhum dos dois reinos. A soberania sobre o arquipélago é motivo de disputa diplomática constante, e os tratados que regulam o tráfego são tão complexos quanto as correntes que serpentam entre as ilhas.
-
-### Arquipélago das Névoas [D]
-
-| Atributo | Descrição |
-|----------|-----------|
-| **Localização** | Entre Fulmora e Terraxis |
-| **Natureza** | Eternamente coberto de névoa; perigoso para navegação |
-| **População** | Desconhecida ou inexistente |
-| **Status** | Relativamente inexplorado |
-
-O Arquipélago das Névoas é uma das regiões mais enigmáticas de Aetherion. Situado entre as cordilheiras de Fulmora e as terras desérticas de Terraxis, esse arquipélago é permanentemente envolto por uma camada de névoa tão densa e persistente que é impossível avistar uma ilha a partir da vizinha, mesmo quando estão a poucas centenas de passos de distância. A névoa não é um fenômeno meteorológico comum — ela não se dissolve com o calor do sol, não é dissipada pelo vento e parece resistir a tentativas de dispersão etérica.
-
-As teorias mais aceitas atribuem a névoa perpétua a uma combinação de fatores: a umidade que sobe das águas quentes do Mar das Correntes ao sul, resfriada abruptamente pelas correntes descendentes que desembocam do planalto de Sanctrum através de Fulmora, criaria uma zona de condensação permanente. Algumas fontes, porém, sugerem uma explicação mais perturbadora: que a névoa é, na verdade, uma manifestação de Aethra condensado — energia etérica tão concentrada que adquire forma gasosa e visível, envolvendo o arquipélago como um manto que não pode ser removido.
-
-A navegação no Arquipélago das Névoas é considerada **extremamente perigosa**. Os navios que adentram suas águas perdem toda referência visual, os instrumentos etéricos sofrem interferência e as correntes são imprevisíveis. Relatos de navios que entraram no arquipélago e emergiram semanas depois, à deriva e com tripulações desorientadas, alimentam a reputação de que o lugar é "o cemitério dos navegadores temerários". Mapas antigos frequentemente representam a região com o símbolo de um olho fechado — um aviso de que ali não se pode ver, e portanto não se deve ir.
+Com a revisão v2, as Mil Ilhas encontram-se no **lado leste da conexão terrestre** entre Sylvaris e Pyralis, nas águas quentes do Mar de Aurion. Como os dois continentes agora compartilham uma fronteira de terra (o istmo), as ilhas não são mais a única rota entre os reinos — mas continuam sendo a rota marítima preferida, pois o istmo terrestre é acidentado, montanhoso e dificilmente transitável por grandes caravanas. A navegação pelo Mar de Aurion e suas ilhas permanece mais rápida e mais segura do que a travessia por terra.
 
 ### Coroa de Coral [D]
 
 | Atributo | Descrição |
 |----------|-----------|
-| **Localização** | Entre Sylvaris e Thalassia |
-| **Natureza** | Ilhas tropicais; recifes de coral etérico; águas rasas e cristalinas |
-| **População** | Culturas híbridas sylvari-thalassianas; comunidades pesqueiras |
+| **Localização** | Entre Sylvaris (sul) e Thalassia (norte) |
+| **Natureza** | Ilhas tropicais; recifes de coral etérico; águas rasas |
+| **População** | Culturas híbridas sylvari-thalassianas |
 | **Economia** | Comércio cultural; pesca; coleta de corais etéricos |
 
-A Coroa de Coral é o arquipélago mais belo e mais acolhedor de Aetherion — uma constelação de ilhas tropicais que se estende entre as costas sudeste de Sylvaris e as águas de Thalassia, formando uma ponte natural entre os dois reinos. Seu nome deriva dos recifes de coral etérico que circundam as ilhas, formações vivas que emitem uma luminescência suave, especialmente durante a noite, transformando as águas rasas em espelhos de luz colorida.
+A Coroa de Coral é o arquipélago mais belo e mais acolhedor de Aetherion — uma constelação de ilhas tropicais que se estende entre as costas meridionais de Sylvaris e as águas setentrionais de Thalassia, formando uma ponte natural entre os dois reinos através das águas do Mar das Correntes. Seu nome deriva dos recifes de coral etérico que circundam as ilhas, formações vivas que emitem uma luminescência suave, especialmente durante a noite, transformando as águas rasas em espelhos de luz colorida.
 
-Ao contrário da maioria dos arquipélagos de Aetherion, que são de origem vulcânica, as ilhas da Coroa de Coral são formações de origem biológica — estruturas construídas ao longo de milênios por colônias de organismos marinhos que secretam carbonato de cálcio impregnado de Aethra. O resultado são ilhas de baixa altitude, cercadas por lagoas de água cristalina, praias de areia branca e recifes que abrigam uma biodiversidade marinha sem paralelo no planeta.
+### Arquipélago das Névoas [D]
 
-A Coroa de Coral é um espaço de **mistura cultural** entre Sylvaris e Thalassia. As comunidades que habitam as ilhas são compostas por descendentes de ambos os reinos, e sua cultura reflete essa dualidade: a língua é um crioulo que combina elementos do sylvari e do thalassiano, a culinária mistura ingredientes dos dois reinos, e as tradições incorporam tanto a relação com o vento dos sylvaris quanto a relação com a água dos thalassianos. Mercados ao ar livre oferecem produtos dos dois reinos lado a lado, e festividades conjuntas celebram a união entre os povos do ar e do mar.
+| Atributo | Descrição |
+|----------|-----------|
+| **Localização** | Entre Fulmora e Terraxis (costa leste) |
+| **Natureza** | Eternamente coberto de névoa; perigoso para navegação |
+| **População** | Desconhecida ou inexistente |
+| **Status** | Relativamente inexplorado |
+
+O Arquipélago das Névoas é uma das regiões mais enigmáticas de Aetherion, situado entre as cordilheiras de Fulmora e as terras de Terraxis, banhado pelo Mar de Drakon. Permanentemente envolto por uma camada de névoa densa e persistente, esse arquipélago é impossível de avistar a partir do mar, mesmo quando as ilhas estão a poucas centenas de passos de distância. A névoa não se dissolve com o calor do sol, não é dissipada pelo vento e parece resistir a tentativas de dispersão etérica.
 
 ### Ilhas do Vazio [D]
 
 | Atributo | Descrição |
 |----------|-----------|
-| **Localização** | Extremo leste; pré-Terraxis |
+| **Localização** | Extremo leste do Mar de Drakon; pré-Terraxis |
 | **Natureza** | Ilhas mitológicas; dizem que bordam o abismo |
 | **População** | Nenhuma confirmada |
 | **Status** | Território lendário; existência debatida |
 
-As Ilhas do Vazio ocupam um lugar singular na cartografia de Aetherion: são, ao mesmo tempo, registradas em mapas antigos e tratadas com ceticismo pela cartografia moderna. Situadas no extremo leste, antes das costas de Terraxis, essas ilhas são descritas nos Cantos da Fundação como "o lugar onde o mundo acaba e o abismo começa" — uma fronteira entre o conhecido e o insondável.
-
-Segundo as lendas, as Ilhas do Vazio são ilhas-flutuante — formações rochosas que não estão ancoradas ao fundo do mar, mas que se movem lentamente, derivando pelas correntes do Mar de Drakon como navios sem tripulação. Navegadores que afirmam tê-las avistado descrevem rochas de coloração estranha — negras com veios que brilham em tons que não correspondem a nenhum mineral conhecido — e uma ausência total de vida, vegetação ou sinal de que algo já habitou aquele lugar.
-
-A comunidade acadêmica de Sanctrum está dividida sobre a existência real das Ilhas do Vazio. Alguns eruditos argumentam que os relatos antigos se referem a formações rochosas comuns do Mar de Drakon, ampliadas pela imaginação de navegadores em pânico. Outros, porém, apontam para a consistência dos relatos ao longo de séculos e para a presença das ilhas em mapas de origens culturais diversas como evidência de que algo realmente existe no extremo leste — algo que, talvez, seja melhor deixar inexplorado.
+As Ilhas do Vazio ocupam um lugar singular na cartografia de Aetherion: são, ao mesmo tempo, registradas em mapas antigos e tratadas com ceticismo pela cartografia moderna. Segundo as lendas, são ilhas-flutuante — formações rochosas não ancoradas ao fundo do mar, que se movem lentamente pelas correntes do Mar de Drakon como navios sem tripulação. Navegadores que afirmam tê-las avistado descrevem rochas de coloração estranha e uma ausência total de vida.
 
 ### Arquipélago Polar Norte [D]
 
 | Atributo | Descrição |
 |----------|-----------|
-| **Localização** | Norte do planeta |
+| **Localização** | Mar de Cristal, norte de Umbra e Polo Norte |
 | **Natureza** | Pequenas ilhas geladas; parcialmente mapeadas |
 | **População** | Desconhecida; possivelmente nenhuma |
 | **Status** | Zona de exploração limitada |
 
-O Arquipélago Polar Norte é a última fronteira cartográfica do hemisfério norte de Aetherion. Composto por um número indeterminado de pequenas ilhas cobertas de gelo e neve perpétua, esse arquipélago pontilha as águas polares como fragmentos de um continente que nunca se formou completamente. As expedições que chegaram a mapear parte de suas ilhas relatam condições extremas: temperaturas que caem abaixo de qualquer escala utilizada nos reinos temperados, ventos que reduzem a visibilidade a zero, e uma escuridão que dura metade do ano.
-
-O mapeamento do Arquipélago Polar Norte é **incompleto e provisório**. As expedições enviadas pelos reinos do norte — principalmente Pyralis e Umbra — retornaram com mapas que cobrem apenas as porções mais meridionais do arquipélago. O interior polar permanece inexplorado, e as ilhas que foram avistadas do mar mas nunca pisadas permanecem como pontos sem nome nas bordas dos mapas.
-
-Não há evidências de presença humana permanente no arquipélago, mas relatos esporádicos de estruturas encontradas em algumas das ilhas mapeadas — ruínas de pedra que não correspondem a nenhum estilo arquitetônico conhecido — sugerem que, em algum momento da história de Aetherion, alguém pode ter habitado aquele lugar. A origem e a antiguidade dessas estruturas são desconhecidas, e a Severidade das condições polares torna qualquer investigação adicional extremamente difícil.
+O Arquipélago Polar Norte pontilha as águas geladas do Mar de Cristal como fragmentos de um continente que nunca se formou completamente. As expedições que o exploraram relatam condições extremas: temperaturas abaixo de qualquer escala utilizada nos reinos temperados, ventos que reduzem a visibilidade a zero, e uma escuridão que dura metade do ano. O mapeamento é incompleto e provisório; o interior polar permanece inexplorado. Relatos de ruínas de pedra em algumas ilhas sugerem uma ocupação antiga de origem desconhecida.
 
 ---
 
-## POSIÇÃO DOS SETE REINOS
+## FRONTEIRAS E CONEXÕES
 
-Abaixo, a tabela sintética que orienta a posição de cada reino no globo, suas analogias continentais aproximadas, capitais e oceanos adjacentes. Esta tabela é o sumário cartográfico fundamental de Aetherion.
+### Tabela de Fronteiras Inter-Reinos
 
-| # | Reino | Elemento | Posição no Planeta | Analogia Continental | Capital | Oceanos Adjacentes |
-|---|-------|----------|-------------------|---------------------|---------|-------------------|
-| 1 | **Sylvaris** | Vento | Sudoeste | América do Sul | Zephyra | Mar de Lyria [C], Mar de Aurion [D], Mar de Drakon [D], Mar do Silêncio [D] |
-| 2 | **Pyralis** | Fogo | Norte/Noroeste | América do Norte | Ignatia | Mar de Aurion [D], Mar do Silêncio [D], águas polares [D] |
-| 3 | **Sanctrum** | Central | Centro do planeta | Planalto Tibetano (escala global) | Sanctrum | Conectado a todos por terra e rotas internas |
-| 4 | **Umbra** | Gelo/Sombra | Noroeste (hemisfério norte) | Europa Ocidental | Umbralis | Mar do Silêncio [D], águas setentrionais [D] |
-| 5 | **Fulmora** | Raio/Tempestade | Nordeste | Europa Oriental | Alturas | Mar do Silêncio [D] (noroeste), Mar de Drakon [D] (leste) |
-| 6 | **Terraxis** | Terra | Extremo leste | Ásia | Petramagna | Mar de Drakon [D] (oeste), águas orientais desconhecidas |
-| 7 | **Thalassia** | Água | Sudeste | Oceania | Aquarys Prime | Mar das Correntes [D], Coroa de Coral [D] |
+A geopolítica de Aetherion é definida por suas fronteiras — tanto terrestres quanto marítimas. A tabela abaixo sintetiza todas as conexões entre os Sete Reinos:
 
-**Notas sobre a distribuição geográfica:**
+| Reino A | Reino B | Tipo de Fronteira | Detalhes |
+|---------|---------|-------------------|----------|
+| **Sylvaris** | **Pyralis** | 🔶 **TERRESTRE** | Única fronteira terrestre de Sylvaris. Istmo montanhoso ao norte. |
+| **Sanctrum** | **Terraxis** | 🔶 **TERRESTRE** | Descida gradual do planalto para leste. Fronteira mais extensa. |
+| **Sanctrum** | **Fulmora** | 🏔️ **TOPOGRÁFICA** | Transição contínua: planalto → cordilheira. Sem linha clara. |
+| **Umbra** | **Fulmora** | 🔶 **TERRESTRE** | Sul de Umbra → norte de Fulmora. Tundra → montanhas. |
+| **Umbra** | **Terraxis** | 🔶 **TERRESTRE** | Leste de Umbra → norte de Terraxis. Tundra → estepes. |
+| **Umbra** | **Pyralis** | 🌊 **OCEÂNICA** | Separados pelo Mar de Cristal (Ártico). |
+| **Sylvaris** | **Sanctrum** | 🌊 **OCEÂNICA** | Separados pelo Mar de Vaelantor (~2.600 km). |
+| **Sylvaris** | **Thalassia** | 🌊 **OCEÂNICA** | Separados pela Coroa de Coral e Mar das Correntes. |
+| **Pyralis** | **Sanctrum** | 🌊 **OCEÂNICA** | Separados pelo Mar de Vaelantor. |
+| **Pyralis** | **Thalassia** | 🌊 **OCEÂNICA** | Distância extrema; sem rota direta comum. |
+| **Pyralis** | **Fulmora** | 🌊 **OCEÂNICA** | Separados pelo Mar de Vaelantor. |
+| **Pyralis** | **Terraxis** | 🌊 **OCEÂNICA** | Distância extrema; sem rota direta comum. |
+| **Sanctrum** | **Thalassia** | 🌊 **OCEÂNICA** | Distância extrema; sem rota direta comum. |
+| **Sanctrum** | **Umbra** | 🌊 **OCEÂNICA** | Sem conexão direta documentada. |
+| **Fulmora** | **Thalassia** | 🌊 **OCEÂNICA** | Distância extrema; sem rota direta comum. |
+| **Fulmora** | **Terraxis** | 🌊 **OCEÂNICA** | Adjacentes no mapa mas separados pelo Mar de Drakon (costa). |
+| **Terraxis** | **Thalassia** | 🌊 **OCEÂNICA** | Separados pelo Mar das Correntes. |
+| **Umbra** | **Thalassia** | 🌊 **OCEÂNICA** | Distância extrema; separados por hemisférios. |
+| **Sylvaris** | **Umbra** | 🌊 **OCEÂNICA** | Hemisférios opostos (sul vs. norte extremo). |
+| **Sylvaris** | **Fulmora** | 🌊 **OCEÂNICA** | Separados pelo Mar de Vaelantor. |
+| **Sylvaris** | **Terraxis** | 🌊 **OCEÂNICA** | Separados pelo Mar de Vaelantor. |
 
-A disposição dos reinos segue uma lógica que reflete tanto a topografia quanto a cultura de cada nação. Sanctrum, no centro, é o ponto mais alto e a capital política de todos os Sete Reinos. Ao seu redor, os reinos estão dispostos como raios de uma roda — cada um em uma direção cardinal ou intercardinal, separados dos vizinhos por oceanos ou fronteiras terrestres definidas pela topografia do planalto.
+### Resumo das Conexões Terrestres
 
-A **ausência de fronteiras terrestres** é uma das características mais marcantes de Aetherion. Diferente da Terra, onde nações compartilham extensas fronteiras de terra, em Aetherion a maioria dos reinos está separada de seus vizinhos por oceanos. As exceções são: Sanctrum-Terraxis (fronteira terrestre a leste do planalto), Sanctrum-Fulmora (fronteira topográfica na transição planalto-cordilheira), e a conexão montanhosa entre Sanctrum e Pyralis ao norte. Todas as outras conexões são marítimas, o que torna o domínio dos mares um fator geopolítico determinante.
+Aetherion possui exatamente **cinco conexões terrestres/topográficas** entre reinos:
+
+1. **Sylvaris ↔ Pyralis** — Istmo montanhoso (única fronteira de Sylvaris)
+2. **Sanctrum ↔ Terraxis** — Descida gradual do planalto para leste
+3. **Sanctrum ↔ Fulmora** — Transição topográfica planalto-montanha
+4. **Umbra ↔ Fulmora** — Fronteira norte-sul (tundra-montanha)
+5. **Umbra ↔ Terraxis** — Fronteira norte-sudeste (tundra-estepe)
+
+Todas as outras conexões são marítimas. Essa configuração faz do domínio naval um fator geopolítico determinante — e torna o Mar de Vaelantor, que separa os blocos ocidentais dos orientais, o teatro estratégico mais importante do planeta.
+
+### O Eixo Terrestre Oriental
+
+Sanctrum, Fulmora e Terraxis formam um **eixo terrestre contíguo** no centro-leste do planeta. Essa cadeia de conexões — Sanctrum ligado a Fulmora por transição topográfica ao norte, Sanctrum ligado a Terraxis por descida gradual a leste, e Umbra ligado a ambos por suas fronteiras setentrionais — cria a maior extensão contígua de terra em Aetherion. É por esse eixo que exércitos podem marchar sem depender de navios, e é ao longo dele que se concentram as tensões geopolíticas mais intensas do planeta.
 
 ---
 
@@ -251,59 +440,67 @@ Para cada polegada de terra mapeada em Aetherion, há braças de território que
 
 ### Polo Sul — O Continente Gelado Inexplorado
 
-O Polo Sul de Aetherion é **inteiramente inexplorado**. Nenhum reino reivindica sua posse. Nenhuma expedição documentada retornou de suas costas com relatos verificáveis. O que se sabe sobre o Polo Sul é derivado de inferências indiretas: as correntes oceânicas que circulam ao seu redor, as formações de gelo que desprendem de suas costas e derivam para norte, e os ecos etéricos que, segundo os estudiosos de Sanctrum, emanam da região com uma frequência anômala.
+O Polo Sul de Aetherion é **inteiramente inexplorado**. Nenhum reino reivindica sua posse. Nenhuma expedição documentada retornou de suas costas com relatos verificáveis. Cercado pelo Mar do Silêncio — o oceano austral cujas águas absorvem o som e de onde emanam ecos etéricos anômalos — o Polo Sul é a maior lacuna cartográfica de Aetherion.
 
-As teorias predominantes sugerem que o Polo Sul abriga um **continente gelado** — uma massa de terra coberta por camadas de gelo que podem ter milhares de anos de espessura. A existência de terra firme sob o gelo é debatida; alguns geólogos argumentam que o Polo Sul é apenas uma extensão do oceano congelado, enquanto outros apontam para anomalias nas correntes oceânicas que só seriam explicadas pela presença de uma massa continental sub-glacial.
+As teorias predominantes sugerem que o Polo Sul abriga um **continente gelado** — uma massa de terra coberta por camadas de gelo que podem ter milhares de anos de espessura. A existência de terra firme sob o gelo é debatida; alguns geólogos argumentam que o Polo Sul é apenas uma extensão do oceano congelado, enquanto outros apontam para anomalias nas correntes do Mar do Silêncio que só seriam explicadas pela presença de uma massa continental sub-glacial.
 
-O Polo Sul não aparece nos mapas oficiais de Nova Aetherion exceto como uma nota de advertência: *"Aqui, o mundo se cala."* A ausência de reivindicação territorial por parte de qualquer reino é notável em um planeta onde a geopolítica é intensa — e sugere que, se alguém já tentou explorar a região, o resultado foi suficientemente desencorajador para que ninguém mais tentasse.
+O Polo Sul não aparece nos mapas oficiais de Nova Aetherion exceto como uma nota de advertência: *"Aqui, o mundo se cala."* A ausência de reivindicação territorial por parte de qualquer reino é notável — e sugere que, se alguém já tentou explorar a região, o resultado foi suficientemente desencorajador para que ninguém mais tentasse.
 
-### Polo Norte — Parcialmente Mapeado
+### O Norte Além do Mar de Cristal
 
-O Polo Norte é a fronteira conhecida mais ao norte do planeta e, ao contrário do Polo Sul, foi **parcialmente mapeado**. O Arquipélago Polar Norte representa a extensão máxima do conhecimento cartográfico no hemisfério setentrional — além dele, o gelo, o escuro e o frio formam uma barreira que as expedições não conseguiram transpor.
-
-A diferença entre os dois polos é significativa: enquanto o Polo Sul é um vazio absoluto no conhecimento, o Polo Norte oferece pelo menos um ponto de entrada — o arquipélago. As expedições que exploraram suas ilhas trouxeram amostras de rocha, medições de temperatura e observações da fauna polar, mas nenhuma delas conseguiu avançar para o gelo contínuo que se estende além da última ilha mapeada. A transição entre o arquipélago e o gelo polar permanente é descrita como uma zona onde o oceano se congela em camadas tão espessas que se tornam indistinguíveis da terra.
+O Polo Norte de Aetherion é parcialmente conhecido — o Arquipélago Polar Norte e as costas de Umbra representam a extensão máxima do mapeamento setentrional. Mas além do Mar de Cristal, além da última ilha mapeada, o gelo e a escuridão formam uma barreira que nenhuma expedição conseguiu transpor. A transição entre o arquipélago e o gelo polar permanente é descrita como uma zona onde o oceano se congela em camadas tão espessas que se tornam indistinguíveis da terra — um lugar onde água e gelo e rocha se fundem em uma única substância impenetrável.
 
 ### O Leste Distante — Além de Terraxis
 
-A leste de Terraxis, o mapa de Aetherion se dissolve em incertezas. As costas orientais do Reino da Terra foram mapeadas em extensão limitada, mas o que existe além delas permanece desconhecido. Teorias variam: alguns cartógrafos sugerem que Terraxis é o limite oriental do mundo habitável, com oceanos abertos que se estendem até onde a vista alcança. Outros propõem a existência de massas continentais adicionais além do Mar de Drakon — continentes que, se existem, estão separados de Terraxis por distâncias tão vastas que a travessia seria impraticável com a tecnologia de navegação atual.
+A leste de Terraxis, o mapa de Aetherion se dissolve em incertezas. As costas orientais do Reino da Terra foram mapeadas em extensão limitada, mas o que existe além delas permanece desconhecido. O Mar de Drakon estende-se como uma parede de água profunda e perigosa, e suas lendas de monstros e naufrágios são suficientes para dissuadir todos exceto os mais temerários. Teorias variam: alguns cartógrafos sugerem que Terraxis é o limite oriental do mundo habitável; outros propõem a existência de massas continentais adicionais.
 
-A presença das **Ilhas do Vazio** na borda oriental conhecida alimenta a especulação sobre o que pode existir mais além. Se aquelas ilhas mitológicas realmente estão lá, e se realmente "bordam o abismo" como dizem as lendas, então o leste de Aetherion guarda mistérios que nenhum reino está preparado para investigar.
+A presença das **Ilhas do Vazio** na borda oriental conhecida alimenta a especulação. Se aquelas ilhas mitológicas realmente existem, e se realmente "bordam o abismo", então o leste de Aetherion guarda mistérios que nenhum reino está preparado para investigar.
 
 ### As Profundezas Oceânicas
 
-Se a superfície de Aetherion é parcialmente desconhecida, suas profundezas são **inteiramente inexploradas**. Os oceanos do planeta são profundos demais para que as tecnologias de mergulho disponíveis nos Sete Reinos possam alcançar o fundo, e as sondas etéricas que foram enviadas às profundezas retornaram com dados fragmentários e, em alguns casos, com sinais que os engenheiros não conseguiram interpretar.
-
-As teorias sobre o que existe no fundo dos oceanos variam desde colônias de organismos bioluminescentes até ruínas de civilizações submersas que precederam os Sete Reinos. O fundo do Mar de Drakon, em particular, é objeto de intensa especulação — as anomalias etéricas detectadas em suas profundezas sugerem a presença de formações cristalinas de proporções e propriedades que desafiam o conhecimento atual.
+Se a superfície de Aetherion é parcialmente desconhecida, suas profundezas são **inteiramente inexploradas**. Os oceanos do planeta são profundos demais para que as tecnologias de mergulho disponíveis nos Sete Reinos possam alcançar o fundo, e as sondas etéricas que foram enviadas às profundezas retornaram com dados fragmentários. As teorias variam desde colônias de organismos bioluminescentes até ruínas de civilizações submersas. O fundo do Mar de Drakon, do Mar de Vaelantor e do Mar do Silêncio são objetos de intensa especulação — anomalias etéricas detectadas em suas profundezas sugerem a presença de formações cristalinas de proporções e propriedades que desafiam o conhecimento atual.
 
 ---
 
 ## ROTAS DE NAVEGAÇÃO
 
-As rotas marítimas são as artérias vitais de Aetherion. Em um planeta onde a maioria dos reinos está separada por oceanos, o domínio das rotas de navegação é sinônimo de poder econômico, influência política e sobrevivência. Abaixo, as principais rotas documentadas:
+As rotas marítimas são as artérias vitais de Aetherion. Em um planeta onde a maioria dos reinos está separada por oceanos, o domínio das rotas de navegação é sinônimo de poder econômico, influência política e sobrevivência. A revisão v2 do Mappa Mundi atualiza essas rotas para refletir a nova configuração geográfica do planeta.
 
-### Rota Lyria-Sanctrum [C/D]
+### Rota do Vaelantor — Sylvaris ↔ Sanctrum [D]
 
-A rota mais tradicional para acessar Sanctrum pelo oeste: navios partem das costas de Thyravalis no Mar de Lyria, contornam as ilhas ocidentais e sobem pelo litoral até encontrar as desembocaduras dos rios que nascem no planalto. A subida ao planalto é feita por via fluvial até onde a navegação é possível, e então por terra até a cidade de Sanctrum. É a rota mais segura, mas também a mais longa.
+A mais importante e mais longa das rotas de navegação: a travessia do Mar de Vaelantor entre a costa ocidental de Sylvaris (partindo de Thalendris ou Velantis no Mar de Lyria) e as costas orientais (Sanctrum, acessível por via fluvial a partir do planalto). A distância em linha reta é de aproximadamente **2.600 km** [D], mas as rotas de navegação, seguindo as correntes, podem estender essa distância significativamente. A travessia completa leva de três a seis semanas, dependendo da estação, do navio e da experiência da tripulação. É a rota mais estratégica do planeta — quem a domina controla a comunicação entre as metades oeste e leste do mundo.
 
-### Rota das Mil Ilhas [D]
+### Rota Fluvial do Vaelantor — Norte ↔ Sul de Sylvaris [D]
 
-A principal artéria entre Sylvaris e Pyralis, cruzando o Mar de Aurion através das Mil Ilhas de Aurion. A rota passa pelo canal central do arquipélago, com escalas nas ilhas que abrigam fortalezas e portos de comércio. A duração da travessia varia conforme a estação e as condições do mar, mas geralmente leva entre duas e quatro semanas. É a rota mais disputada e a mais militarizada de Aetherion.
+Uma rota interna a Sylvaris, ao longo do Rio Vaelantor. Embarcações percorrem o rio desde sua foz no Mar de Aurion (norte) até as regiões navegáveis do sul, passando pela Planície do Vaelantor, por Vaelthyris (onde Zephyra flutua acima), e por diversas cidades ribeirinhas. É a principal artéria de comércio interno de Sylvaris, e sua importância é comparável à de qualquer rota oceânica inter-reinos.
 
-### Rota da Coroa [D]
+### Rota do Istmo — Sylvaris ↔ Pyralis por Terra [D]
 
-Conectando Sylvaris e Thalassia através da Coroa de Coral, esta rota é a mais curta e a mais segura entre os dois reinos. As águas rasas e cristalinas do arquipélago oferecem navegação fácil e proteção contra tempestades oceânicas. A rota é usada intensamente para comércio bilateral e para a troca cultural entre os povos do vento e da água.
+Com a nova fronteira terrestre entre Sylvaris e Pyralis, uma rota terrestre cruza o istmo montanhoso que conecta os dois continentes. A travessia é mais difícil e mais longa do que a navegação pelo Mar de Aurion, mas oferece a vantagem de não depender de navios. Caravanas de comerciantes cruzam o istmo regularmente, utilizando passagens de montanha que foram abertas e mantidas por séculos.
+
+### Rota do Mar de Aurion — Mil Ilhas [D]
+
+A rota marítima costeira entre Sylvaris e Pyralis, cruzando o Mar de Aurion através das Mil Ilhas. É mais rápida e mais segura do que a rota terrestre do istmo, e continua sendo a preferida para o transporte de mercadorias volumosas. A rota passa pelo canal central do arquipélago, com escalas nas ilhas que abrigam fortalezas e portos de comércio.
+
+### Rota da Coroa — Sylvaris ↔ Thalassia [D]
+
+Conectando Sylvaris e Thalassia através da Coroa de Coral, no Mar das Correntes. Esta é a rota mais curta e mais segura entre os dois reinos. As águas rasas e cristalinas do arquipélago oferecem navegação fácil e proteção contra tempestades oceânicas. Usada intensamente para comércio bilateral e troca cultural.
 
 ### Rota Equatorial das Correntes [D]
 
-A rota global que circunda Aetherion pelo equador, aproveitando as correntes do Mar das Correntes. Esta é a mais longa de todas as rotas conhecidas, cruzando o planeta de leste a oeste (ou vice-versa) e passando por múltiplos reinos e arquipélagos. Navios que empreendem a circunavegação completa podem levar meses ou até mais de um ano, dependendo do número de escalas. A importância econômica desta rota é imensurável — ela conecta todos os reinos costeiros em uma única cadeia de comércio.
+A rota global que percorre Aetherion pelo equador, aproveitando as correntes do Mar das Correntes. Conecta todos os reinos costeiros da faixa tropical e subtropical em uma cadeia de comércio contínua. Navios que empreendem a circunavegação completa podem levar meses ou mais de um ano.
 
-### Rota do Norte (Polar Parcial) [D]
+### Rota do Mar de Drakon — Terraxis ↔ Leste [D]
 
-Uma rota perigosa e pouco utilizada que contorna as costas setentrionais do planeta, passando pelas bordas do Arquipélago Polar Norte. Usada principalmente por Pyralis para comunicação com Umbra e por expedições de exploração polar. A navegação é extremamente difícil devido ao gelo, aos ventos contrários e à escuridão prolongada durante metade do ano. Apenas navios com casco reforçado para gelo e tripulações de experiência polar tentam esta rota.
+A rota que conecta as costas orientais de Terraxis ao Mar de Drakon e, potencialmente, a qualquer coisa que exista além. É uma das rotas mais perigosas do planeta — desaparecimentos de navios são frequentes, e os monstros lendários das profundezas são um perigo real ou imaginário que nenhum navegador ignora.
 
-### Rotas Clandestinas do Mar do Silêncio [D]
+### Rota do Mar de Cristal — Pyralis ↔ Umbra [D]
 
-Embora não sejam rotas "oficiais", o Mar do Silêncio serve como canal para movimentos não autorizados — especialmente para operações ligadas à seita de Nyxalor e Nihilaryth em Umbra. A ausência de vigilância e as propriedades acústicas do mar que dificultam a detecção tornam-no ideal para navegação clandestina. Não há mapas publicados dessas rotas; o conhecimento é transmitido oralmente dentro das redes da seita.
+Uma rota sazonal que só é navegável durante os meses de degelo ártico, quando as placas de gelo do Mar de Cristal se abrem e permitem a passagem de navios com casco reforçado para gelo. A travessia é perigosa, lenta e imprevisível, mas é a única conexão marítima entre Pyralis e Umbra — dois reinos que, embora vizinhos em latitude, estão separados por uma muralha de gelo.
+
+### Rota do Silêncio — Águas Meridionais [D]
+
+Uma rota marginal, quase nunca utilizada, que bordeia as águas do Mar do Silêncio nas latitudes mais ao norte do oceano austral. Nenhum navio comete a loucura de adentrar o Mar do Silêncio propriamente dito; os que tentaram não retornaram. A rota marginal é usada apenas por navios que precisam contornar o extremo sul de Sylvaris ou Thalassia, e mesmo assim com extrema cautela.
 
 ---
 
@@ -317,9 +514,9 @@ A implicação cartográfica dessa regra é significativa: **não há santuário
 
 ### A Única Exceção: A Seita de Nyxalor e Nihilaryth [C]
 
-A única veneração que existe em Aetherion é herética, oculta e situada no reino de Umbra. A seita venera **Nyxalor** — descrito como uma figura semelhante a Salomão corrompido, um ser de conhecimento imenso que teria se pervertido em busca de poder proibido — e **Nihilaryth**, a contraparte sombria cuja essência está ligada ao Selo de Mytra e ao sacrifício de Elarys [C].
+A única veneração que existe em Aetherion é herética, oculta e situada no reino de **Umbra**. A seita venera **Nyxalor** — descrito como uma figura semelhante a Salomão corrompido, um ser de conhecimento imenso que teria se pervertido em busca de poder proibido — e **Nihilaryth**, a contraparte sombria cuja essência está ligada ao Selo de Mytra e ao sacrifício de Elarys [C].
 
-Do ponto de vista cartográfico, a seita **não aparece em nenhum mapa oficial**. Seus locais de reunião, rituais e operações são mantidos em segredo, e a própria existência da seita é negada pelas autoridades de Umbra — embora Sanctrum e seus serviços de inteligência tenham conhecimento de suas atividades. O Mar do Silêncio, adjacente a Umbra, serve como fronteira natural para as operações da seita, e as rotas clandestinas que atravessam suas águas obscuras são um dos segredos mais bem guardados de Aetherion.
+Do ponto de vista cartográfico, a seita **não aparece em nenhum mapa oficial**. Seus locais de reunião, rituais e operações são mantidos em segredo, e a própria existência da seita é negada pelas autoridades de Umbra — embora Sanctrum e seus serviços de inteligência tenham conhecimento de suas atividades. A vastidão gelada de Umbra e o isolamento proporcionado pela distância dos outros reinos tornam-no o refúgio perfeito para a seita. As rotas clandestinas que conectam Umbra ao resto do mundo — quando existem — são dos segredos mais bem guardados de Aetherion.
 
 ### Regras de Onomástica [D]
 
@@ -332,36 +529,50 @@ Exemplos: Vaelthyris (*vael* + *thyris* — vale de abundância), Aelanthys (*ae
 
 ---
 
-## NOTAS DE CARTÓGRAFO
+## NOTAS DE CARTÓGRAFO — v2
+
+### Sobre as Mudanças na Revisão v2
+
+Esta segunda versão do Mappa Mundi incorpora as seguintes mudanças fundamentais em relação à versão original:
+
+1. **Reposicionamento dos reinos** — Cada um dos Sete Reinos recebeu uma posição geográfica definitiva no globo, com analogias continentais claras. Sylvaris no hemisfério sul (América do Sul), Pyralis no norte (América do Norte), Sanctrum no centro (África/Médio Oriente), Fulmora no norte (Europa), Umbra no extremo norte (Ásia Setentrional), Terraxis no centro-leste (África Oriental) e Thalassia no sudeste (Oceania).
+
+2. **Fronteira terrestre Sylvaris-Pyralis** — Os dois reinos agora compartilham uma conexão por terra (istmo montanhoso), eliminando a separação puramente oceânica anterior. Isso tem implicações geopolíticas profundas para a narrativa.
+
+3. **Expansão de 5 para 7 oceanos** — O Mar de Cristal (Ártico) e o Mar de Vaelantor (Atlântico) foram adicionados como massas oceânicas distintas, reconhecendo a importância estratégica e geográfica dessas águas.
+
+4. **Relocalização do Mar do Silêncio** — Movido do noroeste para o Polo Sul (Oceano Antártico), onde sua natureza sombria e o personagem misterioso do Capítulo 1 encontram uma localização mais coerente.
+
+5. **Rio Vaelantor** — Nova seção dedicada ao grande rio de Sylvaris, uma característica geográfica fundamental que estrutura todo o reino.
+
+6. **Fronteiras atualizadas** — O eixo terrestre oriental (Sanctrum-Fulmora-Umbra-Terraxis) e a fronteira Sylvaris-Pyralis criam uma nova geopolítica de conexões terrestres e oceânicas.
 
 ### Sobre a Classificação [C] e [D]
 
-Todo documento cartográfico de Aetherion segue o sistema de classificação dupla adotado pelo projeto:
+Todo documento cartográfico de Aetherion segue o sistema de classificação dupla:
 
-- **[C] — Canônico:** Dados extraídos diretamente dos capítulos do Livro I (*A Semente da Eternidade*), das *Cenas de Lyris*, do *Dicionário Canônico Imutável de Alyndra* e de outros documentos primários da narrativa. Esses dados são imutáveis e devem ser tratados como verdade absoluta dentro do universo ficcional. Exemplos: o Mar de Lyria, a existência de Sanctrum como capital central, a proibição de veneração por Ilyos.
+- **[C] — Canônico:** Dados extraídos diretamente dos capítulos do Livro I (*A Semente da Eternidade*), das *Cenas de Lyris*, do *Dicionário Canônico Imutável de Alyndra* e de outros documentos primários da narrativa. Esses dados são imutáveis e devem ser tratados como verdade absoluta dentro do universo ficcional.
+- **[D] — Derivado Criativo:** Dados criados por derivação lógica a partir do canon, preenchimento de lacunas cartográficas necessárias, ou expansão criativa consistente com as regras estabelecidas. Esses dados são funcionais e compatíveis com o canon, mas podem ser revisados caso informações canônicas futuras os contradigam.
+- **[NEW] — Novo na v2:** Elementos introduzidos especificamente nesta revisão, que não existiam na versão original do Mappa Mundi.
 
-- **[D] — Derivado Criativo:** Dados criados por derivação lógica a partir do canon, preenchimento de lacunas cartográficas necessárias, ou expansão criativa consistente com as regras estabelecidas. Esses dados são funcionais e compatíveis com o canon, mas podem ser revisados caso informações canônicas futuras os contradigam. Exemplos: a maioria dos oceanos, todos os arquipélagos, detalhes de altitude e clima.
+### Sobre as Proporções e Distâncias
 
-### Sobre as Proporções Oceânicas
-
-A regra de que "oceanos são MAIS volumosos que na Terra" e "terras são MENORES" foi respeitada em toda esta ficha. As distâncias entre reinos, quando descritas em termos de navegação, refletem essa realidade: travessias que levariam dias na Terra podem levar semanas em Aetherion. A vastidão dos mares não é exagero estilístico — é a realidade física do planeta, e ela molda tudo, desde a geopolítica até a cultura.
+A regra de que "oceanos são MAIS volumosos que na Terra" e "terras são MENORES" foi respeitada em toda esta ficha. A distância Sylvaris ↔ Sanctrum foi estabelecida em **~2.600 km** [D] (~1.733.333 passos, considerando 1 passo ≈ 1,5 m). As travessias oceânicas refletem a vastidão dos mares — semanas de navegação onde na Terra seriam dias.
 
 ### Sobre as Lacunas Cartográficas
 
 As terras desconhecidas não são falhas de mapeamento — são elementos narrativos intencionais. O Polo Sul inteiramente inexplorado, as profundezas oceânicas nunca visitadas, o leste além de Terraxis: essas lacunas existem porque Aetherion é um mundo que ainda reserva mistérios para os personagens descobrirem. O mapa não está completo porque o mundo não foi completamente revelado — e essa incompletude é parte de sua riqueza.
-
-### Sobre a Relação entre Sanctrum, Fulmora e Terraxis
-
-A topografia central do planeta — planalto subindo gradualmente até se tornar montanha, descendo para leste em direção ao deserto — é uma das características geológicas mais importantes de Aetherion. Ela cria uma zona contígua de terra que conecta Sanctrum a Fulmora e Terraxis, formando o eixo terrestre mais extenso do planeta. Essa conexão terrestre é geopoliticamente vital: é a única via por which exércitos podem marchar entre o centro e o leste sem depender de navios.
 
 ### Recomendações para Atualização Futura
 
 Esta ficha deverá ser atualizada quando:
 - Novos capítulos do Livro I ou livros subsequentes revelarem dados geográficos canônicos
 - O mapeamento dos arquipélagos ou oceanos for detalhado em narrativas
+- A localização exata de Mespiria for estabelecida no canon
 - Informações sobre as terras desconhecidas forem descobertas pelos personagens
 - Rotas de navegação adicionais forem estabelecidas pela trama
+- A localização do personagem misterioso do Capítulo 1 for conectada ao Mar do Silêncio de forma canônica
 
 ---
 
-> *Ficha elaborada pelo Cartógrafo-Chefe do Arquivo de Aetherion. Todos os dados canônicos extraídos dos Capítulos 1 a 7 do Livro I e documentos correlatos. Dados derivados criativos marcados com [D] e sujeitos a revisão. Este documento é o registro cartográfico definitivo do planeta Aetherion/Alyndra e deve ser utilizado como referência primária para toda e qualquer menção geográfica no projeto.*
+> *Ficha elaborada pelo Cartógrafo-Chefe do Arquivo de Aetherion. Revisão v2 — reescrita completa com reposicionamento dos Sete Reinos, expansão para 7 oceanos, adição do Rio Vaelantor e atualização das fronteiras inter-reinos. Todos os dados canônicos extraídos dos Capítulos 1 a 7 do Livro I e documentos correlatos. Dados derivados criativos marcados com [D], novos elementos marcados com [NEW], todos sujeitos a revisão. Este documento é o registro cartográfico definitivo do planeta Aetherion/Alyndra e deve ser utilizado como referência primária para toda e qualquer menção geográfica no projeto.*
