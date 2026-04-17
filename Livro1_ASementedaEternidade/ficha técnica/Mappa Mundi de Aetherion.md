@@ -103,7 +103,7 @@ O território de Sylvaris é dividido em oito províncias, distribuídas entre a
 - **Margem Oeste (Ocis Vaelantor):** Vaelthyris, Thyravalis, porção ocidental de Argyris, Orynthar
 - **Margem Leste (Oris Vaelantor):** Nyrvaeth, Kaelvrym (face oriental), Solanthir, Aelanthys
 
-A oeste, Sylvaris é banhada pelo **Mar de Lyria** [C], que banha Thyravalis e toda a costa ocidental até Thalendris — cidade portuária nas margens do grande oceano. Ao norte, a fronteira com Pyralis é **terrestre**: o Istmo Sylvariano conecta os dois continentes através de uma faixa de terra montanhosa e estreita, como as Américas conectadas pelo istmo centro-americano. É a única fronteira de terra de Sylvaris; todas as outras conexões são marítimas.
+A oeste, Sylvaris é banhada pelo **Mar de Lyria** [C], que banha Thyravalis e toda a costa ocidental até Thalendris — cidade portuária nas margens do grande oceano. Além das costas continentais, o Mar de Lyria abriga a **Ilha dos Koramis** [D] em seu extremo oeste, bastião rochoso onde nidificam as maiores colônias de aves de transporte do planeta. Ao norte, a fronteira com Pyralis é **terrestre**: o Istmo Sylvariano conecta os dois continentes através de uma faixa de terra montanhosa e estreita, como as Américas conectadas pelo istmo centro-americano. É a única fronteira de terra de Sylvaris; todas as outras conexões são marítimas.
 
 A distância entre Sylvaris e Sanctrum é de aproximadamente **2.600 km** [D], medida em linha reta através do Mar de Vaelantor — o vasto oceano intercontinental que separa as massas ocidentais (Sylvaris/Pyralis) das massas orientais (Fulmora/Sanctrum/Terraxis). Essa distância, cruzada por navios que levam semanas, é uma das travessias mais longas e mais significativas do planeta.
 
@@ -351,7 +351,25 @@ Com a revisão v2, as Mil Ilhas encontram-se no **lado leste da conexão terrest
 
 A Coroa de Coral é o arquipélago mais belo e mais acolhedor de Aetherion — uma constelação de ilhas tropicais que se estende entre as costas meridionais de Sylvaris e as águas setentrionais de Thalassia, formando uma ponte natural entre os dois reinos através das águas do Mar das Correntes. Seu nome deriva dos recifes de coral etérico que circundam as ilhas, formações vivas que emitem uma luminescência suave, especialmente durante a noite, transformando as águas rasas em espelhos de luz colorida.
 
-### Arquipélago das Névoas [D]
+### Ilha dos Koramis [D]
+
+| Atributo | Descrição |
+|----------|----------|
+| **Localização** | Extremo oeste do Mar de Lyria, a oeste da costa de Thyravalis |
+| **Natureza** | Ilha rochosa de grande extensão; falésias análogas às de Thalendris; banhada por correntes profundas |
+| **População** | Colônias de Koramis (aves de transporte gigantes); criadores e tratadores; pequena comunidade portuária |
+| **Economia** | Criação e treinamento de Koramis; comércio de ovos e penas etéricas; escala para navios que cruzam o Mar de Lyria |
+| **Status** | Zona protegida; acesso restrito pelas autoridades de Sylvaris |
+
+A Ilha dos Koramis é a mais ocidental de todas as terras conhecidas de Sylvaris — um bastião rochoso que se ergue das profundezas do Mar de Lyria como um sentinela de pedra voltado para o abismo oceânico. Distante vários dias de navegação da costa de Thyravalis, a ilha só é atingida por navegadores experientes que conhecem as correntes do Mar de Lyria e as rotas de vento que conduzem até suas costas escarpadas. Sua posição no extremo oeste a torna o último ponto de terra antes do oceano aberto — além dela, apenas água e horizonte até onde a vista e os instrumentos alcançam.
+
+O nome da ilha é direto: é ali que se encontram as maiores colônias de **Koramis** de todo o planeta — as aves de transporte gigantes de asas largas e voo lento que servem como principal meio de transporte aéreo de longa distância em Aetherion. Os Koramis escolheram naturalmente a ilha como seu habitat de nidificação milenar antes mesmo da colonização humana, atraídos pelas correntes térmicas que sobem das falésias e pelas plataformas rochosas ideais para pouso e descanso. Com o passar dos ciclos, os sylvaris estabeleceram uma presença na ilha — não como dominadores das aves, mas como parceiros. Os criadores de Koramis vivem em comunidade há gerações, desenvolvendo técnicas de domesticação e treinamento que são transmitidas oralmente de mestre para aprendiz.
+
+A ilha possui um pequeno porto natural na face oriental, protegido dos ventos dominantes por uma formação rochosa que funciona como quebra-mar. Esse porto serve como escala para navios que cruzam o Mar de Lyria rumo ao oeste ou que retornam de travessias longas, oferecendo reposição de água doce e reparos básicos. A face ocidental da ilha é inteiramente dominada por falésias que despencam centenas de Passos até o mar aberto — paisagem semelhante à das falésias de Thalendris, porém mais selvagem e inacessível. É dessas falésias que os Koramis decolam todas as manhãs, em um espetáculo de milhares de asas gigantescas que cobre o céu como nuvens vivas.
+
+A Ilha dos Koramis é considerada zona protegida pelo governo de Sylvaris. A caça, a captura ilegal de ovos e a perturbação das colônias são crimes severos punidos com banimento dos portos de Sylvaris. O acesso à ilha é restrito a criadores credenciados, navegadores autorizados e membros de guildas com permissões específicas — o que confere à Ilha dos Koramis um status quase mítico entre a população comum de Sylvaris, para quem as aves gigantes são vistas como criaturas lendárias que existem apenas em histórias.
+
+### Arquipelago das Névoas [D]
 
 | Atributo | Descrição |
 |----------|-----------|
