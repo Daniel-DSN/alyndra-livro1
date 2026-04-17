@@ -135,6 +135,23 @@ Fragmentos de tecnologia Aetheris integrados ao DNA de linhagens específicas. S
 
 ---
 
+## Sistema de Voo de Aetherion
+
+A capacidade de voar em Nova Aetherion se manifesta em três níveis distintos, cada um exigindo recursos e habilidades progressivamente mais raros.
+
+### Nível 1 — Planadores Customizados
+O método mais comum e acessível de voo. Dispositivos de asa construídos com materiais variados — madeira de Argenti, tecidos de veluma, estruturas de cristal leve — que aproveitam as correntes de vento naturais e as chamadas "artérias de sopro" de Sylvaris. Não requer qualquer tipo de Aethra ou afinidade elemental; é puramente baseado em engenharia e conhecimento das correntes aéreas. Amplamente utilizado em Sylvaris, onde a geografia montanhosa e os ventos constantes tornam o voo planado uma forma prática e cotidiana de transporte, comunicação e lazer. Existem dezenas de designs diferentes — desde planadores de entrega de correspondência e carga leve até modelos de alta performance para esporte, reconhecimento e até evasão. O design mais icônico é o **Vela de Brisas** (*Aelnyr*), um planador de asa delta que usa painéis de veluma tensionados sobre uma armação de cristal Aetheris flexível, capaz de planar por horas nas correntes térmicas sem nenhum esforço do piloto.
+
+### Nível 2 — Manipulação do Vento (Voo Elementar)
+Indivíduos com afinidade elemental ao Vento podem usar seu Aethra para manipular correntes aéreas e sustentar voo autônomo, sem depender de asas ou superfícies de sustentação. Exige controle significativo de Aethra — no mínimo Estágio IV (Cultivador) — e afinidade natural com o elemento Vento. O voo elemental não é tão veloz quanto montarias aéreas como os Koramis em velocidade de cruzeiro, mas oferece manobrabilidade superior, independência de montaria e a capacidade de operar em condições impossíveis para planadores comuns — tempestades, altitudes extremas e espaços confinados. É utilizado por militares de elite da Cavalaria Aérea de Sylvaris como complemento às habilidades de equitação nos Koramis, permitindo que um cavaleiro desmontado continue combatendo no ar. Manipuladores de Vento avançados (Estágio V ou superior) podem sustentar voo por horas, embora o consumo de Aethra torne isso inviável em combate prolongado.
+
+### Nível 3 — Voo por Aethra Pura (Voo Etérico)
+O nível mais raro, exigente e poderoso de voo. O indivíduo utiliza seu Aethra em forma pura — sem depender de nenhum elemento específico — para gerar sustentação e propulsão, canalizando a essência espiritual diretamente contra a gravidade e a resistência do ar. Funciona como uma manifestação volitiva da vontade sobre a realidade física: o corpo se torna uma extensão do Aethra, e a velocidade é limitada apenas pela vazão etérica do manipulador e pela capacidade de seu corpo resistir às forças envolvidas. Exige reservatório de Aethra colossal (mínimo Estágio VI — Luminar), vazão etérica extrema e décadas de treinamento dedicado para dominar a precisão necessária. Quase ninguém no planeta possui essa capacidade de forma natural — é considerada uma lenda na maioria dos reinos, algo que pertence aos Seraphyens e aos Filhos Legítimos, não aos mortais comuns.
+
+**Aurelius Lumivael — A Exceção Mortal:** Aurelius pode realizar voo por Aethra pura através da **Manopla de Vinculação**. Sua afinidade natural dupla (Vento + Luz) facilita a sustentação — o Vento gera as correntes de sustentação e a Luz elimina a resistência do ar ao redor do corpo —, mas é a Manopla que torna o voo etérico possível ao conceder Dominância Elemental Total e eficiência próxima a 100% (Modo Passivo). No **Modo Ativo**, Aurelius pode atingir velocidades extremas, atravessando continentes em poucos segundos — cada instante nesse regime corrói o selo de Nyxalor e amplifica a influência do primordial aprisionado, tornando esse uso uma opção de último recurso reservada apenas para emergências absolutas.
+
+---
+
 # 👁️ III. HIERARQUIA DE ENTIDADES
 
 ## Os Três Níveis de Existência
@@ -364,6 +381,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | **Relacionamento** | Pai secreto de Grazielly |
 | **Local** | Sanctrum, Aetherion Prime |
 | **Não sabe** | Sobre o parentesco de Marethyus com Grazielly (conhece o Selo e a ameaça política, mas ignora que é seu avô) |
+| **Voo** | Voo por Aethra pura via Manopla de Vinculação — afinidade dupla (Vento + Luz) + Dominância Elemental Total. Modo Ativo: velocidade extrema, atravessa continentes em segundos, mas corrói o selo de Nyxalor |
 
 ---
 
@@ -790,8 +808,8 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 # 🚫 XVI. CONTROLE DE VERSÃO
 
-**Versão do Mapa Definitivo:** 1.3.0 — SINCRONIZAÇÃO ONTOLÓGICA
-**Data de Atualização:** 06/04/2026
+**Versão do Mapa Definitivo:** 1.4.0 — SISTEMA DE VOO
+**Data de Atualização:** 17/04/2026
 **Status:** CANÔNICO
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
@@ -799,6 +817,16 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 ## 📋 LOG DE ALTERAÇÕES
 
+
+### Versão 1.4.0 (17/04/2026)
+
+#### 1. Sistema de Voo de Aetherion
+- ✅ **Sistema de Voo de 3 níveis** — Planadores Customizados (Nível 1), Manipulação do Vento (Nível 2), Voo por Aethra Pura (Nível 3)
+- ✅ **Planadores customizados** — Dispositivos de asa sem Aethra; comum em Sylvaris; design icônico: Vela de Brisas (Aelnyr)
+- ✅ **Voo Elemental** — Afinidade Vento + Estágio IV+; usado por militares da Cavalaria Aérea como complemento
+- ✅ **Voo por Aethra Pura** — Raríssimo; sem dependência elementar; tipo ki; quase ninguém consegue
+- ✅ **Aurelius — voo via Manopla** — Afinidade dupla Vento+Luz + Manopla = Dominância Total; Modo Ativo: atravessa continentes em segundos (corrói selo)
+- ✅ **Ficha de Aurelius atualizada** — Linha "Voo" adicionada à tabela de atributos
 
 ### Versão 1.3.0 (06/04/2026)
 
