@@ -242,7 +242,7 @@ As instruções eram diretas: "Verificar assinaturas na expedição do Orfanato 
 
 A conexão era clara agora, desenhada em linhas que não podiam ser negadas: os mercenários nos cais eram o braço operacional. Vethran era o braço burocrático. E acima de ambos, nas sombras que nem mesmo o olho de Aurion podia penetrar completamente, estava a mente que orquestrava tudo — a mente que Lyris já tinha começado a suspeitar, e que Selina estava começando a confirmar.
 
-*Thaloris Ventaris*, Nyctara pensou, e o nome carregava o peso de todas as crianças desaparecidas, de todas as cargas fantasmas, de todas as assinaturas capturadas e vidas destruídas. *A teia é maior do que eu pensava. Mas agora tenho um fio. E um fio puxado com força suficiente pode desfazer a teia inteira.*
+*Alguém*, Nyctara pensou, e o pensamento carregava o peso de todas as crianças desaparecidas, de todas as cargas fantasmas, de todas as assinaturas capturadas e vidas destruídas. *Alguém com poder, paciência e acesso à infraestrutura diplomática. Selina está certamente cavando em Sanctrum, e eu tenho um fio aqui. Um fio puxado com força suficiente pode desfazer a teia inteira.*
 
 Ela destruiu o documento — não apenas rasgando, mas queimando com uma breve aplicação de Thermaris que reduziu o papel Aetherite a cinzas que se dissiparam no ar quente da câmara. Os Espelhos de Eco foram destruídos da mesma forma. O cristal de comunicação foi desativado e esmagado contra a parede de sal. O estojo de couro foi esvaziado e os instrumentos dentro foram quebrados um por um.
 

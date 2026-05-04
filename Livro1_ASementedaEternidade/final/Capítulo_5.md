@@ -487,33 +487,17 @@ A festa terminou devagar, como todas as festas que são boas terminam — não a
 
 Lyris ficou no pátio até que a última criança foi para dentro. Observou os voluntários recolherem as mesas, as correntes de Giralis, os restos da festa. Observou as estrelas aparecerem no céu uma a uma, como se Aurion, ao se pôr, estivesse abrindo espaço para que elas pudessem brilhar. E observou Nyx, que havia se recusado a ficar no dormitório coletivo e insistido em dormir no colo de Grazielly, e que agora estava enroscado nos pés da criança como sempre fizera na casa de pedra em Mespiria.
 
-Foi quando se preparava para se retirar que uma sombra se aproximou do lado de fora do pátio — não uma sombra ameaçadora, mas uma presença que se revelou como a de um Dili, um sentinel das torres de vigia. O Dili era um homem jovem, com olhos escuros e a postura ereta de quem foi treinado para observar sem ser observado. Ele carregava algo pequeno na mão — um objeto que brilhava fracamente na luz de Lyria.
+Foi quando se preparava para se retirar que ela parou. Não por uma presença externa — o pátio estava vazio, os últimos voluntários já tinham voltado para seus alojamentos, e apenas o sussurro do vento e o brilho de Lyria preenchiam a noite. Lyris parou porque lembrou.
 
-— Agente Lyris — o Dili disse, mantendo a voz baixa. — Um mensageiro chegou ao portão sul durante a festa. Recusou-se a dar o nome. Deixou apenas isto, com instruções de entregar pessoalmente a quem cuida da criança chamada Grazielly.
+O compartimento interno do manto. O objeto envolto em pano escuro que guardava havia meses — desde aquela noite no gabinete de Aurelius em Sanctrum, quando o En Me lhe entregara o pacote com uma instrução: *Quando a criança completar cinco anos, entregue pessoalmente, em um momento tranquilo, longe de olhos alheios.* E agora Grazielly tinha completado cinco anos. E a festa estava terminada. E o momento era este.
 
-Lyris tomou o objeto. Era pequeno — cabia na palma de sua mão — e envolto em um pano escuro que, ao ser removido, revelou um cristal Aetheris. Não dos cristais comuns que iluminavam o orfanato — este era diferente. Sua luz era mais quente, mais dourada, como se tivesse capturado não apenas a luz de Aurion, mas algo mais. Algo que parecia vivo, pulsando suavemente como um coração minúsculo preso em cristal.
+Lyris caminhou até o dormitório de Grazielly com passos silenciosos, abriu a porta — que rangia suavemente nas dobradiças, um som que ela havia memorizado em noites de patrulha — e entrou. A criança dormia de lado, uma mão pendurada da cama, os dedos quase tocando Nyx, que estava enroscado em seus pés como uma esfera de pelagem prateada. O Lyrien chiou suavemente quando Lyris se aproximou, mas não se moveu — reconheceu a assinatura etérica da guardiã e voltou a dormir.
 
-Preso ao cristal, por uma fina tira de couro, havia um bilhete. Lyris o desdobrou e leu na penumbra, seus olhos adaptados à escuridão decodificando as letras com facilidade.
+Lyris retirou o objeto do compartimento do manto. Aquele mesmo pano escuro, pesado, que Aurelius usara para envolver o cristal. Ela o desdobrou com cuidado, e a luz dourada — tão quente, tão viva, pulsando como um coração minúsculo preso em cristal — banhou seu rosto por um instante. Não era dos cristais comuns que iluminavam o orfanato. Sua luz era diferente — mais profunda, mais pessoal, como se dentro daquele cristal existisse algo que ia além da refração de Aethra.
 
-*"Para a estrela que nasceu na tempestade.*
+Preso ao cristal, por uma fina tira de couro, havia um bilhete. Lyris já o havia lido naquela noite em Sanctrum, quando Aurelius virou as costas por breves instantes e ela aproveitou a oportunidade para decifrar a caligrafia antes de guardar o pacote. *"Para a estrela que nasceu na tempestade. — Um amigo distante."* A letra era deliberadamente genérica, desprovida de qualquer traço que pudesse identificá-la, mas Lyris conhecia os padrões — a inclinação dos *a*s, o modo como os *t*s eram cruzados com um traço ligeiramente mais longo à direita. *Aurelius*, Lyris pensou, e o nome carregava um peso que ela guardou para si. *Você mandou uma agente aposentada fazer o que você mesmo não pode — entregar um presente para a sua própria filha.*
 
-*— Um amigo distante"*
-
-Lyris reconheceu a caligrafia.
-
-Não de forma absoluta — não havia como ter certeza absoluta, pois a letra era deliberadamente genérica, desprovida de qualquer traço que pudesse identificá-la —, mas Lyris havia lido suficientes missivas de Aurelius ao longo de seus anos de serviço para reconhecer certos padrões. A inclinação específica dos *a*s, o modo como os *t*s eram cruzados com um traço ligeiramente mais longo à direita, o espaço generoso entre as palavras — todos esses detalhes eram característicos de uma caligrafia que Lyris conhecia tão bem quanto conhecia a própria.
-
-*Aurelius*, Lyris pensou, e o nome carregava um peso que ela guardou para si. *Você enviou um presente para o aniversário da sua própria filha e não pode sequer assinar seu nome.*
-
-Ela guardou o cristal Aetheris no bolso de seu manto, junto com o bilhete. Daria a Grazielly no momento certo — não naquela noite, quando a criança já estava exausta e sobrecarregada de emoção, mas em um dia em que o presente pudesse ser recebido com a serenidade que merecia. Quando Grazielly fosse mais velha. Quando estivesse pronta.
-
-O Dili aguardava em silêncio, como guerreiros treinados fazem.
-
-— Obrigada — Lyris disse. — Pode voltar ao seu posto.
-
-O Dili assentiu e desapareceu na escuridão como se nunca tivesse estado ali.
-
-Lyris caminhou até o dormitório e parou na porta entreaberta. No quarto, a luz fraca de Lyria entrava pela janela e iluminava a cama de Grazielly com um manto de prata. A criança dormia de lado, uma mão pendurada da cama, os dedos quase tocando Nyx, que estava enroscado em seus pés como uma esfera de pelagem prateada. O cristal Aetheris de Aurelius estava sobre o criado-mudo — Lyris o havia colocado ali antes de sair, sem que Grazielly notasse —, e pulsava com uma luz dourada muito suave, como um batimento cardíaco lento e constante.
+Ela colocou o cristal Aetheris sobre o criado-mudo de Grazielly, ao lado da cama, sem que a criança notasse. O cristal pulsava com uma luz dourada muito suave, como um batimento cardíaco lento e constante — e, por um instante, algo estranho aconteceu. A luz do cristal e o brilho que às vezes emanava da pele de Grazielly vibraram na mesma frequência, produzindo um eco ressonante que Lyris sentiu nas pontas dos dedos, como a corda de um instrumento que fosse afinada. Depois passou. O cristal voltou a pulsar em seu ritmo calmo. Grazielly continuou dormindo.
 
 *O presente de Aurion*, Lyris pensou. *Um cristal com luz quente para uma filha que ele nunca pode segurar.*
 
@@ -631,8 +615,7 @@ E no dia em que completa cinco anos, Grazielly recebe um presente de um pai que 
 | **Carta de Melessa** | Texto póstumo endereçado "Para minha pequena estrela"; último ato de amor de uma avó moribunda |
 | **Manifestação Cryonys** | Flores de gelo surgem nas mãos de Grazielly durante o funeral simbólico; primeira manifestação documentada do poder da Herdeira |
 | **Aniversário de 5 anos** | Festa surpresa organizada por Mira, Thalia e Lyris |
-| **Cristal de Aurion** | Presente enviado por Aurelius (pai secreto); cristal Aetheris com luz dourada pulsante; entregue por um Dili |
-| **Dili** | Sentinela das torres de vigia; entregou o cristal a Lyris com instruções de sigilo |
+| **Cristal de Aurion** | Presente de Aurelius (pai secreto); cristal Aetheris com luz dourada pulsante; entregue pessoalmente por Lyris, que o trouxe consigo de Sanctrum |
 
 ### Linha do Tempo
 
@@ -646,7 +629,7 @@ E no dia em que completa cinco anos, Grazielly recebe um presente de um pai que 
 | **Manhã** | Leitura da Carta de Melessa |
 | **Manhã** | Manifestação Cryonys (flores de gelo nas mãos de Grazielly) |
 | **Anoitecer** | Retorno ao Orfanato Luminis antes do anoitecer |
-| **Dia do aniversário (5 anos)** | Festa surpresa; cristal de Aurion entregue pelo Dili |
+| **Dia do aniversário (5 anos)** | Festa surpresa; cristal de Aurion entregue pessoalmente por Lyris |
 | **Após a festa** | Lyris recebe relatório de sentinela; Lyris formula observação sobre manifestação Cryonys |
 
 ---

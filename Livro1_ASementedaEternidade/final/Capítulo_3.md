@@ -286,6 +286,14 @@ O silêncio que se seguiu foi longo. Aurelius permaneceu de costas, olhando para
 
 Lyris tomou o envelope, sentindo seu peso. Havia algo pesando mais do que o papel e a cera — havia uma verdade que Aurelius guardava como um segredo de estado, e a curiosidade profissional de Lyris gritava para desenterrá-la.
 
+Aurelius pausou, e algo em sua expressão mudou — uma micro hesitação que Lyris captou com a precisão de quem caça micro-expressões há décadas. Ele abriu uma segunda gaveta, mais funda, protegida por um mecanismo de selo etérico que só respondia à sua assinatura. De dentro, retirou um objeto pequeno, envolto em pano escuro, e o colocou sobre a escravaninha entre eles.
+
+— Quando a criança completar cinco anos — seu aniversário será no próximo Audin, no início do Itu do Despertar —, eu quero que ela receba isto. Não por correio. Não por mensageiro. Entregue pessoalmente, em um momento tranquilo, longe de olhos alheios.
+
+Lyris olhou para o objeto envolto — pequeno o bastante para caber na palma da mão, mas com uma densidade que sugeria algo mais que pedra ou metal. Não perguntou o que era. Não perguntou por que não podia ser enviado. Em trinta e dois anos de serviço, Lyris havia aprendido que havia perguntas que era mais seguro não fazer — e que as respostas que Aurelius não dava voluntariamente tinham um peso proporcional ao silêncio que as cercava.
+
+— Entendido — ela disse simplesmente, guardando o objeto no mesmo compartimento do manto onde levava seus documentos mais sensíveis.
+
 — Eu preciso de mais informações sobre a criança — ela insistiu. — Quem são os pais? Há risco de alguém tentar alcançá-la através de linhagem?
 
 — Os pais são irrelevantes para sua missão — Aurelius cortou, e o tom final em sua voz era aquele que Lyris reconhecia como o fim absoluto de uma discussão. — A criança é órfã. Não tem família além da parteira. E não há ninguém procurando por ela que represente uma ameaça. Pelo menos por enquanto.
@@ -294,7 +302,7 @@ Lyris tomou o envelope, sentindo seu peso. Havia algo pesando mais do que o pape
 
 — Você sempre foi minha melhor agente, Lyris. — A voz de Aurelius amoleceu, e por um instante, a máscara do governante cedeu lugar a algo mais aetheriano. — Se eu pudesse escolher qualquer pessoa para essa missão, seria você. Não pela sua eficiência — embora ela seja incomparável — mas pelo seu julgamento. Pela sua capacidade de cuidar sem controlar. De proteger sem aprisionar.
 
-Lyris guardou o envelope em seu manto. As perguntas ainda fervilhavam em sua mente — por que ela? Por que agora? Por que o sigilo excessivo para uma missão que, pela descrição, parecia relativamente simples? — mas reconheceu o tom na voz de Aurelius como aquele que não admitia réplica.
+Lyris guardou o envelope em seu manto e o objeto envolto em um compartimento interno que costumava reservar para documentos sensíveis — aquele mesmo compartimento onde, dias antes de embarcar para Sylvaris, ela havia transferido o pequeno pacote que Aurelius lhe entregara naquela última noite no gabinete, com a instrução de entregá-lo à criança quando completasse cinco anos. As perguntas ainda fervilhavam em sua mente — por que ela? Por que agora? Por que o sigilo excessivo para uma missão que, pela descrição, parecia relativamente simples? E o que aquele objeto escondido significava para um homem que mal conseguia olhar para o assunto sem que sua voz tremesse? — mas reconheceu o tom na voz de Aurelius como aquele que não admitia réplica.
 
 — Eu aceito, senhor — ela disse, sua voz firme. — Observarei a criança. A protegerei. E se os dons descritos se manifestarem, reportarei.
 
