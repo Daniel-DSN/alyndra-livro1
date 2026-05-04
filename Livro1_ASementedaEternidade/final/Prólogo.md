@@ -94,9 +94,13 @@ A quarta vez, uma ordem nasceu das cinzas — guardiões para proteger o mundo d
 
 A quinta vez, um desses guardiões caiu também, corrompido por sussurros de lugares que ninguém podia ver. Foi substituído em tempos de desconfiança e medo.
 
+A sexta vez, os mares se abriram e rotas antes impossíveis uniram continentes — e com elas vieram tanto a prosperidade quanto a cobiça.
+
+A sétima vez, o silêncio. Nenhuma catástrofe, nenhum marco. Apenas um presságio que os estudiosos chamaram de "O Suspiro" — como se o próprio mundo estivesse retendo a respiração.
+
 E agora...
 
-Agora, as luas preparavam sua sexta dança.
+Agora, as luas preparavam sua oitava dança.
 
 Em observatórios de todos os reinos, estudiosos murmuravam sobre o fenômeno. Em templos, sacerdotisas preparavam bênçãos. Em palácios, governantes se perguntavam o que as luas marcariam desta vez.
 
@@ -122,7 +126,7 @@ O homem que amava. O homem que não podia saber. O guardião de todos os reinos 
 
 — Logo, minha pequena — sussurrou para a criança que se mexia. — Logo você estará aqui.
 
-As luas não eram visíveis durante o dia. Mas ela sabia que estavam lá — se aproximando, convergindo, esperando o momento de brilhar juntas pela sexta vez desde o início dos tempos.
+As luas não eram visíveis durante o dia. Mas ela sabia que estavam lá — se aproximando, convergindo, esperando o momento de brilhar juntas pela oitava vez desde o início dos tempos.
 
 E quando isso acontecesse, sua filha nasceria.
 
