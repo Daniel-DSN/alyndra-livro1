@@ -328,6 +328,44 @@ E em um cofre de pedra negra, em um lugar que não constava de nenhum mapa, algu
 
 ---
 
+## VI. Plantando as Migalhas
+
+Enquanto a luz do Farol de Aethra se estabilizava na Cidadela Luminis e o eco de Grazielly reverberava pelo espectro etérico, o terceiro andar da Ala Administrativa Leste em Sanctrum permanecia imerso em sua quietude burocrática.
+
+Vethran Noll estava sentado atrás de sua mesa de metal escuro. Aos olhos de Gorren, o estagiário que cochilava na mesa ao lado, o Mestre dos Sussurros era apenas um funcionário sênior entediante fazendo hora extra. Mas sob o tampo da mesa, as mãos de Vethran trabalhavam em um propósito muito diferente.
+
+Ele estava finalizando a isca.
+
+A ordem de Thaloris Ventaris no solar diplomático havia sido cirúrgica: *Deixe que ela descubra que as Cargas Fantasmas existem. Mas certifique-se de que as pistas apontem para Umbra.*
+
+Sobre a mesa, Vethran preparava um manifesto de suprimentos interceptado. O documento forjado detalhava a movimentação de mercenários do Sindicato do Gelo Negro na costa de Thalendris e incluía uma requisição técnica específica para a manutenção de *Espelhos de Eco*. Para garantir que Selina Thalassa mordesse a isca, Vethran não deixou a informação óbvia. Ele inseriu uma "racha na vidraça" intencional — uma falha de criptografia tão perfeitamente calculada que a Velatrix, ao encontrá-la, acreditaria ter quebrado a defesa inimiga por puro mérito de seu intelecto.
+
+Ela seguiria a pista até a costa. Ela encontraria os rastros de Umbra. E enquanto o Olho de Aurion voltasse sua vigilância maciça para as fronteiras gélidas do norte, a rede de Sylvaris continuaria invisível.
+
+Vethran carimbou o falso dossiê e o depositou na bandeja de triagem que, pela manhã, seguiria silenciosamente para os analistas da inteligência de baixo nível até parar na mesa de Selina.
+
+*O peixe foi fisgado,* ele pensou, limpando a tinta do carimbo com a lentidão de um homem que tem todo o tempo do mundo.
+
+Mas então, no exato momento em que guardava a almofada de tinta, as mãos de Vethran pararam.
+
+O prédio de pedra não tremeu. Os cristais diurnos nas paredes não piscaram. Mas Vethran, que passara trinta ciclos treinando o próprio corpo para detectar as menores variações etéricas nos corredores do Palácio de Cristal, sentiu o impacto. Uma vibração crua no espectro de Aethra. Um pulso de ressonância tão denso e anômalo que pareceu fazer o ar ao seu redor zumbir como a corda de um instrumento prestes a arrebentar.
+
+O mesmo "Eco Cego" que o Engenheiro Valtheris registrara e que fizera Aurelius fechar os punhos no topo da torre acabava de varrer as entranhas do palácio.
+
+Vethran fechou os olhos. Ele sabia que a célula de Thalendris havia caído. Sabia que Nyctara estava infiltrada na Cidadela Luminis. Mas aquele pulso... aquilo não era espionagem. Não era manobra política. Aquilo era poder puro e indomado gritando na escuridão.
+
+A "Semente" acabava de anunciar a sua presença.
+
+Vethran abriu os olhos. Sua expressão permaneceu tão entediada e inalterada que Gorren, despertando momentaneamente, apenas bocejou e voltou a cochilar sobre os papéis. Mas, por dentro, o espião-mestre de Sylvaris permitiu-se um raro e sombrio sorriso.
+
+A Velatrix estava prestes a ser enviada para uma caçada inútil no norte, a Herdeira acabava de acender um farol de energia no meio do continente, e o jogo de paciência e silêncio havia acabado.
+
+O verdadeiro caos estava apenas começando.
+
+**[FIM DO CAPÍTULO XI]**
+
+---
+
 ## 📖 Glossário do Capítulo
 
 | Termo | Definição |
@@ -340,9 +378,14 @@ E em um cofre de pedra negra, em um lugar que não constava de nenhum mapa, algu
 | **Nó Sete** | Designação interna do Farol instalado na Cidadela Luminis dentro da malha da RRA. |
 | **Cidadela Luminis** | Orfanato localizado em Velantis, capital de Sylvaris. Abriga duzentas e trinta e uma crianças, incluindo Grazielly. Única instituição no nó sete da RRA. |
 | **Ressonância Bidirecional** | Interação etérica na qual o Farol não apenas lê a assinatura de Grazielly, mas responde a ela com uma amplificação que excede os parâmetros projetados para o dispositivo. |
+| **Vethran Noll** | Mestre dos Sussurros de Sylvaris, infiltrado na Ala Administrativa Leste de Sanctrum sob a aparência de funcionário sênior. Reporta-se a Thaloris Ventaris. |
+| **Cargas Fantasmas** | Referência codificada usada na ordem de Thaloris Ventaris — pistas falsas forjadas para redirecionar a atenção de Selina Thalassa para o norte. |
+| **Espelhos de Eco** | Dispositivos etéricos de manutenção mencionados no manifesto forjado de Vethran — parte da isca para direcionar Selina à costa de Thalendris. |
+| **Eco Cego** | Designação informal para a pulsação de ressonância anômala emitida por Grazielly ao tocar o Farol de Aethra — registrada simultaneamente por Valtheris, Vethran Noll e o dispositivo em Umbralis. |
+| **Gorren** | Estagiário da Ala Administrativa Leste de Sanctrum. Desconhece a verdadeira identidade de Vethran Noll. |
 
 ---
 
 ## 🔮 Previsão: Próximo Capítulo
 
-A detecção da anomalia no nó sete chega à Câmara dos Sussurros. Selina reage à notícia de Valtheris com uma urgência que contradiz sua compostura habitual. A frequência captada pelo dispositivo em Umbralis desencadeia uma resposta — não de Sanctrum, mas de algo mais antigo, mais paciente, que nos abismos gelados de Umbra aguarda há muito tempo pelo tipo de sinal que acabou de cruzar o céu. E Lyris, percebendo que Grazielly não apenas foi detectada, mas que sua própria manifestação Cryonys pode ter amplificado o sinal para além de qualquer controle, enfrenta a questão impossível: como proteger alguém cujo poder faz dela um farol para todos os que caçam na escuridão?
+O Eco Cego de Grazielly reverbera por três frentes simultâneas: Selina Thalassa recebe o alerta de Valtheris e é desviada pela isca de Vethran Noll para uma caçada inútil nas costas gélidas de Thalendris; o Sindicato do Gelo Negro, em Umbralis, ativa seus caçadores de Elite após o indicador vermelho piscar no laboratório subterrâneo; e Lyris, encurralada entre a vigilância do Farol e a impossibilidade de fuga silenciosa, percebe que Grazielly não apenas foi detectada, mas que sua própria manifestação Cryonys pode ter amplificado o sinal para além de qualquer controle. Como proteger alguém cujo poder faz dela um farol para todos os que caçam na escuridão?
