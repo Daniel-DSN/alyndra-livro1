@@ -54,9 +54,9 @@ Luminara Elara ergueu os olhos do pergaminho que estava lendo e estudou Lyris po
 
 — Sente-se, Lyris.
 
-Lyris obedeceu, colocando-se na cadeira diante da escravaninha com a postura ereta de quem está acostumada a ser avaliada.
+Lyris obedeceu, colocando-se na cadeira diante da escrivaninha com a postura ereta de quem está acostumada a ser avaliada.
 
-— Então é hoje — Luminara Elara disse, e não era uma pergunta. Colocou a caneta sobre a escravaninha e cruzou as mãos. — O Nyx.
+— Então é hoje — Luminara Elara disse, e não era uma pergunta. Colocou a caneta sobre a escrivaninha e cruzou as mãos. — O Nyx.
 
 — O Nyx — Lyris confirmou. — E tudo que Grazielly tenha deixado na casa de Melessa. Roupas, lembranças — coisas que pertencem a ela e que podem ajudar no processo de luto.
 
@@ -280,7 +280,7 @@ Grazielly respirou fundo. Depois estendeu as mãos e abriu a caixa.
 
 Dentro, envolto em um pano de giran limpo que Melessa havia dobrado com cuidado, havia dois objetos. O primeiro era um pingente — pequeno, pesado, feito de uma pedra negra e lisa que absorvia a luz em vez de refleti-la. Na superfície, gravado com uma precisão que sugeria ter sido feito por mãos hábeis e pacientes, havia um símbolo que Lyris reconheceu imediatamente e que fez seu coração acelerar: o selo de Sanctrum.
 
-Lyris reconheceu o símbolo e um arrepio percorreu sua espinha — não de surpresa, pois Melessa lhe havia dito naquela última noite que Ayla lhe dera um selo para contatar Aurelius, mas de constatação. Aqui estava a prova tangível, o objeto em si, gravado em pedra negra por mãos que Lyris sabia pertencerem aos artífices da Ordem. *Ayla tinha acesso ao selo de Sanctrum.* A implications daquela descoberta reverberaram em sua mente como ondas em um lago. *Uma guerrreira da Equipe Aurora, com um selo oficial da mais alta instância? O que mais Ayla escondia?*
+Lyris reconheceu o símbolo e um arrepio percorreu sua espinha — não de surpresa, pois Melessa lhe havia dito naquela última noite que Ayla lhe dera um selo para contatar Aurelius, mas de constatação. Aqui estava a prova tangível, o objeto em si, gravado em pedra negra por mãos que Lyris sabia pertencerem aos artífices da Ordem. *Ayla tinha acesso ao selo de Sanctrum.* As implicações daquela descoberta reverberaram em sua mente como ondas em um lago. *Uma guerrreira da Equipe Aurora, com um selo oficial da mais alta instância? O que mais Ayla escondia?*
 
 Mas ela não disse nada. Aquele não era o momento para perguntas — era o momento para Grazielly.
 

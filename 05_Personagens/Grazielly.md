@@ -190,7 +190,7 @@
 - "Eu deixei o Nyx" — a frase que carrega "toda a dor de uma criança de quatro anos que havia perdido, em poucos dias, a avó que a criou, a casa que a protegeu, e o único ser que nunca a havia julgado por ser diferente" (Cap 4, I). [C]
 - Lyris promete: "Quando o inverno passar, quando as estradas estiverem livres, nós voltamos a Mespiria e o buscamos." [C]
 - Primeira refeição no refeitório: come porque Mira insiste, descobrindo que a comida é boa. [C]
-- Visita o berçário; toca a mão de Liora — a bebé que "a mãe deixou na porta num madrugada de inverno". [C]
+- Visita o berçário; toca a mão de Liora — o bebê que "a mãe deixou na porta num madrugada de inverno". [C]
 - Vê o desenho misterioso na sala de desenhos: uma menina com mãos que brilham como estrelas diante de uma árvore, com um pássaro azul-escuro no topo — Nyx. [C]
 - Ouve a história de Ventus contada por Mirella — sente reconhecimento instintivo: "o nome era uma música que ela já conhecesse mas não conseguia lembrar de onde" (Cap 4, IV). [C]
 - O vento de Sylvaris sopra através da janela "como uma carícia, como uma resposta, como uma promessa" (Cap 4, IV). [C]

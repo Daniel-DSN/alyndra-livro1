@@ -190,7 +190,7 @@ Ela saiu. A porta se fechou atrás dela com o mesmo clique silencioso com que ha
 
 *Guerra*, ela pensou, sentindo o peso das palavras do Nin Aga penduradas no ar como um machado sobre um pescoço. *Guerra está vindo. E a Semente está em Velantis, protegida por uma agente aposentada e um cristal cuja própria requisição deixou um rastro de papel direto dos cofres do En Me até o coração de Sylvaris.*
 
-*Se eu não conseguir建立 uma linha de monitoramento até ela antes que as sombras cheguem, ninguém conseguirá.*
+*Se eu não conseguir estabelecer uma linha de monitoramento até ela antes que as sombras cheguem, ninguém conseguirá.*
 
 ---
 

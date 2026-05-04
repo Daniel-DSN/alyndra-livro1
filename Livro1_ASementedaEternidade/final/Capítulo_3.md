@@ -286,7 +286,7 @@ O silêncio que se seguiu foi longo. Aurelius permaneceu de costas, olhando para
 
 Lyris tomou o envelope, sentindo seu peso. Havia algo pesando mais do que o papel e a cera — havia uma verdade que Aurelius guardava como um segredo de estado, e a curiosidade profissional de Lyris gritava para desenterrá-la.
 
-Aurelius pausou, e algo em sua expressão mudou — uma micro hesitação que Lyris captou com a precisão de quem caça micro-expressões há décadas. Ele abriu uma segunda gaveta, mais funda, protegida por um mecanismo de selo etérico que só respondia à sua assinatura. De dentro, retirou um objeto pequeno, envolto em pano escuro, e o colocou sobre a escravaninha entre eles.
+Aurelius pausou, e algo em sua expressão mudou — uma micro hesitação que Lyris captou com a precisão de quem caça micro-expressões há décadas. Ele abriu uma segunda gaveta, mais funda, protegida por um mecanismo de selo etérico que só respondia à sua assinatura. De dentro, retirou um objeto pequeno, envolto em pano escuro, e o colocou sobre a escrivaninha entre eles.
 
 — Quando a criança completar cinco anos — seu aniversário será no próximo Audin, no início do Itu do Despertar —, eu quero que ela receba isto. Não por correio. Não por mensageiro. Entregue pessoalmente, em um momento tranquilo, longe de olhos alheios.
 
@@ -340,11 +340,11 @@ O Palácio das Correntes de Ar era uma maravilha arquitetônica que parecia desa
 
 Lyris foi escoltada por um guarda de uniforme azul prateado através de corredores abertos onde o vento entrava como hóspede de honra, trazendo consigo o perfume de flores distantes e o sussurro de histórias carregadas pelas brisas. Cada passo que dava ecoava no mármore polido, e os cristais Aetheris flutuando nas paredes criavam padrões de luz que dançavam ao redor dela como constelações aprisionadas.
 
-— A agente Lyris, de Sanctrum — o guarda anunciou, abrindo as portas do Savelumao das Brisas.
+— A agente Lyris, de Sanctrum — o guarda anunciou, abrindo as portas do Salão das Brisas.
 
 A câmara de audiências era vasta, com tetos altos onde cristais Aetheris flutuavam, criando padrões de luz que dançavam no chão de mármore. Janelas enormes permitiam que o vento entrasse livremente, e as cortinas de seda branca ondulavam como asas de aves em voo.
 
-Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto de poder e autoridade que os governantes usavam como extensão de si mesmos. Mas o Savelumao das Brisas estava vazio.
+Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto de poder e autoridade que os governantes usavam como extensão de si mesmos. Mas o Salão das Brisas estava vazio.
 
 Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura flutuava a quase dois metros do chão — não com o esforço nervoso de quem luta contra a gravidade, mas com a serenidade absoluta de quem nasceu no ar e pertence a ele. Um enorme cavalete flutuava ao seu lado, a tela presa sem suporte visível, e ao redor de suas mãos pincéis, paletas e potes de pigmento orbitavam em silêncio como satélites obedientes. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
 
@@ -412,7 +412,7 @@ Lyris virou-se e caminhou para fora do savelumao, seus passos ecoando no mármor
 
 — Agente Lyris.
 
-A voz a alcançou quando já estava a três passos das portas do Savelumao das Brisas. Lyris parou, virando-se parcialmente.
+A voz a alcançou quando já estava a três passos das portas do Salão das Brisas. Lyris parou, virando-se parcialmente.
 
 — Senhor?
 
@@ -903,7 +903,7 @@ Melessa cumpriu sua promessa até o último suspiro. Ao escrever a carta que atr
 
 A convocação de Lyris marca o início da guarda secreta. Aurelius escolheu-a não apenas por suas habilidades como agente, mas por sua capacidade de "cuidar sem controlar, de proteger sem aprisionar" — qualidades que uma missão de proteção exige, mas que uma missão de espionagem não valoriza. A transformação de Lyris de agente da Vanguarda para guardiã de uma criança é o arco central deste capítulo, e define o tom de tudo o que vem depois.
 
-A cena com Thaloris Ventaris no Savelumao das Brisas é, à primeira vista, uma audiência diplomática — mas como tudo neste universo, as camadas mais profundas revelam algo mais. O Senhor dos Ventos reconhece em Lyris a identidade de Nyctara. E a observação de que "a maioria das pessoas vê um quadro, mas você vê o que ele contém" não é elogio — é avaliação. Thaloris sabe mais do que demonstra.
+A cena com Thaloris Ventaris no Salão das Brisas é, à primeira vista, uma audiência diplomática — mas como tudo neste universo, as camadas mais profundas revelam algo mais. O Senhor dos Ventos reconhece em Lyris a identidade de Nyctara. E a observação de que "a maioria das pessoas vê um quadro, mas você vê o que ele contém" não é elogio — é avaliação. Thaloris sabe mais do que demonstra.
 
 Vethran Noll, o Mestre dos Sussurros, emerge como uma presença enigmática. Seu papel neste capítulo é breve, mas seu impacto será sentido em capítulos posteriores. Ele é o olho que observa os olhos — e a sombra que vigia a sombra.
 
@@ -937,7 +937,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | **Fazenda dos Thorens** | Arredores de Mespiria | Criação de Velrok; onde Grazielly encontrou o filhote Lyrien rejeitado |
 | **Sanctrum** | Aetherion Prime | Capital; Palácio do Grande Mestre; sede da Ordem |
 | **Zephyra** | Sylvaris | Capital flutuante; erguida sobre pilares de cristal Aetheris |
-| **Palácio das Correntes de Ar** | Zephyra | Residência do Senhor dos Ventos; abriga o Savelumao das Brisas |
+| **Palácio das Correntes de Ar** | Zephyra | Residência do Senhor dos Ventos; abriga o Salão das Brisas |
 | **Velantis** | Sylvaris | Cidade do Orfanato Luminis; destino final de Lyris |
 | **Orfanato Luminis** | Velantis, Sylvaris | Refúgio para crianças; novo lar de Grazielly |
 
@@ -951,8 +951,8 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | **As Sombras Celestes** | Rede de inteligência de Sylvaris (*Dilmun-Vashar*: olhos que o vento carrega) |
 | **Nyctara** | Codinome lendário de Lyris; agente de elite da Vanguarda |
 | **En Dili Lil** | Título de Vethran Noll — Mestre dos Sussurros |
-| **Savelumao das Brisas** | Câmara de audiências do Senhor dos Ventos |
-| **Conselho de Correntes** | Órgão consultivo de Sylvaris; sete cadeiras no Savelumao |
+| **Salão das Brisas** | Câmara de audiências do Senhor dos Ventos |
+| **Conselho de Correntes** | Órgão consultivo de Sylvaris; sete cadeiras no Salão |
 | **Cristais Aetheris** | Minerais luminescentes que armazenam e canalizam energia elemental |
 | **Brilho** | Manifestação visível de afinidade elemental sob a pele |
 | **Bloqueio de Cryonys** | Manifestação involuntária de Cryonys desencadeada pelo luto de Grazielly após a morte de Melessa; selou o assoalho com gelo etérico, impedindo Lyris de acessar o esconderijo de Melessa até o degelo da primavera |

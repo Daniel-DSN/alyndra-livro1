@@ -138,7 +138,7 @@ Para os olhos onipresentes da Velatrix, ele nunca teria saído daquela cadeira �
 
 Vethran recolocou o cristal em seu esconderijo e ajustou o tampo da mesa com a precisão de quem já havia feito aquilo dezenas de vezes. Antes de sair, virou-se para Gorren, que estava organizando a pilha de formulários pré-aprovados na mesa ao lado.
 
-— Só carimbe o que já está pronto — Vethran disse, com a voz casual de um supervisor que dá instruções de rotina. — Não abra nada novo. Se alguém perguntar, diga que estou no arquivo, conferindo transfências do ciclo anterior.
+— Só carimbe o que já está pronto — Vethran disse, com a voz casual de um supervisor que dá instruções de rotina. — Não abra nada novo. Se alguém perguntar, diga que estou no arquivo, conferindo transferências do ciclo anterior.
 
 Gorren assentiu com aquele entusiasmo excessivo que caracterizava os jovens que ainda acreditavam que a burocracia era uma carreira prestigiosa. Vethran saiu sem olhar para trás.
 

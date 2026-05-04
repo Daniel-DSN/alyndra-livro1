@@ -21,7 +21,7 @@ Sylvaris, o Reino do Vento (nome ancestral: *Lil An*), localiza-se no sudoeste d
 
 ### Zephyra (A Capital Flutuante)
 A capital levita a quase 500 passos do chão sobre maciços pilares de cristal Aetheris. Dividida em três níveis:
-*   **Aelarith (O Cume):** Palácio das Correntes de Ar, Savelumao das Brisas e a Corte.
+*   **Aelarith (O Cume):** Palácio das Correntes de Ar, Salão das Brisas e a Corte.
 *   **Vaelion (O Coração):** Nível comercial; ruas de pedra polida, Praça Aelvyn e o luxuoso Mercado das Nuvens.
 *   **Thyrandis (A Âncora):** O nível inferior logístico, base dos Haras de Koramis e Estação Central dos Trilhos de Vento.
 
