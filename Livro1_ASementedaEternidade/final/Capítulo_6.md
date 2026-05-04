@@ -322,7 +322,7 @@ Um frio intenso emanou das mãos de Grazielly — não o frio gradual, controlad
 
 A frequência do cristal oscilou. Estabilizou-se. E então pulsou — uma única emissão de energia Aethra que se espalhou pelo ar como uma onda de choque invisível, atingindo o mercenário que se aproximava de Tomas e o arremessando para trás com uma força desproporcional ao evento aparente.
 
-O mercenário caiu no chão dos cais. O Espelho de Eco escapou de sua mão e rolou até a beira do cais, caindo na água com um baque surdo na água.
+O mercenário caiu no chão dos cais. O Espelho de Eco escapou de sua mão e rolou pelo assoalho de madeira — mas antes que atingisse a beira, um dos comparsas que se dispersavam o recolheu em movimento, sem quebrar o passo, desaparecendo entre a multidão com o dispositivo apertado contra o peito.
 
 Para os Vigilantes e para a maioria das crianças, o incidente pareceu uma falha técnica — uma descarga acidental do cristal de um Veleiro que havia se desestabilizado por algum motivo. Os Vigilantes correram para verificar o Veleiro e para ajudar o homem caído, que se levantou com gemidos de dor e murmurou desculpas que ninguém ouviu direito. O grupo de falsos Desprovidos se dispersou rapidamente, fundindo-se com a multidão dos cais como gotas de chuva em um rio.
 
@@ -432,7 +432,7 @@ Não um relatório oficial — relatórios oficiais podiam ser interceptados, li
 
 Ela selou a carta com um símbolo que não pertencia a nenhuma organização oficial — uma asa estilizada, semelhante à que Lyris usava em seus relatórios, mas diferente em um detalhe que apenas Selina e o destinatário da carta conheciam.
 
-A carta partiria antes do amanhecer, transportada por um mensageiro que não existia em nenhum registro oficial, para um destinatário que não aparecia em nenhum censo — Lyris, a ex-agente que vigiava uma criança que não sabia que era a peça mais importante de um tabuleiro cujo jogo estava apenas começando.
+A carta seria transmitida antes do amanhecer, despachada através de um canal Aetheris cifrado de alta velocidade, uma via invisível que apenas a Vanguarda ousava utilizar — sem mensageiros, sem rastros, sem registros. Apenas o pulsar de cristais em sintonia através de centenas de Passos, levando três frases que poderiam mudar tudo.
 
 E enquanto Selina apagava a lâmpada Aetheris e deixava a câmara subterrânea em escuridão, ela permitiu-se um momento de algo que não era medo — era reconhecimento. Reconhecimento de que as sombras eram mais profundas do que qualquer um imaginava. Reconhecimento de que as forças que se moviam nas profundezas de Nova Aetherion não eram caóticas nem desorganizadas — eram coordenadas, pacientes, e mais perto do que qualquer um queria admitir.
 

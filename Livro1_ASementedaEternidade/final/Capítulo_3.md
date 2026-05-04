@@ -310,11 +310,11 @@ Mas o quê? E por quê?
 
 Perguntas para as quais ela ainda não tinha respostas. Mas Lyris havia construído uma carreira inteira sobre a paciência de esperar que as respostas viessem a ela. E se havia uma coisa que suas décadas nas sombras lhe haviam ensinado, era que a verdade, por mais profundamente enterrada, sempre acabava por vir à superfície.
 
-## V. A Travessia do Continente
+## V. A Travessia
 
 Três dias depois, Lyris deixava Sanctrum.
 
-Ela viajou leve — apenas uma bolsa com pertences básicos, roupas práticas para viagem, e o envelope de autorização que guardava em seu manto como um talismã. A estrada de Sanctrum para Sylvaris serpenteava através de paisagens que mudavam como as estações — as montanhas rochosas de Aetherion Prime dando lugar às planícies férteis da fronteira com Terraxis, depois às colinas suaves e campos dourados de Sylvaris, onde o vento parecia uma presença constante e viva.
+Ela viajou leve — apenas uma bolsa com pertences básicos, roupas práticas para viagem, e o envelope de autorização que guardava em seu manto como um talismã. A jornada até Sylvaris exigia duas etapas: primeiro a travessia terrestre das montanhas de Aetherion Prime até os portos de ferry na costa leste, onde o Mar de Vaelantor separava os continentes como uma cicatriz de água escura; depois, embarcada em um navio de casco rápido, a cruzada do oceano até as docas de Sylvaris, onde retomava a estrada de terra para Zephyra. As montanhas rochosas cediam lugar ao mar aberto, e o mar aberto cedia lugar às colinas suaves e campos dourados de Sylvaris, onde o vento parecia uma presença constante e viva.
 
 Em cada pousada onde parava, em cada vila onde descansava, Lyris observava tudo com olhos treinados — rotas de fuga, possíveis ameaças, padrões de movimento. Anos de trabalho de campo haviam gravado aqueles instintos em sua alma, e mesmo agora, em missão de proteção em vez de espionagem, ela não conseguia desligá-los.
 
@@ -478,7 +478,7 @@ A porta se abriu silenciosamente, revelando um corredor estreito que levava a um
 
 — Vethran.
 
-O nome ecoou na câmara, e das sombras no canto da sala, uma figura emergiu. Baixo, discreto, com olhos escuros que pareciam absorver a luz em vez de refleti-la. Vethran Noll, o Mestre dos Sussurros, o En Dili Lil — o chefe de inteligência de Sylvaris.
+O nome ecoou na câmara. No canto da sala, uma esfera de cristal Aetheris pulsou com uma luz azulada — um cristal de comunicação de longa distância, raríssimo e caríssimo, reservado apenas para comunicações que não podiam esperar por correios ou mensageiros. A imagem de Vethran Noll se formou dentro da esfera, trêmula e etérea — baixo, discreto, olhos escuros que pareciam absorver a luz em vez de refleti-la. Vethran Noll, o Mestre dos Sussurros, o En Dili Lil — o chefe de inteligência de Sylvaris, que operava a partir de seu posto infiltrado nos corredores burocráticos de Sanctrum.
 
 — Senhor. — A voz de Vethran era um sussurro rouco, como se ele raramente a usasse em volume normal. — Eu observei a audiência. E a parte que veio depois.
 
