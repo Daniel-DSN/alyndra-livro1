@@ -190,7 +190,7 @@ Melessa escreveu a carta com mãos que tremiam não de fraqueza, mas de determin
 
 *P.S. — Ela se parece com você. Tem os mesmos olhos que Ayla descrevia em suas cartas nunca enviadas, que eu encontrei entre suas coisas. Olhos que parecem conter um universo inteiro."*
 
-Melessa dobrou a carta com cuidado, selou-a com cera que Thalia trouxera dias antes, e escreveu na frente o endereço que Ayla lhe havia dito uma vez, em confidência, quando pensava que estava no final de sua gravidez: *Palácio do Grande Mestre, Sanctrum, Aetherion Prime.*
+Melessa dobrou a carta com cuidado e pegou o bloco de cera que Thalia trouxera dias antes. Mas antes de selar, hesitou — seus olhos foram até a pequena caixa de madeira clara que descansava sobre a mesa de cabeceira, aquela com a palavra "Depois" gravada na tampa pela mão trêmula de Ayla. Dentro, entre os poucos pertences que Ayla deixara para Grazielly, estava o Pingente Negro — o Selo dos Emissários. Ayla lhe havia dito, naquela última conversa que parecia agora uma vida inteira atrás, que aquele símbolo era a única garantia de que uma mensagem chegaria diretamente às mãos de Aurelius sem que nenhuma outra mão a tocasse. Melessa retirou o pingente, derreteu a cera sobre a dobra do pergaminho e pressionou a superfície do objeto negro na cera ainda mole, deixando gravado nela o selo dos Emissários Pessoais do En Me. Depois, com a reverência de quem manuseia algo sagrado, guardou o pingente de volta na caixa e a fechou. Escreveu na frente do envelope o endereço que Ayla lhe havia dito uma vez, em confidência, quando pensava que estava no final de sua gravidez: *Palácio do Grande Mestre, Sanctrum, Aetherion Prime.*
 
 Encontrar um portador foi a parte mais difícil. As estradas estavam bloqueadas pela neve. Os mensageiros profissionais de Velantis haviam suspendido suas viagens até a primavera. Mas Thalia, que havia ficado ainda mais preocupada com a saúde de Melessa nas últimas semanas, sabia de um viajante — um mercador de especiarias que planejava atravessar as montanhas assim que a nevasca amainasse, levando seus produtos para as feiras do norte.
 
@@ -208,7 +208,7 @@ E em Sanctrum, do outro lado do mar, a carta finalmente chegou.
 
 ## IV. A Convocação
 
-Numa noite de Lyrdin, a carta chegou ao Palácio do Grande Mestre — Aurelius estava em seu gabinete, lidando com relatórios sobre a atividade de Nihilaryth nas fronteiras de Umbra — a ameaça constante que consumia a maior parte de suas noites de vigília. Quando o assistente trouxe o envelope, lacrado com cera simples, sem os selos oficiais que normalmente acompanhavam correspondência destinada ao En Me, ele quase o descartou como uma das centenas de petições que chegavam diariamente de cidadãos comuns que buscavam a atenção do Guardião Mestre.
+Numa noite de Lyrdin, a carta chegou ao Palácio do Grande Mestre — Aurelius estava em seu gabinete, lidando com relatórios sobre a atividade de Nihilaryth nas fronteiras de Umbra — a ameaça constante que consumia a maior parte de suas noites de vigília. Quando o assistente trouxe o envelope, lacrado com cera comum — mas exibindo, gravado na superfície, um símbolo que o jovem não reconheceu: estranho, antigo, diferente de qualquer selo oficial que já vira passar pelas mãos do Palácio —, ele quase o descartou como uma das centenas de petições que chegavam diariamente de cidadãos comuns que buscavam a atenção do Guardião Mestre.
 
 Mas seu nome estava escrito na frente, em uma caligrafia trêmula, mas cuidadosa. E abaixo do nome, em letras menores: *"Da parte de Ayla."*
 

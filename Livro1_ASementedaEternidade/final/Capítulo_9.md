@@ -134,7 +134,7 @@ Vethran enfiou a mão sob o tampo de sua mesa de metal — uma superfície que, 
 
 Vethran pressionou o cristal com o polegar, sentindo a pulsação familiar de Aethra em sua superfície — uma vibração tão sutil que apenas quem sabia o que procurava conseguiria detectar. O cristal aqueceu por um instante e depois esfriou, e Vethran soube que estava funcionando. O Simulador de Assinatura Biométrica — um dispositivo que ele mesmo havia desviado das reservas de tecnologia restrita de Umbra anos atrás, antes de Sylvaris ordenar que todas as dependências com a rede das sombras fossem cortadas — estava emitindo sua frequência padrão: uma réplica exata do ritmo cardíaco, da respiração e da assinatura etérica de Vethran Noll. Para qualquer sensor de monitoramento de longo alcance do Olho de Aurion — aqueles que Selina mantinha espalhados pelas entranhas do Palácio de Cristal como veias invisíveis —, aquele cristal dizia, em uma linguagem que apenas máquinas compreendiam: *Vethran Noll está sentado nesta mesa. Vethran Noll está respirando. Vethran Noll não foi a lugar nenhum.*
 
-Para os olhos onipresentes da Velatrix, ele nunca teria saído daquela cadeira — mesmo estando a centenas de léguas de distância, em um Veleiro de Estrada não registrado, cruzando fronteiras que não existiam em nenhum mapa.
+Para os olhos onipresentes da Velatrix, ele nunca teria saído daquela cadeira — e não sairia, porque Vethran não dependia apenas do Simulador. Antes de qualquer viagem, ele ingeria um Supressor de Aethra — uma substância contrabandeada dos laboratórios restritos de Umbra que silenciava completamente sua assinatura etérica pessoal por até cinco ciclos. Com seu corpo invisível aos Refratores e o cristal projetando sua presença inerte na mesa, a única assinatura "Vethran Noll" que os sensores de Selina conseguiam detectar era a falsa que ficava sentada naquela cadeira — mesmo estando ele a centenas de léguas de distância, em um Veleiro de Estrada não registrado, cruzando fronteiras que não existiam em nenhum mapa.
 
 Vethran recolocou o cristal em seu esconderijo e ajustou o tampo da mesa com a precisão de quem já havia feito aquilo dezenas de vezes. Antes de sair, virou-se para Gorren, que estava organizando a pilha de formulários pré-aprovados na mesa ao lado.
 
@@ -156,33 +156,19 @@ As peças se alinhavam de uma forma que não era favorável.
 
 A segunda era uma aposta que dependia do tempo. Mensagens levavam ciclos para viajar. Os corredores do Dilmun-Vashar eram seguros, mas lentos — deliberadamente lentos, porque velocidade em inteligência era o inimigo da segurança. Uma mensagem de Zephyra a Sanctrum, levada pelas rotas fantasma, demorava no mínimo quatro ciclos. Uma mensagem de Sanctrum a Zephyra, pelo mesmo caminho, demorava outro tanto. E entre o envio e o recebimento, havia um intervalo em que o mundo podia mudar — onde células eram destruídas, agentes eram desmascarados, e o equilíbrio de poder entre as sombras se alterava de formas que nenhuma mensagem prévia podia prever.
 
-*Thaloris precisa saber*, Vethran pensou. *Mas quando ele souber, será tarde demais para que isso importe. A célula já caiu. Os dados já se foram. E Nyctara já tem um fio que pode puxar.*
+*Thaloris precisa saber*, Vethran pensou. *E, por sorte, o Lugal Lil está em Sanctrum esta semana — a sessão do Conselho dos 10 o trouxe para o Palácio de Cristal. Não preciso de cilindros, não preciso de rotas fantasma, não preciso de quatro a cinco ciclos de trânsito. Precisarei apenas caminhar até a Ala Diplomática esta noite e contar-lhe pessoalmente. Mas quando ele souber, será tarde demais para que isso importe. A célula já caiu. Os dados já se foram. E Nyctara já tem um fio que pode puxar.*
 
 ---
 
-## IV. A Correspondência de Thaloris
+## IV. A Noite dos Sussurros
 
-Vethran esperou até o final do expediente — até que o terceiro andar esvaziasse, até que os passos dos colegas se afastassem pelo corredor, até que as lanternas Aetheris nos corredores baixassem para o modo noturno que economizava energia — antes de retirar da gaveta trancada o cilindro de metal e um segundo objeto: uma caneta de ferro escuro cuja tinta não era tinta, mas um composto de Aetherite emulsionado que só revelava seu conteúdo sob uma frequência etérica específica.
+Vethran esperou até o final do expediente — até que o terceiro andar esvaziasse, até que os passos dos colegas se afastassem pelo corredor, até que as lanternas Aetheris nos corredores baixassem para o modo noturno que economizava energia — antes de se levantar. Não havia relatório para escrever, nem cilindro para selar, nem rotas fantasma para calcular. Tudo o que precisava levar consigo era a informação — gravada na memória com a precisão que trinta ciclos de vida dupla haviam forjado — e a cautela de quem caminhava pelas entranhas do próprio palácio.
 
-Ele escreveu em um papel que parecia papel de escritório comum — os mesmos blocos que a logística do palácio fornecia, o mesmo tipo que ele usava para anotações de rotina. Mas as palavras que surgiam sob a ponta da caneta eram invisíveis a olho nu. Elas só existiam na interseção entre o composto e a frequência, um espaço que só era acessível para quem possuía a chave etérica — e Vethran possuía apenas metade dela. A outra metade estava em Zephyra, na câmara privada de Thaloris.
-
-*"Lugal Lil. Relatório de emergência. Célula Thalendris: comprometida. Cinco operativos: silenciados. Equipamento: destruído. Dados: não transmitidos. Responsável provável: agente conhecida, mesma que monitoramos por sua ordem. Recomendação: acelerar cronograma de contingência na costa oeste. A Velatrix avançando em ritmo que sugere acesso a fontes internas de nível superior. Não posso confirmar até que ponto. O risco de exposição do Canal dos Ventos é real e crescente. Aguardo instruções. En Dili Lil."*
-
-Vethran releu a mensagem mentalmente, pesando cada palavra como quem pesa pedras em uma balança. Havia coisas que ele não escreveu — que não podia escrever, mesmo em um cifrador etérico que só Thaloris podia decifrar. Não mencionou Grazielly pelo nome, porque nomes em mensagens eram vulnerabilidades. Não mencionou os Espelhos de Eco, porque detalhes operacionais em trânsito eram riscos desnecessários. Não mencionou a possibilidade — que ele considerava real — de que Nyctara já tivesse ligado o codinome "Vethran" ao burocrata Vethran Noll do Departamento de Transferências.
-
-Mas Thaloris era inteligente o bastante para ler entre as linhas. Thaloris sabia, porque Vethran lhe havia dito em Zephyra, que a criança Grazielly era o centro de tudo. Sabia que os Espelhos de Eco tinham capturado algo nos cais — Vethran não sabia exatamente o quê, mas sabia que a operação em Thalendris visava especificamente a assinatura de Cryonys da menina. E sabia que, se os dados não foram transmitidos antes de Nyctara destruir tudo, então a informação sobre a criança ainda estava segura — por enquanto.
-
-*Por enquanto*, Vethran pensou, e a expressão que seus traços não revelavam era uma impaciência antiga, temperada por décadas de paciência forçada. *Tudo nesse jogo é "por enquanto". Cada vitória é temporária. Cada segredo é uma bomba-relógio. A única pergunta que importa é: quando o relógio para, quem está mais perto da explosão?*
-
-Ele selou o papel dentro do cilindro — não o mesmo cilindro que recebera a mensagem, mas um similar, que faria parte de uma encomenda de suprimentos que deixaria o Palácio de Cristal na manhã seguinte, destinada a um entreposto logístico na fronteira leste. De lá, seria coletada por um condutor do Dilmun-Vashar — um homem que não sabia o que transportava e que nunca saberia — e seguiria pelas rotas fantasma até Zephyra. O tempo total de trânsito seria de quatro a cinco ciclos. Thaloris leria a mensagem em uma semana, talvez mais.
-
-Uma semana era uma eternidade em inteligência. Mas Vethran não tinha escolha. Não existia comunicação instantânea entre Sanctrum e Zephyra — não para quem operava nas sombras. Os cristais de comunicação oficiais eram monitorados. Os mensageiros diplomáticos eram vigiados. As únicas linhas de comunicação seguras eram as que Vethran mesmo havia construído — e essas eram tão seguras quanto eram lentas.
-
-Ele guardou o cilindro selado no bolso interno de seu casaco — o mesmo casaco cinza que usava todos os dias, tão comum que era parte de sua persona tão completamente quanto sua assinatura desleixada — e se levantou. O escritório estava escuro agora, iluminado apenas pela luz fraca de Lyria prateada que penetrava pela janela. As pilhas de formulários em sua mesa projetavam sombras longas no chão, e por um instante Vethran viu naquelas sombras algo que se parecia com o mapa de sua vida inteira — caminhos que se cruzavam, rotas que se bifurcavam, e no centro, o homem invisível que controlava tudo sem que ninguém visse.
+Ele guardou na gaveta trancada o cilindro que recebera a mensagem sobre a célula de Thalendris — aquele não precisava mais existir fora dali; se Selina alguma vez o encontrasse, o conteúdo já não teria valor algum — e verificou seu reflexo na superfície opaca da mesa. Vethran Noll, burocrata medíocre, olho de quem nunca viu nada além de formulários. A persona estava perfeita.
 
 Vethran Noll apagou a lâmpada Aetheris de sua mesa, fechou a porta do escritório com a mesma chave que usava todos os dias, e caminhou pelo corredor vazio do terceiro andar com o passo medido de um funcionário que termina seu expediente e vai para casa. Seus sapatos de couro ecoavam no piso de pedra com o ritmo regular de um relógio — um tique-taque monótono, perfeitamente aborrecido, absolutamente inofensivo.
 
-Ninguém o observava. Ninguém o notava. Ninguém suspeitava que, sob o casaco cinza de um burocrata medíocre, o Mestre dos Sussurros carregava uma mensagem que poderia alterar o equilíbrio de poder entre dois reinos.
+Ninguém o observava. Ninguém o notava. Ninguém suspeitava que, sob o casaco cinza de um burocrata medíocre, o Mestre dos Sussurros caminhava para entregar pessoalmente notícias que poderiam alterar o equilíbrio de poder entre dois reinos.
 
 E era exatamente isso que fazia de Vethran Noll o homem mais perigoso de Sanctrum — não o poder que ele tinha, mas a invisibilidade que o protegia. Não as sombras em que operava, mas a luz banal em que se escondia.
 
@@ -192,7 +178,7 @@ E era exatamente isso que fazia de Vethran Noll o homem mais perigoso de Sanctru
 
 *E eu tenho planos de contingência para quando isso acontecer. Mas não quero usar esses planos. Não ainda.*
 
-Vethran Noll desapareceu na noite de Sanctrum como sempre desaparecia — silenciosamente, sem que ninguém notasse sua partida, levando consigo segredos que pesavam mais do que qualquer carga fantasma que já houvesse movido.
+Vethran Noll desapareceu na noite de Sanctrum como sempre desaparecia — silenciosamente, sem que ninguém notasse sua partida, levando consigo segredos que pesavam mais do que qualquer carga fantasma que já houvesse movido. Mas desta vez, seu destino não eram as fronteiras de um continente distante. Era a Ala Diplomática, no outro extremo do mesmo corredor que percorrira durante trinta ciclos como um fantasma que ninguém via — e onde, pela primeira vez em semanas, o Lugal Lil de Sylvaris esperava por notícias que mudariam o rumo de tudo.
 
 Ao longe, as torres de cristal do Palácio brilhavam sob a luz de Aurion, impérios de pedra e poder que não tinham a menor ideia do que se movia em suas entranhas.
 
@@ -205,7 +191,7 @@ Ao longe, as torres de cristal do Palácio brilhavam sob a luz de Aurion, impér
 | Nome | Idade | Função | Significado Narrativo |
 |------|------|--------|----------------------|
 | **Vethran Noll / En Dili Lil** | 62 ciclos | Burocrata de Sanctrum / Mestre dos Sussurros | Dupla identidade; infiltrado há 30 ciclos; gestor das Cargas Fantasmas |
-| **Thaloris Ventaris / Lugal Lil** | — | Senhor dos Ventos de Sylvaris | Superior de Vethran; destinatário da mensagem |
+| **Thaloris Ventaris / Lugal Lil** | — | Senhor dos Ventos de Sylvaris | Superior de Vethran; encontra-se em Sanctrum para a sessão do Conselho dos 10 |
 | **Peldrin Saal** | — | Colega do Departamento de Transferências | Personagem de cena; reforça a cover de Vethran |
 | **Gorren** | — | Estagiário que cobre as ausências de Vethran | Mecanismo de manutenção da dupla identidade |
 
@@ -222,10 +208,10 @@ Ao longe, as torres de cristal do Palácio brilhavam sob a luz de Aurion, impér
 |-------|-----------|
 | **Rotas Fantasma** | Rede de transporte não oficial criada por Vethran para mover cargas e a si mesmo entre Sanctrum e Zephyra; usa Veleiros de Estrada não registrados e caminhos ausentes dos mapas |
 | **Cilindro de Metal** | Dispositivo de comunicação física do Dilmun-Vashar; usado para transmitir mensagens cifradas entre operativos |
-| **Caneta de Aetherite** | Instrumento de escrita invisível; a tinta só se revela sob frequência etérica específica |
 | **Burocracia Fantasma** | Sistema paralelo de documentos e rotas que existe apenas na memória dos operadores; a mesma infraestrutura que move as Cargas Fantasmas |
 | **Simulador de Assinatura Biométrica** | Pequeno cristal opaco escondido sob a mesa de Vethran; emite uma réplica de sua assinatura etérica, ritmo cardíaco e respiração, enganando os sensores de monitoramento de longo alcance do Olho de Aurion; tecnologia desviada das reservas de Umbra |
-| **Eco de Presença** | Técnica de Vethran que combina cobertura humana (Gorren) com cobertura tecnológica (Simulador) para manter sua ausência invisível a Selina |
+| **Supressor de Aethra** | Substância contrabandeada dos laboratórios restritos de Umbra; silencia completamente a assinatura etérica pessoal de Vethran por até cinco ciclos, complementando o Simulador para garantir invisibilidade total aos Refratores |
+| **Eco de Presença** | Técnica de Vethran que combina cobertura humana (Gorren), cobertura tecnológica (Simulador) e supressão etérica (Supressor de Aethra) para manter sua ausência totalmente invisível a Selina |
 
 ### Conceitos Narrativos
 
@@ -233,4 +219,5 @@ Ao longe, as torres de cristal do Palácio brilhavam sob a luz de Aurion, impér
 |----------|-----------|
 | **Dupla Identidade de Vethran** | Vethran não *finge* ser um burocrata — ele *é* o burocrata; as duas identidades coexistem na mesma pessoa, não como máscara e rosto, mas como dois rostos do mesmo homem |
 | **Risco da Viagem** | Cada viagem de Vethran a Zephyra deixa seu escritório vazio; embora mecanismos de cobertura existam, Selina não é uma investigadora comum |
+| **O Privilégio da Proximidade** | Quando Thaloris está em Sanctrum para sessões do Conselho, Vethran pode entregar relatórios pessoalmente nos aposentos diplomáticos, eliminando o risco de interceptação das rotas fantasma |
 | **A Linha Nyctara** | Vethran deduz que Nyctara destruiu a célula; ele a conhece de relatórios antigos como "a Lenda Sombria" e sabe que seu padrão de eliminação é inconfundível |
