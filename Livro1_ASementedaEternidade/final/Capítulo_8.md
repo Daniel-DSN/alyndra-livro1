@@ -96,15 +96,11 @@ O Sentinela assentiu.
 
 — Segundo o salvo-conduto, sim. A agente — Lyris — solicitou transferência para o orfanato como voluntária. A criança foi matriculada como órfã de Mespiria. Tudo dentro dos procedimentos.
 
-— E o presente — Selina disse, e a palavra saiu de sua boca como quem pronuncia o nome de uma doença —, o cristal dourado que foi enviado para a criança no ciclo de seu aniversário de cinco anos. De onde veio?
+— Tudo dentro dos procedimentos — Selina repetiu, e o eco de suas próprias palavras a fez franzir o cenho, como se a repetição trouxesse à tona algo que preferia manter submerso. — Uma agente da Ordem, aposentada, que solicita voluntariamente transferência para um orfanato no exato momento em que a Frequência de Desaparecimento atinge seu pico em Sylvaris. Tudo perfeitamente documentado. Nenhuma irregularidade. Nenhum sinal de alerta que pudesse acionar os filtros automáticos do Olho de Aurion.
 
-O Sentinela ficou em silêncio. Não porque não soubesse, mas porque a resposta era uma daquelas que, uma vez dita em voz alta dentro da Câmara dos Sussurros, se tornava permanente de uma forma que nem a murmulita podia apagar.
+E era essa perfeição — essa ausência absoluta de irregularidade — que a incomodava. Selina havia passado a vida inteira lendo os espaços entre as palavras, e os espaços entre os procedimentos de Lyris eram tão limpos que só podiam ter sido limpos por alguém que sabia exatamente quais espaços ela procuraria.
 
-— Sanctrum — ele disse finalmente. — Direto da Cidadela. Com o selo pessoal do...
-
-— Do En Me — Selina completou, e nos olhos dela — aqueles olhos escuros que eram, segundo os que a conheciam, o instrumento mais perigoso de Sanctrum — havia algo que não era surpresa. Era confirmação. A confirmação de uma suspeita que ela carregava como um peso no peito desde o momento em que cruzara os dados dos desaparecimentos com os arquivos da Cidadela Luminis e encontrara uma anomalia que não podia ser ignorada.
-
-*O En Me enviou a melhor agente da Ordem para proteger uma criança em uma vila agrícola*, Selina pensou, desligando a projeção do mapa com um gesto seco da mão. *O mesmo En Me que pregou, durante décadas, que o silêncio é a primeira linha de defesa. Que informação é poder. Que exposição é vulnerabilidade. E agora ele envia um cristal dourado — um cristal com uma assinatura etérica que pode ser rastreada por qualquer um com equipamento básico — para uma criança que, aparentemente, deveria estar escondida.*
+*O En Me enviou a melhor agente da Ordem para proteger uma criança em uma vila agrícola*, Selina pensou, desligando a projeção do mapa com um gesto seco da mão. *O mesmo En Me que pregou, durante décadas, que o silêncio é a primeira linha de defesa. Que informação é poder. Que exposição é vulnerabilidade. E em uma única noite — exatamente na mesma noite em que Lyris esteve em seu gabinete — um cristal dourado desapareceu dos cofres restritos da Torre de Aurion. Um cristal com uma assinatura etérica rastreável por qualquer um com equipamento básico. E agora esse cristal pulsa em Velantis.*
 
 *Isso não é proteção. Isso é uma frequência de silêncio quebrada.*
 
@@ -154,7 +150,7 @@ Aurelius não reagiu ao corte. Seus olhos permaneceram fixos nos de Selina com a
 
 Selina deu um passo à frente. Apenas um. Mas no contexto daquele solar, naquele confronto, aquele passo carregava o peso de todas as palavras não ditas que se acumulavam entre ela e Aurelius como camadas de sedimento em um leito de rio.
 
-— E então — ela continuou, sua voz mais baixa agora, mais perigosa —, o Senhor enviou um cristal dourado. Direto de Sanctrum. Com o selo pessoal do En Me. Para uma criança que supostamente deveria estar escondida.
+— E então — ela continuou, sua voz mais baixa agora, mais perigosa —, o Senhor requisitou um cristal dourado dos cofres restritos da Torre de Aurion. Exatamente na mesma noite em que Lyris esteve em seu gabinete. E agora esse mesmo cristal pulsa em Velantis. Para uma criança que supostamente deveria estar escondida.
 
 O silêncio que se instalou entre eles era denso o bastante para ser cortado. Os cristais nas paredes pulsavam com sua luz azul constante, e a cortina etérica na janela filtrava a luz de Aurion em um padrão que projetava sombras geométricas no piso de pedra — sombras que dançavam lentamente, como se a própria sala estivesse respirando.
 
@@ -312,9 +308,9 @@ Mas esta noite, quem estava no jardim não era Lyris.
 
 Era Grazielly.
 
-A menina de cinco anos estava sentada na grama, com as pernas cruzadas e Nyx aninhado em seu colo como um bicho de pelúcia vivo. Seus cabelos loiros — que Lyris havia tentado, sem sucesso, prender em tranças antes de dormir — se espalhavam sobre os ombros como fios de luz lunar, e seus olhos castanhos estavam fixos em algo que ninguém mais podia ver: o cristal dourado que repousava sobre suas mãos juntas, pulsando com uma luz interna que era ao mesmo tempo quente e distante.
+Grazielly estava sentada na grama, com as pernas cruzadas e Nyx aninhado em seu colo como um bicho de pelúcia vivo. Seus cabelos loiros se espalhavam sobre os ombros como fios de luz lunar, e seus olhos castanhos estavam fixos em algo que ninguém mais podia ver: o cristal dourado que repousava sobre suas mãos juntas, pulsando com uma luz interna que era ao mesmo tempo quente e distante.
 
-Era o presente de aniversário. O cristal que viera de Sanctrum com o selo do En Me. O cristal que Lyris guardava em um cofre na sala dela durante o dia e que Grazielly, por razões que nem ela mesma compreendia completamente, sentia a necessidade de segurar durante a noite — como se o cristal fosse um coração que batia em sincronia com o dela, como se sem ele algo essencial parasse de funcionar.
+O cristal que Lyris trouxera de Sanctrum meses atrás — entregue a ela na noite de seu aniversário de cinco anos — já não era novidade para Grazielly, mas nem por isso havia perdido seu poder. Lyris guardava-o em um cofre na sala dela durante o dia, mas à noite Grazielly sentia uma necessidade que não sabia explicar: a de segurá-lo contra o peito — como se o cristal fosse um coração que batia em sincronia com o dela, como se sem ele algo essencial parasse de funcionar.
 
 Nyx chiou suavemente, suas orelhas grandes girando na direção de um som que só ele parecia captar — um zumbido distante, quase inaudível, que vinha de algum lugar além dos muros do orfanato, além das colinas de Aethrys, além de tudo o que Grazielly conhecia do mundo.
 
@@ -332,7 +328,7 @@ O pulso veio de novo. E depois mais uma vez. Três pulsações em sequência, ca
 
 E naquele momento — exatamente naquele momento —, a centenas de Passos de distância, no segundo subsolo da Torre de Aurion, o Engenheiro-Chefe Valtheris ativava o primeiro Ressoador da Rede de Ressonância de Aurion. O dispositivo em sua bancada pulsou com luz azul, suas engrenagens microscópicas giraram em um complexo mecanismo de cristal e metal, e um sinal — o primeiro sinal da RRA — foi transmitido através da luz de Aurion, propagando-se em todas as direções como uma onda que se expande em um lago.
 
-O sinal cruzou Sanctrum. Atravessou as colinas de Aethrys. Passou sobre os campos de Sylvaris. E encontrou, na Cidadela Luminis, um cristal dourado que vibrava na mesma frequência — porque o cristal que Aurelius havia enviado para Grazielly não era apenas um presente. Era um receptor. Calibrado para responder à frequência de Aurion. Projetado para criar uma ponte invisível entre Sanctrum e aquele que o segurava.
+O sinal cruzou Sanctrum. Atravessou as colinas de Aethrys. Passou sobre os campos de Sylvaris. E encontrou, na Cidadela Luminis, um cristal dourado que vibrava na mesma frequência — porque o cristal que Aurelius havia providenciado para Grazielly não era apenas um presente. Era um receptor. Calibrado para responder à frequência de Aurion. Projetado para criar uma ponte invisível entre Sanctrum e aquele que o segurava.
 
 *Oh*, Grazielly pensou, sentindo a vibração se intensificar em suas mãos, subindo por seus braços como água morna, preenchendo seu peito com algo que era ao mesmo tempo estranho e familiar — tão familiar que fez lágrimas se formarem em seus olhos sem que ela soubesse por quê. *Tem alguém ali. Tem alguém me chamando.*
 
@@ -386,13 +382,13 @@ Mas o que esse transmissor havia revelado? Não a localização de Grazielly —
 
 *Eu acendi uma lanterna num campo escuro*, Aurelius pensou, e o peso da metáfora o fez fechar os punhos junto à janela. *Eu não mostrei onde ela está. Mas mostrei que tenho algo que vale a pena procurar.*
 
-O Igi-Bar-Zu — o dispositivo que Nyctara havia destruído em Thalendris — era o único instrumento que poderia ter conectado aquele ruído à criança de Mespiria. Sem ele, Umbra tinha um estalo no espectro e nada mais. Um eco cego. Um som sem origem, sem rosto, sem nome. Eles saberiam que Sanctrum fez algo, mas não o quê. Saberiam que algo mudou no espectro, mas não quem estava na outra ponta.
+Os Espelhos de Eco — os dispositivos que Nyctara havia destruído em Thalendris — eram o único instrumento que poderia ter conectado aquele ruído à criança de Mespiria. Sem eles, Umbra tinha um estalo no espectro e nada mais. Um eco cego. Um som sem origem, sem rosto, sem nome. Eles saberiam que Sanctrum fez algo, mas não o quê. Saberiam que algo mudou no espectro, mas não quem estava na outra ponta.
 
 A menos que alguém com acesso a informações de dentro de Sanctrum os ajudasse a conectar os pontos. A menos que alguém que conhecia tanto a RRA quanto a criança de Mespiria decidisse que aquelas duas informações pertenciam à mesma história.
 
 Thaloris Ventaris. Vethran Noll. Os dois nomes surgiram na mente de Aurelius como peças de um tabuleiro que ele não controlava. O Senhor dos Ventos estava em Sanctrum — recebera um Ressoador, sabia da RRA, sabia que Selina estava rastreando desaparecimentos em Sylvaris. E Vethran... Vethran estava infiltrado nas entranhas do próprio sistema, com acesso a documentos que passavam pelas mãos de Umbra todos os dias. Se qualquer um dos dois — ou ambos — decidisse falar, aquele eco cego se tornaria uma bússola apontando para Grazielly.
 
-A guerra estava chegando. E a menina que segurava o cristal dourado no jardim de um orfanato em Velantis era o centro de tudo — o que os dois lados buscavam, cada um a sua maneira, com ferramentas e propósitos que não podiam ser mais diferentes. Mas por enquanto, ela estava segura. Não porque as máquinas a protegessem — as máquinas, como Aurelius acabara de descobrir, eram capazes do erro mais eloquente. Ela estava segura porque a única pessoa fora de Sanctrum que sabia da existência do cristal dourado era Lyris, e Lyris não falava. Porque o Igi-Bar-Zu havia sido destruído. Porque a localização da Cidadela Luminis ainda era um segredo guardado por paredes de pedra e silêncio político.
+A guerra estava chegando. E a menina que segurava o cristal dourado no jardim de um orfanato em Velantis era o centro de tudo — o que os dois lados buscavam, cada um a sua maneira, com ferramentas e propósitos que não podiam ser mais diferentes. Mas por enquanto, ela estava segura. Não porque as máquinas a protegessem — as máquinas, como Aurelius acabara de descobrir, eram capazes do erro mais eloquente. Ela estava segura porque a única pessoa fora de Sanctrum que sabia da existência do cristal dourado era Lyris, e Lyris não falava. Porque os Espelhos de Eco haviam sido destruídos. Porque a localização da Cidadela Luminis ainda era um segredo guardado por paredes de pedra e silêncio político.
 
 A segurança de Grazielly não dependia da tecnologia. Nunca tinha dependido. Dependia de pessoas — e das pessoas que a protegiam ainda estavam em silêncio.
 
@@ -412,11 +408,11 @@ Depois abriu os olhos. A máscara voltou. E o En Me, Guardião Mestre de Alyndra
 
 O sétimo capítulo desloca o foco para Sanctrum e para a maquinaria política e tecnológica que opera nas sombras de Alyndra. Selina Thalassa, a Mestra da Informação — A Velatrix do Olho de Aurion — conduz uma sabatina com um Sentinela de Fronteira de Sylvaris que revela detalhes alarmantes sobre a Frequência de Desaparecimento: quatorze crianças sequestradas em sete ciclos, todas com afinidade elementar, todas com documentação falsa impecável que aponta para uma operação de coleta sistemática orquestrada por forças que operam além dos reinos conhecidos.
 
-A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposentada da Ordem que protege Grazielly na Cidadela Luminis — e a criança que Selina começa a identificar como a peça central do tabuleiro. Quando Selina confronta o En Me (Aurelius) em seu solar privado, a tensão política atinge seu ápice: Selina acusa Aurelius de ter quebrado seu próprio princípio de silêncio ao enviar um cristal dourado rastreável para uma criança que deveria estar oculta. A confrontação é interrompida pela chegada do Nin Aga com notícias de movimentações de Umbra nas fronteiras de Terraxis — um lembrete de que a guerra se aproxima e de que as disputas internas sobre proteção e vigilância podem se tornar irrelevantes diante da ameaça externa.
+A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposentada da Ordem que protege Grazielly na Cidadela Luminis — e a criança que Selina começa a identificar como a peça central do tabuleiro. Quando Selina confronta o En Me (Aurelius) em seu solar privado, a tensão política atinge seu ápice: Selina acusa Aurelius de ter quebrado seu próprio princípio de silêncio ao requisitar um cristal dourado rastreável dos cofres restritos para uma criança que deveria estar oculta. A confrontação é interrompida pela chegada do Nin Aga com notícias de movimentações de Umbra nas fronteiras de Terraxis — um lembrete de que a guerra se aproxima e de que as disputas internas sobre proteção e vigilância podem se tornar irrelevantes diante da ameaça externa.
 
 Frustrada pelo silêncio de Aurelius, Selina vai ao Laboratório de Engenharia Etérica, onde descobre duas tecnologias que mudarão o curso da narrativa: os Refratores de Aurion (lentes de cristal orbital que mapeiam assinaturas etéricas em tempo real) e a Rede de Ressonância de Aurion (RRA), um sistema de comunicação que usa a frequência de Aurion para transmitir sinais a grandes distâncias. Selina ordena que um Ressoador seja enviado à Cidadela Luminis — oficialmente como teste de comunicação, mas na realidade como uma armadilha para monitorar Lyris e Grazielly.
 
-O capítulo se encerra com a primeira ativação da RRA em Sanctrum, cujo sinal cruza a distância e faz o cristal dourado de Grazielly pulsar em Velantis. A menina sente, através da vibração, a presença distante de alguém que a ama — sem saber que esse alguém é seu pai, Aurelius, e que a conexão entre eles é física, mediada por Aethra, e mais profunda do que qualquer um dos dois compreende plenamente. O capítulo termina com Aurelius percebendo que a ativação da RRA gerou ondas espúrias no espectro de Aethra — um "Eco Cego" que Umbra pode ter detectado como anomalia, mas sem capacidade de localizar Grazielly. A tecnologia de Alyndra não possui radar global; o perigo não é que as máquinas encontraram a criança, mas que o ruído revelou que Sanctrum tem algo valioso. A segurança de Grazielly continua dependendo do silêncio humano: Lyris, a destruição do Igi-Bar-Zu, e a lealdade incerta de Thaloris Ventaris e Vethran Noll.
+O capítulo se encerra com a primeira ativação da RRA em Sanctrum, cujo sinal cruza a distância e faz o cristal dourado de Grazielly pulsar em Velantis. A menina sente, através da vibração, a presença distante de alguém que a ama — sem saber que esse alguém é seu pai, Aurelius, e que a conexão entre eles é física, mediada por Aethra, e mais profunda do que qualquer um dos dois compreende plenamente. O capítulo termina com Aurelius percebendo que a ativação da RRA gerou ondas espúrias no espectro de Aethra — um "Eco Cego" que Umbra pode ter detectado como anomalia, mas sem capacidade de localizar Grazielly. A tecnologia de Alyndra não possui radar global; o perigo não é que as máquinas encontraram a criança, mas que o ruído revelou que Sanctrum tem algo valioso. A segurança de Grazielly continua dependendo do silêncio humano: Lyris, a destruição dos Espelhos de Eco em Thalendris, e a lealdade incerta de Thaloris Ventaris e Vethran Noll.
 
 ---
 
@@ -513,7 +509,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Solar do En Me** | Confronto Selina vs. Aurelius sobre o cristal dourado; interrompido pelo Nin Aga |
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
 | **Laboratório de Engenharia Etérica** | Selina descobre os Refratores de Aurion e a RRA; solicita Ressoador para Cidadela Luminis |
-| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; Eco Cego gerado no espectro; Aurelius percebe que a segurança de Grazielly depende do silêncio humano (Lyris, Igi-Bar-Zu destruído), não da tecnologia |
+| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; Eco Cego gerado no espectro; Aurelius percebe que a segurança de Grazielly depende do silêncio humano (Lyris, Espelhos de Eco destruídos), não da tecnologia |
 
 ---
 
@@ -521,7 +517,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 
 No próximo capítulo, o Ressoador chegará à Cidadela Luminis sob a justificativa oficial de teste de comunicação. Lyris — com sua experiência como agente de inteligência — poderá suspeitar que o dispositivo é mais do que parece, mas sem acesso às informações de Selina, não terá como confirmar suas suspeitas. A tensão entre vigilância e proteção se intensificará: Selina quer monitorar Grazielly; Aurelius quer protegê-la; Lyris quer mantê-la segura; e forças que operam nas sombras querem encontrá-la.
 
-O Eco Cego gerado pela RRA colocará Aurelius em uma posição de alerta permanente: ele não revelou a posição de Grazielly, mas revelou que Sanctrum possui algo valioso o suficiente para justificar testes de alta potência no espectro de Aethra. A segurança da Herdeira continua dependendo exclusivamente do silêncio humano — Lyris, a destruição do Igi-Bar-Zu em Thalendris, e a lealdade incerta de Thaloris Ventaris e Vethran Noll. O conceito de radar global ou triangulação por satélite está formalmente banido do mundo de Alyndra; a tensão é puramente política e humana.
+O Eco Cego gerado pela RRA colocará Aurelius em uma posição de alerta permanente: ele não revelou a posição de Grazielly, mas revelou que Sanctrum possui algo valioso o suficiente para justificar testes de alta potência no espectro de Aethra. A segurança da Herdeira continua dependendo exclusivamente do silêncio humano — Lyris, a destruição dos Espelhos de Eco em Thalendris, e a lealdade incerta de Thaloris Ventaris e Vethran Noll. O conceito de radar global ou triangulação por satélite está formalmente banido do mundo de Alyndra; a tensão é puramente política e humana.
 
 E Grazielly — que sentiu o eco como amor e promessa — começará a aprender, da forma mais dolorosa possível, que nem tudo que pulsa com luz no escuro é seguro.
 
