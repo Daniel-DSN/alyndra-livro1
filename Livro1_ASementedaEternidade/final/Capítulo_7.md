@@ -240,7 +240,7 @@ As instruções eram diretas: "Verificar assinaturas na expedição do Orfanato 
 
 *Vethran*, Nyctara pensou, e o nome activatei uma conexão que ela já havia feito antes, em outro contexto, em outra vida. *Vethran Noll. O burocrata de Sanctrum que autoriza as transferências fantasma.*
 
-A conexão era clara agora, desenhada em linhas que não podiam ser negadas: os mercenários nos cais eram o braço operacional. Vethran era o braço burocrático. E acima de ambos, nas sombras que nem mesmo o Olho de Aurion podia penetrar completamente, estava a mente que orquestrava tudo — a mente que Lyris já tinha começado a suspeitar, e que Selina estava começando a confirmar.
+A conexão era clara agora, desenhada em linhas que não podiam ser negadas: os mercenários nos cais eram o braço operacional. Vethran era o braço burocrático. E acima de ambos, nas sombras que nem mesmo o olho de Aurion podia penetrar completamente, estava a mente que orquestrava tudo — a mente que Lyris já tinha começado a suspeitar, e que Selina estava começando a confirmar.
 
 *Thaloris Ventaris*, Nyctara pensou, e o nome carregava o peso de todas as crianças desaparecidas, de todas as cargas fantasmas, de todas as assinaturas capturadas e vidas destruídas. *A teia é maior do que eu pensava. Mas agora tenho um fio. E um fio puxado com força suficiente pode desfazer a teia inteira.*
 
